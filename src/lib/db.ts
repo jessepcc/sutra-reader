@@ -131,6 +131,12 @@ export async function toggleSaved(textId: string): Promise<boolean> {
   return true;
 }
 
+/** Direct upsert preserving the caller-supplied savedAt (for import merge). */
+export async function putSaved(entry: SavedEntry): Promise<void> {
+  const db = await getDb();
+  await db.put("saved", entry);
+}
+
 export async function removeSaved(textId: string): Promise<void> {
   const db = await getDb();
   await db.delete("saved", textId);

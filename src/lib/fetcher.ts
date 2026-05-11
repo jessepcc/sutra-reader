@@ -50,7 +50,7 @@ export async function loadText(
     xml,
     htmlFragments: rendered.juans.map((j) => j.html),
     lastAccessed: Date.now(),
-    bytes: xml.length,
+    bytes: new TextEncoder().encode(xml).length,
   });
 
   const cap = opts.cacheCapBytes ?? DEFAULT_SETTINGS.cacheCapBytes;

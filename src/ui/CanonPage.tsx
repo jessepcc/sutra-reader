@@ -1,11 +1,11 @@
-import { Link, useParams } from "react-router-dom";
+import { Link, Navigate, useParams } from "react-router-dom";
 import { CATALOG } from "../lib/catalog-context";
 import { findCanon, isGatedCanon } from "../lib/catalog";
 
 export function CanonPage() {
   const { canonId = "" } = useParams();
   if (isGatedCanon(canonId)) {
-    return <Navigate canonId={canonId} />;
+    return <Navigate to={`/gated/${canonId}`} replace />;
   }
   const canon = findCanon(CATALOG, canonId);
   if (!canon) {
@@ -32,20 +32,6 @@ export function CanonPage() {
           </li>
         ))}
       </ul>
-    </main>
-  );
-}
-
-function Navigate({ canonId }: { canonId: string }) {
-  return (
-    <main>
-      <h1>{canonId}　受授權限制</h1>
-      <p>此藏內容由第三方持有，v1 未納入瀏覽。詳情見《關於》或</p>
-      <p>
-        <a href={`https://cbeta.org/`} target="_blank" rel="noreferrer noopener">
-          cbeta.org
-        </a>
-      </p>
     </main>
   );
 }

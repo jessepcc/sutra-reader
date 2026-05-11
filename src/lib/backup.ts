@@ -8,9 +8,10 @@ import {
   getRecents,
   getSaved,
   getSettings,
+  putSaved,
   putSettings,
   recordRecent,
-  toggleSaved,
+  removeSaved,
 } from "./db";
 import {
   type Bookmark,
@@ -103,13 +104,14 @@ export async function importBundle(incoming: unknown): Promise<ExportBundle> {
   const current = await buildExport();
   const merged = mergeBundles(current, incoming);
 
-  // saved: ensure presence of each merged entry
-  const currentSavedIds = new Set(current.saved.map((s) => s.textId));
-  for (const s of merged.saved) {
-    if (!currentSavedIds.has(s.textId)) await toggleSaved(s.textId);
-  }
+  // saved: write each merged entry directly (preserves original savedAt for
+  // last-write-wins on subsequent merges); drop any current entry not in merged.
+  const mergedSavedIds = new Set(merged.saved.map((s) => s.textId));
   for (const s of current.saved) {
-    if (!merged.saved.find((m) => m.textId === s.textId)) await toggleSaved(s.textId);
+    if (!mergedSavedIds.has(s.textId)) await removeSaved(s.textId);
+  }
+  for (const s of merged.saved) {
+    await putSaved(s);
   }
 
   // bookmarks: overwrite by composite key

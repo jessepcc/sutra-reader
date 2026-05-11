@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Link, useNavigate, useParams } from "react-router-dom";
+import { Link, Navigate, useNavigate, useParams } from "react-router-dom";
 import { CATALOG, GAIJI } from "../lib/catalog-context";
-import { findText, isGatedCanon } from "../lib/catalog";
+import { findText, gatedCanonForTextId, isGatedCanon } from "../lib/catalog";
 import { loadText, type LoadedText } from "../lib/fetcher";
+import { searchHtml } from "../lib/tei";
 import {
   addBookmark,
   isSaved,
@@ -59,6 +60,36 @@ export function ReaderPage() {
     }
   }, [loaded]);
 
+  // Persist the nearest-visible lb on the recent entry so 繼續閱讀 resumes
+  // where the reader left off. Throttled to one write per 1.5s of idle.
+  useEffect(() => {
+    if (!loaded || !entry || !contentRef.current) return;
+    const root = contentRef.current;
+    let timer: ReturnType<typeof setTimeout> | null = null;
+    let lastWritten: string | null = null;
+
+    const flush = () => {
+      const lb = findNearestLb(root);
+      if (!lb || lb === lastWritten) return;
+      lastWritten = lb;
+      void recordRecent({ textId: entry.id, openedAt: Date.now(), lastLb: lb });
+    };
+
+    const onScroll = () => {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(flush, 1500);
+    };
+
+    window.addEventListener("scroll", onScroll, { passive: true });
+    root.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      if (timer) clearTimeout(timer);
+      window.removeEventListener("scroll", onScroll);
+      root.removeEventListener("scroll", onScroll);
+      flush();
+    };
+  }, [loaded, entry]);
+
   const toggleDirection = useCallback(() => {
     const next: ReadingDirection =
       settings.direction === "vertical-rl" ? "horizontal-lr" : "vertical-rl";
@@ -91,13 +122,19 @@ export function ReaderPage() {
 
   const searchMatches = useMemo(() => {
     if (!loaded || !query) return 0;
+    // Count against the plain-text projection so matches across markup are
+    // captured and tag/attribute text isn't.
     return loaded.rendered.juans.reduce(
-      (sum, j) => sum + (j.html.match(new RegExp(escapeRegex(query), "g")) ?? []).length,
+      (sum, j) => sum + searchHtml(j.html, query).length,
       0,
     );
   }, [loaded, query]);
 
   if (!entry) {
+    const gated = gatedCanonForTextId(textId);
+    if (gated) {
+      return <Navigate to={`/gated/${gated}`} replace />;
+    }
     return (
       <main>
         <p className="empty">找不到此典：{textId}</p>
@@ -234,10 +271,6 @@ export function ReaderPage() {
       )}
     </div>
   );
-}
-
-function escapeRegex(s: string): string {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 function findNearestLb(root: HTMLElement): string | null {

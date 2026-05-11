@@ -6,7 +6,7 @@ export function VolumePage() {
   const { canonId = "", volumeId = "" } = useParams();
   const canon = findCanon(CATALOG, canonId);
   const volume = findVolume(CATALOG, volumeId);
-  if (!canon || !volume) {
+  if (!canon || !volume || volume.canon !== canonId) {
     return (
       <main>
         <p className="empty">找不到此冊。</p>
@@ -16,7 +16,9 @@ export function VolumePage() {
       </main>
     );
   }
-  const texts = CATALOG.texts.filter((t) => t.volume === volumeId);
+  const texts = CATALOG.texts.filter(
+    (t) => t.canon === canonId && t.volume === volumeId,
+  );
   return (
     <main>
       <p className="muted">

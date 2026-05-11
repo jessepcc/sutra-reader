@@ -50,8 +50,10 @@ export function SettingsPage() {
     setStatus("檢查中…");
     try {
       // sutra-manifest URL is configurable in v2; for v1 we report against
-      // the bundled catalog SHA.
-      const res = await fetch("/manifest.json").catch(() => null);
+      // the bundled catalog SHA. Resolve relative to the app base so sub-path
+      // deployments work (Vite guarantees BASE_URL ends with '/').
+      const manifestUrl = `${import.meta.env.BASE_URL}manifest.json`;
+      const res = await fetch(manifestUrl).catch(() => null);
       if (!res || !res.ok) {
         setStatus("尚無可用的更新清單（佈署時請放置 /manifest.json）。");
         return;

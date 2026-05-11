@@ -27,6 +27,21 @@ export function isGatedVolume(volumeId: string): boolean {
   return GATED_VOLUME_PREFIXES.some((p) => volumeId.startsWith(p));
 }
 
+/**
+ * Map a textId to a gated canon/prefix if it belongs to one. The filtered
+ * catalog drops these entries, so deep links into them lose their canon
+ * context — we recover it from the id's prefix.
+ */
+export function gatedCanonForTextId(textId: string): string | undefined {
+  for (const c of GATED_CANONS) {
+    if (textId.startsWith(c)) return c;
+  }
+  for (const p of GATED_VOLUME_PREFIXES) {
+    if (textId.startsWith(p)) return p;
+  }
+  return undefined;
+}
+
 /** Strip gated canons and volumes from a catalog. Pure / total. */
 export function filterGated(catalog: Catalog): Catalog {
   const canons = catalog.canons.filter((c) => !isGatedCanon(c.id));
