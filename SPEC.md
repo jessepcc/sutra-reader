@@ -197,15 +197,15 @@ Thin (1.25 px) hand-drawn strokes. No filled icons. No Material/HIG defaults.
 
 ## 8. PWA / technical
 
-**Stack (recommended, not prescriptive)**
-- SvelteKit or Next.js (static export). Trivial to host on GH Pages or Cloudflare Pages.
-- Service worker via Workbox:
+**Stack**
+- **Vite + React + React Router** (SPA, static build). Trivial to host on GH Pages or Cloudflare Pages.
+- Service worker via `vite-plugin-pwa` (Workbox under the hood):
   - App shell: cache-first.
   - Catalog & manifest: stale-while-revalidate.
   - Text XML on jsDelivr: cache-first, invalidated on SHA change.
 - IndexedDB via `idb`. LRU eviction at user-configurable cap (default 200 MB).
 - XML → HTML transform in a Web Worker (`fast-xml-parser` or `sax-wasm`).
-- Routing: deep-linkable (`/read/<canonId>/<textId>?lb=001a05`), no hash.
+- Routing: deep-linkable (`/read/<canonId>/<textId>?lb=001a05`), no hash. React Router in data/`createBrowserRouter` mode; SPA fallback configured at the host so deep links resolve.
 
 **Web app manifest (`manifest.webmanifest`)**
 - `display: "standalone"`, `orientation: "any"`
