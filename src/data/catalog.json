@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-01-15T00:00:00Z",
+  "upstreamSha": "main",
+  "canons": [
+    {
+      "id": "T",
+      "abbr": "T",
+      "name": "大正新脩大藏經",
+      "description": "Taishō Tripiṭaka — 收錄漢譯經律論及部分撰述、史傳。"
+    },
+    {
+      "id": "X",
+      "abbr": "X",
+      "name": "卍新纂續藏經",
+      "description": "Manji Zokuzōkyō — 大正藏未收之疏鈔、史傳、語錄補集。"
+    },
+    {
+      "id": "J",
+      "abbr": "J",
+      "name": "嘉興大藏經",
+      "description": "明清間刻本，多收禪宗語錄與晚明撰述。"
+    }
+  ],
+  "volumes": [
+    { "canon": "T", "id": "T01", "label": "T01 阿含部上" },
+    { "canon": "T", "id": "T02", "label": "T02 阿含部下" },
+    { "canon": "T", "id": "T08", "label": "T08 般若部" },
+    { "canon": "T", "id": "T09", "label": "T09 法華．華嚴部上" },
+    { "canon": "T", "id": "T48", "label": "T48 諸宗部五（禪宗）" },
+    { "canon": "X", "id": "X63", "label": "X63 禪宗著述部" },
+    { "canon": "J", "id": "J32", "label": "J32 雲棲法彙" }
+  ],
+  "texts": [
+    {
+      "canon": "T",
+      "volume": "T01",
+      "id": "T01n0001_001",
+      "title": "長阿含經 卷一",
+      "path": "T/T01/T01n0001_001.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "T",
+      "volume": "T02",
+      "id": "T02n0099_001",
+      "title": "雜阿含經 卷一",
+      "path": "T/T02/T02n0099_001.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "T",
+      "volume": "T08",
+      "id": "T08n0235",
+      "title": "金剛般若波羅蜜經",
+      "path": "T/T08/T08n0235.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "T",
+      "volume": "T09",
+      "id": "T09n0262_001",
+      "title": "妙法蓮華經 卷一",
+      "path": "T/T09/T09n0262_001.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "T",
+      "volume": "T48",
+      "id": "T48n2008",
+      "title": "六祖大師法寶壇經",
+      "path": "T/T48/T48n2008.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "X",
+      "volume": "X63",
+      "id": "X63n1232",
+      "title": "禪宗無門關",
+      "path": "X/X63/X63n1232.xml",
+      "sha": "main",
+      "bytes": 0
+    },
+    {
+      "canon": "J",
+      "volume": "J32",
+      "id": "J32nB277_001",
+      "title": "雲棲法彙 卷一",
+      "path": "J/J32/J32nB277_001.xml",
+      "sha": "main",
+      "bytes": 0
+    }
+  ]
+}
