@@ -49,6 +49,20 @@ src/lib        # pure logic, fully unit-tested
   fetcher.ts   # cache-first text load with eviction
 src/ui         # React components & pages
 src/data       # bundled catalog + gaiji table
+scripts        # build-time tools
+  build-catalog.mjs  # regenerate src/data/catalog.json from a local xml-p5 checkout
+```
+
+### Regenerating the catalog
+
+```bash
+# 1. Download upstream
+curl -L https://codeload.github.com/cbeta-org/xml-p5/tar.gz/refs/heads/master \
+  -o /tmp/xml-p5.tar.gz
+mkdir -p /tmp/xml-p5 && tar -xzf /tmp/xml-p5.tar.gz -C /tmp/xml-p5 --strip-components=1
+
+# 2. Generate
+node scripts/build-catalog.mjs /tmp/xml-p5
 ```
 
 ## Privacy
