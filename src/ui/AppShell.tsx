@@ -8,7 +8,6 @@ const NAV = [
   { to: "/saved", label: "收藏" },
   { to: "/bookmarks", label: "標記" },
   { to: "/settings", label: "設定" },
-  { to: "/about", label: "關於" },
 ];
 
 export function AppShell() {

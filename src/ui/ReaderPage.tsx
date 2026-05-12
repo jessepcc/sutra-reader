@@ -194,50 +194,38 @@ export function ReaderPage() {
           </div>
 
           <div className="controls" role="toolbar" aria-label="閱讀控制">
-            <div className="group">
-              <label>紙</label>
-              <button onClick={cyclePaper} aria-label={`紙色 ${PAPER_LABELS[settings.paperMode]}`}>
-                {PAPER_LABELS[settings.paperMode]}
-              </button>
-            </div>
-            <div className="group">
-              <label>向</label>
-              <button onClick={toggleDirection} aria-label="切換閱讀方向">
-                {settings.direction === "vertical-rl" ? "縱" : "橫"}
-              </button>
-            </div>
-            <div className="group">
-              <label>字</label>
-              <button
-                onClick={() =>
-                  void update({ fontScale: Math.max(0.7, settings.fontScale - 0.1) })
-                }
-                aria-label="字級減小"
-              >
-                A-
-              </button>
-              <button
-                onClick={() =>
-                  void update({ fontScale: Math.min(1.8, settings.fontScale + 0.1) })
-                }
-                aria-label="字級加大"
-              >
-                A+
-              </button>
-            </div>
-            <div className="group">
-              <button onClick={bookmarkHere}>標記此處</button>
-            </div>
-            <div className="group">
-              <input
-                type="text"
-                placeholder="搜尋本卷"
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                aria-label="搜尋本卷"
-              />
-              {query && <span className="muted">{searchMatches} 處</span>}
-            </div>
+            <button onClick={cyclePaper} aria-label={`紙色 ${PAPER_LABELS[settings.paperMode]}`}>
+              {PAPER_LABELS[settings.paperMode]}
+            </button>
+            <button onClick={toggleDirection} aria-label="切換閱讀方向">
+              {settings.direction === "vertical-rl" ? "縱" : "橫"}
+            </button>
+            <button
+              onClick={() =>
+                void update({ fontScale: Math.max(0.7, settings.fontScale - 0.1) })
+              }
+              aria-label="字級減小"
+            >
+              A-
+            </button>
+            <button
+              onClick={() =>
+                void update({ fontScale: Math.min(1.8, settings.fontScale + 0.1) })
+              }
+              aria-label="字級加大"
+            >
+              A+
+            </button>
+            <button onClick={bookmarkHere} aria-label="標記此處">標記</button>
+            <input
+              type="text"
+              placeholder="搜尋"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              aria-label="搜尋本卷"
+              className="controls-search"
+            />
+            {query && <span className="muted">{searchMatches}</span>}
           </div>
 
           <footer className="attribution" lang="zh-Hant">

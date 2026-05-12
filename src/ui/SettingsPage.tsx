@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import { useSettings } from "../lib/settings-context";
 import { clearScope, type ClearScope } from "../lib/db";
 import { CATALOG } from "../lib/catalog-context";
@@ -128,6 +129,13 @@ export function SettingsPage() {
       </section>
 
       {status && <p className="muted">{status}</p>}
+
+      <section className="home-section">
+        <div className="subtle">關於</div>
+        <p>
+          <Link to="/about">關於 經閣 · 致謝與授權</Link>
+        </p>
+      </section>
     </main>
   );
 }

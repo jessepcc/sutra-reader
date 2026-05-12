@@ -135,6 +135,12 @@ function renderNode(node: FxpNode, ctx: RenderCtx): string {
       if (unicode) {
         return `<span class="tei-g" data-ref="${escapeHtml(ref)}" title="${escapeHtml(ref)}">${escapeHtml(unicode)}</span>`;
       }
+      // CBETA TEI typically inlines the glyph (often a CJK Ext / PUA codepoint)
+      // as the <g>'s text child — use it when the gaiji table has no entry.
+      const inline = collectText(children);
+      if (inline) {
+        return `<span class="tei-g" data-ref="${escapeHtml(ref)}" title="${escapeHtml(ref)}">${escapeHtml(inline)}</span>`;
+      }
       ctx.issues.push({ kind: "missing-gaiji", detail: ref });
       return `<span class="tei-g tei-g-missing" data-ref="${escapeHtml(ref)}" title="${escapeHtml(ref)}">[${escapeHtml(ref)}]</span>`;
     }
