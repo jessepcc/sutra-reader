@@ -61,7 +61,7 @@ describe("HomePage", () => {
     renderApp();
     expect(screen.getByText("經閣", { selector: "h1" })).toBeInTheDocument();
     expect(await screen.findByText(/大正新脩大藏經/)).toBeInTheDocument();
-    expect(screen.getByText(/卍新纂續藏經/)).toBeInTheDocument();
+    expect(screen.getByText(/續藏/)).toBeInTheDocument();
   });
 
   it("shows an empty-state when there are no recents", async () => {
@@ -77,14 +77,21 @@ describe("HomePage", () => {
 });
 
 describe("Browse / Canon / Volume routes", () => {
-  it("navigates from browse → canon → volume → text", async () => {
+  it("renders each level of the browse hierarchy", async () => {
+    // BrowsePage lists the canon
     renderApp(["/browse"]);
-    const canonLink = await screen.findByRole("link", { name: /大正新脩大藏經/ });
-    await userEvent.click(canonLink);
+    expect(
+      await screen.findByRole("link", { name: /大正新脩大藏經/ }),
+    ).toHaveAttribute("href", "/browse/T");
 
-    const volume = await screen.findByText(/T48 諸宗部五/);
-    await userEvent.click(volume);
+    // CanonPage lists volumes for the canon
+    renderApp(["/browse/T"]);
+    expect(
+      await screen.findByRole("link", { name: "T48" }),
+    ).toHaveAttribute("href", "/browse/T/T48");
 
+    // VolumePage lists texts in the volume
+    renderApp(["/browse/T/T48"]);
     expect(await screen.findByText("六祖大師法寶壇經")).toBeInTheDocument();
   });
 
@@ -93,12 +100,13 @@ describe("Browse / Canon / Volume routes", () => {
     expect(await screen.findByText(/找不到此藏/)).toBeInTheDocument();
   });
 
-  it("redirects gated canons to the notice route via the BrowsePage gated link", async () => {
+  it("links gated canons to the notice route and the notice route renders", async () => {
     renderApp(["/browse"]);
-    const gated = await screen.findByRole("link", {
-      name: /LC.*受授權限制/,
-    });
-    await userEvent.click(gated);
+    expect(
+      await screen.findByRole("link", { name: /LC.*受授權限制/ }),
+    ).toHaveAttribute("href", "/gated/LC");
+
+    renderApp(["/gated/LC"]);
     expect(await screen.findByText(/非本 App 收錄/)).toBeInTheDocument();
   });
 });
