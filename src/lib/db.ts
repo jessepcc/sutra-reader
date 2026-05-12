@@ -187,6 +187,11 @@ export async function recordRecent(entry: RecentEntry): Promise<void> {
   }
 }
 
+export async function removeRecent(textId: string): Promise<void> {
+  const db = await getDb();
+  await db.delete("recents", textId);
+}
+
 // ──────────────── settings ────────────────
 
 export async function getSettings(): Promise<Settings> {

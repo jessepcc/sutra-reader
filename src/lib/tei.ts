@@ -118,7 +118,8 @@ function renderNode(node: FxpNode, ctx: RenderCtx): string {
       return `<span class="tei-l">${renderChildren(children, ctx)}</span>`;
     case "lb": {
       const n = attrs["@_n"] ?? "";
-      return `<span class="tei-lb" id="lb_${escapeHtml(n)}" data-lb="${escapeHtml(n)}" aria-hidden="true">${escapeHtml(n)}</span>`;
+      const e = escapeHtml(n);
+      return `<a class="tei-lb" id="lb_${e}" href="#lb_${e}" data-lb="${e}" aria-label="行 ${e}">※</a>`;
     }
     case "pb": {
       const n = attrs["@_n"] ?? "";

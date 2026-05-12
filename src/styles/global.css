@@ -263,11 +263,28 @@ h2 {
 
 .tei-lb {
   font-family: var(--font-ui);
-  font-size: 0.65em;
+  font-size: 0.7em;
   color: var(--mist);
-  margin: 0 0.3em;
+  opacity: 0.5;
+  margin: 0 0.15em;
   vertical-align: super;
   user-select: none;
+  text-decoration: none;
+  transition: opacity 120ms ease;
+}
+.tei-lb:hover,
+.tei-lb:focus,
+.tei-lb:focus-visible {
+  opacity: 1;
+  outline: none;
+}
+.tei-lb:hover::after,
+.tei-lb:focus::after,
+.tei-lb:focus-visible::after {
+  content: " " attr(data-lb);
+  font-size: 0.85em;
+  letter-spacing: 0.02em;
+  margin-left: 0.15em;
 }
 
 .tei-pb {

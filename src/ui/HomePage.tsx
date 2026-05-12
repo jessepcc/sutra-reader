@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { CATALOG } from "../lib/catalog-context";
-import { getRecents } from "../lib/db";
+import { getRecents, removeRecent } from "../lib/db";
 import { findText } from "../lib/catalog";
 import type { RecentEntry } from "../lib/types";
 
@@ -9,7 +9,15 @@ export function HomePage() {
   const [recents, setRecents] = useState<RecentEntry[] | null>(null);
 
   useEffect(() => {
-    void getRecents().then(setRecents);
+    void (async () => {
+      const all = await getRecents();
+      const live: RecentEntry[] = [];
+      for (const r of all) {
+        if (findText(CATALOG, r.textId)) live.push(r);
+        else await removeRecent(r.textId);
+      }
+      setRecents(live);
+    })();
   }, []);
 
   return (

@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-01-15T00:00:00Z",
-  "upstreamSha": "main",
+  "upstreamSha": "master",
   "canons": [
     {
       "id": "T",
@@ -34,19 +34,19 @@
     {
       "canon": "T",
       "volume": "T01",
-      "id": "T01n0001_001",
-      "title": "長阿含經 卷一",
-      "path": "T/T01/T01n0001_001.xml",
-      "sha": "main",
+      "id": "T01n0001",
+      "title": "長阿含經",
+      "path": "T/T01/T01n0001.xml",
+      "sha": "master",
       "bytes": 0
     },
     {
       "canon": "T",
       "volume": "T02",
-      "id": "T02n0099_001",
-      "title": "雜阿含經 卷一",
-      "path": "T/T02/T02n0099_001.xml",
-      "sha": "main",
+      "id": "T02n0099",
+      "title": "雜阿含經",
+      "path": "T/T02/T02n0099.xml",
+      "sha": "master",
       "bytes": 0
     },
     {
@@ -55,16 +55,16 @@
       "id": "T08n0235",
       "title": "金剛般若波羅蜜經",
       "path": "T/T08/T08n0235.xml",
-      "sha": "main",
+      "sha": "master",
       "bytes": 0
     },
     {
       "canon": "T",
       "volume": "T09",
-      "id": "T09n0262_001",
-      "title": "妙法蓮華經 卷一",
-      "path": "T/T09/T09n0262_001.xml",
-      "sha": "main",
+      "id": "T09n0262",
+      "title": "妙法蓮華經",
+      "path": "T/T09/T09n0262.xml",
+      "sha": "master",
       "bytes": 0
     },
     {
@@ -73,7 +73,7 @@
       "id": "T48n2008",
       "title": "六祖大師法寶壇經",
       "path": "T/T48/T48n2008.xml",
-      "sha": "main",
+      "sha": "master",
       "bytes": 0
     },
     {
@@ -82,16 +82,16 @@
       "id": "X63n1232",
       "title": "禪宗無門關",
       "path": "X/X63/X63n1232.xml",
-      "sha": "main",
+      "sha": "master",
       "bytes": 0
     },
     {
       "canon": "J",
       "volume": "J32",
-      "id": "J32nB277_001",
-      "title": "雲棲法彙 卷一",
-      "path": "J/J32/J32nB277_001.xml",
-      "sha": "main",
+      "id": "J32nB277",
+      "title": "雲棲法彙",
+      "path": "J/J32/J32nB277.xml",
+      "sha": "master",
       "bytes": 0
     }
   ]
