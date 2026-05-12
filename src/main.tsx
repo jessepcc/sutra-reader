@@ -14,25 +14,28 @@ import { AboutPage } from "./ui/AboutPage";
 import { SettingsPage } from "./ui/SettingsPage";
 import { GatedNoticePage } from "./ui/GatedNoticePage";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <AppShell />,
-    children: [
-      { index: true, element: <HomePage /> },
-      { path: "browse", element: <BrowsePage /> },
-      { path: "browse/:canonId", element: <CanonPage /> },
-      { path: "browse/:canonId/:volumeId", element: <VolumePage /> },
-      { path: "read/:textId", element: <ReaderPage /> },
-      { path: "saved", element: <SavedPage /> },
-      { path: "bookmarks", element: <BookmarksPage /> },
-      { path: "settings", element: <SettingsPage /> },
-      { path: "about", element: <AboutPage /> },
-      { path: "gated/:canonId", element: <GatedNoticePage /> },
-      { path: "*", element: <Navigate to="/" replace /> },
-    ],
-  },
-]);
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <AppShell />,
+      children: [
+        { index: true, element: <HomePage /> },
+        { path: "browse", element: <BrowsePage /> },
+        { path: "browse/:canonId", element: <CanonPage /> },
+        { path: "browse/:canonId/:volumeId", element: <VolumePage /> },
+        { path: "read/:textId", element: <ReaderPage /> },
+        { path: "saved", element: <SavedPage /> },
+        { path: "bookmarks", element: <BookmarksPage /> },
+        { path: "settings", element: <SettingsPage /> },
+        { path: "about", element: <AboutPage /> },
+        { path: "gated/:canonId", element: <GatedNoticePage /> },
+        { path: "*", element: <Navigate to="/" replace /> },
+      ],
+    },
+  ],
+  { basename: import.meta.env.BASE_URL.replace(/\/$/, "") || "/" },
+);
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>

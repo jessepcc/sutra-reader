@@ -1,11 +1,34 @@
 /// <reference types="vitest" />
-import { defineConfig } from "vite";
+import { defineConfig, type Plugin } from "vite";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
-export default defineConfig({
+// GitHub Pages serves the SPA from /sutra-reader/. Deep links land on the
+// server, which only knows about index.html — emit a 404.html clone so any
+// unmatched path falls back to the React Router on the client.
+function spaFallback(): Plugin {
+  return {
+    name: "spa-404-fallback",
+    apply: "build",
+    enforce: "post",
+    generateBundle(_options, bundle) {
+      const index = bundle["index.html"];
+      if (index && index.type === "asset") {
+        this.emitFile({
+          type: "asset",
+          fileName: "404.html",
+          source: index.source,
+        });
+      }
+    },
+  };
+}
+
+export default defineConfig(({ command }) => ({
+  base: command === "build" ? "/sutra-reader/" : "/",
   plugins: [
     react(),
+    spaFallback(),
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "icons/*.svg"],
@@ -63,4 +86,4 @@ export default defineConfig({
       },
     },
   },
-});
+}));
