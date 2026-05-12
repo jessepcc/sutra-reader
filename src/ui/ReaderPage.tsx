@@ -27,7 +27,6 @@ export function ReaderPage() {
   const [loaded, setLoaded] = useState<LoadedText | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
-  const [showOrigin, setShowOrigin] = useState(false);
   const [query, setQuery] = useState("");
   const contentRef = useRef<HTMLDivElement>(null);
 
@@ -181,22 +180,6 @@ export function ReaderPage() {
             data-dyslexia={settings.dyslexiaFont ? "true" : "false"}
             ref={contentRef}
           >
-            {showOrigin && loaded.rendered.header.publicationStmt && (
-              <aside aria-label="出處">
-                <h2>出處</h2>
-                <div
-                  className="muted"
-                  dangerouslySetInnerHTML={{ __html: loaded.rendered.header.publicationStmt }}
-                />
-                {loaded.rendered.header.sourceDesc && (
-                  <div
-                    className="muted"
-                    dangerouslySetInnerHTML={{ __html: loaded.rendered.header.sourceDesc }}
-                  />
-                )}
-              </aside>
-            )}
-
             {loaded.rendered.juans.map((j) => (
               <section key={j.id} data-juan={j.id} aria-label={j.head ?? `卷 ${j.id}`}>
                 {/* eslint-disable-next-line react/no-danger */}
@@ -243,9 +226,6 @@ export function ReaderPage() {
               </button>
             </div>
             <div className="group">
-              <button onClick={() => setShowOrigin((s) => !s)} aria-pressed={showOrigin}>
-                出處
-              </button>
               <button onClick={bookmarkHere}>標記此處</button>
             </div>
             <div className="group">

@@ -47,7 +47,6 @@ src/lib        # pure logic, fully unit-tested
   tei.ts       # TEI P5 → HTML transform (juan, lb, gaiji, choice, app)
   db.ts        # idb-backed CRUD for texts (LRU), saved, bookmarks, recents, settings
   fetcher.ts   # cache-first text load with eviction
-  backup.ts    # export / import with last-write-wins merge
 src/ui         # React components & pages
 src/data       # bundled catalog + gaiji table
 ```

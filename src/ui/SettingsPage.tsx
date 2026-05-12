@@ -1,39 +1,12 @@
-import { useRef, useState } from "react";
+import { useState } from "react";
 import { useSettings } from "../lib/settings-context";
-import { bundleToJson, buildExport, importBundle, parseBundle } from "../lib/backup";
 import { clearScope, type ClearScope } from "../lib/db";
 import { CATALOG } from "../lib/catalog-context";
 import { diffManifest } from "../lib/catalog";
 
 export function SettingsPage() {
   const { settings, update } = useSettings();
-  const fileInput = useRef<HTMLInputElement>(null);
   const [status, setStatus] = useState<string | null>(null);
-
-  async function onExport() {
-    const bundle = await buildExport();
-    const blob = new Blob([bundleToJson(bundle)], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = `sutra-reader-${new Date().toISOString().slice(0, 10)}.json`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
-    setStatus("已匯出資料。");
-  }
-
-  async function onImport(file: File) {
-    const text = await file.text();
-    try {
-      const incoming = parseBundle(text);
-      await importBundle(incoming);
-      setStatus("已匯入並合併資料。");
-    } catch (err) {
-      setStatus(`匯入失敗：${(err as Error).message}`);
-    }
-  }
 
   async function onClear(scope: ClearScope) {
     const labels: Record<ClearScope, string> = {
@@ -147,21 +120,6 @@ export function SettingsPage() {
 
       <section className="home-section">
         <div className="subtle">資料</div>
-        <p>
-          <button onClick={() => void onExport()}>匯出資料</button>{" "}
-          <button onClick={() => fileInput.current?.click()}>匯入資料</button>
-          <input
-            ref={fileInput}
-            type="file"
-            accept="application/json"
-            style={{ display: "none" }}
-            onChange={(e) => {
-              const f = e.target.files?.[0];
-              if (f) void onImport(f);
-              e.currentTarget.value = "";
-            }}
-          />
-        </p>
         <p>
           <button onClick={() => void onClear("cache")}>清除快取</button>{" "}
           <button onClick={() => void onClear("saves")}>清除收藏與標記</button>{" "}

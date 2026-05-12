@@ -22,6 +22,9 @@ export function CanonPage() {
 
   return (
     <main>
+      <p className="muted">
+        <Link to="/browse">瀏覽</Link>　《{canon.name}》
+      </p>
       <h1>《{canon.name}》</h1>
       <p className="muted">{canon.description}</p>
       <h2>冊</h2>

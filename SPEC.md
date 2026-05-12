@@ -132,14 +132,10 @@ Reader controls (bottom sheet, thumb-reach):
 - Saved list appears as a top-level nav surface with the most recent saves first; long-press to reorder or remove.
 - Saved texts are opportunistically pre-cached when on Wi-Fi (so they remain available offline).
 
-### 5.3 Backup / portability (compensates for no account)
+### 5.3 Data controls
 
-- Settings → "匯出資料 Export" produces a single JSON file:
-  ```json
-  { "version": 1, "savedAt": "...", "saved": [...], "bookmarks": [...], "settings": {...} }
-  ```
-- Settings → "匯入資料 Import" merges from a chosen JSON file (conflicts resolved by latest timestamp).
-- Settings → "清除資料 Clear" shows what's stored and lets the user wipe selectively (cache only / saves only / everything).
+- Settings → "清除資料 Clear" lets the user wipe selectively (cache only / saves only / everything).
+- v1 deliberately ships no manual export/import: the format would be unexplainable to non-technical users. Multi-device portability is deferred (see §13).
 
 ### 5.4 Privacy stance (write into About + README)
 

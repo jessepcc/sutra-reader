@@ -101,12 +101,3 @@ export const DEFAULT_SETTINGS: Settings = {
   dyslexiaFont: false,
   cacheCapBytes: 200 * 1024 * 1024,
 };
-
-export interface ExportBundle {
-  version: 1;
-  savedAt: string;
-  saved: SavedEntry[];
-  bookmarks: Bookmark[];
-  recents: RecentEntry[];
-  settings: Settings;
-}

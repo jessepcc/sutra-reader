@@ -22,7 +22,11 @@ export function VolumePage() {
   return (
     <main>
       <p className="muted">
-        <Link to={`/browse/${canonId}`}>《{canon.name}》</Link>　{volume.label}
+        <Link to="/browse">瀏覽</Link>
+        {"　"}
+        <Link to={`/browse/${canonId}`}>《{canon.name}》</Link>
+        {"　"}
+        {volume.label}
       </p>
       <h1>{volume.label}</h1>
       <ul className="list">
