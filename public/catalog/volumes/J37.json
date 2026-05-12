@@ -1,0 +1,202 @@
+[
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB370",
+    "title": "草堂耨雲實禪師語錄",
+    "path": "J/J37/J37nB370.xml",
+    "sha": "48388bac220f7111c882e23a3a168a985d4a2647",
+    "bytes": 102042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB371",
+    "title": "佛冤禪師語錄",
+    "path": "J/J37/J37nB371.xml",
+    "sha": "ead48dd10313508570c59d00226bb341bbc7a341",
+    "bytes": 561123,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB372",
+    "title": "印心佛敏訥禪師語錄",
+    "path": "J/J37/J37nB372.xml",
+    "sha": "82d045d9a3332adfc0ecb1308d3f2467b5c818f9",
+    "bytes": 114908,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB383",
+    "title": "憨休禪師語錄",
+    "path": "J/J37/J37nB383.xml",
+    "sha": "5fd9b6874967801cbb8ae842805f25a3cf17071f",
+    "bytes": 433580,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB384",
+    "title": "憨休禪師敲空遺響",
+    "path": "J/J37/J37nB384.xml",
+    "sha": "6c29f14d0330513bfe584e2e0d7ad08ca02495d4",
+    "bytes": 901042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB386",
+    "title": "遠菴僼禪師語錄",
+    "path": "J/J37/J37nB386.xml",
+    "sha": "0a3e9fc5dd3e6ef98c0d04a2a03051ebbe697758",
+    "bytes": 819279,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB387",
+    "title": "古宿尊禪師語錄",
+    "path": "J/J37/J37nB387.xml",
+    "sha": "377f7da6fa3a404fa05d428f45bb4fa5b111d391",
+    "bytes": 416382,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB388",
+    "title": "神鼎一揆禪師語錄",
+    "path": "J/J37/J37nB388.xml",
+    "sha": "fdee9a0d61d2f886d492be687b9edc977b1d5082",
+    "bytes": 649842,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB389",
+    "title": "洪山俞昭允汾禪師語錄",
+    "path": "J/J37/J37nB389.xml",
+    "sha": "7eebc12cd2797dd18a792e005e34bac853ebde30",
+    "bytes": 268073,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB390",
+    "title": "北京楚林禪師語錄",
+    "path": "J/J37/J37nB390.xml",
+    "sha": "8d721ab9b88593e53d2ecc0e090c6f55f55ec369",
+    "bytes": 228162,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB391",
+    "title": "長目電禪師語錄",
+    "path": "J/J37/J37nB391.xml",
+    "sha": "af9f1de3d6232c4f8de64b3a6912c1b38658abc1",
+    "bytes": 74547,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB392",
+    "title": "寒松操禪師語錄",
+    "path": "J/J37/J37nB392.xml",
+    "sha": "8cbacb894811093c787aabe7109c0fd152b5b16d",
+    "bytes": 963550,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB393",
+    "title": "華巖還初佛禪師語錄",
+    "path": "J/J37/J37nB393.xml",
+    "sha": "e398198b602d8174c7d138c361ba070966716345",
+    "bytes": 134131,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB394",
+    "title": "翼菴禪師語錄",
+    "path": "J/J37/J37nB394.xml",
+    "sha": "fb08ca76bf703ead58e7158eb2479b8537b1cfd9",
+    "bytes": 430653,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB395",
+    "title": "荊南內護國寺啟真誠禪師語錄",
+    "path": "J/J37/J37nB395.xml",
+    "sha": "acf3ec3f0319275d93cb2de6bbdcb4e74d839ce5",
+    "bytes": 132533,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB396",
+    "title": "終南山蟠龍子肅禪師語錄",
+    "path": "J/J37/J37nB396.xml",
+    "sha": "40745ad57268cce03ec257619ecf18626b641cce",
+    "bytes": 127066,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB399",
+    "title": "鶴林天樹植禪師語錄",
+    "path": "J/J37/J37nB399.xml",
+    "sha": "cfe5a6ad74988c8e30381e11b3d0556de81d5ab4",
+    "bytes": 110663,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB400",
+    "title": "知空蘊禪師語錄",
+    "path": "J/J37/J37nB400.xml",
+    "sha": "151566dbb3836aeea376b4fbb5543abbfe0d05b3",
+    "bytes": 122894,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB401",
+    "title": "浦峰長明炅禪師語錄",
+    "path": "J/J37/J37nB401.xml",
+    "sha": "8f77ec8f84b0db6b5400e177ea280a4d3bae9522",
+    "bytes": 115432,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J37",
+    "id": "J37nB402",
+    "title": "浦峰法柱棟禪師語錄",
+    "path": "J/J37/J37nB402.xml",
+    "sha": "8be0ba71f2dbd13c21fb06c6d300dcb0f48719cb",
+    "bytes": 127612,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

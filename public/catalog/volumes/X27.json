@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X27",
+    "id": "X27n0577",
+    "title": "法華經疏",
+    "path": "X/X27/X27n0577.xml",
+    "sha": "637e9fcb59f2dabc8c42ccc9067c373aff2b9172",
+    "bytes": 205770,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X27",
+    "id": "X27n0582",
+    "title": "法華統略",
+    "path": "X/X27/X27n0582.xml",
+    "sha": "4a07362454db1981757febd1e2db75f25126365a",
+    "bytes": 1141127,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X27",
+    "id": "X27n0583",
+    "title": "法華經大意",
+    "path": "X/X27/X27n0583.xml",
+    "sha": "0090315018bb5212930250ecff9dc1abe2df3dd2",
+    "bytes": 203366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X27",
+    "id": "X27n0584",
+    "title": "法華三大部科文",
+    "path": "X/X27/X27n0584.xml",
+    "sha": "aab37e053d4e781a4b970707af2ef8866e063296",
+    "bytes": 3305534,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

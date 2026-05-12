@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1521",
+    "title": "(古今圖書集成)釋教部彙考",
+    "path": "X/X77/X77n1521.xml",
+    "sha": "d2cac821ffa501fe82ed554bdfb814bcc4ae8fdd",
+    "bytes": 667032,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1522",
+    "title": "新修科分六學僧傳",
+    "path": "X/X77/X77n1522.xml",
+    "sha": "1be66a65016bef54b382d4131cb20d9e494f551e",
+    "bytes": 3221813,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1523",
+    "title": "名僧傳抄",
+    "path": "X/X77/X77n1523.xml",
+    "sha": "35c310c4863af1f6ce166ee9335ce1e4840fee4b",
+    "bytes": 235623,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1524",
+    "title": "補續高僧傳",
+    "path": "X/X77/X77n1524.xml",
+    "sha": "a189b1c51d0229c2dcd0ce841f3efd4f9e5a4f22",
+    "bytes": 1940154,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1526",
+    "title": "武林西湖高僧事略",
+    "path": "X/X77/X77n1526.xml",
+    "sha": "cd09c443a58ee119f341a96c5e56869f543fed64",
+    "bytes": 80652,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1527",
+    "title": "續武林西湖高僧事略",
+    "path": "X/X77/X77n1527.xml",
+    "sha": "0d27e552b364b2ea6fc2d36492ec40420e3725b8",
+    "bytes": 17939,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1530",
+    "title": "法界宗五祖略記",
+    "path": "X/X77/X77n1530.xml",
+    "sha": "ebbcd079bcd5f6f996c58d42f7f335e72ae116be",
+    "bytes": 80699,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1532",
+    "title": "華嚴經感應略記",
+    "path": "X/X77/X77n1532.xml",
+    "sha": "7499cc0c6fd875b8d09b17c75d68391f66cacc15",
+    "bytes": 38566,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1533",
+    "title": "華嚴感應緣起傳",
+    "path": "X/X77/X77n1533.xml",
+    "sha": "22204cd23bcd70d385c6c3dd0031ea253d067e2f",
+    "bytes": 126828,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1534",
+    "title": "華嚴經持驗記",
+    "path": "X/X77/X77n1534.xml",
+    "sha": "d2a8fd41154f8e0b33ed29830c78f1e36b69b838",
+    "bytes": 92402,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X77",
+    "id": "X77n1535",
+    "title": "智者大師別傳註",
+    "path": "X/X77/X77n1535.xml",
+    "sha": "53395bde2719f60babebd571004396ac5e036e61",
+    "bytes": 283198,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA020",
+    "id": "GA020n0017",
+    "title": "玉岑山慧因高麗華嚴教寺志",
+    "path": "GA/GA020/GA020n0017.xml",
+    "sha": "c8f273ad849bdd4f567e49263b618bbf2406f565",
+    "bytes": 370047,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA020",
+    "id": "GA020n0018",
+    "title": "鳳凰山聖果寺志",
+    "path": "GA/GA020/GA020n0018.xml",
+    "sha": "1268bdc247d4bb385345583b899dfef06e35f25a",
+    "bytes": 130882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

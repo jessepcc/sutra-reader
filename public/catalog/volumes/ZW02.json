@@ -1,0 +1,132 @@
+[
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0017",
+    "title": "七祖法寶記下卷",
+    "path": "ZW/ZW02/ZW02n0017.xml",
+    "sha": "f17849e3163ee78a76a5e3c9730bda2ba41b31cc",
+    "bytes": 134115,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0018a",
+    "title": "天竺國菩提達摩禪師論",
+    "path": "ZW/ZW02/ZW02n0018a.xml",
+    "sha": "1706ae6454a3fe15ab0a002f0b6ae7ce3a2711ff",
+    "bytes": 19750,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0018b",
+    "title": "天竺國菩提達摩禪師論",
+    "path": "ZW/ZW02/ZW02n0018b.xml",
+    "sha": "b045316914770ddfa894e9f930f7d4e0ed1f7dcf",
+    "bytes": 20076,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0019",
+    "title": "淨名經集解關中疏卷上",
+    "path": "ZW/ZW02/ZW02n0019.xml",
+    "sha": "87a7e4ae18c7b12184fcf329b692203d92a90e31",
+    "bytes": 449893,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0020",
+    "title": "法華經文外義",
+    "path": "ZW/ZW02/ZW02n0020.xml",
+    "sha": "c5eb4858f3f8ce7091a9f594e18f38e1fe60bdf2",
+    "bytes": 217072,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0021",
+    "title": "諦義證得經",
+    "path": "ZW/ZW02/ZW02n0021.xml",
+    "sha": "069362c9be1927a348edda21d5544cc32e0977fd",
+    "bytes": 405412,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02n0022",
+    "title": "《瑜伽師地論》披尋記敘",
+    "path": "ZW/ZW02/ZW02n0022.xml",
+    "sha": "c263d866433af4bbfa2f52f63133d6676fd26624",
+    "bytes": 20432,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na007",
+    "title": "藏外佛教文獻第二輯．卷首語",
+    "path": "ZW/ZW02/ZW02na007.xml",
+    "sha": "b4f2a617c5cfccaaeb7bc9a38fc39b8cc97a4450",
+    "bytes": 54108,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na008",
+    "title": "藏外佛教文獻第二輯．目錄",
+    "path": "ZW/ZW02/ZW02na008.xml",
+    "sha": "f9b71c94114ca10f3b07567500efc6a271c8d9c8",
+    "bytes": 7717,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na009",
+    "title": "藏外佛教文獻第二輯．錄文校勘體例",
+    "path": "ZW/ZW02/ZW02na009.xml",
+    "sha": "2cc45b8a63210939c765ee17ead0e3b6cc908b55",
+    "bytes": 12094,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na010",
+    "title": "大藏經編纂及電腦化研討會論文特集",
+    "path": "ZW/ZW02/ZW02na010.xml",
+    "sha": "bd636fecb3f123dd19145056fc24ecd9d490b9fc",
+    "bytes": 358951,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na011",
+    "title": "藏外佛教文獻第二輯．徵稿啟事",
+    "path": "ZW/ZW02/ZW02na011.xml",
+    "sha": "b19388ad4519c2966a3c33a8d695511164ee24ee",
+    "bytes": 9521,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW02",
+    "id": "ZW02na012",
+    "title": "藏外佛教文獻第二輯．徵訂啟事",
+    "path": "ZW/ZW02/ZW02na012.xml",
+    "sha": "25df1b0e9207c283db7a6fd82757cd90ef91a96b",
+    "bytes": 7811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "G",
+    "volume": "G148",
+    "id": "G148n2517",
+    "title": "菩提道次第論攝頌",
+    "path": "G/G148/G148n2517.xml",
+    "sha": "ba8d400ee955158b892ea3af007d9ed6c3e1f6cc",
+    "bytes": 15175,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G148",
+    "id": "G148n2518",
+    "title": "菩提道燈論",
+    "path": "G/G148/G148n2518.xml",
+    "sha": "9ef2a0eae9f43852cd66b0ca3fbbd168879046cb",
+    "bytes": 15211,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

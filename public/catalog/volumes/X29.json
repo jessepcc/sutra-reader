@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0594",
+    "title": "法華經疏義纘",
+    "path": "X/X29/X29n0594.xml",
+    "sha": "3c06c7b6ffa26ef0e890fa15a2ebde25074f1b7e",
+    "bytes": 1272627,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0595",
+    "title": "妙經文句私志諸品要義",
+    "path": "X/X29/X29n0595.xml",
+    "sha": "c52c767b5983a52ee75858fa1a70bbb59ab4f66f",
+    "bytes": 277472,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0596",
+    "title": "妙經文句私志記",
+    "path": "X/X29/X29n0596.xml",
+    "sha": "f784e145bf7646095d2ba2ec2dc7ffa19de2ec1e",
+    "bytes": 3619098,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0597",
+    "title": "法華經文句記箋難",
+    "path": "X/X29/X29n0597.xml",
+    "sha": "2625ad1ba110491dad6996b56467344303e647fe",
+    "bytes": 1237569,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0598",
+    "title": "法華經文句格言",
+    "path": "X/X29/X29n0598.xml",
+    "sha": "0e664e12b4354d51c5fb7125d2fa7ec97e964407",
+    "bytes": 462728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X29",
+    "id": "X29n0599",
+    "title": "法華經文句纂要",
+    "path": "X/X29/X29n0599.xml",
+    "sha": "b69abbaa63aaa23a1c00baf2118714efec9707ea",
+    "bytes": 2040831,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

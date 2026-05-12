@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1829",
+    "title": "瑜伽師地論略纂",
+    "path": "T/T43/T43n1829.xml",
+    "sha": "8f26499929cdace59985b056ef66b5c5d96c74d1",
+    "bytes": 2019199,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1830",
+    "title": "成唯識論述記",
+    "path": "T/T43/T43n1830.xml",
+    "sha": "928b6d81a6e0e0ced45c6c609bbb6876876ad0d5",
+    "bytes": 4089495,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1831",
+    "title": "成唯識論掌中樞要",
+    "path": "T/T43/T43n1831.xml",
+    "sha": "3dc29360fc8c31b20b16ca6a9f74f946a5f49d7b",
+    "bytes": 569452,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1832",
+    "title": "成唯識論了義燈",
+    "path": "T/T43/T43n1832.xml",
+    "sha": "accafebf7a48c1b5ccd60e1a6eb8906b90b30ecf",
+    "bytes": 1391960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1833",
+    "title": "成唯識論演祕",
+    "path": "T/T43/T43n1833.xml",
+    "sha": "1486df9f2104909039268c89eb1c4ab718ced643",
+    "bytes": 1952999,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T43",
+    "id": "T43n1834",
+    "title": "唯識二十論述記",
+    "path": "T/T43/T43n1834.xml",
+    "sha": "18d3a4e215711b4d3a2724df8cb6b028003a01b1",
+    "bytes": 389521,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

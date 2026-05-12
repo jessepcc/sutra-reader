@@ -1,0 +1,132 @@
+[
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1718",
+    "title": "妙法蓮華經文句",
+    "path": "T/T34/T34n1718.xml",
+    "sha": "a7df82816e267667ad5b55f9dbb340d485d10d5e",
+    "bytes": 1777916,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1719",
+    "title": "法華文句記",
+    "path": "T/T34/T34n1719.xml",
+    "sha": "81e80ae80965070e6a7ed7bb2dc95e94f656d597",
+    "bytes": 1855159,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1720",
+    "title": "法華玄論",
+    "path": "T/T34/T34n1720.xml",
+    "sha": "8778054263ce270d4a34b5849f5d5c92bd9edaa0",
+    "bytes": 793342,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1721",
+    "title": "法華義疏",
+    "path": "T/T34/T34n1721.xml",
+    "sha": "5ea33078a320f2717ce9c555751f9b759203745a",
+    "bytes": 3117647,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1722",
+    "title": "法華遊意",
+    "path": "T/T34/T34n1722.xml",
+    "sha": "b9f161bb0f60ed40fd8d14490402681f3cf69965",
+    "bytes": 491592,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1723",
+    "title": "妙法蓮華經玄贊",
+    "path": "T/T34/T34n1723.xml",
+    "sha": "254937851cc5c29ca96051d9380798570f56d335",
+    "bytes": 2918104,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1724",
+    "title": "法華玄贊義決",
+    "path": "T/T34/T34n1724.xml",
+    "sha": "bc86c52ec0440a6dd89bd94df1e8792b473087f0",
+    "bytes": 659536,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1725",
+    "title": "法華宗要",
+    "path": "T/T34/T34n1725.xml",
+    "sha": "83b86045a5478a7253ce3d86fe24f7679360c54e",
+    "bytes": 60936,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1726",
+    "title": "觀音玄義",
+    "path": "T/T34/T34n1726.xml",
+    "sha": "0c350f5a9f34a896b9640a29fbd6efe2ed53365e",
+    "bytes": 125487,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1727",
+    "title": "觀音玄義記",
+    "path": "T/T34/T34n1727.xml",
+    "sha": "2aa080677ce616a6ace18b469139396d7385a0d5",
+    "bytes": 294284,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1728",
+    "title": "觀音義疏",
+    "path": "T/T34/T34n1728.xml",
+    "sha": "17c1442841fd55d8af52a7592b2423fe69ae5948",
+    "bytes": 433074,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1729",
+    "title": "觀音義疏記",
+    "path": "T/T34/T34n1729.xml",
+    "sha": "5164d6386b0b5d0764fa348424e05fd70f4c52a0",
+    "bytes": 257547,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T34",
+    "id": "T34n1730",
+    "title": "金剛三昧經論",
+    "path": "T/T34/T34n1730.xml",
+    "sha": "1770e86d7de56fca782c5bc3363d0b42abc5687c",
+    "bytes": 411564,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

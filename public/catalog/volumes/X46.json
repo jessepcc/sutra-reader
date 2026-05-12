@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0773",
+    "title": "釋摩訶衍論科",
+    "path": "X/X46/X46n0773.xml",
+    "sha": "2762b6d508b4533ea04c1e85417acae466e7bafa",
+    "bytes": 285171,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0774",
+    "title": "釋摩訶衍論記",
+    "path": "X/X46/X46n0774.xml",
+    "sha": "8227693b48fe531e686cd166e68db7c845754d6c",
+    "bytes": 816442,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0775",
+    "title": "釋摩訶衍論通玄鈔",
+    "path": "X/X46/X46n0775.xml",
+    "sha": "2646e504bbd0a92b34060f44a0f07a3b60184b8f",
+    "bytes": 595528,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0776",
+    "title": "大宗地玄文本論略註",
+    "path": "X/X46/X46n0776.xml",
+    "sha": "8dc390eab6141fbe08c22d2633f056dc80f4c4cc",
+    "bytes": 350361,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0777",
+    "title": "金剛頂菩提心論略記",
+    "path": "X/X46/X46n0777.xml",
+    "sha": "cfd79da567e71d0e9027f237e335393336f20d03",
+    "bytes": 86775,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0784",
+    "title": "大乘四論玄義",
+    "path": "X/X46/X46n0784.xml",
+    "sha": "3de23e6274c278fbebc8e791b801a1fdd5132878",
+    "bytes": 1196212,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0786",
+    "title": "大乘法界無差別論疏領要鈔科",
+    "path": "X/X46/X46n0786.xml",
+    "sha": "8d6aa61266524fe4b243bf9ba250c202f728bc0e",
+    "bytes": 121474,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0787",
+    "title": "大乘法界無差別論疏領要鈔",
+    "path": "X/X46/X46n0787.xml",
+    "sha": "5d6c0d6071b26c35f9344b26beb2e212935d1227",
+    "bytes": 308985,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0788",
+    "title": "掌珍論疏",
+    "path": "X/X46/X46n0788.xml",
+    "sha": "f9442a0ffec5e3a88308823ba80937e1b0959133",
+    "bytes": 184368,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0790",
+    "title": "法華經論述記",
+    "path": "X/X46/X46n0790.xml",
+    "sha": "19af5d8b2de832fdeb1f55d25e2a05fe0cdd97ba",
+    "bytes": 177266,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X46",
+    "id": "X46n0791",
+    "title": "大智度論疏",
+    "path": "X/X46/X46n0791.xml",
+    "sha": "8a689aebf3cfbf0d48dd3cedba313c6f2761af67",
+    "bytes": 2098490,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

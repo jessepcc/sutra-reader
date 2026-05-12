@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26n0146",
+    "title": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
+    "path": "B/B26/B26n0146.xml",
+    "sha": "b9ad6a1dd259812c1b5c84ea5910a47285e9b9a9",
+    "bytes": 435307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26n0147",
+    "title": "三階教殘卷",
+    "path": "B/B26/B26n0147.xml",
+    "sha": "0635d2db0e3a9e3cf5795ec4aa4eb4cf779e6dc9",
+    "bytes": 1198312,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26n0148",
+    "title": "東坡禪喜集",
+    "path": "B/B26/B26n0148.xml",
+    "sha": "a0b67070ad93f53c26d446fd331ad900cc7d1aec",
+    "bytes": 290274,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26n0149",
+    "title": "鳴道集說",
+    "path": "B/B26/B26n0149.xml",
+    "sha": "df92521a5ed0b399503897c0e0987ca5c9d535f7",
+    "bytes": 222846,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26n0150",
+    "title": "道餘錄（選錄「姚少師道餘錄跋」）",
+    "path": "B/B26/B26n0150.xml",
+    "sha": "7b76640c9afebe9ed0185a50fa251cb3a35f4c4a",
+    "bytes": 6019,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B26",
+    "id": "B26na025",
+    "title": "大藏經補編第二十六冊．編輯說明",
+    "path": "B/B26/B26na025.xml",
+    "sha": "851697db37616a41b0dc1df3fb2d14282e7a6af3",
+    "bytes": 6427,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

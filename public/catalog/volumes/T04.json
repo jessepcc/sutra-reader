@@ -1,0 +1,282 @@
+[
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0192",
+    "title": "佛所行讚",
+    "path": "T/T04/T04n0192.xml",
+    "sha": "52d90d4677163c3410748eea4ee9baacbadcbb66",
+    "bytes": 1094310,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0193",
+    "title": "佛本行經",
+    "path": "T/T04/T04n0193.xml",
+    "sha": "8419737989cdf102015fe8b8c04068252e4f8c2d",
+    "bytes": 1269294,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0194",
+    "title": "僧伽羅剎所集經",
+    "path": "T/T04/T04n0194.xml",
+    "sha": "6be376f45bc7eecbcdc819a41de7c2d2b1f72adf",
+    "bytes": 508762,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0195",
+    "title": "佛說十二遊經",
+    "path": "T/T04/T04n0195.xml",
+    "sha": "399bab6dc7c576ef4c42d8c3f29d85acaf403008",
+    "bytes": 36223,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0196",
+    "title": "中本起經",
+    "path": "T/T04/T04n0196.xml",
+    "sha": "9350f8c2bf5f6550ff4dba43266a576e99777cea",
+    "bytes": 566253,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0197",
+    "title": "佛說興起行經",
+    "path": "T/T04/T04n0197.xml",
+    "sha": "e3653581119d2c460a5cbf7daedb4dcc5af5b999",
+    "bytes": 207927,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0198",
+    "title": "佛說義足經",
+    "path": "T/T04/T04n0198.xml",
+    "sha": "22a90a637f1c0b6c0eeb8935d9d5b264487fa295",
+    "bytes": 316497,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0199",
+    "title": "佛五百弟子自說本起經",
+    "path": "T/T04/T04n0199.xml",
+    "sha": "d1061339b68afd8cf82e92c47b2a47aa07d64886",
+    "bytes": 231408,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0200",
+    "title": "撰集百緣經",
+    "path": "T/T04/T04n0200.xml",
+    "sha": "37af8383d7f1f9160e3826970fc2c39b25f75e76",
+    "bytes": 2172438,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0201",
+    "title": "大莊嚴論經",
+    "path": "T/T04/T04n0201.xml",
+    "sha": "60f9d977fa75098f20025d8fce81da0f262c3909",
+    "bytes": 1323299,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0202",
+    "title": "賢愚經",
+    "path": "T/T04/T04n0202.xml",
+    "sha": "4f6c40d8ace0fa9b417b9edbebac8b3d007dbc36",
+    "bytes": 2013445,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0203",
+    "title": "雜寶藏經",
+    "path": "T/T04/T04n0203.xml",
+    "sha": "3f974fb1316fae7ba6d2838612d6656a3a24910c",
+    "bytes": 1131969,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0204",
+    "title": "雜譬喻經",
+    "path": "T/T04/T04n0204.xml",
+    "sha": "a1a6cf9d62cce73d58509635a114aa9e5d89f579",
+    "bytes": 67961,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0205",
+    "title": "雜譬喻經",
+    "path": "T/T04/T04n0205.xml",
+    "sha": "09a80ba9a9b62a91a4837188a5d54530577fc996",
+    "bytes": 215020,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0206",
+    "title": "舊雜譬喻經",
+    "path": "T/T04/T04n0206.xml",
+    "sha": "213a570ddd9880fbfcfe69b3d944c79e48499e12",
+    "bytes": 271323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0207",
+    "title": "雜譬喻經",
+    "path": "T/T04/T04n0207.xml",
+    "sha": "45d4c71066aca35e7e4c9c166be821c64f0d9ec3",
+    "bytes": 86846,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0208",
+    "title": "眾經撰雜譬喻",
+    "path": "T/T04/T04n0208.xml",
+    "sha": "20cd41ab2fa2c4620cc156e78b0536d00f9a66f1",
+    "bytes": 127235,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0209",
+    "title": "百喻經",
+    "path": "T/T04/T04n0209.xml",
+    "sha": "040a38ce908c1a33e3c47fe76b77ce8ce0bf2635",
+    "bytes": 303875,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0210",
+    "title": "法句經",
+    "path": "T/T04/T04n0210.xml",
+    "sha": "00228c757416f557fee1c99d54acbb83f79fb97b",
+    "bytes": 517419,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0211",
+    "title": "法句譬喻經",
+    "path": "T/T04/T04n0211.xml",
+    "sha": "1d1f62c4e10d341f685c21aca893fb517eb16365",
+    "bytes": 1295384,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0212",
+    "title": "出曜經",
+    "path": "T/T04/T04n0212.xml",
+    "sha": "f0174bb53a433d13000c66d5b0e146f8ad4484c6",
+    "bytes": 2850853,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0213",
+    "title": "法集要頌經",
+    "path": "T/T04/T04n0213.xml",
+    "sha": "f5777d222dc08eadb17a5ec043547209c7d8a689",
+    "bytes": 230233,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0214",
+    "title": "猘狗經",
+    "path": "T/T04/T04n0214.xml",
+    "sha": "99d9d07743a94fe6c493f8652ac591d878dd71d9",
+    "bytes": 13462,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0215",
+    "title": "群牛譬經",
+    "path": "T/T04/T04n0215.xml",
+    "sha": "4b638484da8f6248f8b9db1deb8fa6eceb959bf1",
+    "bytes": 10909,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0216",
+    "title": "大魚事經",
+    "path": "T/T04/T04n0216.xml",
+    "sha": "a526a88a9b67a240384c596adba25adb0ba6e22f",
+    "bytes": 12189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0217",
+    "title": "譬喻經",
+    "path": "T/T04/T04n0217.xml",
+    "sha": "3479ac9f877a2d5e607f6cb194b822f97f374566",
+    "bytes": 11587,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0218",
+    "title": "灌頂王喻經",
+    "path": "T/T04/T04n0218.xml",
+    "sha": "1ab9aa756c8093bfe072d26e688467a0f92a5043",
+    "bytes": 7766,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T04",
+    "id": "T04n0219",
+    "title": "醫喻經",
+    "path": "T/T04/T04n0219.xml",
+    "sha": "39aa25d261fa5d804cc08c849b33d04e0b494d7c",
+    "bytes": 8420,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

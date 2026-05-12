@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1314",
+    "title": "古尊宿語錄目錄",
+    "path": "X/X68/X68n1314.xml",
+    "sha": "279ac8eb991d0d14eb2c52fa2c513c6d6ea24a1f",
+    "bytes": 14479,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1315",
+    "title": "古尊宿語錄",
+    "path": "X/X68/X68n1315.xml",
+    "sha": "e787329cd934bb6f0f50062017a36e4a81a271bf",
+    "bytes": 3597702,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1316",
+    "title": "古尊宿語要目錄",
+    "path": "X/X68/X68n1316.xml",
+    "sha": "4aa59e4c10c38346195d74b02e25a1942ae0930a",
+    "bytes": 29861,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1317",
+    "title": "續古尊宿語要目錄",
+    "path": "X/X68/X68n1317.xml",
+    "sha": "7ed12e36feb34b89ebee51f00c7e1ada4178abe1",
+    "bytes": 48613,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1318",
+    "title": "續古尊宿語要",
+    "path": "X/X68/X68n1318.xml",
+    "sha": "c492714235668c28082d6c5b961b016ef5c216d3",
+    "bytes": 1877571,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X68",
+    "id": "X68n1319",
+    "title": "御選語錄",
+    "path": "X/X68/X68n1319.xml",
+    "sha": "8d469227e66287595da998ee0b453f84b77d582c",
+    "bytes": 2378617,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

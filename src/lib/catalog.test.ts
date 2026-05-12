@@ -8,7 +8,7 @@ import {
   groupByCanon,
   isGatedCanon,
   isGatedVolume,
-  jsDelivrUrl,
+  rawGitHubUrl,
 } from "./catalog";
 import type { Catalog } from "./types";
 
@@ -107,11 +107,17 @@ describe("filterGated", () => {
   });
 });
 
-describe("jsDelivrUrl", () => {
+describe("rawGitHubUrl", () => {
   it("pins to the commit sha and path", () => {
     const text = fixture().texts[0];
-    expect(jsDelivrUrl(text)).toBe(
-      "https://cdn.jsdelivr.net/gh/cbeta-org/xml-p5@sha-001/T/T01/T01n0001_001.xml",
+    expect(rawGitHubUrl(text)).toBe(
+      "https://raw.githubusercontent.com/cbeta-org/xml-p5/sha-001/T/T01/T01n0001_001.xml",
+    );
+  });
+
+  it("uses sourceSha for immutable fetches when present", () => {
+    expect(rawGitHubUrl({ ...fixture().texts[0], sourceSha: "commit-001" })).toBe(
+      "https://raw.githubusercontent.com/cbeta-org/xml-p5/commit-001/T/T01/T01n0001_001.xml",
     );
   });
 });

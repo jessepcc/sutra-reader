@@ -1,0 +1,282 @@
+[
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0397",
+    "title": "無量壽經記",
+    "path": "X/X22/X22n0397.xml",
+    "sha": "c05aa727772719f0b74bde8e1f21e0e57f3aec61",
+    "bytes": 176649,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0400",
+    "title": "無量壽經起信論",
+    "path": "X/X22/X22n0400.xml",
+    "sha": "ea153e25ee600b58b231d9ea450c553103877bf1",
+    "bytes": 265921,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0401",
+    "title": "摩訶阿彌陀經衷論",
+    "path": "X/X22/X22n0401.xml",
+    "sha": "f381f1a17bd544647620db8de56b7545327b173f",
+    "bytes": 378882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0405",
+    "title": "釋觀無量壽佛經記",
+    "path": "X/X22/X22n0405.xml",
+    "sha": "e2e2e0716b2988541f4893d7c2ce106b947ec79f",
+    "bytes": 127154,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0406",
+    "title": "觀無量壽經疏妙宗鈔科",
+    "path": "X/X22/X22n0406.xml",
+    "sha": "1d815298489d1fc3d516348a7453dff3474021e6",
+    "bytes": 139129,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0407",
+    "title": "觀無量壽佛經疏妙宗鈔",
+    "path": "X/X22/X22n0407.xml",
+    "sha": "0f992eec3bd0bfae5cb64baf479c8882736a595c",
+    "bytes": 718312,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0408",
+    "title": "觀無量壽佛經融心解",
+    "path": "X/X22/X22n0408.xml",
+    "sha": "a0c19c7eed1385216cf997432a77eae4c64b96de",
+    "bytes": 30330,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0410",
+    "title": "觀無量壽經扶新論",
+    "path": "X/X22/X22n0410.xml",
+    "sha": "c75aaacf37b977f036ccd0804caa324902475d9d",
+    "bytes": 99398,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0411",
+    "title": "觀無量壽經義疏正觀記",
+    "path": "X/X22/X22n0411.xml",
+    "sha": "6bfd9dfa37c308f32c5f51f91d0de9545e3c2641",
+    "bytes": 421800,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0412",
+    "title": "觀無量壽佛經圖頌",
+    "path": "X/X22/X22n0412.xml",
+    "sha": "660e839cc0511739200c30a2ba65ba4ea326326b",
+    "bytes": 71022,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0413",
+    "title": "觀無量壽經直指疏",
+    "path": "X/X22/X22n0413.xml",
+    "sha": "791731c19ea66f1bbf4cba77a491cce3f2d2cc3b",
+    "bytes": 264815,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0414",
+    "title": "觀無量壽佛經約論",
+    "path": "X/X22/X22n0414.xml",
+    "sha": "bbfd99e017b7093677e6d0d45ad49c09e2941d31",
+    "bytes": 42934,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0420",
+    "title": "阿彌陀經義疏聞持記",
+    "path": "X/X22/X22n0420.xml",
+    "sha": "0a0ae87fb94eff9dea6d944f2b6c14a995f4e64a",
+    "bytes": 447343,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0421",
+    "title": "阿彌陀經句解",
+    "path": "X/X22/X22n0421.xml",
+    "sha": "824cd0c5a49995dd61fc359069b730f18a8961ef",
+    "bytes": 133921,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0422",
+    "title": "阿彌陀經略解",
+    "path": "X/X22/X22n0422.xml",
+    "sha": "5d0d30e6e1484184c38a881ea5ceb8d025c38f92",
+    "bytes": 118712,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0423",
+    "title": "阿彌陀經略解圓中鈔",
+    "path": "X/X22/X22n0423.xml",
+    "sha": "fc5d51779fb7cc0d9a1be6cb60d7df67496c18ea",
+    "bytes": 431364,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0424",
+    "title": "阿彌陀經疏鈔",
+    "path": "X/X22/X22n0424.xml",
+    "sha": "f0eae50a67a6102ce13a8e52934689198d16167b",
+    "bytes": 894699,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0425",
+    "title": "阿彌陀經疏鈔事義",
+    "path": "X/X22/X22n0425.xml",
+    "sha": "c555e949551bedd5090427c7e7eb3204a3a3cc38",
+    "bytes": 113929,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0426",
+    "title": "阿彌陀經疏鈔問辯",
+    "path": "X/X22/X22n0426.xml",
+    "sha": "e371c16f394a04e486784e28fe49441f75f3b0f9",
+    "bytes": 95067,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0427",
+    "title": "阿彌陀經疏鈔演義",
+    "path": "X/X22/X22n0427.xml",
+    "sha": "bf64aed15cfcab66b2da823df7dcb0972cd17f8e",
+    "bytes": 1012896,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0428",
+    "title": "阿彌陀經疏鈔擷",
+    "path": "X/X22/X22n0428.xml",
+    "sha": "078fa04c9e20263bf4ab4f64f275be6ddbf66d46",
+    "bytes": 180247,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0429",
+    "title": "阿彌陀經已決",
+    "path": "X/X22/X22n0429.xml",
+    "sha": "cebaba7854cc0e486d001f7f858f001d21406113",
+    "bytes": 49437,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0430",
+    "title": "阿彌陀經要解便蒙鈔",
+    "path": "X/X22/X22n0430.xml",
+    "sha": "0165e87d0bbdd265b7c963de013977124d20997e",
+    "bytes": 743886,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0431",
+    "title": "阿彌陀經略註",
+    "path": "X/X22/X22n0431.xml",
+    "sha": "8012b08ffaa897ed3f837c621de64e58961412b6",
+    "bytes": 160309,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0432",
+    "title": "阿彌陀經註",
+    "path": "X/X22/X22n0432.xml",
+    "sha": "cd4215d0da219b3ea29e5037da6584eded2a4451",
+    "bytes": 137940,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0433",
+    "title": "阿彌陀經約論",
+    "path": "X/X22/X22n0433.xml",
+    "sha": "2febed2868eb520399ca1a0b56c42efc53f83ab6",
+    "bytes": 23308,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0434",
+    "title": "阿彌陀經直解正行",
+    "path": "X/X22/X22n0434.xml",
+    "sha": "e68e6c8d524e07d31b2f00264fa41b8a460524e2",
+    "bytes": 269811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X22",
+    "id": "X22n0435",
+    "title": "阿彌陀經摘要易解",
+    "path": "X/X22/X22n0435.xml",
+    "sha": "58a2685d5f9579852c682e0278a9b58f081c557d",
+    "bytes": 135644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

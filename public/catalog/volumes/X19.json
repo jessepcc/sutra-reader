@@ -1,0 +1,82 @@
+[
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0343",
+    "title": "維摩經略疏",
+    "path": "X/X19/X19n0343.xml",
+    "sha": "19043eaa06277f7fa1bf829084d652a984b8d37f",
+    "bytes": 1132048,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0345",
+    "title": "維摩經疏記鈔",
+    "path": "X/X19/X19n0345.xml",
+    "sha": "b4a2f59719d5c92e11555b173ac3ba109e824534",
+    "bytes": 184003,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0347",
+    "title": "維摩經評註",
+    "path": "X/X19/X19n0347.xml",
+    "sha": "6d3564260b7c9ab36f46a0a125d4c48eac6070c4",
+    "bytes": 316835,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0348",
+    "title": "維摩經無我疏",
+    "path": "X/X19/X19n0348.xml",
+    "sha": "43c4578b3bc00e45479950d97822eb0187aef10e",
+    "bytes": 1714855,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0349",
+    "title": "維摩經疏科",
+    "path": "X/X19/X19n0349.xml",
+    "sha": "5c203a75de4be00863de37a6684373e44d185a75",
+    "bytes": 300330,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0351",
+    "title": "勝鬘經義記",
+    "path": "X/X19/X19n0351.xml",
+    "sha": "727d5bf129be2d6ccc42d70198c61efaa23d571e",
+    "bytes": 368505,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0352",
+    "title": "勝鬘經述記",
+    "path": "X/X19/X19n0352.xml",
+    "sha": "a5aa160e631f375b389bc0594b2e06f16c1b7bc8",
+    "bytes": 347810,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X19",
+    "id": "X19n0353",
+    "title": "勝鬘經疏義私鈔",
+    "path": "X/X19/X19n0353.xml",
+    "sha": "6246593f8fb62e51b393a9c127a0bf1b9124e10b",
+    "bytes": 634566,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

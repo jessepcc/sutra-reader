@@ -1,0 +1,102 @@
+[
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0866",
+    "title": "肇論疏",
+    "path": "X/X54/X54n0866.xml",
+    "sha": "7ec648366a23350a64fd898ea552068c9c06ed01",
+    "bytes": 376246,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0868",
+    "title": "肇論疏科",
+    "path": "X/X54/X54n0868.xml",
+    "sha": "0fb9843c69e4c3986a334c2dd8121bc628ec0321",
+    "bytes": 142557,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0869",
+    "title": "夾科肇論序注",
+    "path": "X/X54/X54n0869.xml",
+    "sha": "0fbb9f3dfc37e9b3c97433a40f395de9b7239d17",
+    "bytes": 52249,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0870",
+    "title": "注肇論疏",
+    "path": "X/X54/X54n0870.xml",
+    "sha": "c1408a46e0b27c280dcc7e3a2f88aad316091c91",
+    "bytes": 1001516,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0872",
+    "title": "肇論新疏游刃",
+    "path": "X/X54/X54n0872.xml",
+    "sha": "4ad6304d06b6056a19d04a7e71e805a05ff8be2a",
+    "bytes": 607605,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0873",
+    "title": "肇論略註",
+    "path": "X/X54/X54n0873.xml",
+    "sha": "b018729566bc12a45a5921c97b9ff25539bb969c",
+    "bytes": 491218,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0876",
+    "title": "三論略章",
+    "path": "X/X54/X54n0876.xml",
+    "sha": "de1cfe819613c82f7e71382f44914a43e4c453bb",
+    "bytes": 111925,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0878",
+    "title": "物不遷正量證",
+    "path": "X/X54/X54n0878.xml",
+    "sha": "fe94748aac1aebcffc599534c2118771c429845a",
+    "bytes": 26691,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0879",
+    "title": "物不遷正量論",
+    "path": "X/X54/X54n0879.xml",
+    "sha": "2484c2345c6008b337640214dd1bee868bb7afe5",
+    "bytes": 153249,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X54",
+    "id": "X54n0880",
+    "title": "物不遷論辯解",
+    "path": "X/X54/X54n0880.xml",
+    "sha": "805fc101396b057628bc299af58a9c3021eec746",
+    "bytes": 71565,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

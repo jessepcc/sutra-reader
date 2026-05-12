@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "J",
+    "volume": "J24",
+    "id": "J24nB137",
+    "title": "趙州和尚語錄",
+    "path": "J/J24/J24nB137.xml",
+    "sha": "80bcb8b70633e2d7bf1009d2d71cbe58b89206e8",
+    "bytes": 173935,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J24",
+    "id": "J24nB138",
+    "title": "雲門匡真禪師語錄",
+    "path": "J/J24/J24nB138.xml",
+    "sha": "9df1768f1bc7e52424decc8e8b8694cdde167f35",
+    "bytes": 241197,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

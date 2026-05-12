@@ -1,0 +1,592 @@
+[
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1448",
+    "title": "根本說一切有部毘奈耶藥事",
+    "path": "T/T24/T24n1448.xml",
+    "sha": "fa9290e49ba7d303cd7bf29de567f133d9c7cd06",
+    "bytes": 837683,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1449",
+    "title": "根本說一切有部毘奈耶羯恥那衣事",
+    "path": "T/T24/T24n1449.xml",
+    "sha": "63697aefaa0445c1c09bd8a759ac0bf151f37985",
+    "bytes": 18064,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1450",
+    "title": "根本說一切有部毘奈耶破僧事",
+    "path": "T/T24/T24n1450.xml",
+    "sha": "809bd7bae8fa4c822f4a169c5dee680f0eea63a1",
+    "bytes": 1654332,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1451",
+    "title": "根本說一切有部毘奈耶雜事",
+    "path": "T/T24/T24n1451.xml",
+    "sha": "2fbced42945c6b786776f8bff22775766352a2d3",
+    "bytes": 3109821,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1452",
+    "title": "根本說一切有部尼陀那目得迦",
+    "path": "T/T24/T24n1452.xml",
+    "sha": "9c2d22fd1213188d594b161a72127c24d56c2ed8",
+    "bytes": 563491,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1453",
+    "title": "根本說一切有部百一羯磨",
+    "path": "T/T24/T24n1453.xml",
+    "sha": "c491805b2f84553719d10d9289eab3d753070a63",
+    "bytes": 708775,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1454",
+    "title": "根本說一切有部戒經",
+    "path": "T/T24/T24n1454.xml",
+    "sha": "8ba358e1a98a4900c7c5e0effd5c5a2f48c62c59",
+    "bytes": 146634,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1455",
+    "title": "根本說一切有部苾芻尼戒經",
+    "path": "T/T24/T24n1455.xml",
+    "sha": "3662970b5ea8f517b2307d1419de6416d7202b53",
+    "bytes": 138518,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1456",
+    "title": "根本說一切有部毘奈耶尼陀那目得迦攝頌",
+    "path": "T/T24/T24n1456.xml",
+    "sha": "4fcf2029b9c00b7453807df3131aee4d8a2f3ac0",
+    "bytes": 88568,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1457",
+    "title": "根本說一切有部略毘奈耶雜事攝頌",
+    "path": "T/T24/T24n1457.xml",
+    "sha": "2624e0ca6431a7e5a6eaf843459d468af326d9ff",
+    "bytes": 65588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1458",
+    "title": "根本薩婆多部律攝",
+    "path": "T/T24/T24n1458.xml",
+    "sha": "dffda6b0cdd90b292b716a0a46bdcfa4d6ebbe07",
+    "bytes": 1975595,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1459",
+    "title": "根本說一切有部毘奈耶頌",
+    "path": "T/T24/T24n1459.xml",
+    "sha": "886b83abc6fd793f437d43240c7c4b2606b9070b",
+    "bytes": 677937,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1460",
+    "title": "解脫戒經",
+    "path": "T/T24/T24n1460.xml",
+    "sha": "bad51e22840b7690da8cafc3d18b9fc29e3dea58",
+    "bytes": 156560,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1461",
+    "title": "律二十二明了論",
+    "path": "T/T24/T24n1461.xml",
+    "sha": "59cd7f328603ca34f1cca9ec04a647254826113c",
+    "bytes": 125692,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1462",
+    "title": "善見律毘婆沙",
+    "path": "T/T24/T24n1462.xml",
+    "sha": "4b254fb0a43032526564875534a6111d7e5b9720",
+    "bytes": 3104812,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1463",
+    "title": "毘尼母經",
+    "path": "T/T24/T24n1463.xml",
+    "sha": "ee1747dcd0271dc09a7b989b3f1d5d408d1b8fe8",
+    "bytes": 937076,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1464",
+    "title": "鼻奈耶",
+    "path": "T/T24/T24n1464.xml",
+    "sha": "4c7d779292d5bb4df1c17a26e8e19db53df0745d",
+    "bytes": 1238577,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1465",
+    "title": "舍利弗問經",
+    "path": "T/T24/T24n1465.xml",
+    "sha": "c0cbcf2987b6fb8fabe0c344b5750ded54e1d7e5",
+    "bytes": 69161,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1466",
+    "title": "優波離問佛經",
+    "path": "T/T24/T24n1466.xml",
+    "sha": "ad335c7c8c8d303941463b0af72e741e7a36a665",
+    "bytes": 115767,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1467a",
+    "title": "佛說犯戒罪報輕重經",
+    "path": "T/T24/T24n1467a.xml",
+    "sha": "06df59936f87b1eeb94623c45792bfe1ea1e749a",
+    "bytes": 41744,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1467b",
+    "title": "佛說犯戒罪報輕重經",
+    "path": "T/T24/T24n1467b.xml",
+    "sha": "c6b0b17c84762fc9a73027870941f53b72624837",
+    "bytes": 6845,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1468",
+    "title": "佛說目連所問經",
+    "path": "T/T24/T24n1468.xml",
+    "sha": "6320ad74752ec13719d13587c5e9c60dd7c5b6e5",
+    "bytes": 11163,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1469",
+    "title": "佛說迦葉禁戒經",
+    "path": "T/T24/T24n1469.xml",
+    "sha": "70e2c55a58dc91416edf783c13665c20cce1602c",
+    "bytes": 17244,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1470",
+    "title": "大比丘三千威儀",
+    "path": "T/T24/T24n1470.xml",
+    "sha": "716886dfff8ac329f5aedd73b3ef5ec045265678",
+    "bytes": 386955,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1471",
+    "title": "沙彌十戒法并威儀",
+    "path": "T/T24/T24n1471.xml",
+    "sha": "b7bb707a21a1786db2daaf2e6388757cd19c1072",
+    "bytes": 153177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1472",
+    "title": "沙彌威儀",
+    "path": "T/T24/T24n1472.xml",
+    "sha": "b256c152ff67b963d5a27a13ba7b30be89b5514c",
+    "bytes": 68658,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1473",
+    "title": "佛說沙彌十戒儀則經",
+    "path": "T/T24/T24n1473.xml",
+    "sha": "c4a1598ddd298c79af04d909885cdb9220c70d9d",
+    "bytes": 20532,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1474",
+    "title": "沙彌尼戒經",
+    "path": "T/T24/T24n1474.xml",
+    "sha": "8c639c4a4bffe0e5bdb52b02083f0c08b3ab7ff3",
+    "bytes": 30383,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1475",
+    "title": "沙彌尼離戒文",
+    "path": "T/T24/T24n1475.xml",
+    "sha": "496fc8a065a0b14d82317148ee6ff800ad8e08f7",
+    "bytes": 37212,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1476",
+    "title": "佛說優婆塞五戒相經",
+    "path": "T/T24/T24n1476.xml",
+    "sha": "455c7aa74ad0a33b7dcb4b79ff3205260c6ed4fb",
+    "bytes": 82828,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1477",
+    "title": "佛說戒消災經",
+    "path": "T/T24/T24n1477.xml",
+    "sha": "e632a16103cfe2f29a6ac224bb33e3d114b3eb8e",
+    "bytes": 34421,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1478",
+    "title": "大愛道比丘尼經",
+    "path": "T/T24/T24n1478.xml",
+    "sha": "cf7be7797856ac417ac77e0efca69dfd6b57e08f",
+    "bytes": 180256,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1479",
+    "title": "佛說苾芻五法經",
+    "path": "T/T24/T24n1479.xml",
+    "sha": "a493ddd5f2a86772e7ac3a7f1cd7270db2b01d7e",
+    "bytes": 23309,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1480",
+    "title": "佛說苾芻迦尸迦十法經",
+    "path": "T/T24/T24n1480.xml",
+    "sha": "cbd6c5151c06b49231fb8502c45135fe2d7b8c82",
+    "bytes": 21654,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1481",
+    "title": "佛說五恐怖世經",
+    "path": "T/T24/T24n1481.xml",
+    "sha": "279958f4e9e2ab6b36d7d1b059ed52fc41d95a24",
+    "bytes": 10043,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1482",
+    "title": "佛阿毘曇經出家相品",
+    "path": "T/T24/T24n1482.xml",
+    "sha": "cfff0c79f6e3dff1396cc65ecead33a596b8a87c",
+    "bytes": 193327,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1483a",
+    "title": "佛說目連問戒律中五百輕重事",
+    "path": "T/T24/T24n1483a.xml",
+    "sha": "046a5ff2232638e3eeaea154aee18528646b5e12",
+    "bytes": 106858,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1483b",
+    "title": "佛說目連問戒律中五百輕重事經",
+    "path": "T/T24/T24n1483b.xml",
+    "sha": "adf5ac18c0e9e20b41d04d8aae2db0bd1e4d113c",
+    "bytes": 175081,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1484",
+    "title": "梵網經",
+    "path": "T/T24/T24n1484.xml",
+    "sha": "75eb52d6373e5a4d0277ef785e6d70eff7fa8267",
+    "bytes": 361224,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1485",
+    "title": "菩薩瓔珞本業經",
+    "path": "T/T24/T24n1485.xml",
+    "sha": "83742593b484671ec0176906882240dee8e17801",
+    "bytes": 312793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1486",
+    "title": "受十善戒經",
+    "path": "T/T24/T24n1486.xml",
+    "sha": "f57ecef5eb88c8bc03f11e39f6fd1f5fa55c064a",
+    "bytes": 130738,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1487",
+    "title": "佛說菩薩內戒經",
+    "path": "T/T24/T24n1487.xml",
+    "sha": "20a9bf72143c1128c349835c5d9c880bb9ee420b",
+    "bytes": 86178,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1488",
+    "title": "優婆塞戒經",
+    "path": "T/T24/T24n1488.xml",
+    "sha": "80a511fb15e4cc5e2f566d969382422352dbae70",
+    "bytes": 767777,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1489",
+    "title": "清淨毘尼方廣經",
+    "path": "T/T24/T24n1489.xml",
+    "sha": "abc7bc2ec3587c5a5e72b2f7199fa07d337e3b6b",
+    "bytes": 97048,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1490",
+    "title": "寂調音所問經",
+    "path": "T/T24/T24n1490.xml",
+    "sha": "715eccf6dc0f17f4c55ec029ead3ed3d7125cd06",
+    "bytes": 79170,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1491",
+    "title": "菩薩藏經",
+    "path": "T/T24/T24n1491.xml",
+    "sha": "a22cfe4ef3888fbf54f78f199f2ab2b86bf6efb9",
+    "bytes": 46950,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1492",
+    "title": "佛說舍利弗悔過經",
+    "path": "T/T24/T24n1492.xml",
+    "sha": "a3d0eebe881f3f63381b5c1b6d461f91cc736c5d",
+    "bytes": 31963,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1493",
+    "title": "大乘三聚懺悔經",
+    "path": "T/T24/T24n1493.xml",
+    "sha": "74d9b0114ecb5c9509272c34f3e159d15c424bde",
+    "bytes": 52856,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1494",
+    "title": "佛說淨業障經",
+    "path": "T/T24/T24n1494.xml",
+    "sha": "0357ed43959539bac7941fe6f2f99de6d9d9f2e4",
+    "bytes": 77588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1495",
+    "title": "善恭敬經",
+    "path": "T/T24/T24n1495.xml",
+    "sha": "4b11f66f9f43829348573fbde543f5ce37954210",
+    "bytes": 31891,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1496",
+    "title": "佛說正恭敬經",
+    "path": "T/T24/T24n1496.xml",
+    "sha": "22466ba4b5b56e556ef23d08a629348b9e48c107",
+    "bytes": 30684,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1497",
+    "title": "佛說大乘戒經",
+    "path": "T/T24/T24n1497.xml",
+    "sha": "99c0cbdc7e371542585841e7ae5201aeaaa5343e",
+    "bytes": 9770,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1498",
+    "title": "佛說八種長養功德經",
+    "path": "T/T24/T24n1498.xml",
+    "sha": "3b1d85810612af42aa80f02fba500253f43ef91b",
+    "bytes": 8908,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1499",
+    "title": "菩薩戒羯磨文",
+    "path": "T/T24/T24n1499.xml",
+    "sha": "85e5a2ca1bc9ad3018fde93413d350c7077400c4",
+    "bytes": 39621,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1500",
+    "title": "菩薩戒本",
+    "path": "T/T24/T24n1500.xml",
+    "sha": "458023b42df920541f0697974f2a6ded6168f253",
+    "bytes": 49283,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1501",
+    "title": "菩薩戒本",
+    "path": "T/T24/T24n1501.xml",
+    "sha": "8abb6674ffa0eb7c94f8186119da423b6efec333",
+    "bytes": 79507,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1502",
+    "title": "菩薩受齋經",
+    "path": "T/T24/T24n1502.xml",
+    "sha": "dfdae24e5bc56f5336263215df89d4a71bfa0b3d",
+    "bytes": 16619,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1503",
+    "title": "優婆塞五戒威儀經",
+    "path": "T/T24/T24n1503.xml",
+    "sha": "d57bf3ce5eb6d74d6785fdc56a792607aaebdc11",
+    "bytes": 87537,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T24",
+    "id": "T24n1504",
+    "title": "菩薩五法懺悔文",
+    "path": "T/T24/T24n1504.xml",
+    "sha": "e1f8facdf7551652e0d340c9a1c71a37bb6144c7",
+    "bytes": 13040,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

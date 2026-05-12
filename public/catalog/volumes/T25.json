@@ -1,0 +1,152 @@
+[
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1505",
+    "title": "四阿鋡暮抄解",
+    "path": "T/T25/T25n1505.xml",
+    "sha": "389c844df1c79fcfcd5792ac647fa4a655db8df7",
+    "bytes": 423837,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1506",
+    "title": "三法度論",
+    "path": "T/T25/T25n1506.xml",
+    "sha": "a9beaf7ec8c755d983bc77a563faffb5679eba24",
+    "bytes": 280293,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1507",
+    "title": "分別功德論",
+    "path": "T/T25/T25n1507.xml",
+    "sha": "efd9e0b1d7aa45bc4085f096256d0ff11e4f69f5",
+    "bytes": 429212,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1508",
+    "title": "阿含口解十二因緣經",
+    "path": "T/T25/T25n1508.xml",
+    "sha": "b6ad7e8703eb76b99f0e3ac244055d55ff0f4ada",
+    "bytes": 45432,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1509",
+    "title": "大智度論",
+    "path": "T/T25/T25n1509.xml",
+    "sha": "741cbdf37d4ccdab499340850b5e7e620c70f40c",
+    "bytes": 17156542,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1510a",
+    "title": "金剛般若論",
+    "path": "T/T25/T25n1510a.xml",
+    "sha": "77b246357f417b9d2fb49612ea1bd7f350bb1ed4",
+    "bytes": 88019,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1510b",
+    "title": "金剛般若波羅蜜經論",
+    "path": "T/T25/T25n1510b.xml",
+    "sha": "6c4338b5e6f4a0ee88e7887102f9ab652c7c1aee",
+    "bytes": 141178,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1511",
+    "title": "金剛般若波羅蜜經論",
+    "path": "T/T25/T25n1511.xml",
+    "sha": "679ff017b5788752c63c38d7cafe08313b9b5f65",
+    "bytes": 181869,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1512",
+    "title": "金剛仙論",
+    "path": "T/T25/T25n1512.xml",
+    "sha": "5afc86405f29a87aa43be3a51a512de95155109f",
+    "bytes": 1394150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1513",
+    "title": "能斷金剛般若波羅蜜多經論釋",
+    "path": "T/T25/T25n1513.xml",
+    "sha": "93fa19f757f1402e927010eb0037b85ccdc33972",
+    "bytes": 113538,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1514",
+    "title": "能斷金剛般若波羅蜜多經論頌",
+    "path": "T/T25/T25n1514.xml",
+    "sha": "550afb45a9bdb6ac5d54ac45ad152f6843b4aa4f",
+    "bytes": 24563,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1515",
+    "title": "金剛般若波羅蜜經破取著不壞假名論",
+    "path": "T/T25/T25n1515.xml",
+    "sha": "b662558a621bfe0d2c223b17f839fbb6e34aec7a",
+    "bytes": 111638,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1516",
+    "title": "聖佛母般若波羅蜜多九頌精義論",
+    "path": "T/T25/T25n1516.xml",
+    "sha": "020151af7c76561e068ce689de4b5d34e835b158",
+    "bytes": 32325,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1517",
+    "title": "佛母般若波羅蜜多圓集要義釋論",
+    "path": "T/T25/T25n1517.xml",
+    "sha": "487799790ecf90bdc7c17d08be913278ceb807b6",
+    "bytes": 119728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T25",
+    "id": "T25n1518",
+    "title": "佛母般若波羅蜜多圓集要義論",
+    "path": "T/T25/T25n1518.xml",
+    "sha": "8310c5775b27364f1993ac1c60cdd9c73392e211",
+    "bytes": 16533,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

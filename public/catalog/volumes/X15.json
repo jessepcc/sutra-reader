@@ -1,0 +1,82 @@
+[
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0299",
+    "title": "楞嚴經講錄",
+    "path": "X/X15/X15n0299.xml",
+    "sha": "12f16db96677b3a1e536effa5168c8f781cce8c0",
+    "bytes": 1489926,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0300",
+    "title": "楞嚴經纂註",
+    "path": "X/X15/X15n0300.xml",
+    "sha": "7b0bb73700e54340fe24530d49d9c95b8892da8c",
+    "bytes": 872526,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0301",
+    "title": "楞嚴經精解評林",
+    "path": "X/X15/X15n0301.xml",
+    "sha": "5e0ad22d22f57c61c9fa3cb0de592727169b059d",
+    "bytes": 1073089,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0302",
+    "title": "楞嚴經略疏",
+    "path": "X/X15/X15n0302.xml",
+    "sha": "8eed002fa0bb87ff912a516db0d4ec2cd8a1e740",
+    "bytes": 486728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0303",
+    "title": "楞嚴經貫攝",
+    "path": "X/X15/X15n0303.xml",
+    "sha": "3de0b6cf813d788ad2027222a7b59f2bbca76905",
+    "bytes": 2449427,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0304",
+    "title": "楞嚴經觀心定解科",
+    "path": "X/X15/X15n0304.xml",
+    "sha": "b219a47887ff1fc3cae74f0b1704429219ffc46c",
+    "bytes": 273306,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0305",
+    "title": "楞嚴經觀心定解大綱",
+    "path": "X/X15/X15n0305.xml",
+    "sha": "7ce33b7898a5bcaed38415d0440594ecd5b9155a",
+    "bytes": 176364,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X15",
+    "id": "X15n0306",
+    "title": "楞嚴經觀心定解",
+    "path": "X/X15/X15n0306.xml",
+    "sha": "8137d029d3696745a0bf505489b84993ce697a93",
+    "bytes": 2775815,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

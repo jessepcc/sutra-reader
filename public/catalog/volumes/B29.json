@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "B",
+    "volume": "B29",
+    "id": "B29n0160",
+    "title": "金陵梵剎志",
+    "path": "B/B29/B29n0160.xml",
+    "sha": "8cf06c1426a65adee586b34de35e9ca690639cc2",
+    "bytes": 3133773,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B29",
+    "id": "B29n0161",
+    "title": "武林梵志",
+    "path": "B/B29/B29n0161.xml",
+    "sha": "42fc44e20d7f27763f4e862168a1d86234347bd6",
+    "bytes": 1152252,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B29",
+    "id": "B29na028",
+    "title": "大藏經補編第二十九冊．編輯說明",
+    "path": "B/B29/B29na028.xml",
+    "sha": "5fc6a1268b3860199b33cf3f55960b8fb36eac2e",
+    "bytes": 7262,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

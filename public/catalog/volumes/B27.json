@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "B",
+    "volume": "B27",
+    "id": "B27n0151",
+    "title": "新續高僧傳",
+    "path": "B/B27/B27n0151.xml",
+    "sha": "0d2cc11f5793ca90dd3f1bae3649915c6d42192c",
+    "bytes": 2253866,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B27",
+    "id": "B27n0152",
+    "title": "普濟玉琳國師語錄",
+    "path": "B/B27/B27n0152.xml",
+    "sha": "0164777f9c58db06b36b9aaea6581dfc116b374c",
+    "bytes": 868355,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B27",
+    "id": "B27n0153",
+    "title": "法藏碎金錄",
+    "path": "B/B27/B27n0153.xml",
+    "sha": "fcecb871be375e1330bf1e7bf4df2d4d90bd49a7",
+    "bytes": 721871,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B27",
+    "id": "B27na026",
+    "title": "大藏經補編第二十七冊．編輯說明",
+    "path": "B/B27/B27na026.xml",
+    "sha": "fe1077f2e4d481e0d12ef7f0c7a189625bad2a37",
+    "bytes": 6925,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

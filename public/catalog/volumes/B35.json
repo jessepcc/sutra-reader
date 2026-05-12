@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "B",
+    "volume": "B35",
+    "id": "B35n0194",
+    "title": "中華大藏經總目錄",
+    "path": "B/B35/B35n0194.xml",
+    "sha": "bb07e182f99118cdc708a228ef67a727c9afa042",
+    "bytes": 2453124,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B35",
+    "id": "B35n0195",
+    "title": "頓悟大乘政理決",
+    "path": "B/B35/B35n0195.xml",
+    "sha": "6aec772fce37bc1c24c8c5888a69ff18d27fc1d5",
+    "bytes": 223032,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B35",
+    "id": "B35n0196",
+    "title": "大乘中宗見解",
+    "path": "B/B35/B35n0196.xml",
+    "sha": "9f0a23dd3b0d50482c1ab4f92ee239ff8e5281b6",
+    "bytes": 61805,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B35",
+    "id": "B35na035",
+    "title": "大藏經補編第三十五冊．編輯說明",
+    "path": "B/B35/B35na035.xml",
+    "sha": "6fde24c2783c7e1a045c6cb4d2faf4351a9803ac",
+    "bytes": 6434,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "F",
+    "volume": "F03",
+    "id": "F03n0088",
+    "title": "佛說灌頂章句拔除過罪生死得度經",
+    "path": "F/F03/F03n0088.xml",
+    "sha": "1b6e02554fbd113142ea48a198d1832d6c12ab39",
+    "bytes": 66036,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F03",
+    "id": "F03n0089",
+    "title": "佛說恒水流樹經",
+    "path": "F/F03/F03n0089.xml",
+    "sha": "714cfcd5661ed1e06a4068b8d990de0dfe39b9b7",
+    "bytes": 19675,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F03",
+    "id": "F03n0100",
+    "title": "金剛般若波羅蜜經（御注並序）",
+    "path": "F/F03/F03n0100.xml",
+    "sha": "e3dd64ec2bf7a9a5e25ce0164fef47dccaf3fc40",
+    "bytes": 514222,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F03",
+    "id": "F03n0181",
+    "title": "大般若關",
+    "path": "F/F03/F03n0181.xml",
+    "sha": "979724b8baae235a6856de58d20d91c39e5e978c",
+    "bytes": 24185,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F03",
+    "id": "F03n0248",
+    "title": "佛說救護身命經",
+    "path": "F/F03/F03n0248.xml",
+    "sha": "0a1cda2f232fe850724f15bd12c5b5e437db7454",
+    "bytes": 24856,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

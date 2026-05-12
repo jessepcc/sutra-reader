@@ -1,0 +1,312 @@
+[
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0279",
+    "title": "大方廣佛華嚴經",
+    "path": "T/T10/T10n0279.xml",
+    "sha": "3facd644dfa5810c4dfb741e06801f1b7ae3b855",
+    "bytes": 4577647,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0280",
+    "title": "佛說兜沙經",
+    "path": "T/T10/T10n0280.xml",
+    "sha": "a424032abbdfc992768afd70a360c4571f09dc8c",
+    "bytes": 41842,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0281",
+    "title": "佛說菩薩本業經",
+    "path": "T/T10/T10n0281.xml",
+    "sha": "49715706a80429136c8672a0b87acae249895b36",
+    "bytes": 148760,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0282",
+    "title": "諸菩薩求佛本業經",
+    "path": "T/T10/T10n0282.xml",
+    "sha": "d3642e16b5879695edf44e582cd0092aae26de81",
+    "bytes": 82941,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0283",
+    "title": "菩薩十住行道品",
+    "path": "T/T10/T10n0283.xml",
+    "sha": "dab5f839aeeda9a04633cefdc24668ab7edce73b",
+    "bytes": 59941,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0284",
+    "title": "佛說菩薩十住經",
+    "path": "T/T10/T10n0284.xml",
+    "sha": "eb43920ad860ea1c38fa114a14a6328de37b0780",
+    "bytes": 37064,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0285",
+    "title": "漸備一切智德經",
+    "path": "T/T10/T10n0285.xml",
+    "sha": "e38fc2e523a2e6cd63d7c21535a4c6b66296548b",
+    "bytes": 979886,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0286",
+    "title": "十住經",
+    "path": "T/T10/T10n0286.xml",
+    "sha": "f787e0e2ccf90f29006758e7716a89ea98cbcad6",
+    "bytes": 560066,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0287",
+    "title": "佛說十地經",
+    "path": "T/T10/T10n0287.xml",
+    "sha": "563dc1c9b349fe6f5623c50978d8d70578ebced3",
+    "bytes": 394099,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0288",
+    "title": "等目菩薩所問三昧經",
+    "path": "T/T10/T10n0288.xml",
+    "sha": "e7348c8defd08962a2a5118fedcb566b1d7885e0",
+    "bytes": 320239,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0289",
+    "title": "顯無邊佛土功德經",
+    "path": "T/T10/T10n0289.xml",
+    "sha": "e8310b3c116a65d71f9efa65c3429afe86beef8f",
+    "bytes": 10115,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0290",
+    "title": "佛說較量一切佛剎功德經",
+    "path": "T/T10/T10n0290.xml",
+    "sha": "33cf192119a8acf9a5af9cd4b6053513ebc55887",
+    "bytes": 9913,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0291",
+    "title": "佛說如來興顯經",
+    "path": "T/T10/T10n0291.xml",
+    "sha": "8e7500e8c28eca9475a93c23b83313d6f39b6553",
+    "bytes": 575106,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0292",
+    "title": "度世品經",
+    "path": "T/T10/T10n0292.xml",
+    "sha": "ccfe0c0c282b1dd67cbe1cc8cbea82a52507ad5d",
+    "bytes": 758876,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0293",
+    "title": "大方廣佛華嚴經",
+    "path": "T/T10/T10n0293.xml",
+    "sha": "77b3d6a0b1408644e1bf8cb2b389aabdf99853ff",
+    "bytes": 2498279,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0294",
+    "title": "佛說羅摩伽經",
+    "path": "T/T10/T10n0294.xml",
+    "sha": "91fd6c58b931ea1c0990da868146e27543489937",
+    "bytes": 359081,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0295",
+    "title": "大方廣佛華嚴經入法界品",
+    "path": "T/T10/T10n0295.xml",
+    "sha": "48114e7da5f7359f6b1588ef88f61532452e238e",
+    "bytes": 37444,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0296",
+    "title": "文殊師利發願經",
+    "path": "T/T10/T10n0296.xml",
+    "sha": "7cb9611d555f234cab34312593ad43433ed5c8dc",
+    "bytes": 16290,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0297",
+    "title": "普賢菩薩行願讚",
+    "path": "T/T10/T10n0297.xml",
+    "sha": "8a206e2c8b50496fbd062a9c7d1fd45070854344",
+    "bytes": 36884,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0298",
+    "title": "大方廣普賢所說經",
+    "path": "T/T10/T10n0298.xml",
+    "sha": "197c0934e476531a9f825aa1600a1e736daa1753",
+    "bytes": 18608,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0299",
+    "title": "大方廣總持寶光明經",
+    "path": "T/T10/T10n0299.xml",
+    "sha": "8a4cd45fb9cfb81c2c5c141a870054bd537f5cb9",
+    "bytes": 241532,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0300",
+    "title": "大方廣佛華嚴經不思議佛境界分",
+    "path": "T/T10/T10n0300.xml",
+    "sha": "21d9dc1ca9898d88ac33ea903cdf99650091ed8c",
+    "bytes": 63818,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0301",
+    "title": "大方廣如來不思議境界經",
+    "path": "T/T10/T10n0301.xml",
+    "sha": "3f66edd246dad2ad1e882bad9d2280c7fe0c6184",
+    "bytes": 42429,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0302",
+    "title": "度諸佛境界智光嚴經",
+    "path": "T/T10/T10n0302.xml",
+    "sha": "f43db63055538e75bca9c71ee07a3cf53d099fc8",
+    "bytes": 86163,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0303",
+    "title": "佛華嚴入如來德智不思議境界經",
+    "path": "T/T10/T10n0303.xml",
+    "sha": "78492d18b8f1ff2cc76986dc60c7efab66d7e6a2",
+    "bytes": 114590,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0304",
+    "title": "大方廣入如來智德不思議經",
+    "path": "T/T10/T10n0304.xml",
+    "sha": "731f0bfb7d6c63f4000de928abed40dd310a95fe",
+    "bytes": 55932,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0305",
+    "title": "信力入印法門經",
+    "path": "T/T10/T10n0305.xml",
+    "sha": "82024ce1935455b5cb94932b9aee3dd6452956ab",
+    "bytes": 381483,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0306",
+    "title": "大方廣佛花嚴經修慈分",
+    "path": "T/T10/T10n0306.xml",
+    "sha": "f38dd3556ef93636e255dc00a5f7c72599ca1140",
+    "bytes": 30437,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0307",
+    "title": "佛說莊嚴菩提心經",
+    "path": "T/T10/T10n0307.xml",
+    "sha": "0a64a63eb321ec73917fc600806c79381048cab0",
+    "bytes": 32904,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0308",
+    "title": "佛說大方廣菩薩十地經",
+    "path": "T/T10/T10n0308.xml",
+    "sha": "5bc039c3db6c7c6956aab4d5416a1524b2bb236a",
+    "bytes": 36694,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T10",
+    "id": "T10n0309",
+    "title": "最勝問菩薩十住除垢斷結經",
+    "path": "T/T10/T10n0309.xml",
+    "sha": "65ca2060a92ac350f70750b2c0f683c97fe633e1",
+    "bytes": 1300002,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

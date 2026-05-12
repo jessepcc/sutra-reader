@@ -16,7 +16,7 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": true,
-    "types": ["vite/client", "vitest/globals"],
+    "types": ["vite/client", "vitest/globals", "node"],
     "noEmit": true
   },
   "include": ["src", "tests"]

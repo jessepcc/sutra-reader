@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0727",
+    "title": "四分律刪補隨機羯磨疏科",
+    "path": "X/X41/X41n0727.xml",
+    "sha": "77df072b6b4f9ab61597e251909c076692fc7924",
+    "bytes": 630555,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0728",
+    "title": "四分律刪補隨機羯磨疏濟緣記",
+    "path": "X/X41/X41n0728.xml",
+    "sha": "fee698472f8ec9870694a9541673e703772b55a7",
+    "bytes": 3170169,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0729",
+    "title": "羯磨經序解",
+    "path": "X/X41/X41n0729.xml",
+    "sha": "b7a0b7625568c05f31e11a9409d540777c9c1479",
+    "bytes": 20189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0730",
+    "title": "毗尼作持續釋",
+    "path": "X/X41/X41n0730.xml",
+    "sha": "4818592817be00ac7a510042a86a2babe865cb82",
+    "bytes": 2342200,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0731",
+    "title": "四分律疏",
+    "path": "X/X41/X41n0731.xml",
+    "sha": "1aa4b89817d3287c99539209c4c8aab2fb9e18fe",
+    "bytes": 4264120,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X41",
+    "id": "X41n0732",
+    "title": "四分律搜玄錄",
+    "path": "X/X41/X41n0732.xml",
+    "sha": "55dbca8625ad5472d0b0842f0c7b918b9ca1b285",
+    "bytes": 919606,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

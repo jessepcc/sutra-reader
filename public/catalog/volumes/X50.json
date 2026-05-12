@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0816",
+    "title": "成唯識論演秘釋",
+    "path": "X/X50/X50n0816.xml",
+    "sha": "f3b6fc7fb5d37d8c1388bab3e2770e3bf0ab376a",
+    "bytes": 224194,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0817",
+    "title": "註成唯識論",
+    "path": "X/X50/X50n0817.xml",
+    "sha": "1bd950922b3164742311c7a6a15d80ed3aae0033",
+    "bytes": 68095,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0818",
+    "title": "成唯識論學記",
+    "path": "X/X50/X50n0818.xml",
+    "sha": "9fe4765806f8e5b60d1213373876c671d0652450",
+    "bytes": 1212970,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0819",
+    "title": "成唯識論疏抄",
+    "path": "X/X50/X50n0819.xml",
+    "sha": "1e31e9cda0d0999fba7ed3696303fe39c73dce73",
+    "bytes": 4538150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0820",
+    "title": "成唯識論俗詮",
+    "path": "X/X50/X50n0820.xml",
+    "sha": "fb12f2d735d162c50c2478e4724acd0ed6486e22",
+    "bytes": 1648017,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0821",
+    "title": "成唯識論集解",
+    "path": "X/X50/X50n0821.xml",
+    "sha": "25a80139446f8051f8fd8a80ebd0cc36aec0ba15",
+    "bytes": 1779008,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X50",
+    "id": "X50n0822",
+    "title": "成唯識論證義(第1卷-第3卷)",
+    "path": "X/X50/X50n0822.xml",
+    "sha": "f8ba50e511650205876f281364ee1329e69d32ed",
+    "bytes": 657915,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

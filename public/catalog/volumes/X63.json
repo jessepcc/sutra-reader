@@ -1,0 +1,392 @@
+[
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1217",
+    "title": "菩提達磨大師略辨大乘入道四行觀",
+    "path": "X/X63/X63n1217.xml",
+    "sha": "19e06b45d363d8d5c9c387a4ce052a8619e1260f",
+    "bytes": 13262,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1218",
+    "title": "達磨大師血脉論",
+    "path": "X/X63/X63n1218.xml",
+    "sha": "008c7ae50b3fda250d79613c348d62168e79c0d5",
+    "bytes": 41107,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1219",
+    "title": "達磨大師悟性論",
+    "path": "X/X63/X63n1219.xml",
+    "sha": "651c51bbe24960af244cc3e899aa4fa32e531726",
+    "bytes": 33632,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1220",
+    "title": "達磨大師破相論",
+    "path": "X/X63/X63n1220.xml",
+    "sha": "a2875064abcfca87c4eb0b9e9545d6d02c577d41",
+    "bytes": 38713,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1222",
+    "title": "修禪要訣",
+    "path": "X/X63/X63n1222.xml",
+    "sha": "85e71a6c9d241fcf8fb6e44f11cbb84d51a232c4",
+    "bytes": 42729,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1223",
+    "title": "頓悟入道要門論",
+    "path": "X/X63/X63n1223.xml",
+    "sha": "d01633a82e1f214a60c749ed8bdac1b748e6c477",
+    "bytes": 95042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1224",
+    "title": "諸方門人參問語錄",
+    "path": "X/X63/X63n1224.xml",
+    "sha": "d599ee809f852846f4b1acf7fa096109d2cb5a78",
+    "bytes": 72540,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1225",
+    "title": "中華傳心地禪門師資承襲圖",
+    "path": "X/X63/X63n1225.xml",
+    "sha": "326cf5c91aa8f0b52c2817e7720163df8737a534",
+    "bytes": 58775,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1226",
+    "title": "宗門十規論",
+    "path": "X/X63/X63n1226.xml",
+    "sha": "a1a556a2d5d810984be8343fd56d633310749dda",
+    "bytes": 38512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1229",
+    "title": "定慧相資歌",
+    "path": "X/X63/X63n1229.xml",
+    "sha": "162c199417ee09d9b64c11436a867a8aa157d291",
+    "bytes": 8734,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1230",
+    "title": "警世",
+    "path": "X/X63/X63n1230.xml",
+    "sha": "1a7279a65b7a67c8ad714b406e3ac54c69455f3e",
+    "bytes": 11647,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1231",
+    "title": "心賦注",
+    "path": "X/X63/X63n1231.xml",
+    "sha": "8c64bbebb3ad3f6819341345778b5feceacd20b0",
+    "bytes": 792910,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1232",
+    "title": "智覺禪師自行錄",
+    "path": "X/X63/X63n1232.xml",
+    "sha": "61b5186187681c8e6184585f4f8371f44daef646",
+    "bytes": 99405,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1233",
+    "title": "祇園正儀",
+    "path": "X/X63/X63n1233.xml",
+    "sha": "52f3f8301e5b1b9094bcde3179534afb84a4c422",
+    "bytes": 12015,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1234",
+    "title": "臨濟宗旨",
+    "path": "X/X63/X63n1234.xml",
+    "sha": "3758290f65808af2336b50fbb5f99e211e6b789b",
+    "bytes": 32091,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1235",
+    "title": "智證傳",
+    "path": "X/X63/X63n1235.xml",
+    "sha": "4d4f7d89f1f651f2a9d55856653242facc548153",
+    "bytes": 272816,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1236",
+    "title": "(重編)曹洞五位顯訣",
+    "path": "X/X63/X63n1236.xml",
+    "sha": "f2b01d84ae63def38fddc4580272c0b1ef904b31",
+    "bytes": 225714,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1237",
+    "title": "寶鏡三昧本義",
+    "path": "X/X63/X63n1237.xml",
+    "sha": "f6ba549fd60e0d5e3973a20749607fdaa19d1134",
+    "bytes": 58177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1238",
+    "title": "寶鏡三昧原宗辨謬說",
+    "path": "X/X63/X63n1238.xml",
+    "sha": "3ff0cb4454d0e95316dcd3556911132bfb82462f",
+    "bytes": 27963,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1239",
+    "title": "溈山警策註",
+    "path": "X/X63/X63n1239.xml",
+    "sha": "0ea490c2c5ab5f74efe07796ce8bfe74cd0ad860",
+    "bytes": 94072,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1240",
+    "title": "溈山警策句釋記",
+    "path": "X/X63/X63n1240.xml",
+    "sha": "591348bf8ed827a95aabf4cab2eec6078e24aa28",
+    "bytes": 297616,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1241",
+    "title": "證道歌註",
+    "path": "X/X63/X63n1241.xml",
+    "sha": "0305aec313e88bcf9b612f9e80c29b32fd0322f2",
+    "bytes": 253162,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1242",
+    "title": "永嘉禪宗集註",
+    "path": "X/X63/X63n1242.xml",
+    "sha": "eedfdd3dcce1659cfb08a53fcf91560471209bda",
+    "bytes": 394561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1244",
+    "title": "百丈清規證義記",
+    "path": "X/X63/X63n1244.xml",
+    "sha": "cef6c039ab3038e06d6ce27a70b52c0364d0739c",
+    "bytes": 2108693,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1245",
+    "title": "(重雕補註)禪苑清規",
+    "path": "X/X63/X63n1245.xml",
+    "sha": "5111bf39554e2163ccc49806fa6bc67929a99011",
+    "bytes": 425325,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1246",
+    "title": "入眾日用",
+    "path": "X/X63/X63n1246.xml",
+    "sha": "77d89478e95dc417a9ea5696c2c5e590a4a27390",
+    "bytes": 30545,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1247",
+    "title": "入眾須知",
+    "path": "X/X63/X63n1247.xml",
+    "sha": "0114012626a10778e6ccdcbd1e3a7a6f965e38b7",
+    "bytes": 137451,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1248",
+    "title": "幻住庵清規",
+    "path": "X/X63/X63n1248.xml",
+    "sha": "bf9e8057d88036294dc2f151d4c1df4a0e3ea9d5",
+    "bytes": 232045,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1249",
+    "title": "叢林校定清規總要",
+    "path": "X/X63/X63n1249.xml",
+    "sha": "f28c3f0c40b320c7b41eea1b77234445d5fe7ac4",
+    "bytes": 317550,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1250",
+    "title": "禪林備用清規",
+    "path": "X/X63/X63n1250.xml",
+    "sha": "d653fc18120b2f65cebfbdb983872d5fb4d023ee",
+    "bytes": 540457,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1251",
+    "title": "叢林兩序須知",
+    "path": "X/X63/X63n1251.xml",
+    "sha": "5b479f168d2d7bb61afc40df0c115de44d3231ee",
+    "bytes": 229765,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1252",
+    "title": "禪林疏語考證",
+    "path": "X/X63/X63n1252.xml",
+    "sha": "95386233063d073b65e9906043299c6b1d8e788b",
+    "bytes": 760016,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1253",
+    "title": "初學記",
+    "path": "X/X63/X63n1253.xml",
+    "sha": "747a4e0959651c6fa71a02bad5b889643c26c0b5",
+    "bytes": 119511,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1254",
+    "title": "正行集",
+    "path": "X/X63/X63n1254.xml",
+    "sha": "40cbefce2ab5246d5b9926f592071d33f3950a28",
+    "bytes": 23157,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1255",
+    "title": "禪家龜鑑",
+    "path": "X/X63/X63n1255.xml",
+    "sha": "7b16380653c7d5f94aa002f0d6bdd16c90534b0c",
+    "bytes": 103168,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1256",
+    "title": "宗門玄鑑圖",
+    "path": "X/X63/X63n1256.xml",
+    "sha": "e9ae008bcdd28da67783df5777bf1b51378a6f96",
+    "bytes": 87183,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1257",
+    "title": "博山禪警語",
+    "path": "X/X63/X63n1257.xml",
+    "sha": "09ae999633264b0eb5cf82e36a4a8600cadfcf6d",
+    "bytes": 157074,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1258",
+    "title": "禪宗直指",
+    "path": "X/X63/X63n1258.xml",
+    "sha": "2ae5fd360aac97d6f4f554219d2d91d622c19b68",
+    "bytes": 75694,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X63",
+    "id": "X63n1259",
+    "title": "禪門鍛鍊說",
+    "path": "X/X63/X63n1259.xml",
+    "sha": "14d7131121966e3f8fea25e3758490fc34e82f34",
+    "bytes": 133397,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

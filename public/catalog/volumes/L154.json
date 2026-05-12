@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "L",
+    "volume": "L154",
+    "id": "L154n1638",
+    "title": "雪嶠信禪師語錄(第7卷-第10卷)",
+    "path": "L/L154/L154n1638.xml",
+    "sha": "d6535a6089b2af4c01a325f77e7636773c24fb75",
+    "bytes": 269431,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L154",
+    "id": "L154n1639",
+    "title": "天隱修禪師語錄",
+    "path": "L/L154/L154n1639.xml",
+    "sha": "2871d98217145bf1e68c8fab28a2f2a13d98b31d",
+    "bytes": 992185,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L154",
+    "id": "L154n1640",
+    "title": "密雲悟禪師語錄",
+    "path": "L/L154/L154n1640.xml",
+    "sha": "69b77e3e2af59d96698e683d85254d1a3fd5f4e0",
+    "bytes": 643628,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L154",
+    "id": "L154n1641",
+    "title": "大覺普濟能仁琇國師語錄",
+    "path": "L/L154/L154n1641.xml",
+    "sha": "4e09a5f401501baf8e2095fe270c492df43690ab",
+    "bytes": 531233,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

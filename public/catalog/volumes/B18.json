@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0095",
+    "title": "入唐求法巡禮行記",
+    "path": "B/B18/B18n0095.xml",
+    "sha": "43338903662a197665afa78b8bfc63dda1ea87a2",
+    "bytes": 650895,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0096",
+    "title": "佛教繪畫史料",
+    "path": "B/B18/B18n0096.xml",
+    "sha": "7587c0e507692c49160d7547fa2b3821e8dd9550",
+    "bytes": 185150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0097",
+    "title": "歸元鏡",
+    "path": "B/B18/B18n0097.xml",
+    "sha": "7f17db3b8115c535e02958378d7f5b70a663d1fe",
+    "bytes": 387672,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0098",
+    "title": "高旻寺規約",
+    "path": "B/B18/B18n0098.xml",
+    "sha": "acfb704b8b17c54c47208ce3cbeaf2c4c774d239",
+    "bytes": 1178551,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0099",
+    "title": "相宗絡索",
+    "path": "B/B18/B18n0099.xml",
+    "sha": "8c2835459edae270b41ad656648752484071575a",
+    "bytes": 85467,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18n0101",
+    "title": "絕觀論",
+    "path": "B/B18/B18n0101.xml",
+    "sha": "3a0162ee6fce20b6879aeef15b69ba514510daaf",
+    "bytes": 80702,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B18",
+    "id": "B18na017",
+    "title": "大藏經補編第十八冊．編輯說明",
+    "path": "B/B18/B18na017.xml",
+    "sha": "79f3ffb3829860a2d86d68ceb0c9d73206a156b0",
+    "bytes": 7084,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

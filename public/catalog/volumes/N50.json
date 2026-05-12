@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "N",
+    "volume": "N50",
+    "id": "N50n0025",
+    "title": "分別論(第16卷-第18卷)",
+    "path": "N/N50/N50n0025.xml",
+    "sha": "34e04c1dcf3f775ddeedc8665e8ad781ecc09434",
+    "bytes": 378919,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N50",
+    "id": "N50n0026",
+    "title": "界論",
+    "path": "N/N50/N50n0026.xml",
+    "sha": "168550b0372419786d9b307efe39f2ba25e8f4d0",
+    "bytes": 316090,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N50",
+    "id": "N50n0027",
+    "title": "人施設論",
+    "path": "N/N50/N50n0027.xml",
+    "sha": "8ba583d5941a240b4ac846d23148082e3a94ab4e",
+    "bytes": 201781,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

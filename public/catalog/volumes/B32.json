@@ -1,0 +1,212 @@
+[
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0171",
+    "title": "八宗綱要鈔",
+    "path": "B/B32/B32n0171.xml",
+    "sha": "9cd5de4d0e94cdaf5c888fc5b1195044d50d51c8",
+    "bytes": 224285,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0172",
+    "title": "出定後語",
+    "path": "B/B32/B32n0172.xml",
+    "sha": "82f7a4ed802d93a82a58257eaed895b2ab1df649",
+    "bytes": 157290,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0173",
+    "title": "元亨釋書",
+    "path": "B/B32/B32n0173.xml",
+    "sha": "ee678e7e8a4d63d0d5c375628d6a0d7107a79c94",
+    "bytes": 1415266,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0174",
+    "title": "參天台五台山記",
+    "path": "B/B32/B32n0174.xml",
+    "sha": "c1720e5eaedf900cba4cccb797b05ff7eaa3e033",
+    "bytes": 769290,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0175",
+    "title": "喫茶養生記",
+    "path": "B/B32/B32n0175.xml",
+    "sha": "e01e3e9cdf9dd06f5d65b7315158b381e0c67c0e",
+    "bytes": 81947,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0176",
+    "title": "四宗要文",
+    "path": "B/B32/B32n0176.xml",
+    "sha": "af4507bc645269e3a3a7b07968d2c77b20304aac",
+    "bytes": 333552,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0177",
+    "title": "本朝諸宗要集",
+    "path": "B/B32/B32n0177.xml",
+    "sha": "a4f12cb38dda76db9e3daeae3b8fab9df4a0ca6f",
+    "bytes": 343738,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0178",
+    "title": "東大寺六宗未決義",
+    "path": "B/B32/B32n0178.xml",
+    "sha": "cd61a043f88a2a0225a3d3d52a6eee706dd4b205",
+    "bytes": 26708,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0179",
+    "title": "八海含藏",
+    "path": "B/B32/B32n0179.xml",
+    "sha": "a6fa33c5db17539b97775b93a2ec8234bf6f9a89",
+    "bytes": 18197,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0180",
+    "title": "華嚴通關",
+    "path": "B/B32/B32n0180.xml",
+    "sha": "477988ab8b36d71e1f5b559e0e8d943cde48ce83",
+    "bytes": 43098,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0181",
+    "title": "諸宗教理同異釋",
+    "path": "B/B32/B32n0181.xml",
+    "sha": "6c0d228164c71bff1a6b54e9fa2896dbb6f7cbbe",
+    "bytes": 55798,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0182",
+    "title": "內典塵露章",
+    "path": "B/B32/B32n0182.xml",
+    "sha": "eba14071273b3c70c2d1e4db0e221fa5c1642fd5",
+    "bytes": 83818,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0183",
+    "title": "禪祖念佛集",
+    "path": "B/B32/B32n0183.xml",
+    "sha": "46e628757566fa78a70a3cb76ebaa495b4796fbd",
+    "bytes": 146353,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0184",
+    "title": "顯揚正法復古集",
+    "path": "B/B32/B32n0184.xml",
+    "sha": "d6e372e143011aeeb9037f60009d562a80626927",
+    "bytes": 287453,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0185",
+    "title": "初學題額集",
+    "path": "B/B32/B32n0185.xml",
+    "sha": "5f23c99f8770a8232ffc638c7ffdf9bdbe3b2340",
+    "bytes": 574399,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0186",
+    "title": "三國佛法傳通緣起",
+    "path": "B/B32/B32n0186.xml",
+    "sha": "8093c77ef09269b032b02c6a67e72d839b68ed50",
+    "bytes": 125103,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0187",
+    "title": "二障義",
+    "path": "B/B32/B32n0187.xml",
+    "sha": "26be71380e3e2727fd78bf7b62b22cc8ee700176",
+    "bytes": 130948,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0189",
+    "title": "大華嚴一乘法界圖註并序",
+    "path": "B/B32/B32n0189.xml",
+    "sha": "6c44312edb245c0e509f23d00988bae889875cea",
+    "bytes": 39958,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0190",
+    "title": "華嚴經釋題",
+    "path": "B/B32/B32n0190.xml",
+    "sha": "81a9bf318fe31e6a37a232390b7af67a93275a64",
+    "bytes": 34657,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32n0191",
+    "title": "義相法師法性偈",
+    "path": "B/B32/B32n0191.xml",
+    "sha": "6d761607479385b9dfd4394977695202eb429765",
+    "bytes": 23104,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B32",
+    "id": "B32na031",
+    "title": "大藏經補編第三十二冊．編輯說明",
+    "path": "B/B32/B32na031.xml",
+    "sha": "30126c3364dfa4ebb96a3de74d571d2bd18feaf9",
+    "bytes": 7464,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

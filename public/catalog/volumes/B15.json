@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "B",
+    "volume": "B15",
+    "id": "B15n0088",
+    "title": "古今圖書集成選輯（上）",
+    "path": "B/B15/B15n0088.xml",
+    "sha": "9fc5434cdb3eb715dcd4ba9b1f58bb37bfdcf11f",
+    "bytes": 5483847,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B15",
+    "id": "B15na014",
+    "title": "大藏經補編第十五冊．編輯說明（上）",
+    "path": "B/B15/B15na014.xml",
+    "sha": "5291d53cda8a3d97b7b9695e2bf3eca43a7f859c",
+    "bytes": 8307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

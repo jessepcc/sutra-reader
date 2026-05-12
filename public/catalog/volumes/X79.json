@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1557",
+    "title": "聯燈會要",
+    "path": "X/X79/X79n1557.xml",
+    "sha": "9278391e321ff9c8fa3671c4d74a73df9a5cb258",
+    "bytes": 2910968,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1558",
+    "title": "嘉泰普燈錄總目錄",
+    "path": "X/X79/X79n1558.xml",
+    "sha": "905390766525a91dd35da7dd481ccd037f16571d",
+    "bytes": 205158,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1559",
+    "title": "嘉泰普燈錄",
+    "path": "X/X79/X79n1559.xml",
+    "sha": "c8c4c6655c78daa582c22d7c22012b4ea8d38fd3",
+    "bytes": 2295624,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1560",
+    "title": "禪林僧寶傳",
+    "path": "X/X79/X79n1560.xml",
+    "sha": "19eab3a01a8f857d40860d2a73fc670a4102aba1",
+    "bytes": 735228,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1561",
+    "title": "僧寶正續傳",
+    "path": "X/X79/X79n1561.xml",
+    "sha": "1c3bcd82b9512ccd04a657dd8275865b22834117",
+    "bytes": 312882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1562",
+    "title": "南宋元明禪林僧寶傳",
+    "path": "X/X79/X79n1562.xml",
+    "sha": "f8ec2e19f6e2fe49abd6bd5a3d2e541109910732",
+    "bytes": 777155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X79",
+    "id": "X79n1563",
+    "title": "大光明藏",
+    "path": "X/X79/X79n1563.xml",
+    "sha": "efaa4032054e78de2a8a284467c417fee3aab212",
+    "bytes": 780584,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

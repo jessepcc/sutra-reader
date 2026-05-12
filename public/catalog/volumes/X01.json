@@ -1,0 +1,212 @@
+[
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0001",
+    "title": "圓覺經佚文",
+    "path": "X/X01/X01n0001.xml",
+    "sha": "03050e4246b0e0c6ad58ec07e507af41baaa5558",
+    "bytes": 5936,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0005",
+    "title": "無量壽經會譯",
+    "path": "X/X01/X01n0005.xml",
+    "sha": "569719c15791c0d7f407206caf90e514a23657aa",
+    "bytes": 100367,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0006",
+    "title": "阿彌陀經異本",
+    "path": "X/X01/X01n0006.xml",
+    "sha": "21a3e53e258e8a9e5da5d0b9376b7a07652ece46",
+    "bytes": 4869,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0008",
+    "title": "楞伽阿跋多羅寶經會譯",
+    "path": "X/X01/X01n0008.xml",
+    "sha": "fe553a67e0b07b738caaaf2aed07b9d88e3c18ac",
+    "bytes": 1196554,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0010",
+    "title": "大明仁孝皇后夢感佛說第一希有大功德經",
+    "path": "X/X01/X01n0010.xml",
+    "sha": "ea031390169d51bae9ef743c781a7a52dc7dc88c",
+    "bytes": 94721,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0011",
+    "title": "佛說無量壽佛名號利益大事因緣經",
+    "path": "X/X01/X01n0011.xml",
+    "sha": "590d339a294cb0c1add1b7ba91a95c5aef30a240",
+    "bytes": 13060,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0012",
+    "title": "觀世音菩薩往生淨土本緣經",
+    "path": "X/X01/X01n0012.xml",
+    "sha": "9f7a8167f390a863dc17fe861a6b481021df2c02",
+    "bytes": 26662,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0013",
+    "title": "念佛超脫輪迴捷徑經",
+    "path": "X/X01/X01n0013.xml",
+    "sha": "2c5f777f5e9d8cda72aaa314e4e7a235ad7e4a99",
+    "bytes": 14661,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0014",
+    "title": "十往生阿彌陀佛國經",
+    "path": "X/X01/X01n0014.xml",
+    "sha": "d4999b6a50cce2e425359de9a2978b259e131a99",
+    "bytes": 20970,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0015",
+    "title": "淨度三昧經",
+    "path": "X/X01/X01n0015.xml",
+    "sha": "b0f4084b566780fec0a91bb8dceadb491a82ecaf",
+    "bytes": 75045,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0017",
+    "title": "佛說長壽滅罪護諸童子陀羅尼經",
+    "path": "X/X01/X01n0017.xml",
+    "sha": "30abe2b4db81b914b03dcab248c1d175668d3922",
+    "bytes": 72987,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0019",
+    "title": "佛說斷溫經",
+    "path": "X/X01/X01n0019.xml",
+    "sha": "5c732d31b50fb76b836d36f2081c7651c72c6076",
+    "bytes": 6433,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0020",
+    "title": "佛說地藏菩薩發心因緣十王經",
+    "path": "X/X01/X01n0020.xml",
+    "sha": "a9ab2ab71b9bf7ccd801c8e5d633f2159622317f",
+    "bytes": 57927,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0021",
+    "title": "佛說預修十王生七經",
+    "path": "X/X01/X01n0021.xml",
+    "sha": "cdb6eda93524c34318ce3bde6646562a38a2a9c1",
+    "bytes": 30999,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0023",
+    "title": "大藏正教血盆經",
+    "path": "X/X01/X01n0023.xml",
+    "sha": "ec165e40cdcb363f661c0af5ac2281ea5da5d3b8",
+    "bytes": 10188,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0024",
+    "title": "壽生經",
+    "path": "X/X01/X01n0024.xml",
+    "sha": "30eaf9c49102b205375bac0337b0f722a60489d0",
+    "bytes": 9746,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0025",
+    "title": "化珠保命真經",
+    "path": "X/X01/X01n0025.xml",
+    "sha": "783ce8765a62624b18d62aed2b06b6b5f6631873",
+    "bytes": 24023,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0026",
+    "title": "大梵天王問佛決疑經",
+    "path": "X/X01/X01n0026.xml",
+    "sha": "881cdb111ef87a20f278ce192b6fba3a90ec0807",
+    "bytes": 244893,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0027",
+    "title": "大梵天王問佛決疑經",
+    "path": "X/X01/X01n0027.xml",
+    "sha": "eaa246297dcc5008e72e79149cacf093dd26397f",
+    "bytes": 162271,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0028",
+    "title": "造像量度經",
+    "path": "X/X01/X01n0028.xml",
+    "sha": "8ca4e0e1c9f538decf1df16ff67c7fd79eef3f20",
+    "bytes": 11678,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X01",
+    "id": "X01n0034",
+    "title": "觀世音菩薩救苦經",
+    "path": "X/X01/X01n0034.xml",
+    "sha": "693ee45a99fc5091afe4c0b8bd0dbce46ddb25e7",
+    "bytes": 4570,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

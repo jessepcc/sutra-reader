@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1299",
+    "title": "禪林類聚",
+    "path": "X/X67/X67n1299.xml",
+    "sha": "bb5a81052feeda3476a33485005dce8da887526e",
+    "bytes": 1298408,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1301",
+    "title": "佛果擊節錄",
+    "path": "X/X67/X67n1301.xml",
+    "sha": "42900d4fce89833887701d71894e91f988fa044b",
+    "bytes": 355793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1302",
+    "title": "焭絕老人天奇直註雪竇顯和尚頌古",
+    "path": "X/X67/X67n1302.xml",
+    "sha": "d3baebe14a0f59910f36295847a58644c02c723a",
+    "bytes": 189811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1303",
+    "title": "林泉老人評唱投子青和尚頌古空谷集",
+    "path": "X/X67/X67n1303.xml",
+    "sha": "114c62ea52b1d1909dbadb02f40732533805b661",
+    "bytes": 649747,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1304",
+    "title": "林泉老人評唱丹霞淳禪師頌古虗堂集",
+    "path": "X/X67/X67n1304.xml",
+    "sha": "572fb8f518a81eb3b649e717c8649372c6318858",
+    "bytes": 627066,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1306",
+    "title": "焭絕老人天奇直註天童覺和尚頌古",
+    "path": "X/X67/X67n1306.xml",
+    "sha": "9815d106c97db818a5d514e1219ea83ecc8d8557",
+    "bytes": 211553,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1307",
+    "title": "萬松老人評唱天童覺和尚拈古請益錄",
+    "path": "X/X67/X67n1307.xml",
+    "sha": "8d096aae7ddc2017f891067f5912b91b39a47569",
+    "bytes": 536477,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1308",
+    "title": "徑石滴乳集",
+    "path": "X/X67/X67n1308.xml",
+    "sha": "4b761e46ab51c67fcc9a204c25f10738ddde624b",
+    "bytes": 534364,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1309",
+    "title": "正法眼藏",
+    "path": "X/X67/X67n1309.xml",
+    "sha": "498d01f86488cb673eada25001a43cc7bbd7ea75",
+    "bytes": 804659,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1310",
+    "title": "拈八方珠玉集",
+    "path": "X/X67/X67n1310.xml",
+    "sha": "121fd0f90b810c3c14961ff2880aff7e044da0d6",
+    "bytes": 599985,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1312",
+    "title": "通玄百問",
+    "path": "X/X67/X67n1312.xml",
+    "sha": "0469b70b129732da77d7dbefcd9d20b8f9f39a8a",
+    "bytes": 79596,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X67",
+    "id": "X67n1313",
+    "title": "青州百問",
+    "path": "X/X67/X67n1313.xml",
+    "sha": "c2f68c26eb8a66b622cc448b0e04127eebbf27c8",
+    "bytes": 88914,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

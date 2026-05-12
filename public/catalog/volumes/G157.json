@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "G",
+    "volume": "G157",
+    "id": "G157n2594",
+    "title": "修習止觀坐禪法要講述",
+    "path": "G/G157/G157n2594.xml",
+    "sha": "0cabab682622872eebeff5e892e5879200ebcc3e",
+    "bytes": 548978,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G157",
+    "id": "G157n2600",
+    "title": "始終心要義記",
+    "path": "G/G157/G157n2600.xml",
+    "sha": "a819cd7e823c6744f69ca5ef2b711ce56b1b198b",
+    "bytes": 33288,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G157",
+    "id": "G157n2601",
+    "title": "天台傳佛心印記註釋要",
+    "path": "G/G157/G157n2601.xml",
+    "sha": "7cdc2bc5a5b66ca5f9e8c0ef42d2e6424212c34a",
+    "bytes": 218885,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

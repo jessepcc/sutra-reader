@@ -1,13 +1,28 @@
+import { useEffect, useState } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
-import { CATALOG } from "../lib/catalog-context";
 import { findCanon, isGatedCanon } from "../lib/catalog";
+import { loadCatalogIndex } from "../lib/catalog-context";
+import type { CatalogIndex } from "../lib/types";
 
 export function CanonPage() {
   const { canonId = "" } = useParams();
+  const [catalog, setCatalog] = useState<CatalogIndex | null>(null);
+
+  useEffect(() => {
+    void loadCatalogIndex().then(setCatalog);
+  }, []);
+
   if (isGatedCanon(canonId)) {
     return <Navigate to={`/gated/${canonId}`} replace />;
   }
-  const canon = findCanon(CATALOG, canonId);
+  if (!catalog) {
+    return (
+      <main>
+        <p className="muted">…</p>
+      </main>
+    );
+  }
+  const canon = findCanon({ ...catalog, texts: [] }, canonId);
   if (!canon) {
     return (
       <main>
@@ -18,7 +33,7 @@ export function CanonPage() {
       </main>
     );
   }
-  const volumes = CATALOG.volumes.filter((v) => v.canon === canonId);
+  const volumes = catalog.volumes.filter((v) => v.canon === canonId);
 
   return (
     <main>

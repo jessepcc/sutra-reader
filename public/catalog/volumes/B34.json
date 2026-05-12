@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "B",
+    "volume": "B34",
+    "id": "B34n0193",
+    "title": "吳都法乘",
+    "path": "B/B34/B34n0193.xml",
+    "sha": "4f283675b5c6c3c953d14ee1b4a8fb9aec430a42",
+    "bytes": 5490580,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B34",
+    "id": "B34na033",
+    "title": "大藏經補編第三十四冊．編輯說明",
+    "path": "B/B34/B34na033.xml",
+    "sha": "62fc45f2de3b184f1d2941328ba17d39d8f1fe60",
+    "bytes": 5115,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B34",
+    "id": "B34na034",
+    "title": "吳都法乘簡介",
+    "path": "B/B34/B34na034.xml",
+    "sha": "9f3606f2c8ef20f8290051ca2aa1e1c6063467e2",
+    "bytes": 6279,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

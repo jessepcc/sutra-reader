@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X34",
+    "id": "X34n0636",
+    "title": "法華經玄贊攝釋",
+    "path": "X/X34/X34n0636.xml",
+    "sha": "dcae3271ab10f5fc63db82c5729fc92693f1d252",
+    "bytes": 1224191,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X34",
+    "id": "X34n0637",
+    "title": "法華經玄贊決擇記",
+    "path": "X/X34/X34n0637.xml",
+    "sha": "2a702f47a19a97593b2983a8db8b8ab06867dc0c",
+    "bytes": 550780,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X34",
+    "id": "X34n0638",
+    "title": "法華經玄贊要集",
+    "path": "X/X34/X34n0638.xml",
+    "sha": "628048dfa60d07f2d9f99aadc3a0f6bef859e99d",
+    "bytes": 8436089,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X34",
+    "id": "X34n0639",
+    "title": "法華經玄贊釋",
+    "path": "X/X34/X34n0639.xml",
+    "sha": "43a8a985194bef13a96873e8444825c7f3ce0fab",
+    "bytes": 389310,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

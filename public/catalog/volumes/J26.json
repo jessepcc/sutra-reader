@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB177",
+    "title": "破山禪師語錄",
+    "path": "J/J26/J26nB177.xml",
+    "sha": "c963f64d17cb906e0eac557386afd0a6570f6aad",
+    "bytes": 1164722,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB178",
+    "title": "費隱禪師語錄",
+    "path": "J/J26/J26nB178.xml",
+    "sha": "87777fbd5fd64686e5fa78927a138353b9b0812d",
+    "bytes": 917882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB180",
+    "title": "天童弘覺忞禪師北遊集",
+    "path": "J/J26/J26nB180.xml",
+    "sha": "90cf12d9776c49571c1c4e85f57db44d9b501724",
+    "bytes": 224570,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB181",
+    "title": "布水臺集",
+    "path": "J/J26/J26nB181.xml",
+    "sha": "cae44db16d293e18026bd18b92c99e1f04402a30",
+    "bytes": 1392865,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB182",
+    "title": "萬如禪師語錄",
+    "path": "J/J26/J26nB182.xml",
+    "sha": "2282e67207c2341e8f429ff62b314e26e0f6ee30",
+    "bytes": 409845,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB183",
+    "title": "雪竇石奇禪師語錄",
+    "path": "J/J26/J26nB183.xml",
+    "sha": "7e8a62d1a9b1b1c420fdc6964b1c8a628b1ea07b",
+    "bytes": 649412,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB184",
+    "title": "牧雲和尚七會語錄",
+    "path": "J/J26/J26nB184.xml",
+    "sha": "3dd6baba5161310bf97ec58549152349eccf021f",
+    "bytes": 322363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB185",
+    "title": "浮石禪師語錄",
+    "path": "J/J26/J26nB185.xml",
+    "sha": "fb52a9bc5a1fd54cf3d87dd1c9a356b0ac08c071",
+    "bytes": 541155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB186",
+    "title": "林野奇禪師語錄",
+    "path": "J/J26/J26nB186.xml",
+    "sha": "d312b5e55db1547f3a69c43847e5ed0b5f51f243",
+    "bytes": 361555,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB187",
+    "title": "天岸昇禪師語錄",
+    "path": "J/J26/J26nB187.xml",
+    "sha": "9b4396580837110fb99a556365c657de89f01376",
+    "bytes": 944552,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J26",
+    "id": "J26nB188",
+    "title": "入就瑞白禪師語錄",
+    "path": "J/J26/J26nB188.xml",
+    "sha": "5ce3f3b506c6a469f18618363df95cf1d3b23f61",
+    "bytes": 862182,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

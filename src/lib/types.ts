@@ -23,8 +23,10 @@ export interface TextEntry {
   title: string;
   /** Path inside the upstream xml-p5 repo. */
   path: string;
-  /** Pinned commit SHA — used to construct the jsDelivr URL. */
+  /** Content/blob SHA for update detection and cache identity. */
   sha: string;
+  /** Pinned upstream commit SHA used to fetch immutable raw XML. */
+  sourceSha?: string;
   bytes?: number;
 }
 
@@ -37,9 +39,18 @@ export interface Catalog {
   texts: TextEntry[];
 }
 
+export interface CatalogIndex {
+  /** Upstream commit SHA the catalog was generated against. */
+  upstreamSha: string;
+  generatedAt: string;
+  canons: Canon[];
+  volumes: Volume[];
+}
+
 export interface ManifestFile {
   path: string;
   sha: string;
+  bytes?: number;
 }
 
 export interface Manifest {
@@ -50,7 +61,9 @@ export interface Manifest {
 
 export interface StoredText {
   textId: string;
+  path?: string;
   sha: string;
+  sourceSha?: string;
   xml: string;
   /** Rendered HTML, possibly chunked by juan. */
   htmlFragments: string[];
@@ -58,6 +71,13 @@ export interface StoredText {
   lastAccessed: number;
   /** Raw byte count of the source XML. */
   bytes: number;
+  /** Latest known upstream content SHA when this cached text is stale. */
+  staleSha?: string;
+  /** Upstream commit SHA that contains staleSha. */
+  staleSourceSha?: string;
+  /** Latest known upstream source byte count. */
+  staleBytes?: number;
+  staleAt?: number;
 }
 
 export interface SavedEntry {

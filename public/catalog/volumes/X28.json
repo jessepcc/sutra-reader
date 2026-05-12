@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0585",
+    "title": "法華經三大部讀教記",
+    "path": "X/X28/X28n0585.xml",
+    "sha": "a72f896e526d40ee1df51472293a791caebe1d83",
+    "bytes": 1322793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0586",
+    "title": "法華經三大部補注",
+    "path": "X/X28/X28n0586.xml",
+    "sha": "2c3b6960a9b69e920df11473acfaa13afeca9190",
+    "bytes": 3238021,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0587",
+    "title": "大部妙玄格言",
+    "path": "X/X28/X28n0587.xml",
+    "sha": "10a48cc7e41c8ff93985aaf15885a8290a172419",
+    "bytes": 176833,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0588",
+    "title": "法華經玄籤備撿",
+    "path": "X/X28/X28n0588.xml",
+    "sha": "7e29e5ec9b2647c8544fe473d9eaceb649f0ddfa",
+    "bytes": 627292,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0589",
+    "title": "法華經玄義節要",
+    "path": "X/X28/X28n0589.xml",
+    "sha": "48a5e7bc502371386c33ca944cf495d22ded7391",
+    "bytes": 367741,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0590",
+    "title": "法華經玄義輯略",
+    "path": "X/X28/X28n0590.xml",
+    "sha": "6f08c2d3649ed2efdd65545dacd8f57fdb4bba6f",
+    "bytes": 109067,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0591",
+    "title": "法華經釋籤緣起序指明",
+    "path": "X/X28/X28n0591.xml",
+    "sha": "555a83a28ace0b535a8be245e68721099aaf6b16",
+    "bytes": 46463,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0592",
+    "title": "法華經玄籤證釋",
+    "path": "X/X28/X28n0592.xml",
+    "sha": "b8dbbfbeb3c4502daaa516c2a2ddf718932de3fd",
+    "bytes": 856340,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X28",
+    "id": "X28n0593",
+    "title": "法華經文句輔正記",
+    "path": "X/X28/X28n0593.xml",
+    "sha": "a60a06340a82aa6ccb4cabc7d35cc16d1971b695",
+    "bytes": 2201811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

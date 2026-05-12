@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "J",
+    "volume": "J19",
+    "id": "J19nB044",
+    "title": "諸經日誦集要",
+    "path": "J/J19/J19nB044.xml",
+    "sha": "0cda21e22fda4b690e25129ad1701989410e27ff",
+    "bytes": 486541,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J19",
+    "id": "J19nB047",
+    "title": "瑜伽集要燄口施食儀",
+    "path": "J/J19/J19nB047.xml",
+    "sha": "ead76f7025b538f268cfd1f1e6b689dcec00209f",
+    "bytes": 164986,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J19",
+    "id": "J19nB048",
+    "title": "北京五大部直音會韻",
+    "path": "J/J19/J19nB048.xml",
+    "sha": "54fb4bb260bfd78bb1952b9f8a95b48a077ac6d5",
+    "bytes": 1742433,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

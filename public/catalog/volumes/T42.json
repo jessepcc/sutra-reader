@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "T",
+    "volume": "T42",
+    "id": "T42n1824",
+    "title": "中觀論疏",
+    "path": "T/T42/T42n1824.xml",
+    "sha": "87d76cffa2e3405fa3840ab1b42c4344a9849a34",
+    "bytes": 1320504,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T42",
+    "id": "T42n1825",
+    "title": "十二門論疏",
+    "path": "T/T42/T42n1825.xml",
+    "sha": "c98cd8c2eb10ad586283152e736136d0c149f979",
+    "bytes": 401113,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T42",
+    "id": "T42n1826",
+    "title": "十二門論宗致義記",
+    "path": "T/T42/T42n1826.xml",
+    "sha": "1ab76652be2fbbc22fcf898baaf65e3248eba561",
+    "bytes": 178036,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T42",
+    "id": "T42n1827",
+    "title": "百論疏",
+    "path": "T/T42/T42n1827.xml",
+    "sha": "ca6e55d1d8aedaec68ca85bd00f2c01d5f28e8d5",
+    "bytes": 630234,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T42",
+    "id": "T42n1828",
+    "title": "瑜伽論記",
+    "path": "T/T42/T42n1828.xml",
+    "sha": "ae74df4d218b2076405366859353ff855acaf093",
+    "bytes": 7677413,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X18",
+    "id": "X18n0332",
+    "title": "楞伽經參訂疏",
+    "path": "X/X18/X18n0332.xml",
+    "sha": "93e1cd6313c52f145f4a58a5a0faa36691f95975",
+    "bytes": 1143189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X18",
+    "id": "X18n0333",
+    "title": "楞伽經精解評林",
+    "path": "X/X18/X18n0333.xml",
+    "sha": "4524361a5b65f4e22b53cc6f503e2b4f2212ae19",
+    "bytes": 365747,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X18",
+    "id": "X18n0334",
+    "title": "楞伽經心印",
+    "path": "X/X18/X18n0334.xml",
+    "sha": "4c94d262e07f70ca9a38243d7426c4bad7bba724",
+    "bytes": 1050108,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X18",
+    "id": "X18n0338",
+    "title": "維摩經文疏",
+    "path": "X/X18/X18n0338.xml",
+    "sha": "d36e40a2f842d31bf7908445c96d497326549300",
+    "bytes": 2741530,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X18",
+    "id": "X18n0340",
+    "title": "維摩經疏記",
+    "path": "X/X18/X18n0340.xml",
+    "sha": "7c18ef09046b580bb4d44c54161d152efe83bbd8",
+    "bytes": 802554,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

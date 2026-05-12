@@ -1,21 +1,20 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { CATALOG } from "../lib/catalog-context";
-import { findText } from "../lib/catalog";
+import { findTextById } from "../lib/catalog-context";
 import { getSaved, removeSaved } from "../lib/db";
-import type { SavedEntry } from "../lib/types";
+import type { SavedEntry, TextEntry } from "../lib/types";
 
 export function SavedPage() {
-  const [items, setItems] = useState<SavedEntry[] | null>(null);
+  const [items, setItems] = useState<(SavedEntry & { text?: TextEntry })[] | null>(null);
 
   useEffect(() => {
-    void getSaved().then(setItems);
+    void loadSaved().then(setItems);
   }, []);
 
   async function remove(textId: string) {
     if (!window.confirm("移除此收藏？")) return;
     await removeSaved(textId);
-    setItems(await getSaved());
+    setItems(await loadSaved());
   }
 
   return (
@@ -28,10 +27,9 @@ export function SavedPage() {
       ) : (
         <ul className="list">
           {items.map((s) => {
-            const t = findText(CATALOG, s.textId);
             return (
               <li key={s.textId}>
-                <Link to={`/read/${s.textId}`}>{t?.title ?? s.textId}</Link>
+                <Link to={`/read/${s.textId}`}>{s.text?.title ?? s.textId}</Link>
                 <div className="muted">
                   收藏於 {new Date(s.savedAt).toLocaleString("zh-Hant")}
                   <button className="icon" onClick={() => remove(s.textId)} aria-label="移除">
@@ -44,5 +42,15 @@ export function SavedPage() {
         </ul>
       )}
     </main>
+  );
+}
+
+async function loadSaved(): Promise<(SavedEntry & { text?: TextEntry })[]> {
+  const saved = await getSaved();
+  return Promise.all(
+    saved.map(async (s) => ({
+      ...s,
+      text: await findTextById(s.textId),
+    })),
   );
 }

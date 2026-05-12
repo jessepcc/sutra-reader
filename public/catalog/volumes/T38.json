@@ -1,0 +1,182 @@
+[
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1765",
+    "title": "大般涅槃經玄義",
+    "path": "T/T38/T38n1765.xml",
+    "sha": "f2d85a0cc4bdce302d87a2bfff85b80f26ceede0",
+    "bytes": 138639,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1766",
+    "title": "涅槃玄義發源機要",
+    "path": "T/T38/T38n1766.xml",
+    "sha": "df3e589d4827182c14fecdc211a55a4c40d326d1",
+    "bytes": 247973,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1767",
+    "title": "大般涅槃經疏",
+    "path": "T/T38/T38n1767.xml",
+    "sha": "98d15b85fe4a1c1a06faeb973b5fd40bc148bfea",
+    "bytes": 1522448,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1768",
+    "title": "涅槃經遊意",
+    "path": "T/T38/T38n1768.xml",
+    "sha": "4c9c8731bc2f3d7ecafc23989d45cdcb902ee8eb",
+    "bytes": 133325,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1769",
+    "title": "涅槃宗要",
+    "path": "T/T38/T38n1769.xml",
+    "sha": "81c7866362bce354dc2081a3ff55662ac3d75e85",
+    "bytes": 148183,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1770",
+    "title": "本願藥師經古迹",
+    "path": "T/T38/T38n1770.xml",
+    "sha": "0e713653d7b6df8539f945dffdfe467ef68ed01b",
+    "bytes": 53505,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1771",
+    "title": "彌勒經遊意",
+    "path": "T/T38/T38n1771.xml",
+    "sha": "15da1b3adada8ae7f5a46b3acfb234cf37f2d1dc",
+    "bytes": 166898,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1772",
+    "title": "觀彌勒上生兜率天經贊",
+    "path": "T/T38/T38n1772.xml",
+    "sha": "51271ebf0d680740137f2787308cbccba3d99545",
+    "bytes": 287559,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1773",
+    "title": "彌勒上生經宗要",
+    "path": "T/T38/T38n1773.xml",
+    "sha": "7310a8007bc4309a92b463b42ebcc13a72686ae6",
+    "bytes": 43704,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1774",
+    "title": "三彌勒經疏",
+    "path": "T/T38/T38n1774.xml",
+    "sha": "a4959dfce0debfdec7b527a8ff90c572b197a6f9",
+    "bytes": 260423,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1775",
+    "title": "注維摩詰經",
+    "path": "T/T38/T38n1775.xml",
+    "sha": "29e0fa0b870d48adbd95a0d66d8b9e4e0ec4cfc1",
+    "bytes": 1677006,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1776",
+    "title": "維摩義記",
+    "path": "T/T38/T38n1776.xml",
+    "sha": "86069681e4d576f52ddbbd125d47bb0555d17435",
+    "bytes": 1276359,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1777",
+    "title": "維摩經玄疏",
+    "path": "T/T38/T38n1777.xml",
+    "sha": "682fac615a89c27a5eccf145ea2ccbf9fc5871d3",
+    "bytes": 430983,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1778",
+    "title": "維摩經略疏",
+    "path": "T/T38/T38n1778.xml",
+    "sha": "0df6dfe22551f8b07bac2cb1df9ed226984b3496",
+    "bytes": 1404857,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1779",
+    "title": "維摩經略疏垂裕記",
+    "path": "T/T38/T38n1779.xml",
+    "sha": "7a78d313b4cc103e1fd06d60cbcea2cb2532e7e4",
+    "bytes": 1288448,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1780",
+    "title": "淨名玄論",
+    "path": "T/T38/T38n1780.xml",
+    "sha": "1083ad866c70ba07d9906497071387e3382702bc",
+    "bytes": 591872,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1781",
+    "title": "維摩經義疏",
+    "path": "T/T38/T38n1781.xml",
+    "sha": "b967b07e816e2dd858c7ca27f184c922e122af88",
+    "bytes": 1480820,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T38",
+    "id": "T38n1782",
+    "title": "說無垢稱經疏",
+    "path": "T/T38/T38n1782.xml",
+    "sha": "cb5579882ae3f05c6f5ad610611b931a4f81148c",
+    "bytes": 2342588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

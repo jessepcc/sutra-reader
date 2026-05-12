@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0740",
+    "title": "資持記序解并五例講義",
+    "path": "X/X44/X44n0740.xml",
+    "sha": "dc540027ac6a456c9a3f79b5044255289a6933af",
+    "bytes": 111062,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0741",
+    "title": "行事鈔諸家記標目",
+    "path": "X/X44/X44n0741.xml",
+    "sha": "d4ffce210393bb174273c8c317f3fae64520d0a3",
+    "bytes": 24358,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0742",
+    "title": "資持記立題拾義",
+    "path": "X/X44/X44n0742.xml",
+    "sha": "b1383224dd218715f1f3e41575e2fc7d7b29886d",
+    "bytes": 25959,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0743",
+    "title": "毗尼討要",
+    "path": "X/X44/X44n0743.xml",
+    "sha": "dd3dded6d75fd7368736f20ec5fd3667f053ca2d",
+    "bytes": 1329584,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0744",
+    "title": "四分律名義標釋",
+    "path": "X/X44/X44n0744.xml",
+    "sha": "4d4cd2f6deff2cadbf33b58ffc11b0dc3b54725e",
+    "bytes": 3404097,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0745",
+    "title": "四分律藏大小持戒犍度略釋",
+    "path": "X/X44/X44n0745.xml",
+    "sha": "b49e3555618b2e945f503183343ccc8706129774",
+    "bytes": 119263,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0746",
+    "title": "四分律拾毗尼義鈔科",
+    "path": "X/X44/X44n0746.xml",
+    "sha": "5fb73d1f88dbc9ad3f7700f45eac9d80bf7587f5",
+    "bytes": 289366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0747",
+    "title": "四分律拾毗尼義鈔",
+    "path": "X/X44/X44n0747.xml",
+    "sha": "9050a9ee4f19c21647bd9256908e1158dd727ef3",
+    "bytes": 474786,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0748",
+    "title": "四分律拾毗尼義鈔輔要記",
+    "path": "X/X44/X44n0748.xml",
+    "sha": "463f04a7e219f43e2f00a9f21c86f5be268432a8",
+    "bytes": 795207,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0749",
+    "title": "佛說齋經科註",
+    "path": "X/X44/X44n0749.xml",
+    "sha": "c809a7b2a7e63cb0841671fa1ad0a4924075b671",
+    "bytes": 108222,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0750",
+    "title": "佛說目連五百問經略解",
+    "path": "X/X44/X44n0750.xml",
+    "sha": "8086baba9655bc6f8c57950dabc8e901ea4b51a7",
+    "bytes": 541561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X44",
+    "id": "X44n0751",
+    "title": "佛說目連五百問戒律中輕重事經釋",
+    "path": "X/X44/X44n0751.xml",
+    "sha": "6bd8665908f3fee553ea8250d296dfc703f90e67",
+    "bytes": 581929,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

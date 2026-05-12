@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0226",
+    "title": "華嚴經合論纂要",
+    "path": "X/X05/X05n0226.xml",
+    "sha": "1f0244c4886dc5ad8f589db6be7475b1993177eb",
+    "bytes": 481305,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0227",
+    "title": "華嚴經行願品疏",
+    "path": "X/X05/X05n0227.xml",
+    "sha": "7275a2acd86107a1d9c52f1f1e891d55aa482597",
+    "bytes": 1738209,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0228",
+    "title": "華嚴經行願品疏科",
+    "path": "X/X05/X05n0228.xml",
+    "sha": "70e3e0b5b6b38429a8c5950bc61272e92e9cee03",
+    "bytes": 199820,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0229",
+    "title": "華嚴經行願品疏鈔",
+    "path": "X/X05/X05n0229.xml",
+    "sha": "fc2dc18df69804216c19bbf5380662f8371fb4fa",
+    "bytes": 1172648,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0230",
+    "title": "華嚴經普賢行願品疏科",
+    "path": "X/X05/X05n0230.xml",
+    "sha": "fc8ba4b338f953695bbcccfd289f7e2a5084a9af",
+    "bytes": 119416,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0231",
+    "title": "華嚴經疏科文",
+    "path": "X/X05/X05n0231.xml",
+    "sha": "9d11d0bacac888888f2033348b9002e7de5d21b9",
+    "bytes": 3222323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X05",
+    "id": "X05n0232",
+    "title": "華嚴經疏鈔玄談",
+    "path": "X/X05/X05n0232.xml",
+    "sha": "261773183a4678848af3cd26747319f1b28b5996",
+    "bytes": 1757887,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

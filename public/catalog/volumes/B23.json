@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "B",
+    "volume": "B23",
+    "id": "B23n0130",
+    "title": "靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）",
+    "path": "B/B23/B23n0130.xml",
+    "sha": "9f9d374243a3b1ef10d27c41128634b5455c3a70",
+    "bytes": 65869,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B23",
+    "id": "B23na022",
+    "title": "大藏經補編第二十三冊．編輯說明",
+    "path": "B/B23/B23na022.xml",
+    "sha": "7cdbb01d1874d1fe64ec901aceb6f9b2869d3aa3",
+    "bytes": 6888,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

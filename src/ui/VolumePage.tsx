@@ -1,11 +1,33 @@
+import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { CATALOG } from "../lib/catalog-context";
 import { findCanon, findVolume } from "../lib/catalog";
+import { loadCatalogIndex, loadVolumeTexts } from "../lib/catalog-context";
+import type { CatalogIndex, TextEntry } from "../lib/types";
 
 export function VolumePage() {
   const { canonId = "", volumeId = "" } = useParams();
-  const canon = findCanon(CATALOG, canonId);
-  const volume = findVolume(CATALOG, volumeId);
+  const [catalog, setCatalog] = useState<CatalogIndex | null>(null);
+  const [texts, setTexts] = useState<TextEntry[] | null>(null);
+
+  useEffect(() => {
+    void (async () => {
+      const nextCatalog = await loadCatalogIndex();
+      setCatalog(nextCatalog);
+      setTexts(await loadVolumeTexts(canonId, volumeId));
+    })();
+  }, [canonId, volumeId]);
+
+  if (!catalog || texts === null) {
+    return (
+      <main>
+        <p className="muted">…</p>
+      </main>
+    );
+  }
+
+  const catalogForFind = { ...catalog, texts: [] };
+  const canon = findCanon(catalogForFind, canonId);
+  const volume = findVolume(catalogForFind, volumeId);
   if (!canon || !volume || volume.canon !== canonId) {
     return (
       <main>
@@ -16,9 +38,6 @@ export function VolumePage() {
       </main>
     );
   }
-  const texts = CATALOG.texts.filter(
-    (t) => t.canon === canonId && t.volume === volumeId,
-  );
   return (
     <main>
       <p className="muted">

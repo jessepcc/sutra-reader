@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "B",
+    "volume": "B33",
+    "id": "B33n0192",
+    "title": "釋文紀",
+    "path": "B/B33/B33n0192.xml",
+    "sha": "78e8c5d600426510ebc698d4f1618038533008cd",
+    "bytes": 3241999,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B33",
+    "id": "B33na032",
+    "title": "大藏經補編第三十三冊．編輯說明",
+    "path": "B/B33/B33na032.xml",
+    "sha": "9a11cdcac4d629d8d8bd0b69221636e312808c44",
+    "bytes": 6965,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -73,6 +73,11 @@ export async function getStoredText(textId: string): Promise<StoredText | undefi
   return db.get("texts", textId);
 }
 
+export async function getStoredTexts(): Promise<StoredText[]> {
+  const db = await getDb();
+  return db.getAll("texts");
+}
+
 export async function putStoredText(text: StoredText): Promise<void> {
   const db = await getDb();
   await db.put("texts", text);
@@ -83,6 +88,31 @@ export async function touchStoredText(textId: string, ts = Date.now()): Promise<
   const existing = await db.get("texts", textId);
   if (!existing) return;
   await db.put("texts", { ...existing, lastAccessed: ts });
+}
+
+export async function markStoredTextStale(
+  textId: string,
+  staleSha: string,
+  staleSourceSha?: string,
+  staleBytes?: number,
+  staleAt = Date.now(),
+): Promise<void> {
+  const db = await getDb();
+  const existing = await db.get("texts", textId);
+  if (!existing) return;
+  await db.put("texts", { ...existing, staleSha, staleSourceSha, staleBytes, staleAt });
+}
+
+export async function clearStoredTextStale(textId: string): Promise<void> {
+  const db = await getDb();
+  const existing = await db.get("texts", textId);
+  if (!existing) return;
+  const next = { ...existing };
+  delete next.staleSha;
+  delete next.staleSourceSha;
+  delete next.staleBytes;
+  delete next.staleAt;
+  await db.put("texts", next);
 }
 
 export async function totalCachedBytes(): Promise<number> {
@@ -149,7 +179,11 @@ export async function getBookmarks(textId?: string): Promise<Bookmark[]> {
   const all = await db.getAll("bookmarks");
   const filtered = textId ? all.filter((b) => b.textId === textId) : all;
   return filtered
-    .map(({ key: _key, ...rest }) => rest)
+    .map((item) => {
+      const { key, ...rest } = item;
+      void key;
+      return rest;
+    })
     .sort((a, b) => b.createdAt - a.createdAt);
 }
 

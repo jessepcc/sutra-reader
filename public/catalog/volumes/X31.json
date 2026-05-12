@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0606",
+    "title": "法華經科註",
+    "path": "X/X31/X31n0606.xml",
+    "sha": "b61fa68a74295d5290c42ad9a620ed05901260e9",
+    "bytes": 1992855,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0607",
+    "title": "法華經科註",
+    "path": "X/X31/X31n0607.xml",
+    "sha": "86feb08a0ff47ab1e4331d8f77554be762016839",
+    "bytes": 2005180,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0608",
+    "title": "法華經知音",
+    "path": "X/X31/X31n0608.xml",
+    "sha": "e96cf352da8ce1d1a1ca63cf41e18f0bafde6544",
+    "bytes": 1578872,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0609",
+    "title": "法華經大意",
+    "path": "X/X31/X31n0609.xml",
+    "sha": "d7c42065088d4b33958a6a4cb1212bf600666358",
+    "bytes": 405703,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0610",
+    "title": "法華經擊節",
+    "path": "X/X31/X31n0610.xml",
+    "sha": "91bbd364905363c464c88f8a45fec3716e03c865",
+    "bytes": 90383,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0611",
+    "title": "法華經通義",
+    "path": "X/X31/X31n0611.xml",
+    "sha": "b87a9bd12d23aa8789fff4ea43062183be15999c",
+    "bytes": 926417,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0612",
+    "title": "法華經精解評林",
+    "path": "X/X31/X31n0612.xml",
+    "sha": "a46390222b19e340eb27404106635e134afaed6d",
+    "bytes": 649397,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0613",
+    "title": "法華經意語",
+    "path": "X/X31/X31n0613.xml",
+    "sha": "a425b09c5103b4c9162f00c1b6b7a43d8553abdb",
+    "bytes": 205251,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X31",
+    "id": "X31n0614",
+    "title": "法華經大窾",
+    "path": "X/X31/X31n0614.xml",
+    "sha": "c25ed9107df4cf285d8504e80c6150509482fa4b",
+    "bytes": 1672488,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

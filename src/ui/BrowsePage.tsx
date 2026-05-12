@@ -1,13 +1,21 @@
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { CATALOG } from "../lib/catalog-context";
+import { loadCatalogIndex } from "../lib/catalog-context";
 import { GATED_CANONS } from "../lib/catalog";
+import type { CatalogIndex } from "../lib/types";
 
 export function BrowsePage() {
+  const [catalog, setCatalog] = useState<CatalogIndex | null>(null);
+
+  useEffect(() => {
+    void loadCatalogIndex().then(setCatalog);
+  }, []);
+
   return (
     <main>
       <h1>瀏覽　藏</h1>
       <ul className="list">
-        {CATALOG.canons.map((c) => (
+        {(catalog?.canons ?? []).map((c) => (
           <li key={c.id}>
             <Link to={`/browse/${c.id}`}>
               <strong>{c.abbr}</strong>　{c.name}

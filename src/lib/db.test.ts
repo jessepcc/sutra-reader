@@ -3,6 +3,7 @@ import { IDBFactory } from "fake-indexeddb";
 import {
   _resetDbForTests,
   addBookmark,
+  clearStoredTextStale,
   clearScope,
   evictLRU,
   getBookmarks,
@@ -10,7 +11,9 @@ import {
   getSaved,
   getSettings,
   getStoredText,
+  getStoredTexts,
   isSaved,
+  markStoredTextStale,
   patchSettings,
   putStoredText,
   recordRecent,
@@ -50,6 +53,19 @@ describe("texts (LRU cache)", () => {
   it("touchStoredText is a no-op if the text is missing", async () => {
     await touchStoredText("missing");
     expect(await getStoredText("missing")).toBeUndefined();
+  });
+
+  it("lists cached texts and marks stale status", async () => {
+    await putStoredText({ textId: "a", path: "T/T01/a.xml", sha: "old", xml: "", htmlFragments: [], lastAccessed: 1, bytes: 10 });
+    expect(await getStoredTexts()).toHaveLength(1);
+    await markStoredTextStale("a", "new", "commit", 20);
+    expect((await getStoredText("a"))?.staleSha).toBe("new");
+    expect((await getStoredText("a"))?.staleSourceSha).toBe("commit");
+    expect((await getStoredText("a"))?.staleBytes).toBe(20);
+    await clearStoredTextStale("a");
+    expect((await getStoredText("a"))?.staleSha).toBeUndefined();
+    expect((await getStoredText("a"))?.staleSourceSha).toBeUndefined();
+    expect((await getStoredText("a"))?.staleBytes).toBeUndefined();
   });
 
   it("evicts least-recently-used texts to fit under cap", async () => {

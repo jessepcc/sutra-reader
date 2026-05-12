@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "B",
+    "volume": "B19",
+    "id": "B19n0103",
+    "title": "禪林象器箋",
+    "path": "B/B19/B19n0103.xml",
+    "sha": "b98d52c31b91b2794a87018ec1f2756da0c3afc8",
+    "bytes": 3117799,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B19",
+    "id": "B19na018",
+    "title": "大藏經補編第十九冊．編輯說明",
+    "path": "B/B19/B19na018.xml",
+    "sha": "56c99c7cd8640b9f1612a88874932d463265a001",
+    "bytes": 6361,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

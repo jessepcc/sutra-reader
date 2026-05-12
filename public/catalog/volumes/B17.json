@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0089",
+    "title": "太平廣記選輯（卷八十七～一三四）",
+    "path": "B/B17/B17n0089.xml",
+    "sha": "9a5f02a677ae76f7991d2c75e4286e9fc3872079",
+    "bytes": 934834,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0090",
+    "title": "酉陽雜俎選輯（前集、續集等六篇）",
+    "path": "B/B17/B17n0090.xml",
+    "sha": "bf4c7d96e11459748f25d3d2b593414c2277314d",
+    "bytes": 171763,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0091",
+    "title": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
+    "path": "B/B17/B17n0091.xml",
+    "sha": "4d0dcc06d728a58e596f674e1cff3b1f37ca091a",
+    "bytes": 326090,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0092",
+    "title": "唐會要、五代會要、明書、明會典選輯",
+    "path": "B/B17/B17n0092.xml",
+    "sha": "784d1cbad35eaf34886382147c8637852c596d27",
+    "bytes": 184256,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0093",
+    "title": "象教皮編（六卷全）",
+    "path": "B/B17/B17n0093.xml",
+    "sha": "0fae80616715a83df2e587c81f63d63b6c55fea4",
+    "bytes": 482365,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17n0094",
+    "title": "冊府元龜選輯",
+    "path": "B/B17/B17n0094.xml",
+    "sha": "669fe98b85f8e0f5c73c8c5d47512b25087f97e0",
+    "bytes": 210154,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B17",
+    "id": "B17na016",
+    "title": "大藏經補編第十七冊．編輯說明",
+    "path": "B/B17/B17na016.xml",
+    "sha": "4992837d306093d8c2b07c06f672585f819bf34b",
+    "bytes": 9843,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

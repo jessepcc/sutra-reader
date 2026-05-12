@@ -1,0 +1,102 @@
+[
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0272",
+    "title": "楞嚴經合論",
+    "path": "X/X12/X12n0272.xml",
+    "sha": "98e99ee4ee0912903d707367ca4fff14ee99977d",
+    "bytes": 1056823,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0273",
+    "title": "楞嚴經正脉疏科",
+    "path": "X/X12/X12n0273.xml",
+    "sha": "a933de52cc113d944db9f54b02f7cb534e7bcbf1",
+    "bytes": 642986,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0274",
+    "title": "楞嚴經正脉疏懸示",
+    "path": "X/X12/X12n0274.xml",
+    "sha": "6461e12e22b2db6542776c1bcec610e44ecc2dc5",
+    "bytes": 285882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0275",
+    "title": "楞嚴經正脉疏",
+    "path": "X/X12/X12n0275.xml",
+    "sha": "c7d25bb24347e6331db30e614f731910240b9f87",
+    "bytes": 3793650,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0276",
+    "title": "楞嚴經摸象記",
+    "path": "X/X12/X12n0276.xml",
+    "sha": "adfab1472f1e4a6ef154fccf05b3140db75d95f5",
+    "bytes": 315554,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0277",
+    "title": "楞嚴經懸鏡",
+    "path": "X/X12/X12n0277.xml",
+    "sha": "a04f8eb8ffcb7bf207950a3e04e827a77e60f00e",
+    "bytes": 65251,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0278",
+    "title": "楞嚴經通議略科",
+    "path": "X/X12/X12n0278.xml",
+    "sha": "4f032b183c5f817da6dcf6e7efcd2ca787be076c",
+    "bytes": 157195,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0279",
+    "title": "楞嚴經通議",
+    "path": "X/X12/X12n0279.xml",
+    "sha": "16b283557097b9230799d1d4dbcaab662015d492",
+    "bytes": 1421960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0280",
+    "title": "楞嚴經臆說",
+    "path": "X/X12/X12n0280.xml",
+    "sha": "1c7260d19ecb4edd4016f89267b2eb2f08601a82",
+    "bytes": 277811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X12",
+    "id": "X12n0281",
+    "title": "楞嚴經圓通疏",
+    "path": "X/X12/X12n0281.xml",
+    "sha": "719ddf032785cbcb3ae5222d083a41096ec0d30b",
+    "bytes": 2936177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

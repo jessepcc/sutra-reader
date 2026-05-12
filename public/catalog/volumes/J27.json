@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB189",
+    "title": "三宜盂禪師語錄",
+    "path": "J/J27/J27nB189.xml",
+    "sha": "2c23bbad0ae42fdddafcd0b2c7bcafaf51e5eeb3",
+    "bytes": 779493,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB190",
+    "title": "石雨禪師法檀",
+    "path": "J/J27/J27nB190.xml",
+    "sha": "0ffcf0e177ed471853a3efb511f02dc616c10d9f",
+    "bytes": 880366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB191",
+    "title": "象田即念禪師語錄",
+    "path": "J/J27/J27nB191.xml",
+    "sha": "ff4981a2a11c6b886ecf9280cd0949777a909599",
+    "bytes": 258787,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB192",
+    "title": "大休珠禪師語錄",
+    "path": "J/J27/J27nB192.xml",
+    "sha": "01ef7d4171310cb87c301806f9c2d00425ca6ffe",
+    "bytes": 425171,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB193",
+    "title": "隱元禪師語錄",
+    "path": "J/J27/J27nB193.xml",
+    "sha": "80201e5194de8a16b066f237a0b5c086cceda248",
+    "bytes": 914923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB194",
+    "title": "昭覺丈雪醉禪師語錄",
+    "path": "J/J27/J27nB194.xml",
+    "sha": "33cc7263a9b4c6ff8f1afade3ce1715fbbb123e6",
+    "bytes": 426696,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB196",
+    "title": "鴛湖用禪師語錄",
+    "path": "J/J27/J27nB196.xml",
+    "sha": "1d9276f702976c8928333d3ea8522a32bc2d92f8",
+    "bytes": 165153,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB197",
+    "title": "博山無異大師語錄集要",
+    "path": "J/J27/J27nB197.xml",
+    "sha": "47ab9936e189b11ea1ad5bc18a39167b364e2708",
+    "bytes": 463207,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB198",
+    "title": "雪關禪師語錄",
+    "path": "J/J27/J27nB198.xml",
+    "sha": "bbdc6a22ed24f3e7ab34890a23c667acfaa90217",
+    "bytes": 1072110,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB199",
+    "title": "雪關和尚語錄",
+    "path": "J/J27/J27nB199.xml",
+    "sha": "11d2c8074641d3f29563c73d023d9bf96e492b73",
+    "bytes": 267755,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J27",
+    "id": "J27nB200",
+    "title": "石霜爾瞻尊禪師語錄",
+    "path": "J/J27/J27nB200.xml",
+    "sha": "9cb405ae11e68763dee0692fb364c2c8f1abdd0b",
+    "bytes": 203749,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

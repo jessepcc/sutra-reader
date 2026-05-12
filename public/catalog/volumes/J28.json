@@ -1,0 +1,192 @@
+[
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB202",
+    "title": "百癡禪師語錄",
+    "path": "J/J28/J28nB202.xml",
+    "sha": "d2272df2f9eb5634c768259eddd1dbb45170b66b",
+    "bytes": 1805914,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB203",
+    "title": "雲峨喜禪師語錄",
+    "path": "J/J28/J28nB203.xml",
+    "sha": "98ca53bf047b880f900f77cad2640ff83d35afb6",
+    "bytes": 443704,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB204",
+    "title": "斌雅禪師語錄",
+    "path": "J/J28/J28nB204.xml",
+    "sha": "10842797dbf2993dcec1a6e0ade7f418b5414b89",
+    "bytes": 204568,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB205",
+    "title": "介為舟禪師語錄",
+    "path": "J/J28/J28nB205.xml",
+    "sha": "4ca530d5a85e45b6371f30efe81e35e9c8d66d1a",
+    "bytes": 574932,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB206",
+    "title": "笑堂和尚語錄",
+    "path": "J/J28/J28nB206.xml",
+    "sha": "805b7fb9945dd5409091b8f4726b6a349ba19d14",
+    "bytes": 107666,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB207",
+    "title": "古瓶山牧道者究心錄",
+    "path": "J/J28/J28nB207.xml",
+    "sha": "de357ae10fe5e627e2634896152d22affd87dabe",
+    "bytes": 207927,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB208",
+    "title": "古雪哲禪師語錄",
+    "path": "J/J28/J28nB208.xml",
+    "sha": "f11524e71488eef121f32049202e3cae7ce422d2",
+    "bytes": 1047265,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB209",
+    "title": "永濟融禪師語錄",
+    "path": "J/J28/J28nB209.xml",
+    "sha": "7ca45db7d20d15649c8217f3057fb568dbfe60f5",
+    "bytes": 109732,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB210",
+    "title": "伏獅祇園禪師語錄",
+    "path": "J/J28/J28nB210.xml",
+    "sha": "26661334a5be4db9b25da6e69f3f67b32f88cba5",
+    "bytes": 189009,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB211",
+    "title": "季總徹禪師語錄",
+    "path": "J/J28/J28nB211.xml",
+    "sha": "d743a144901e3e8a9e6b2421039826e37757f681",
+    "bytes": 340527,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB212",
+    "title": "二隱謐禪師語錄",
+    "path": "J/J28/J28nB212.xml",
+    "sha": "bf8a2ef455d54797b38fd6bc6b4f0622d560e0e6",
+    "bytes": 417232,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB213",
+    "title": "芝巖秀禪師語錄",
+    "path": "J/J28/J28nB213.xml",
+    "sha": "8b0e54a9a37555daed0c4b9abeba0d7c041bdd5d",
+    "bytes": 87126,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB214",
+    "title": "蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種）",
+    "path": "J/J28/J28nB214.xml",
+    "sha": "6eb5ce7560713be1ab89b854e9004794b80be932",
+    "bytes": 82978,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB215",
+    "title": "頌古合響集",
+    "path": "J/J28/J28nB215.xml",
+    "sha": "b164c789c03af24e3c299319081873844d441214",
+    "bytes": 82515,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB216",
+    "title": "絕餘編",
+    "path": "J/J28/J28nB216.xml",
+    "sha": "05738c3430a22ca116637b0a6e6b2a1ff4986bf1",
+    "bytes": 261278,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB218",
+    "title": "懶石聆禪師語錄",
+    "path": "J/J28/J28nB218.xml",
+    "sha": "63db26f0bf4c18cd559dd85ddbd62a07195c76cf",
+    "bytes": 203580,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB219",
+    "title": "紫竹林顓愚衡和尚語錄",
+    "path": "J/J28/J28nB219.xml",
+    "sha": "c0cf05a76d8b114f5d4f3ee44fee1e77aaaa747b",
+    "bytes": 1168238,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB220",
+    "title": "法璽印禪師語錄",
+    "path": "J/J28/J28nB220.xml",
+    "sha": "2cfb01d4b5cf7b702dc0e83829859d6a852ad7f9",
+    "bytes": 498663,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J28",
+    "id": "J28nB221",
+    "title": "楞嚴法璽印禪師語錄",
+    "path": "J/J28/J28nB221.xml",
+    "sha": "796ffa41afa73757d20c4a1ef36b436af719e140",
+    "bytes": 112501,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

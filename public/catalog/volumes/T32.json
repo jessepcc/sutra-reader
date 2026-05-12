@@ -1,0 +1,662 @@
+[
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1628",
+    "title": "因明正理門論本",
+    "path": "T/T32/T32n1628.xml",
+    "sha": "d311f44df9e9bf877206cde6565a26d3ff472bbc",
+    "bytes": 65224,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1629",
+    "title": "因明正理門論",
+    "path": "T/T32/T32n1629.xml",
+    "sha": "056a4adc8f8ca0bd2583f2bce564e63cacbb9a33",
+    "bytes": 72751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1630",
+    "title": "因明入正理論",
+    "path": "T/T32/T32n1630.xml",
+    "sha": "cb8761261a515a7964129ac03ffdc6a0a526aaf3",
+    "bytes": 35947,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1631",
+    "title": "迴諍論",
+    "path": "T/T32/T32n1631.xml",
+    "sha": "61f8dd34e33fe765a69c50145e0bcd00e29d0808",
+    "bytes": 133656,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1632",
+    "title": "方便心論",
+    "path": "T/T32/T32n1632.xml",
+    "sha": "e6a61df9475946c1fc9cbb3be0bd87bc76ab7066",
+    "bytes": 77510,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1633",
+    "title": "如實論",
+    "path": "T/T32/T32n1633.xml",
+    "sha": "adc3d6b8c98b8acefe3c3aa35f073d073ab1a569",
+    "bytes": 91538,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1634",
+    "title": "入大乘論",
+    "path": "T/T32/T32n1634.xml",
+    "sha": "e7a21c294faa455e16949ceff14d633f56974dd3",
+    "bytes": 178756,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1635",
+    "title": "大乘寶要義論",
+    "path": "T/T32/T32n1635.xml",
+    "sha": "959111aa9aa70a3239e890b1a33dde142a2d77d9",
+    "bytes": 245834,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1636",
+    "title": "大乘集菩薩學論",
+    "path": "T/T32/T32n1636.xml",
+    "sha": "0d0dd928eb8b0ae3a673aee52140bac0b23d05f5",
+    "bytes": 816512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1637",
+    "title": "集大乘相論",
+    "path": "T/T32/T32n1637.xml",
+    "sha": "d62ed923263c6d32b082980eddd21b7f35cba5f0",
+    "bytes": 52563,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1638",
+    "title": "集諸法寶最上義論",
+    "path": "T/T32/T32n1638.xml",
+    "sha": "0f4051c16ba979af361fd9f30b73350b9f7e7e3f",
+    "bytes": 47774,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1639",
+    "title": "提婆菩薩破楞伽經中外道小乘四宗論",
+    "path": "T/T32/T32n1639.xml",
+    "sha": "2e8ba9c68a7e35a7249f00765ef2d9e1f5604579",
+    "bytes": 25283,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1640",
+    "title": "提婆菩薩釋楞伽經中外道小乘涅槃論",
+    "path": "T/T32/T32n1640.xml",
+    "sha": "852405f1dabdf00db697d6e9e3024fb0bfd594d4",
+    "bytes": 31680,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1641",
+    "title": "隨相論",
+    "path": "T/T32/T32n1641.xml",
+    "sha": "1d75058fa7c7bd737ef5978db85419a5e69629fd",
+    "bytes": 166271,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1642",
+    "title": "金剛針論",
+    "path": "T/T32/T32n1642.xml",
+    "sha": "9fb3a9ed846eacd983faa3040bd0725473c36f23",
+    "bytes": 54063,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1643",
+    "title": "尼乾子問無我義經",
+    "path": "T/T32/T32n1643.xml",
+    "sha": "e252a65f8b46a69fa972e60937a0f35bc64912c6",
+    "bytes": 12079,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1644",
+    "title": "佛說立世阿毘曇論",
+    "path": "T/T32/T32n1644.xml",
+    "sha": "c18305ae97440c996cf3c3b7d2269fcceafd000f",
+    "bytes": 795951,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1645",
+    "title": "彰所知論",
+    "path": "T/T32/T32n1645.xml",
+    "sha": "25cd05967b6659d139281fd86e53790c5dbf2252",
+    "bytes": 96917,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1646",
+    "title": "成實論",
+    "path": "T/T32/T32n1646.xml",
+    "sha": "65621463d738c37bee62f7a1b8b2573f65ca78e5",
+    "bytes": 2096586,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1647",
+    "title": "四諦論",
+    "path": "T/T32/T32n1647.xml",
+    "sha": "e0ab714c9d2abe8cc94b67350025fe7ec9a7e305",
+    "bytes": 365745,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1648",
+    "title": "解脫道論",
+    "path": "T/T32/T32n1648.xml",
+    "sha": "85c0ed582959d47c469890e34844abe59becce7e",
+    "bytes": 982272,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1649",
+    "title": "三彌底部論",
+    "path": "T/T32/T32n1649.xml",
+    "sha": "de8d7090c5b90a26aa330dc7d1f2bd91d26b1751",
+    "bytes": 138474,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1650",
+    "title": "辟支佛因緣論",
+    "path": "T/T32/T32n1650.xml",
+    "sha": "2c0075c21c9417890c5254b2ef26a13de84098ff",
+    "bytes": 146560,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1651",
+    "title": "十二因緣論",
+    "path": "T/T32/T32n1651.xml",
+    "sha": "4b020987940657594e0189b3e958499081f9ebe0",
+    "bytes": 25881,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1652",
+    "title": "緣生論",
+    "path": "T/T32/T32n1652.xml",
+    "sha": "e43cb815cb8f94de8cfbf27860ecbc92b7f539f9",
+    "bytes": 51601,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1653",
+    "title": "大乘緣生論",
+    "path": "T/T32/T32n1653.xml",
+    "sha": "1154c9e724cbb4e6f14148429e8dbc5b5bd1899a",
+    "bytes": 66427,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1654",
+    "title": "因緣心論頌因緣心論釋",
+    "path": "T/T32/T32n1654.xml",
+    "sha": "f4b29ab161f7461da04700171a060a4eedac7d34",
+    "bytes": 19359,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1655",
+    "title": "止觀門論頌",
+    "path": "T/T32/T32n1655.xml",
+    "sha": "a65453164f663d0646e11be92820987fe0ebf946",
+    "bytes": 29131,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1656",
+    "title": "寶行王正論",
+    "path": "T/T32/T32n1656.xml",
+    "sha": "4c6ed1a7b2c7444cefe5446bb79a0f71a69c2746",
+    "bytes": 152028,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1657",
+    "title": "手杖論",
+    "path": "T/T32/T32n1657.xml",
+    "sha": "21ca42fc47875540d5048bffd6431c9a363838db",
+    "bytes": 36177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1658",
+    "title": "諸教決定名義論",
+    "path": "T/T32/T32n1658.xml",
+    "sha": "52ee92033a7cd21791351364256b31a9accd55b8",
+    "bytes": 18561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1659",
+    "title": "發菩提心經論",
+    "path": "T/T32/T32n1659.xml",
+    "sha": "67c3f20ce3df739ab2234f779afe9db852ccc004",
+    "bytes": 137440,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1660",
+    "title": "菩提資糧論",
+    "path": "T/T32/T32n1660.xml",
+    "sha": "fa23f83caad2c4994d9be155fce517801cb6d481",
+    "bytes": 288315,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1661",
+    "title": "菩提心離相論",
+    "path": "T/T32/T32n1661.xml",
+    "sha": "1f1efb8b79c2e86e9ff3dee5c4838856b07d24b2",
+    "bytes": 27803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1662",
+    "title": "菩提行經",
+    "path": "T/T32/T32n1662.xml",
+    "sha": "b1c8ff277a8ff888272fbdacd622f1c6fe70342f",
+    "bytes": 201311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1663",
+    "title": "菩提心觀釋",
+    "path": "T/T32/T32n1663.xml",
+    "sha": "008ba2a22d4ddb47f8051c2da7ca3f617abc0466",
+    "bytes": 12754,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1664",
+    "title": "廣釋菩提心論",
+    "path": "T/T32/T32n1664.xml",
+    "sha": "711aad2ea9d91631b2b2a4d485615e67770a6da7",
+    "bytes": 101415,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1665",
+    "title": "金剛頂瑜伽中發阿耨多羅三藐三菩提心論",
+    "path": "T/T32/T32n1665.xml",
+    "sha": "3f46cff1f06f3dd5f00f119c6bc4f49b3fa97680",
+    "bytes": 79910,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1666",
+    "title": "大乘起信論",
+    "path": "T/T32/T32n1666.xml",
+    "sha": "8e5fc92b06eeaa8344fd67958b6a49536bdc74be",
+    "bytes": 141752,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1667",
+    "title": "大乘起信論",
+    "path": "T/T32/T32n1667.xml",
+    "sha": "1c310add466769fccc90f731b16439769ee632f0",
+    "bytes": 86864,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1668",
+    "title": "釋摩訶衍論",
+    "path": "T/T32/T32n1668.xml",
+    "sha": "6fa06610dfc5e93a5d91936a422e281ff04a6814",
+    "bytes": 1195412,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1669",
+    "title": "大宗地玄文本論",
+    "path": "T/T32/T32n1669.xml",
+    "sha": "dc1e11d3e0ec412eb7ad4878b081747ae0addb0a",
+    "bytes": 253724,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1670A",
+    "title": "那先比丘經",
+    "path": "T/T32/T32n1670A.xml",
+    "sha": "2348bb68a068abd32ddd2234a9617f9765f4b8e4",
+    "bytes": 205099,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1670B",
+    "title": "那先比丘經",
+    "path": "T/T32/T32n1670B.xml",
+    "sha": "b7cf36795a7b9c2c1bb2439a48e92a76a1194e8e",
+    "bytes": 210374,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1671",
+    "title": "福蓋正行所集經",
+    "path": "T/T32/T32n1671.xml",
+    "sha": "92485eb92bc23dd37ca60b372b933125ca3d7300",
+    "bytes": 230079,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1672",
+    "title": "龍樹菩薩為禪陀迦王說法要偈",
+    "path": "T/T32/T32n1672.xml",
+    "sha": "2cf476205ae9f8d56c6386fdf64460f00bca6c1a",
+    "bytes": 52723,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1673",
+    "title": "勸發諸王要偈",
+    "path": "T/T32/T32n1673.xml",
+    "sha": "ae6a2c357d825a9492511fbe0ff9e4c1dff01cb2",
+    "bytes": 49077,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1674",
+    "title": "龍樹菩薩勸誡王頌",
+    "path": "T/T32/T32n1674.xml",
+    "sha": "7d82fdc21a80bbca498b5f452b7879bd9c915a0b",
+    "bytes": 58551,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1675",
+    "title": "讚法界頌",
+    "path": "T/T32/T32n1675.xml",
+    "sha": "1524732e4e010682f07d151f559536bcb8154b44",
+    "bytes": 26527,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1676",
+    "title": "廣大發願頌",
+    "path": "T/T32/T32n1676.xml",
+    "sha": "694ef52250d458392f3f4c614a18924ac44bc8ef",
+    "bytes": 9281,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1677",
+    "title": "三身梵讚",
+    "path": "T/T32/T32n1677.xml",
+    "sha": "68dd9b5d5394004917eda088c3c6be506689d593",
+    "bytes": 17284,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1678",
+    "title": "佛三身讚",
+    "path": "T/T32/T32n1678.xml",
+    "sha": "1ec4bed95c40899c3ceba0dd410ad4f67267f043",
+    "bytes": 8402,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1679",
+    "title": "佛一百八名讚",
+    "path": "T/T32/T32n1679.xml",
+    "sha": "687243bbe56d1fd63dbd81522fd2107f37b57481",
+    "bytes": 13058,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1680",
+    "title": "一百五十讚佛頌",
+    "path": "T/T32/T32n1680.xml",
+    "sha": "fe39d22852496eaeaf21dd1f6957f8b4d448902b",
+    "bytes": 44773,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1681",
+    "title": "佛吉祥德讚",
+    "path": "T/T32/T32n1681.xml",
+    "sha": "a34312e93f185e0d5f97d16b83710869c441f575",
+    "bytes": 80645,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1682",
+    "title": "七佛讚唄伽他",
+    "path": "T/T32/T32n1682.xml",
+    "sha": "fb60e9e0ec68d373c7ac862a100855931efe705d",
+    "bytes": 58258,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1683",
+    "title": "犍稚梵讚",
+    "path": "T/T32/T32n1683.xml",
+    "sha": "c96dbcce841b9a12a21f99aa86fb7d93df04e7d4",
+    "bytes": 114601,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1684",
+    "title": "八大靈塔梵讚",
+    "path": "T/T32/T32n1684.xml",
+    "sha": "6b85112084b64b65b3a0e568ae203a4c51d07027",
+    "bytes": 23984,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1685",
+    "title": "佛說八大靈塔名號經",
+    "path": "T/T32/T32n1685.xml",
+    "sha": "1d065377a6d0a4eb6f7ec50c051c2236be6c3e98",
+    "bytes": 9707,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1686",
+    "title": "賢聖集伽陀一百頌",
+    "path": "T/T32/T32n1686.xml",
+    "sha": "58d4817c7a00f8d8089b51afbfe0195649f9272e",
+    "bytes": 29700,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1687",
+    "title": "事師法五十頌",
+    "path": "T/T32/T32n1687.xml",
+    "sha": "a2619c8ab07336aad912f4666341cf381d82e921",
+    "bytes": 20662,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1688",
+    "title": "密跡力士大權神王經偈頌",
+    "path": "T/T32/T32n1688.xml",
+    "sha": "bb9fde7224289ce57ece03bc09c5f1ba9377a969",
+    "bytes": 58471,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1689",
+    "title": "請賓頭盧法",
+    "path": "T/T32/T32n1689.xml",
+    "sha": "6944857b3ea85d0f6d11fc8cc05b9b4f28853f8f",
+    "bytes": 25091,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1690",
+    "title": "賓頭盧突羅闍為優陀延王說法經",
+    "path": "T/T32/T32n1690.xml",
+    "sha": "53ca4fd13e8827b47e384a4e7d6fe4517e0b35c9",
+    "bytes": 56359,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1691",
+    "title": "迦葉仙人說醫女人經",
+    "path": "T/T32/T32n1691.xml",
+    "sha": "4be8a14301c703bad839dc689976e587f69d6c92",
+    "bytes": 19558,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T32",
+    "id": "T32n1692",
+    "title": "勝軍化世百喻伽他經",
+    "path": "T/T32/T32n1692.xml",
+    "sha": "d5082c73f116eb8f2a261af6b4d5773dbd11085c",
+    "bytes": 43152,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2250",
+    "title": "南山律在家備覽略編",
+    "path": "G/G104/G104n2250.xml",
+    "sha": "acef11967c488520e1d7584fc1a408ab9112b378",
+    "bytes": 908476,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2251",
+    "title": "四分律含註戒本隨講別錄",
+    "path": "G/G104/G104n2251.xml",
+    "sha": "2a74b9bd3f489c5eb452256e85bd2ad834097241",
+    "bytes": 166998,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2252",
+    "title": "四分律含註戒本科",
+    "path": "G/G104/G104n2252.xml",
+    "sha": "63f934e6b5da32154d64bee7958621c9c571a562",
+    "bytes": 92015,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2253",
+    "title": "四分律含註戒本疏略科",
+    "path": "G/G104/G104n2253.xml",
+    "sha": "8f26f60cb8df27c37959a77c298883e9ddca9753",
+    "bytes": 20167,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2254",
+    "title": "四分律含註戒本略釋",
+    "path": "G/G104/G104n2254.xml",
+    "sha": "02bb4602854b259fb3c2b92da8c56b7598fd6914",
+    "bytes": 41538,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2255",
+    "title": "四分律刪補隨機羯磨隨講別錄",
+    "path": "G/G104/G104n2255.xml",
+    "sha": "e23483c90040477e7ca0a8890e3b3cc8e5bfeb9b",
+    "bytes": 348794,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2256",
+    "title": "四分律刪補隨機羯磨疏略科",
+    "path": "G/G104/G104n2256.xml",
+    "sha": "651d3241827edbbb32dc65dfd25b934e1f40cb7d",
+    "bytes": 32609,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2257",
+    "title": "事鈔持犯方軌篇表記",
+    "path": "G/G104/G104n2257.xml",
+    "sha": "28136d64811af9356e57f6def27838e442eaceaa",
+    "bytes": 114602,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2258",
+    "title": "事鈔略科",
+    "path": "G/G104/G104n2258.xml",
+    "sha": "c8a192eef33b7ad680cd151ea55d4ea7c516e947",
+    "bytes": 70263,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2259",
+    "title": "事鈔戒業疏科別錄合冊",
+    "path": "G/G104/G104n2259.xml",
+    "sha": "167fb274fc1d77da79df413d44e365afe3e4d55d",
+    "bytes": 175644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2260",
+    "title": "律鈔宗要隨講別錄",
+    "path": "G/G104/G104n2260.xml",
+    "sha": "644572e09055e71c9e6c0da0b8e84290499d2f42",
+    "bytes": 79688,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2261",
+    "title": "四分律比丘尼鈔科",
+    "path": "G/G104/G104n2261.xml",
+    "sha": "cad9de705f566d65d946b9e42973f0ff22afc668",
+    "bytes": 93205,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2262",
+    "title": "梵網經菩薩戒本淺釋",
+    "path": "G/G104/G104n2262.xml",
+    "sha": "271965553f255677ffe0b87989142b1b836040e1",
+    "bytes": 19289,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2263",
+    "title": "梵網十重戒諸疏所判罪相緩急異同表",
+    "path": "G/G104/G104n2263.xml",
+    "sha": "e096683e72c05de331151c805be6160f91bf9f01",
+    "bytes": 26549,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2264",
+    "title": "梵網經賢首疏盜戒第六種類輕重門科表",
+    "path": "G/G104/G104n2264.xml",
+    "sha": "9971f790466d7abc25485eb2f0371f54238b5fac",
+    "bytes": 13582,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2265",
+    "title": "菩薩戒本宗要表科",
+    "path": "G/G104/G104n2265.xml",
+    "sha": "c2c9f304fec07964d5d3971b96d387e1b49d9c87",
+    "bytes": 24415,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2266",
+    "title": "梵網經古跡記科表",
+    "path": "G/G104/G104n2266.xml",
+    "sha": "1167a5deb526b05f8a45899231495369a2d5be4a",
+    "bytes": 95054,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2267",
+    "title": "釋門歸敬儀擷錄",
+    "path": "G/G104/G104n2267.xml",
+    "sha": "d9ecc7aac4357087ab7947105fb4c49ba9276466",
+    "bytes": 39866,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2268",
+    "title": "授三歸依大意",
+    "path": "G/G104/G104n2268.xml",
+    "sha": "dc782eb18b6e6c209def938d521cd68b17ef8f94",
+    "bytes": 8203,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2269",
+    "title": "釋門歸敬儀科",
+    "path": "G/G104/G104n2269.xml",
+    "sha": "cf56b0b2ef814fbcf7c0d5d5e4bae0e4e0896c0f",
+    "bytes": 38575,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2270",
+    "title": "律學要略",
+    "path": "G/G104/G104n2270.xml",
+    "sha": "48d35d8622c58e17e9e3da1dd2c89a5ee3de6f1b",
+    "bytes": 44911,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2271",
+    "title": "菩薩瓔珞經自誓受菩薩五重戒法",
+    "path": "G/G104/G104n2271.xml",
+    "sha": "f2b26bf3bddfd21b1946edd0cb407938607835af",
+    "bytes": 11358,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2272",
+    "title": "僧尼十種受法料簡圖",
+    "path": "G/G104/G104n2272.xml",
+    "sha": "66d662a40e1263cf74859aea755153367c31b83a",
+    "bytes": 24807,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2273",
+    "title": "剃髮儀式",
+    "path": "G/G104/G104n2273.xml",
+    "sha": "053fa86fa9417b12f3ee537298343c443dbb3da9",
+    "bytes": 32736,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2274",
+    "title": "表無表章科",
+    "path": "G/G104/G104n2274.xml",
+    "sha": "2e970f391783aee6e64345cbdcf3a765989a4125",
+    "bytes": 12530,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2275",
+    "title": "盜戒釋相概略問答",
+    "path": "G/G104/G104n2275.xml",
+    "sha": "3e15e691a55150b0e82b38fc64f3207760b870c2",
+    "bytes": 28708,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2276",
+    "title": "南山律苑雜錄",
+    "path": "G/G104/G104n2276.xml",
+    "sha": "92aeb4070242cf2b7fa055f03a002b8247c7332a",
+    "bytes": 60122,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2277",
+    "title": "毗柰耶質疑編",
+    "path": "G/G104/G104n2277.xml",
+    "sha": "031133e1ead1e333e9425466c30ccbdc57c9253c",
+    "bytes": 23525,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2278",
+    "title": "青年佛徒應注意的四項",
+    "path": "G/G104/G104n2278.xml",
+    "sha": "e37ee97761d346392742ccd2565f22ea41d1d3f6",
+    "bytes": 18304,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2279",
+    "title": "人生之最後",
+    "path": "G/G104/G104n2279.xml",
+    "sha": "6a317e28e5bc4f9610dbc1c0f358055f3fb77567",
+    "bytes": 13582,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2280",
+    "title": "根本說一切有部毗柰耶犯相摘記",
+    "path": "G/G104/G104n2280.xml",
+    "sha": "1e360aba21a5006ea61da75bfd3d5391533f29c8",
+    "bytes": 93549,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2281",
+    "title": "根本說一切有部毗柰耶自行抄",
+    "path": "G/G104/G104n2281.xml",
+    "sha": "f4943b30ddb63e53174884bff395254e325f80e2",
+    "bytes": 56389,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2282",
+    "title": "學根本說一切有部律入門次第",
+    "path": "G/G104/G104n2282.xml",
+    "sha": "7a1430d189e6f0d9a57b16c8492bb72645a5ddea",
+    "bytes": 7945,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2283",
+    "title": "四分律比丘戒相表記校註",
+    "path": "G/G104/G104n2283.xml",
+    "sha": "8113f7d409d38c48ebce808c9417bd96a793a043",
+    "bytes": 48297,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G104",
+    "id": "G104n2284",
+    "title": "榑桑國藏古袈裟圖",
+    "path": "G/G104/G104n2284.xml",
+    "sha": "e51633cd2054c42836217b77567edaa6f15855cf",
+    "bytes": 10790,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0003",
+    "title": "南傳長部經典",
+    "path": "B/B06/B06n0003.xml",
+    "sha": "740c5d6c303c946a7485c7cb41bdc10c0dffee2d",
+    "bytes": 1064279,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0004",
+    "title": "南傳中部經典",
+    "path": "B/B06/B06n0004.xml",
+    "sha": "33f48dc0adbea0567d662348efe183be522f95be",
+    "bytes": 825616,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0005",
+    "title": "南傳小部經典",
+    "path": "B/B06/B06n0005.xml",
+    "sha": "ca45c927dd709305191ff8ca75aa5b96f3a1f367",
+    "bytes": 1302184,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0006",
+    "title": "泰國大藏經小部經",
+    "path": "B/B06/B06n0006.xml",
+    "sha": "3c9e9b5b44f13535e8e020ecb78a1f10d4158e78",
+    "bytes": 656486,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0007",
+    "title": "發趣論",
+    "path": "B/B06/B06n0007.xml",
+    "sha": "d307912365652a3aac5ab79c1da5d3e4f53a58d5",
+    "bytes": 689422,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0008",
+    "title": "大發趣論註",
+    "path": "B/B06/B06n0008.xml",
+    "sha": "20c675fbdcab5bd50eb60dd1522f751958007efb",
+    "bytes": 378960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06n0009",
+    "title": "冠導阿毗達磨俱舍論",
+    "path": "B/B06/B06n0009.xml",
+    "sha": "e7a9f15d329cae889165ed7a218560e006cabd43",
+    "bytes": 3460312,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B06",
+    "id": "B06na004",
+    "title": "大藏經補編第六冊．編輯說明",
+    "path": "B/B06/B06na004.xml",
+    "sha": "e077264526032d9cc703808990ed5f0595286358",
+    "bytes": 7310,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

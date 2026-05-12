@@ -1,0 +1,332 @@
+[
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0882",
+    "title": "大乘法苑義林章補闕",
+    "path": "X/X55/X55n0882.xml",
+    "sha": "abce1557af1da06531874cd0b2027c7be8c661f0",
+    "bytes": 500524,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0883",
+    "title": "大乘法苑義林章決擇記",
+    "path": "X/X55/X55n0883.xml",
+    "sha": "ee0fdc46e6cc8cee90b8fd82edcf90ab7f9be564",
+    "bytes": 740608,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0884",
+    "title": "表無表章栖翫記",
+    "path": "X/X55/X55n0884.xml",
+    "sha": "1006be95783028d186a6ebd67689639c0fb3c3de",
+    "bytes": 351253,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0888",
+    "title": "唯識開蒙問答",
+    "path": "X/X55/X55n0888.xml",
+    "sha": "f663567d66fcd37854c081c29ba0ad96b4b7d7bd",
+    "bytes": 860848,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0890",
+    "title": "八識規矩補註證義",
+    "path": "X/X55/X55n0890.xml",
+    "sha": "af67ade918922072a982a2f8dcf67dc6dd9e39a5",
+    "bytes": 138378,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0891",
+    "title": "八識規矩略說",
+    "path": "X/X55/X55n0891.xml",
+    "sha": "e27d7873fe1f46f80e96094c381e8ee5d82e2c0c",
+    "bytes": 78288,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0892",
+    "title": "八識規矩頌解",
+    "path": "X/X55/X55n0892.xml",
+    "sha": "27a08965615cf018037e808a84276624d59bb165",
+    "bytes": 41558,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0893",
+    "title": "八識規矩通說",
+    "path": "X/X55/X55n0893.xml",
+    "sha": "8b1a929ec7198c3ebc53305c6e844a1398e67e1d",
+    "bytes": 54054,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0894",
+    "title": "八識規矩纂釋",
+    "path": "X/X55/X55n0894.xml",
+    "sha": "9c4bf9ea93a8f962fb9fe6751ac2c0c73180a004",
+    "bytes": 102073,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0895",
+    "title": "八識規矩直解",
+    "path": "X/X55/X55n0895.xml",
+    "sha": "450f95edb00b57453ff0399f80591f14b73e92d7",
+    "bytes": 33193,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0896",
+    "title": "八識規矩淺說",
+    "path": "X/X55/X55n0896.xml",
+    "sha": "1fadd1622c451f218e6b5969885c1fd7f4f6d79e",
+    "bytes": 25707,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0897",
+    "title": "八識規矩頌注",
+    "path": "X/X55/X55n0897.xml",
+    "sha": "95f7c8eb29d481a6c05087ad165f06f98bffde58",
+    "bytes": 89765,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0898",
+    "title": "八識規矩論義",
+    "path": "X/X55/X55n0898.xml",
+    "sha": "b2aceddbf525c436f1f918f64c50204de5ee524f",
+    "bytes": 233117,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0899",
+    "title": "相宗八要",
+    "path": "X/X55/X55n0899.xml",
+    "sha": "b1ecaab19acf0297fb0509f1ee3084833b080a37",
+    "bytes": 4924,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0900",
+    "title": "相宗八要解",
+    "path": "X/X55/X55n0900.xml",
+    "sha": "ffb8b380387778f1cb6b683925e025e68fab139e",
+    "bytes": 97637,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0901",
+    "title": "相宗八要直解",
+    "path": "X/X55/X55n0901.xml",
+    "sha": "f25ff64f2974d48b88265f82a527f3e038cd03f9",
+    "bytes": 18304,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0902",
+    "title": "一乘佛性究竟論",
+    "path": "X/X55/X55n0902.xml",
+    "sha": "55f9ca389d7c33903bc8896e8fedf106a649bf97",
+    "bytes": 65112,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0903",
+    "title": "隨自意三昧",
+    "path": "X/X55/X55n0903.xml",
+    "sha": "251ce4ba3d93df796711c2c9d90dc1944fd4eab6",
+    "bytes": 105646,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0904",
+    "title": "大乘止觀法門宗圓記",
+    "path": "X/X55/X55n0904.xml",
+    "sha": "8caae27493019725eeb1b40022df166b30feabe5",
+    "bytes": 875238,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0905",
+    "title": "大乘止觀法門釋要",
+    "path": "X/X55/X55n0905.xml",
+    "sha": "584deee40c9d96987d4d74d8cb61b64732b52897",
+    "bytes": 524405,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0907",
+    "title": "禪門章",
+    "path": "X/X55/X55n0907.xml",
+    "sha": "2e7d87f46fa26fb294ebaab380a8e9e1905b791f",
+    "bytes": 258668,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0908",
+    "title": "禪門要略",
+    "path": "X/X55/X55n0908.xml",
+    "sha": "ae09a89a1fb1e42231aba70afcdc81d330616921",
+    "bytes": 24366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0909",
+    "title": "三觀義",
+    "path": "X/X55/X55n0909.xml",
+    "sha": "512b8f469dea0dca9d965c3de955714ebf3c053f",
+    "bytes": 172994,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0911",
+    "title": "觀心食法",
+    "path": "X/X55/X55n0911.xml",
+    "sha": "f416fafefe56c061072e9f754da853b4f730c0fd",
+    "bytes": 6916,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0912",
+    "title": "觀心誦經法記",
+    "path": "X/X55/X55n0912.xml",
+    "sha": "1fb5129d506944c657f020035208fc52acd6f43a",
+    "bytes": 17834,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0913",
+    "title": "天台智者大師發願文",
+    "path": "X/X55/X55n0913.xml",
+    "sha": "79726036cc23fbfbb8e41ac7bab03a85d61811e1",
+    "bytes": 11335,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0914",
+    "title": "普賢菩薩發願文",
+    "path": "X/X55/X55n0914.xml",
+    "sha": "bc6e75815e8c5d984075cbe79946d1e5d4efea45",
+    "bytes": 7632,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0915",
+    "title": "刪定止觀",
+    "path": "X/X55/X55n0915.xml",
+    "sha": "173c81b88128a25820fe6d0b4cb1dad2423283f9",
+    "bytes": 479540,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0916",
+    "title": "天台智者大師傳論",
+    "path": "X/X55/X55n0916.xml",
+    "sha": "367b182488d36f2b980e7dbe6aecd5d231a05ef8",
+    "bytes": 14615,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0917",
+    "title": "止觀科節",
+    "path": "X/X55/X55n0917.xml",
+    "sha": "e931651349f824ef7210416c289aaf2a11db751c",
+    "bytes": 47391,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0918",
+    "title": "止觀記中異義",
+    "path": "X/X55/X55n0918.xml",
+    "sha": "9074daea52ecb948b469d5904e333fe775c5b4f1",
+    "bytes": 20712,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0919",
+    "title": "止觀輔行搜要記",
+    "path": "X/X55/X55n0919.xml",
+    "sha": "949f6670fbee214425a12184d142c8da09a2fa42",
+    "bytes": 1387855,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X55",
+    "id": "X55n0920",
+    "title": "止觀輔行助覽",
+    "path": "X/X55/X55n0920.xml",
+    "sha": "c469c83deae02214b92d9ba5bc87a63e17b5fa5b",
+    "bytes": 680627,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

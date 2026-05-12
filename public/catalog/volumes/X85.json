@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1586",
+    "title": "正源略集目錄",
+    "path": "X/X85/X85n1586.xml",
+    "sha": "a7a8e0bc59ca2b2d7de6fc71b9c3b7df89952548",
+    "bytes": 61324,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1587",
+    "title": "正源略集",
+    "path": "X/X85/X85n1587.xml",
+    "sha": "e6d97278013a8b52ee49a04ac7a4703f5191a4ec",
+    "bytes": 1088100,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1588",
+    "title": "正源略集補遺",
+    "path": "X/X85/X85n1588.xml",
+    "sha": "ba21198c31af43e9464b64e832b993a741b4279c",
+    "bytes": 39832,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1589",
+    "title": "錦江禪燈目錄",
+    "path": "X/X85/X85n1589.xml",
+    "sha": "353b994ceccf82855eca4b7f0d0d207f4d9550f8",
+    "bytes": 134674,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1590",
+    "title": "錦江禪燈",
+    "path": "X/X85/X85n1590.xml",
+    "sha": "8cbbe31a00fba9631e092c3be62d405a12100f51",
+    "bytes": 1195728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1591",
+    "title": "黔南會燈錄",
+    "path": "X/X85/X85n1591.xml",
+    "sha": "d39f5fe80a4492079dbf08011b2e942f1613c6dc",
+    "bytes": 431879,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1592",
+    "title": "揞黑豆集",
+    "path": "X/X85/X85n1592.xml",
+    "sha": "f048c6ff29dd9744c4c6135d4e68816ec64d5464",
+    "bytes": 1226121,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1593",
+    "title": "禪宗正脉",
+    "path": "X/X85/X85n1593.xml",
+    "sha": "c2022f38c03b78c4775b6e93211776865510de5d",
+    "bytes": 2571413,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X85",
+    "id": "X85n1594",
+    "title": "佛祖綱目",
+    "path": "X/X85/X85n1594.xml",
+    "sha": "a6f837d5306b4791cdaa9eca5f8c3fdea623a97d",
+    "bytes": 2826316,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

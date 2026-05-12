@@ -2,8 +2,11 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useSettings } from "../lib/settings-context";
 import { clearScope, type ClearScope } from "../lib/db";
-import { CATALOG } from "../lib/catalog-context";
-import { diffManifest } from "../lib/catalog";
+import {
+  applyAutoUpdateSetting,
+  checkManifestUpdates,
+  precacheSavedTexts,
+} from "../lib/sync";
 
 export function SettingsPage() {
   const { settings, update } = useSettings();
@@ -23,18 +26,15 @@ export function SettingsPage() {
   async function onCheckUpdate() {
     setStatus("檢查中…");
     try {
-      // sutra-manifest URL is configurable in v2; for v1 we report against
-      // the bundled catalog SHA. Resolve relative to the app base so sub-path
-      // deployments work (Vite guarantees BASE_URL ends with '/').
-      const manifestUrl = `${import.meta.env.BASE_URL}manifest.json`;
-      const res = await fetch(manifestUrl).catch(() => null);
-      if (!res || !res.ok) {
-        setStatus("尚無可用的更新清單（佈署時請放置 /manifest.json）。");
-        return;
+      const result = await checkManifestUpdates();
+      if (settings.autoUpdate && result.staleTextIds.length > 0) {
+        await precacheSavedTexts();
       }
-      const manifest = await res.json();
-      const stale = diffManifest(CATALOG, manifest);
-      setStatus(stale.length ? `${stale.length} 個文本有更新。` : "已是最新。");
+      setStatus(
+        result.staleTextIds.length
+          ? `${result.staleTextIds.length} 個已快取文本有更新。`
+          : `已是最新（${result.upstreamSha.slice(0, 12)}）。`,
+      );
     } catch (err) {
       setStatus(`檢查失敗：${(err as Error).message}`);
     }
@@ -106,11 +106,11 @@ export function SettingsPage() {
         <div className="subtle">同步</div>
         <p>
           <label>
-            <input
-              type="checkbox"
-              checked={settings.autoUpdate}
-              onChange={(e) => void update({ autoUpdate: e.target.checked })}
-            />{" "}
+              <input
+                type="checkbox"
+                checked={settings.autoUpdate}
+                onChange={(e) => void applyAutoUpdateSetting(e.target.checked)}
+              />{" "}
             自動更新已快取文本
           </label>
         </p>

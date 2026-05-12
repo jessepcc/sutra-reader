@@ -1,0 +1,1922 @@
+[
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2732",
+    "title": "梁朝傅大士頌金剛經",
+    "path": "T/T85/T85n2732.xml",
+    "sha": "e52dce4830f35acd778f90a27672ddb7ec88fd84",
+    "bytes": 83940,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2733",
+    "title": "御注金剛般若波羅蜜經宣演",
+    "path": "T/T85/T85n2733.xml",
+    "sha": "75c2c1dd442b00c9463555871b5c7d8684111893",
+    "bytes": 359587,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2734",
+    "title": "金剛暎卷上",
+    "path": "T/T85/T85n2734.xml",
+    "sha": "5c67fef11caaa8b0c55607a0b92b0843582f5c2a",
+    "bytes": 119975,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2735",
+    "title": "金剛般若經旨贊",
+    "path": "T/T85/T85n2735.xml",
+    "sha": "2bdf69fc7cb9d4cbe08e7f1a49be99c9ca173193",
+    "bytes": 442914,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2736",
+    "title": "金剛般若經依天親菩薩論贊略釋秦本義記卷上",
+    "path": "T/T85/T85n2736.xml",
+    "sha": "4fdd04d9339ebacf0077826df83337138ebe956e",
+    "bytes": 96690,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2737",
+    "title": "金剛經疏",
+    "path": "T/T85/T85n2737.xml",
+    "sha": "1caccfe58fbd7b2dbaf7f1d633200d928f54f0fe",
+    "bytes": 87835,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2738",
+    "title": "金剛經疏",
+    "path": "T/T85/T85n2738.xml",
+    "sha": "9722b1fca2cc9dba496afb24e1978ad4d032ae89",
+    "bytes": 31420,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2739",
+    "title": "金剛般若經挾註",
+    "path": "T/T85/T85n2739.xml",
+    "sha": "1a759fa47e4ecd1143e4cce1e4436ff8e4267f3a",
+    "bytes": 52484,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2740",
+    "title": "金剛般若義記",
+    "path": "T/T85/T85n2740.xml",
+    "sha": "f6710fd77c668201a3fcf19ba4243ccdf428ce43",
+    "bytes": 28943,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2741",
+    "title": "金剛般若經疏",
+    "path": "T/T85/T85n2741.xml",
+    "sha": "a97dae23c546bd2f125283834ef4dcdcca9f918b",
+    "bytes": 113027,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2742",
+    "title": "金剛般若波羅蜜經傳外傳卷下",
+    "path": "T/T85/T85n2742.xml",
+    "sha": "f72844cdb1cb4af45905b884a42ad0a3a78b9e90",
+    "bytes": 21536,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2743",
+    "title": "持誦金剛經靈驗功德記",
+    "path": "T/T85/T85n2743.xml",
+    "sha": "377cd23d5effa7992aeb47f5291ac016130b30fb",
+    "bytes": 37100,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2744",
+    "title": "仁王般若實相論卷第二",
+    "path": "T/T85/T85n2744.xml",
+    "sha": "26a1fdc98efd1a5c6184d8d4b223e1a6eb0cdc00",
+    "bytes": 52352,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2745",
+    "title": "仁王經疏",
+    "path": "T/T85/T85n2745.xml",
+    "sha": "7f3bdab6ce2614fe1d5e1885cd842e357ac3b0fe",
+    "bytes": 15286,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2746",
+    "title": "般若波羅蜜多心經還源述",
+    "path": "T/T85/T85n2746.xml",
+    "sha": "9d41826870a52ffb056a26666a7fe7adb199384b",
+    "bytes": 16385,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2747",
+    "title": "挾註波羅蜜多心經",
+    "path": "T/T85/T85n2747.xml",
+    "sha": "9734e5f2eea3197cce0eb19b8ecaf110677eaa71",
+    "bytes": 8403,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2748",
+    "title": "法華義記卷第三",
+    "path": "T/T85/T85n2748.xml",
+    "sha": "363779a0ca8c57b194dc9dfb6b8db3a616e3cecd",
+    "bytes": 223167,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2749",
+    "title": "法華經疏",
+    "path": "T/T85/T85n2749.xml",
+    "sha": "b5163813172187eee0e2d683d5d8ef42c78ff45f",
+    "bytes": 81999,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2750",
+    "title": "法華經疏",
+    "path": "T/T85/T85n2750.xml",
+    "sha": "0791b686e2c8f63b86cb5abe604e9e894efe1e41",
+    "bytes": 51293,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2751",
+    "title": "法華經疏",
+    "path": "T/T85/T85n2751.xml",
+    "sha": "21e8ca6b00e65a0d5855095772e0ddd3e35a8794",
+    "bytes": 37652,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2752",
+    "title": "法華問答",
+    "path": "T/T85/T85n2752.xml",
+    "sha": "c16b90189ece619c13b029480f0e2c98ee40ff17",
+    "bytes": 58051,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2753",
+    "title": "華嚴經章",
+    "path": "T/T85/T85n2753.xml",
+    "sha": "d6b5207e0bcf9f655ccf67457eaba9ac1f9f8969",
+    "bytes": 26890,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2754",
+    "title": "華嚴略疏卷第三",
+    "path": "T/T85/T85n2754.xml",
+    "sha": "04443f7b112ba7e91aaefb0ab327e05ed952633d",
+    "bytes": 79077,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2755",
+    "title": "華嚴經疏",
+    "path": "T/T85/T85n2755.xml",
+    "sha": "5358a0ac0c84245383f13096e3c4403e50aa6711",
+    "bytes": 127878,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2756",
+    "title": "華嚴經義記卷第一",
+    "path": "T/T85/T85n2756.xml",
+    "sha": "d0e8f88177db8167d5f100fa3820426d2c11c30a",
+    "bytes": 7463,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2757",
+    "title": "華嚴經疏卷第三",
+    "path": "T/T85/T85n2757.xml",
+    "sha": "93946d138bb098952879f6adc38ad1b6123aeb66",
+    "bytes": 15280,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2758",
+    "title": "十地義記卷第一",
+    "path": "T/T85/T85n2758.xml",
+    "sha": "6186e5c286a038adf175e45597cb9c8c67b32a79",
+    "bytes": 32280,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2759",
+    "title": "無量壽經義記卷下",
+    "path": "T/T85/T85n2759.xml",
+    "sha": "769c057b471fc5e63fb77fcf867ad517299cdc71",
+    "bytes": 83307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2760",
+    "title": "無量壽觀經義記",
+    "path": "T/T85/T85n2760.xml",
+    "sha": "05ee19f02b62b1ed74a9828049ef1908941fa093",
+    "bytes": 34052,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2761",
+    "title": "勝鬘經記",
+    "path": "T/T85/T85n2761.xml",
+    "sha": "4d5baa22e55ca9fee2a884c6fb56c3feeb530cd1",
+    "bytes": 65972,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2762",
+    "title": "勝鬘經疏",
+    "path": "T/T85/T85n2762.xml",
+    "sha": "acd3e39e0350b705aabf3e25ac4ce44ccd866d98",
+    "bytes": 140844,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2763",
+    "title": "挾注勝鬘經",
+    "path": "T/T85/T85n2763.xml",
+    "sha": "e3856e5d5f65d1fd76b3c92928ed6ed9bf3d3546",
+    "bytes": 23938,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2764A",
+    "title": "涅槃經義記",
+    "path": "T/T85/T85n2764A.xml",
+    "sha": "22de9fe92b39d9345b798bdad4e17298adbb56ee",
+    "bytes": 117240,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2764B",
+    "title": "大涅槃經義記卷第四",
+    "path": "T/T85/T85n2764B.xml",
+    "sha": "51a0ad6fc0b211bf85fe3269d2e36131000310b6",
+    "bytes": 78736,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2765",
+    "title": "涅槃經疏",
+    "path": "T/T85/T85n2765.xml",
+    "sha": "a3c09c7e00466e1f46ca8791aeab4ecfdce2c9c4",
+    "bytes": 13150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2766",
+    "title": "藥師經疏",
+    "path": "T/T85/T85n2766.xml",
+    "sha": "fc376de5bbc9a063e37113318e0bc73c96cd4a21",
+    "bytes": 47803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2767",
+    "title": "藥師經疏",
+    "path": "T/T85/T85n2767.xml",
+    "sha": "2f344cc948fd98a0d858095384bafe5db4899e94",
+    "bytes": 141983,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2768",
+    "title": "維摩義記",
+    "path": "T/T85/T85n2768.xml",
+    "sha": "5c85e217d05587c0e480b0cf7f645795f1878cbb",
+    "bytes": 96880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2769",
+    "title": "維摩經義記卷第四",
+    "path": "T/T85/T85n2769.xml",
+    "sha": "2abe5f2eb7f79a6114793528bdbd14c83f4f9657",
+    "bytes": 148193,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2770",
+    "title": "維摩經疏",
+    "path": "T/T85/T85n2770.xml",
+    "sha": "fdc2e5083634877dc6322a16309fca78dec7cd6f",
+    "bytes": 78817,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2771",
+    "title": "維摩經疏",
+    "path": "T/T85/T85n2771.xml",
+    "sha": "b9891794275b5325a9cc0aace9e8a9fc6e4febe5",
+    "bytes": 112639,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2772",
+    "title": "維摩經疏卷第三．第六",
+    "path": "T/T85/T85n2772.xml",
+    "sha": "2167be9f2d7acbd6b0c94b7739e36deb56126dbc",
+    "bytes": 383509,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2773",
+    "title": "維摩經抄",
+    "path": "T/T85/T85n2773.xml",
+    "sha": "aa9511a3fe2c7e8da85cb2fbd6b3be42f3a59710",
+    "bytes": 71165,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2774",
+    "title": "維摩經疏",
+    "path": "T/T85/T85n2774.xml",
+    "sha": "5a85f600eabe9b789b3480d91eb686be7d65a132",
+    "bytes": 18675,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2775",
+    "title": "維摩疏釋前小序抄",
+    "path": "T/T85/T85n2775.xml",
+    "sha": "693a4425226ac5f5865c802c867fb039034cfc1f",
+    "bytes": 73715,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2776",
+    "title": "釋肇序",
+    "path": "T/T85/T85n2776.xml",
+    "sha": "61289ec44031cc2805f88c4c068631f13a84cb5c",
+    "bytes": 19914,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2777",
+    "title": "淨名經集解關中疏",
+    "path": "T/T85/T85n2777.xml",
+    "sha": "aaf4b2687b6a861852803b73ba71288e05b32f67",
+    "bytes": 703062,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2778",
+    "title": "淨名經關中釋抄",
+    "path": "T/T85/T85n2778.xml",
+    "sha": "39361e40fff7c793e2e25abc8e1c576d202b38a6",
+    "bytes": 586005,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2779",
+    "title": "佛說楞伽經禪門悉談章",
+    "path": "T/T85/T85n2779.xml",
+    "sha": "036ee304e7f1653018bed20d4e2918fe782c235f",
+    "bytes": 29202,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2780",
+    "title": "溫室經疏",
+    "path": "T/T85/T85n2780.xml",
+    "sha": "5abf63c03cfadce97cc9faf4c07c9fb971992311",
+    "bytes": 29742,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2781",
+    "title": "盂蘭盆經讚述",
+    "path": "T/T85/T85n2781.xml",
+    "sha": "77ba6bcf87c65ba5b7861510723be11c537c8120",
+    "bytes": 36291,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2782",
+    "title": "大乘稻芉經隨聽疏",
+    "path": "T/T85/T85n2782.xml",
+    "sha": "52bb91ff3c0d10fbd8848684d1ce1ef29d8ee982",
+    "bytes": 219414,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2783",
+    "title": "大乘稻芉經隨聽疏決",
+    "path": "T/T85/T85n2783.xml",
+    "sha": "4307ecca19a0e6b70e981d38d1cbed4f6ba734f2",
+    "bytes": 12000,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2784",
+    "title": "大乘四法經釋抄",
+    "path": "T/T85/T85n2784.xml",
+    "sha": "95ea9e78cb75f08cf44823b4612bf23350f1da08",
+    "bytes": 15078,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2785",
+    "title": "大乘四法經論廣釋開決記",
+    "path": "T/T85/T85n2785.xml",
+    "sha": "0b955c673269cb300ced6db5c894d40e79d2f0b9",
+    "bytes": 30053,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2786",
+    "title": "天請問經疏",
+    "path": "T/T85/T85n2786.xml",
+    "sha": "a71292146334d3baca624a3d0c7df313c32500a3",
+    "bytes": 27995,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2787",
+    "title": "四分戒本疏卷第一．第二．第三",
+    "path": "T/T85/T85n2787.xml",
+    "sha": "ac93883fc0422d0ace194323382aec4d70c4f1e5",
+    "bytes": 501199,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2788",
+    "title": "律戒本疏",
+    "path": "T/T85/T85n2788.xml",
+    "sha": "6c871c7af9d73128deb0b60ca7b78d840bb6cf2a",
+    "bytes": 265072,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2789",
+    "title": "律戒本疏",
+    "path": "T/T85/T85n2789.xml",
+    "sha": "b3a07c81bce96cecf2359a8ce89bc1207c32fda5",
+    "bytes": 64220,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2790",
+    "title": "律雜抄",
+    "path": "T/T85/T85n2790.xml",
+    "sha": "be9eab463885e81ca531f9392c231a19a481818f",
+    "bytes": 11913,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2791",
+    "title": "宗四分比丘隨門要略行儀",
+    "path": "T/T85/T85n2791.xml",
+    "sha": "746be3c663f1b93e1a395a9c405f3a89885e1622",
+    "bytes": 45354,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2792",
+    "title": "毘尼心",
+    "path": "T/T85/T85n2792.xml",
+    "sha": "308b94432722f0c58941f77c7a2078e3449dca02",
+    "bytes": 385181,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2793",
+    "title": "三部律抄",
+    "path": "T/T85/T85n2793.xml",
+    "sha": "591d9793fee2cdec01a838749f9e486d36465236",
+    "bytes": 88022,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2794",
+    "title": "律抄",
+    "path": "T/T85/T85n2794.xml",
+    "sha": "9a49a79dbd51683968a19e55d83bd3d929aad59c",
+    "bytes": 59808,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2795",
+    "title": "四部律并論要用抄",
+    "path": "T/T85/T85n2795.xml",
+    "sha": "70bc1c837fec94cfa31d7ba0effe3ad24189dbaf",
+    "bytes": 413684,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2796",
+    "title": "律抄第三卷手決",
+    "path": "T/T85/T85n2796.xml",
+    "sha": "e6d84d4723c17c30d4ad2dd313be47957e36373c",
+    "bytes": 69542,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2797",
+    "title": "梵網經述記卷第一",
+    "path": "T/T85/T85n2797.xml",
+    "sha": "7e2878602dc83735b4ef600d8a6588015c321263",
+    "bytes": 137904,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2798",
+    "title": "本業瓔珞經疏",
+    "path": "T/T85/T85n2798.xml",
+    "sha": "5e07d150dcd03ce55f69c7ed5fbf57fa4e0a8e7e",
+    "bytes": 112268,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2799",
+    "title": "十地論義疏卷第一．第三",
+    "path": "T/T85/T85n2799.xml",
+    "sha": "18383de598756391ad6cc5c77760feb94f3787f4",
+    "bytes": 162983,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2800",
+    "title": "廣百論疏卷第一",
+    "path": "T/T85/T85n2800.xml",
+    "sha": "6614c447fa51ba198384edc7804904bbf52d85cf",
+    "bytes": 171875,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2801",
+    "title": "瑜伽師地論分門記",
+    "path": "T/T85/T85n2801.xml",
+    "sha": "e66e64bf5bd8a9ed4c77b5dcaa7e626acb75bf12",
+    "bytes": 1308912,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2802",
+    "title": "瑜伽論手記",
+    "path": "T/T85/T85n2802.xml",
+    "sha": "a00a7012bc7db8a34b76a4fb9dbbfe002860e503",
+    "bytes": 137156,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2803",
+    "title": "地持義記卷第四",
+    "path": "T/T85/T85n2803.xml",
+    "sha": "4e7641b3ecadb2ebf3461427796a37e11aa81db9",
+    "bytes": 109512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2804",
+    "title": "唯識三十論要釋",
+    "path": "T/T85/T85n2804.xml",
+    "sha": "50703a6541cdcf2b54c0c1a140909f491feda99d",
+    "bytes": 149124,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2805",
+    "title": "攝大乘講疏卷第五．第七",
+    "path": "T/T85/T85n2805.xml",
+    "sha": "82faa353e72736349710e10a6bc2ffacdd2ee449",
+    "bytes": 129700,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2806",
+    "title": "攝大乘論抄",
+    "path": "T/T85/T85n2806.xml",
+    "sha": "247ff2bff0d8fab4f2cdea71ef7e5782f76a2b62",
+    "bytes": 89006,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2807",
+    "title": "攝大乘論章卷第一",
+    "path": "T/T85/T85n2807.xml",
+    "sha": "759e4778e156bfa64a9da833f4dc682cd95b6e3b",
+    "bytes": 91028,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2808",
+    "title": "攝論章卷第一",
+    "path": "T/T85/T85n2808.xml",
+    "sha": "aa52f60bad04c7eb244ba255da5cb76aa53fee1a",
+    "bytes": 103219,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2809",
+    "title": "攝大乘義章卷第四",
+    "path": "T/T85/T85n2809.xml",
+    "sha": "ec8976a3db596e027ccc0e6a9392a6954c706ee9",
+    "bytes": 75367,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2810",
+    "title": "大乘百法明門論開宗義記",
+    "path": "T/T85/T85n2810.xml",
+    "sha": "7829e60e734c6651da3c64d5bc3ca3ffcac143de",
+    "bytes": 244230,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2811",
+    "title": "大乘百法明門論開宗義記序釋",
+    "path": "T/T85/T85n2811.xml",
+    "sha": "9a5ac4574df2a977de984c807984277c25aca130",
+    "bytes": 22560,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2812",
+    "title": "大乘百法明門論開宗義決",
+    "path": "T/T85/T85n2812.xml",
+    "sha": "e1d8d5578cd44998a4c3ae65b88e1b2d9312fadf",
+    "bytes": 254626,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2813",
+    "title": "大乘起信論略述",
+    "path": "T/T85/T85n2813.xml",
+    "sha": "60bf890747d27d809e69742447967f58956bee5e",
+    "bytes": 252992,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2814",
+    "title": "大乘起信論廣釋卷第三．四．五",
+    "path": "T/T85/T85n2814.xml",
+    "sha": "1475d7de4942196c46b2042e7df37f8c7bbb0ea2",
+    "bytes": 535487,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2815",
+    "title": "起信論註",
+    "path": "T/T85/T85n2815.xml",
+    "sha": "bf926f5deacb24b27212ea6fd367cbd8c6f2353a",
+    "bytes": 41786,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2816",
+    "title": "因緣心釋論開決記",
+    "path": "T/T85/T85n2816.xml",
+    "sha": "a7de75c5852ae2926cd3ddc02442b3c013ba1dfe",
+    "bytes": 41133,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2817",
+    "title": "大乘經纂要義",
+    "path": "T/T85/T85n2817.xml",
+    "sha": "d7f6dfaad0686272faa445cbd1676986fadf0da1",
+    "bytes": 19743,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2818",
+    "title": "大乘二十二問本",
+    "path": "T/T85/T85n2818.xml",
+    "sha": "a75c456d6b93597b5571ecd632cd43dca8864743",
+    "bytes": 68579,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2819",
+    "title": "諸經要抄",
+    "path": "T/T85/T85n2819.xml",
+    "sha": "93cb9c628cad7e4546b96ec5e328315acb1b3cd2",
+    "bytes": 46035,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2820",
+    "title": "菩薩藏修道眾經抄卷第十二",
+    "path": "T/T85/T85n2820.xml",
+    "sha": "51b381839110f439124120627594a0ddd5e0f27b",
+    "bytes": 68131,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2821",
+    "title": "諸經要略文",
+    "path": "T/T85/T85n2821.xml",
+    "sha": "40837c88757ca8661dcfc196f1e53eabca8d6534",
+    "bytes": 13127,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2822",
+    "title": "大乘要語",
+    "path": "T/T85/T85n2822.xml",
+    "sha": "85d778a398c883da733163ac6468e9dd148bd9d7",
+    "bytes": 14222,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2823",
+    "title": "大乘入道次第開決",
+    "path": "T/T85/T85n2823.xml",
+    "sha": "f265028f190dfd520b9cf6c4b879789f319180dc",
+    "bytes": 149973,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2824",
+    "title": "天台分門圖",
+    "path": "T/T85/T85n2824.xml",
+    "sha": "0896fb3cff9eeaaa9b4cc0cda7ade29a0b70d784",
+    "bytes": 25823,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2825",
+    "title": "真言要決卷第一．第三",
+    "path": "T/T85/T85n2825.xml",
+    "sha": "8d07875cd07ae722e4a738e563b479aeb4e31679",
+    "bytes": 147971,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2826",
+    "title": "略諸經論念佛法門往生淨土集卷上",
+    "path": "T/T85/T85n2826.xml",
+    "sha": "c562ab126f1529e0ee1fb0159b2b283e0d2cd74e",
+    "bytes": 64665,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2827",
+    "title": "淨土五會念佛誦經觀行儀卷中．下",
+    "path": "T/T85/T85n2827.xml",
+    "sha": "e3620bb081dd271b50916424371582038581ea13",
+    "bytes": 221096,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2828",
+    "title": "大乘淨土讚",
+    "path": "T/T85/T85n2828.xml",
+    "sha": "0aaa2d5677f187dae84ac6ffa5acaca6dbb0a051",
+    "bytes": 6468,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2829",
+    "title": "持齋念佛懺悔禮文",
+    "path": "T/T85/T85n2829.xml",
+    "sha": "60a25c0eaf95dfc81ae8eeecf30f3dba74a0111a",
+    "bytes": 21469,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2830A",
+    "title": "道安法師念佛讚",
+    "path": "T/T85/T85n2830A.xml",
+    "sha": "8261f4ecd7699c4c31737c3ed8a59d3193996880",
+    "bytes": 8134,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2830B",
+    "title": "道安法師念佛讚文",
+    "path": "T/T85/T85n2830B.xml",
+    "sha": "545eb299da26e795bda80454bb72fc4ef57967f7",
+    "bytes": 5753,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2831",
+    "title": "無心論",
+    "path": "T/T85/T85n2831.xml",
+    "sha": "c124d439a9a1b869ab7ff1b003d8309a65170932",
+    "bytes": 12924,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2832",
+    "title": "南天竺國菩提達摩禪師觀門",
+    "path": "T/T85/T85n2832.xml",
+    "sha": "b6bf70a883a5e85c598763d7353e92ce5b01db23",
+    "bytes": 7182,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2833",
+    "title": "觀心論",
+    "path": "T/T85/T85n2833.xml",
+    "sha": "2299377c8307552b6976bed35b9e139d69d49adc",
+    "bytes": 26422,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2834",
+    "title": "大乘無生方便門",
+    "path": "T/T85/T85n2834.xml",
+    "sha": "5d6b23e9c9baf431f01cca967a155d19747bd166",
+    "bytes": 38191,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2835",
+    "title": "大乘開心顯性頓悟真宗論",
+    "path": "T/T85/T85n2835.xml",
+    "sha": "8be164cacca8f32f811620d3bc396e6b9fe0a16d",
+    "bytes": 31015,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2836",
+    "title": "大乘北宗論",
+    "path": "T/T85/T85n2836.xml",
+    "sha": "c50d6d0c90f26760b3197bb378402fabc75c8f02",
+    "bytes": 7790,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2837",
+    "title": "楞伽師資記",
+    "path": "T/T85/T85n2837.xml",
+    "sha": "695376234c216851a6601c6bd9a971935776e9f8",
+    "bytes": 247931,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2838",
+    "title": "傳法寶紀",
+    "path": "T/T85/T85n2838.xml",
+    "sha": "3b68003ca8dc9358ab2195ac2ce14e7944fb532e",
+    "bytes": 10323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2839",
+    "title": "讚禪門詩",
+    "path": "T/T85/T85n2839.xml",
+    "sha": "cbd450fcac522b362fece07772b0c3b7a37ce867",
+    "bytes": 13627,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2840",
+    "title": "三界圖",
+    "path": "T/T85/T85n2840.xml",
+    "sha": "7f0e473d8d76ac67ffb6dcd74be42891b4a2e0e3",
+    "bytes": 9310,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2841",
+    "title": "大佛略懺",
+    "path": "T/T85/T85n2841.xml",
+    "sha": "4eaad86c20c8950d94f80d40371c0b022c4f8ed8",
+    "bytes": 13666,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2842",
+    "title": "印沙佛文",
+    "path": "T/T85/T85n2842.xml",
+    "sha": "1a6cd1ef348c1a7a9d3db265d5897ac796e380f8",
+    "bytes": 7948,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2843",
+    "title": "大悲啟請",
+    "path": "T/T85/T85n2843.xml",
+    "sha": "9a9122f7a772b813a63c6a623626e691beea2790",
+    "bytes": 14155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2844",
+    "title": "文殊師利菩薩無相十禮",
+    "path": "T/T85/T85n2844.xml",
+    "sha": "42775b3d8c444edd5fedb4971d0f65f92eedaa43",
+    "bytes": 7475,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2845",
+    "title": "押座文類",
+    "path": "T/T85/T85n2845.xml",
+    "sha": "c4c183890262e8474d5b4282becb360e0c42061b",
+    "bytes": 25482,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2846",
+    "title": "祈願文",
+    "path": "T/T85/T85n2846.xml",
+    "sha": "207e7ed1f2f218e92a99e8eb9c8e0e8fc9911bff",
+    "bytes": 5670,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2847",
+    "title": "祈願文",
+    "path": "T/T85/T85n2847.xml",
+    "sha": "f2bc2aeb1608a2f3606cd0b47bc42010c7a2b9fa",
+    "bytes": 5483,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2848",
+    "title": "迴向文",
+    "path": "T/T85/T85n2848.xml",
+    "sha": "97a47cb9c00bdb8f9d7f3a1f9a2a027d4e1ae901",
+    "bytes": 9515,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2849",
+    "title": "大乘四齋日",
+    "path": "T/T85/T85n2849.xml",
+    "sha": "5614b1594253785cf81a2d40c418f08838deac77",
+    "bytes": 6047,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2850",
+    "title": "地藏菩薩十齋日",
+    "path": "T/T85/T85n2850.xml",
+    "sha": "9a61477746510c08d87b2703f15e828e7bf85468",
+    "bytes": 5115,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2851",
+    "title": "和菩薩戒文",
+    "path": "T/T85/T85n2851.xml",
+    "sha": "47e75b981b9fc8d63e69ddc680b51c90119653ae",
+    "bytes": 12007,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2852",
+    "title": "入布薩堂說偈文等",
+    "path": "T/T85/T85n2852.xml",
+    "sha": "949bba8d5dfc60a8769b18fe84581f768decb12a",
+    "bytes": 6665,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2853",
+    "title": "布薩文等",
+    "path": "T/T85/T85n2853.xml",
+    "sha": "c3e008824103c4c7c19bef3aeadef6fb9618152b",
+    "bytes": 22798,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2854",
+    "title": "禮懺文",
+    "path": "T/T85/T85n2854.xml",
+    "sha": "64dd9f805f5d844cb239e0f978978d7f26a602e7",
+    "bytes": 13130,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2855",
+    "title": "禮懺文",
+    "path": "T/T85/T85n2855.xml",
+    "sha": "7a78cb19e0b5cd051a770cf00fac1fb853324139",
+    "bytes": 15475,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2856",
+    "title": "禮懺文",
+    "path": "T/T85/T85n2856.xml",
+    "sha": "6cfe49dd5d1ef215680ce09c2140f5128505cebf",
+    "bytes": 9302,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2857",
+    "title": "索法號義□諷誦文",
+    "path": "T/T85/T85n2857.xml",
+    "sha": "729aa55c25c5b70c634466b9294aa9e7d35f38bc",
+    "bytes": 10331,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2858",
+    "title": "大目乾連冥間救母變文并圖",
+    "path": "T/T85/T85n2858.xml",
+    "sha": "1dd31c56ace8ae2a336efdc8512856383628858c",
+    "bytes": 62167,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2859",
+    "title": "惠遠外傳",
+    "path": "T/T85/T85n2859.xml",
+    "sha": "c4cc926830849d76da2b0b0bcbd864fd18785019",
+    "bytes": 52270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2860",
+    "title": "府君存惠傳",
+    "path": "T/T85/T85n2860.xml",
+    "sha": "0dfdce339318a14e36dbf523b775206c6f4d0449",
+    "bytes": 8200,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2861",
+    "title": "泉州千佛新著諸祖師頌",
+    "path": "T/T85/T85n2861.xml",
+    "sha": "4743a044424667d4e7f1c3ba7f7e4cebdd9b3c4e",
+    "bytes": 30338,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2862",
+    "title": "大蕃沙洲釋門教法和尚洪□修功德記",
+    "path": "T/T85/T85n2862.xml",
+    "sha": "8b14e6e596f8516f2d97a1167d67df2c6a42d633",
+    "bytes": 7913,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2863",
+    "title": "王梵志詩集",
+    "path": "T/T85/T85n2863.xml",
+    "sha": "fa3f32ee0e90ac33d24fd62ce8464f30acaf6fd5",
+    "bytes": 13410,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2864",
+    "title": "進旨",
+    "path": "T/T85/T85n2864.xml",
+    "sha": "1040dfce5761d7c241a8c5599ca8b98369c23786",
+    "bytes": 10217,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2865",
+    "title": "護身命經",
+    "path": "T/T85/T85n2865.xml",
+    "sha": "ed8871f6527fd1b1e3b92806356f6e4b1ac5b39b",
+    "bytes": 14784,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2866",
+    "title": "護身命經",
+    "path": "T/T85/T85n2866.xml",
+    "sha": "c4aa904f9224d9091599cb9ef4d1366321d66448",
+    "bytes": 12492,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2867",
+    "title": "慈仁問八十種好經",
+    "path": "T/T85/T85n2867.xml",
+    "sha": "61f530dcd56b11c0a9f2e57c478fb3b1a19ffd1e",
+    "bytes": 15038,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2868",
+    "title": "決罪福經",
+    "path": "T/T85/T85n2868.xml",
+    "sha": "8d84ebaae7067fe8ace0899ec15749613b9859f8",
+    "bytes": 46106,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2869",
+    "title": "妙好寶車經",
+    "path": "T/T85/T85n2869.xml",
+    "sha": "ceef8df01209bd06ec09d9bbc2300c1f62e9389d",
+    "bytes": 20064,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2870",
+    "title": "像法決疑經",
+    "path": "T/T85/T85n2870.xml",
+    "sha": "0246ada69654700c33eb67b8e367d8cfb28578f8",
+    "bytes": 73336,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2871",
+    "title": "大通方廣懺悔滅罪莊嚴成佛經",
+    "path": "T/T85/T85n2871.xml",
+    "sha": "1e658926818b1d3faf501fef1b1f54d34c5600dd",
+    "bytes": 258254,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2872",
+    "title": "妙法蓮華經度量天地品第二十九",
+    "path": "T/T85/T85n2872.xml",
+    "sha": "11accad6818817693a04fd9b4cccdc8a8e71d3e2",
+    "bytes": 6444,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2873",
+    "title": "首羅比丘經",
+    "path": "T/T85/T85n2873.xml",
+    "sha": "8d13f5e9dedbcdbdad0ea931b0d13bd848cf0a30",
+    "bytes": 25780,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2874",
+    "title": "小法滅盡經",
+    "path": "T/T85/T85n2874.xml",
+    "sha": "64922d9cf948cdb5e7212e112bbc2d8865a9eb85",
+    "bytes": 8010,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2875",
+    "title": "大方廣華嚴十惡品經",
+    "path": "T/T85/T85n2875.xml",
+    "sha": "1ba01741aca74b8d11deff056932f34f1af6f06e",
+    "bytes": 15612,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2876",
+    "title": "天公經",
+    "path": "T/T85/T85n2876.xml",
+    "sha": "ed879d61f435ae5cbd31bb25ab798f53f5c73867",
+    "bytes": 5182,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2877",
+    "title": "如來在金棺囑累清淨莊嚴敬福經",
+    "path": "T/T85/T85n2877.xml",
+    "sha": "22dbbf582bfc4cb1c7252d9509ab4ae15637e2ef",
+    "bytes": 4533,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2878",
+    "title": "救疾經",
+    "path": "T/T85/T85n2878.xml",
+    "sha": "b5cd46895f23fc6084ed2be13223859f6af26560",
+    "bytes": 34258,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2879",
+    "title": "普賢菩薩說證明經",
+    "path": "T/T85/T85n2879.xml",
+    "sha": "9498446b4fd52c992db677789889aa3c514573ca",
+    "bytes": 217629,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2880",
+    "title": "究竟大悲經卷第二．三．四",
+    "path": "T/T85/T85n2880.xml",
+    "sha": "11c9d02e129090ad42e96eb267bbe33d017fc4e2",
+    "bytes": 100363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2881",
+    "title": "善惡因果經",
+    "path": "T/T85/T85n2881.xml",
+    "sha": "c0dfed81c1ba3862795ead968f10a6b3dc2d1793",
+    "bytes": 51222,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2882",
+    "title": "呪魅經",
+    "path": "T/T85/T85n2882.xml",
+    "sha": "695694c4b3325dbbb6d4ff0b6f046b9f75f9dfa1",
+    "bytes": 59988,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2883",
+    "title": "法王經",
+    "path": "T/T85/T85n2883.xml",
+    "sha": "7cecb36a486a859fe1a7fa3d67798b664fe07322",
+    "bytes": 49524,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2884",
+    "title": "大威儀請問",
+    "path": "T/T85/T85n2884.xml",
+    "sha": "cebf945b42743ef0153ad298c7a61a9503b982a3",
+    "bytes": 4282,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2885",
+    "title": "佛性海藏智慧解脫破心相經",
+    "path": "T/T85/T85n2885.xml",
+    "sha": "89306b7599205fabcb724fe6d937d718715afcfa",
+    "bytes": 105500,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2886",
+    "title": "佛為心王菩薩說投陀經卷上",
+    "path": "T/T85/T85n2886.xml",
+    "sha": "7b525afb9beb4a08c970eb892be535b3dd392d36",
+    "bytes": 24418,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2887",
+    "title": "父母恩重經",
+    "path": "T/T85/T85n2887.xml",
+    "sha": "8cb4b09c45efa05d2d23036aaa2c2832b125a873",
+    "bytes": 18408,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2888",
+    "title": "延壽命經",
+    "path": "T/T85/T85n2888.xml",
+    "sha": "f35f6bc96b9131a434a816599bf8ae32edb95e12",
+    "bytes": 9910,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2889",
+    "title": "續命經",
+    "path": "T/T85/T85n2889.xml",
+    "sha": "1b536cc81b32a6153eff5a8de2d8f88974238ba5",
+    "bytes": 6085,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2890",
+    "title": "如來成道經",
+    "path": "T/T85/T85n2890.xml",
+    "sha": "8ddb1e86f14e7fad18fc6f5065c01c7ba4b1c14f",
+    "bytes": 6270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2891",
+    "title": "山海慧菩薩經",
+    "path": "T/T85/T85n2891.xml",
+    "sha": "d2271dc0e5931bb415c7f980d0119661939fcda7",
+    "bytes": 33978,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2892",
+    "title": "現報當受經",
+    "path": "T/T85/T85n2892.xml",
+    "sha": "544476ee29ec58b5c61696da010a5ae2a5cd0706",
+    "bytes": 11980,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2893",
+    "title": "大辯邪正經",
+    "path": "T/T85/T85n2893.xml",
+    "sha": "b3bd4a6ebb06020be1e8e0fa4fc5975fab50c017",
+    "bytes": 22616,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2894",
+    "title": "三廚經",
+    "path": "T/T85/T85n2894.xml",
+    "sha": "792c2985aaa12b6c46af9caa13d8259e39e17077",
+    "bytes": 16061,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2895",
+    "title": "要行捨身經",
+    "path": "T/T85/T85n2895.xml",
+    "sha": "2df1f4c54f6a61f4d8c466ce1821cbae39d82e45",
+    "bytes": 23654,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2896",
+    "title": "示所犯者瑜伽法鏡經",
+    "path": "T/T85/T85n2896.xml",
+    "sha": "d951cdfdb23d1d6c991afe1de5ab708a8053a9b5",
+    "bytes": 63039,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2897",
+    "title": "天地八陽神呪經",
+    "path": "T/T85/T85n2897.xml",
+    "sha": "41398aa560fd2b6c9548720a675a34f7887f73de",
+    "bytes": 129979,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2898",
+    "title": "高王觀世音經",
+    "path": "T/T85/T85n2898.xml",
+    "sha": "762180064c18319bac8b75897d4d134d02f12a9e",
+    "bytes": 28552,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2899",
+    "title": "妙法蓮華經馬明菩薩品第三十",
+    "path": "T/T85/T85n2899.xml",
+    "sha": "01c8814fd11916db73b7c5a492676a9363fdf6b0",
+    "bytes": 48061,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2900",
+    "title": "齋法清淨經",
+    "path": "T/T85/T85n2900.xml",
+    "sha": "627f947ce51d00564713ff4067711dfe4eeb8f26",
+    "bytes": 8282,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2901",
+    "title": "法句經",
+    "path": "T/T85/T85n2901.xml",
+    "sha": "74341b2f1fedf56ce4f487f38cb73dcee8bd4334",
+    "bytes": 73609,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2902",
+    "title": "法句經疏",
+    "path": "T/T85/T85n2902.xml",
+    "sha": "ef914a46045d8e36393ba77f8f27bc3c9607299c",
+    "bytes": 75494,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2903",
+    "title": "無量大慈教經",
+    "path": "T/T85/T85n2903.xml",
+    "sha": "00c8cb0e5732131db019ae65a369c75561af3a97",
+    "bytes": 12008,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2904",
+    "title": "七千佛神符經",
+    "path": "T/T85/T85n2904.xml",
+    "sha": "48347b4fbf210e8635871fb9a6bd34c49a6dd2ec",
+    "bytes": 12383,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2905",
+    "title": "現在十方千五百佛名並雜佛同號",
+    "path": "T/T85/T85n2905.xml",
+    "sha": "73ef6e5c1d2116f64eb0d1203fa7a7f3796656bc",
+    "bytes": 24754,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2906",
+    "title": "三萬佛同根本神祕之印並法龍種上尊王佛法",
+    "path": "T/T85/T85n2906.xml",
+    "sha": "239e3d513c57e92a041110364d1eb3e5356efd53",
+    "bytes": 28168,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2907",
+    "title": "普賢菩薩行願王經",
+    "path": "T/T85/T85n2907.xml",
+    "sha": "527ee84656a794cbb24974a95f965ba0736ab3b1",
+    "bytes": 30372,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2908",
+    "title": "大方廣佛華嚴經普賢菩薩行願王品",
+    "path": "T/T85/T85n2908.xml",
+    "sha": "ce6dc355795c4208ad538633acf8920d22a01ce3",
+    "bytes": 14679,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2909",
+    "title": "地藏菩薩經",
+    "path": "T/T85/T85n2909.xml",
+    "sha": "a43ef1e1aa21f9d0a3a5c31cad20dca063c41d5f",
+    "bytes": 4929,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2910",
+    "title": "金有陀羅尼經",
+    "path": "T/T85/T85n2910.xml",
+    "sha": "90d47aa723fc4fff48286bffdfeba7ee64251bf5",
+    "bytes": 11245,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2911",
+    "title": "讚僧功德經",
+    "path": "T/T85/T85n2911.xml",
+    "sha": "71ddfb6ed7d4d5090b2126f20c0c520d5567eb32",
+    "bytes": 20418,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2912",
+    "title": "無常三啟經",
+    "path": "T/T85/T85n2912.xml",
+    "sha": "bd7c2aa3020a3de19d3c3a38545db0b3165a6916",
+    "bytes": 10175,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2913",
+    "title": "七女觀經",
+    "path": "T/T85/T85n2913.xml",
+    "sha": "67bf1ef6224881e46bd4ea665506a04b6a75b7c1",
+    "bytes": 9060,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2914",
+    "title": "觀經",
+    "path": "T/T85/T85n2914.xml",
+    "sha": "7cf7a119e2afad78276bb9f395c9c34762df575b",
+    "bytes": 18336,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2915",
+    "title": "救諸眾生一切苦難經",
+    "path": "T/T85/T85n2915.xml",
+    "sha": "692a3e32dd0c1d2ba595f60d871ac0edcf3bcf7e",
+    "bytes": 4895,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2916",
+    "title": "勸善經",
+    "path": "T/T85/T85n2916.xml",
+    "sha": "1e03150c5ea3f1e99ae54b61d5cf87d56e940d8a",
+    "bytes": 5444,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2917A",
+    "title": "新菩薩經",
+    "path": "T/T85/T85n2917A.xml",
+    "sha": "88e40a47340e89d3becc65491ea45397b976a946",
+    "bytes": 4964,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2917B",
+    "title": "新菩薩經",
+    "path": "T/T85/T85n2917B.xml",
+    "sha": "705694a37686ac7d2c133db7374c32dc6fde3b8b",
+    "bytes": 5777,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2918",
+    "title": "釋家觀化還愚經",
+    "path": "T/T85/T85n2918.xml",
+    "sha": "352a7c8bd8861191f483bcc3729d055934dfb0ac",
+    "bytes": 6803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2919",
+    "title": "佛母經",
+    "path": "T/T85/T85n2919.xml",
+    "sha": "1e1ee587975f89bf79e9ebb99897aa10587fc10d",
+    "bytes": 7380,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T85",
+    "id": "T85n2920",
+    "title": "僧伽和尚欲入涅槃說六度經",
+    "path": "T/T85/T85n2920.xml",
+    "sha": "da2220cdebe9089da0dc68904b19a6039ea3b143",
+    "bytes": 7112,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

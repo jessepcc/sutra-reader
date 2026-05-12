@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0600",
+    "title": "法華經入疏",
+    "path": "X/X30/X30n0600.xml",
+    "sha": "dcab8db1b893b679b1eb65c3877965716d02aabd",
+    "bytes": 2870980,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0601",
+    "title": "法華經要解科",
+    "path": "X/X30/X30n0601.xml",
+    "sha": "deff30cb6e81520dede4934c2968f2f001792acc",
+    "bytes": 201225,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0602",
+    "title": "法華經要解",
+    "path": "X/X30/X30n0602.xml",
+    "sha": "984f59786e31cd4d8dd293924e620e5903132078",
+    "bytes": 1089256,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0603",
+    "title": "法華經合論",
+    "path": "X/X30/X30n0603.xml",
+    "sha": "c51dfc00258b34d3db4b468697cb174753bcee18",
+    "bytes": 746353,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0604",
+    "title": "法華經句解",
+    "path": "X/X30/X30n0604.xml",
+    "sha": "1645f0979c8f60a6cf051e0ae6c14b1390e0cf58",
+    "bytes": 3345791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X30",
+    "id": "X30n0605",
+    "title": "法華經科註",
+    "path": "X/X30/X30n0605.xml",
+    "sha": "c2c0d5919f237f79ff20cbfd279bba42cc59eb21",
+    "bytes": 2537378,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

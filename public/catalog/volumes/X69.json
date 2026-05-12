@@ -1,0 +1,412 @@
+[
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1320",
+    "title": "四家語錄（序．引．跋）",
+    "path": "X/X69/X69n1320.xml",
+    "sha": "b1f9db4a454ed5f9612cb6a9e6a8d8d77b736427",
+    "bytes": 10610,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1321",
+    "title": "馬祖道一禪師廣錄（四家語錄卷一）",
+    "path": "X/X69/X69n1321.xml",
+    "sha": "658e9fd9c76bffc1e239597975090bf6541fde34",
+    "bytes": 41987,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1322",
+    "title": "百丈懷海禪師語錄（四家語錄卷二）",
+    "path": "X/X69/X69n1322.xml",
+    "sha": "9b5b69abb2d4f26f45ca7f67488830aae372d9be",
+    "bytes": 23060,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1323",
+    "title": "百丈懷海禪師廣錄（四家語錄卷三）",
+    "path": "X/X69/X69n1323.xml",
+    "sha": "7f4af74324a519c36990d7d29b638f067ba5691f",
+    "bytes": 12574,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1326",
+    "title": "五家語錄（序）",
+    "path": "X/X69/X69n1326.xml",
+    "sha": "a776080ca792ffd59307fdea066db4a0d78ad85d",
+    "bytes": 25979,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1333",
+    "title": "雪峰義存禪師語錄（真覺禪師語錄）",
+    "path": "X/X69/X69n1333.xml",
+    "sha": "d5038d87189e92dca3f5adfa105a13549ce1d79f",
+    "bytes": 286874,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1335",
+    "title": "善慧大士語錄",
+    "path": "X/X69/X69n1335.xml",
+    "sha": "e85e68ee57919c45f8c258655c8cfb6e27338cf4",
+    "bytes": 295884,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1336",
+    "title": "龐居士語錄",
+    "path": "X/X69/X69n1336.xml",
+    "sha": "1ae89fd98303d14009137dc9a730553fc9582a95",
+    "bytes": 149451,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1338",
+    "title": "石霜楚圓禪師語錄",
+    "path": "X/X69/X69n1338.xml",
+    "sha": "ab0933576453035b92ef4bba5f8d871e0a809a8a",
+    "bytes": 145209,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1339",
+    "title": "瑯琊慧覺禪師語錄（序）",
+    "path": "X/X69/X69n1339.xml",
+    "sha": "2d1ef254bb74d6206559024527bea5ab7e5b5ef9",
+    "bytes": 8192,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1340",
+    "title": "黃龍四家錄（序）",
+    "path": "X/X69/X69n1340.xml",
+    "sha": "b027f6fe8d4136596ab64bf738292c822a2e3b88",
+    "bytes": 6422,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1342",
+    "title": "雲菴克文禪師語錄（敘．疏．附錄）",
+    "path": "X/X69/X69n1342.xml",
+    "sha": "3c57bc801fe75de9403c18f5cf3e42f4053ed4f5",
+    "bytes": 41774,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1343",
+    "title": "寶覺祖心禪師語錄（黃龍四家錄第二）",
+    "path": "X/X69/X69n1343.xml",
+    "sha": "cc7796b864e406e78e09b1972bbf028e0e3bcbe9",
+    "bytes": 147081,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1344",
+    "title": "死心悟新禪師語錄（黃龍四家錄第三）",
+    "path": "X/X69/X69n1344.xml",
+    "sha": "a2716270c07046ea1774ca13a224449542c84abb",
+    "bytes": 73529,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1345",
+    "title": "超宗慧方禪師語錄（黃龍四家錄第四）",
+    "path": "X/X69/X69n1345.xml",
+    "sha": "5d61f7226b05af187585f231c77e2ede2ccbafac",
+    "bytes": 93809,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1346",
+    "title": "雪峰慧空禪師語錄",
+    "path": "X/X69/X69n1346.xml",
+    "sha": "54c652f6cec0540dcc722d5b299e6607ab418d4e",
+    "bytes": 178724,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1347",
+    "title": "長靈守卓禪師語錄",
+    "path": "X/X69/X69n1347.xml",
+    "sha": "1b3f5314a4160c16345917713ae5f7004b7066f1",
+    "bytes": 163626,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1348",
+    "title": "雪菴從瑾禪師頌古",
+    "path": "X/X69/X69n1348.xml",
+    "sha": "698494c740623a35c998afa9d31e15bea35a49c1",
+    "bytes": 24237,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1350",
+    "title": "保寧仁勇禪師語錄",
+    "path": "X/X69/X69n1350.xml",
+    "sha": "1dcfb024f12202d317e8ae579221f2f1900f42fd",
+    "bytes": 178828,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1351",
+    "title": "白雲守端禪師語錄",
+    "path": "X/X69/X69n1351.xml",
+    "sha": "8875213b78c3abfe7aee8da7ec7271d7e69b56e7",
+    "bytes": 95791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1352",
+    "title": "白雲守端禪師廣錄",
+    "path": "X/X69/X69n1352.xml",
+    "sha": "627c135bfad535ba9e77d74f4013c026b1b326aa",
+    "bytes": 265440,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1353",
+    "title": "開福道寧禪師語錄",
+    "path": "X/X69/X69n1353.xml",
+    "sha": "b8cf872e2cb0a8c22ae8b7c041a78874026afbbe",
+    "bytes": 174860,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1354",
+    "title": "月林師觀禪師語錄",
+    "path": "X/X69/X69n1354.xml",
+    "sha": "239574a4bc21cefda545f51947be9dc9ccad751c",
+    "bytes": 94626,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1355",
+    "title": "無門慧開禪師語錄",
+    "path": "X/X69/X69n1355.xml",
+    "sha": "a2f01e9a54fae6deee7da3ab85b600401724238f",
+    "bytes": 158931,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1356",
+    "title": "普菴印肅禪師語錄",
+    "path": "X/X69/X69n1356.xml",
+    "sha": "38a7ee2e30fe0b3126b63cf5b4f94bb41ebbcd30",
+    "bytes": 855937,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1357",
+    "title": "佛果克勤禪師心要",
+    "path": "X/X69/X69n1357.xml",
+    "sha": "200dfc613f3669b31d0a3defeb6fb8743b412795",
+    "bytes": 547296,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1358",
+    "title": "虎丘紹隆禪師語錄",
+    "path": "X/X69/X69n1358.xml",
+    "sha": "3ab65cafdf8ea7dd2d3a359fb510801affc0fb17",
+    "bytes": 78616,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1359",
+    "title": "應菴曇華禪師語錄",
+    "path": "X/X69/X69n1359.xml",
+    "sha": "dbd84eb55c3e02780535d8ae71237864980b5aa7",
+    "bytes": 508916,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1360",
+    "title": "瞎堂慧遠禪師廣錄",
+    "path": "X/X69/X69n1360.xml",
+    "sha": "98a7d4474270097fa5dcd301cfea10080bbac7d5",
+    "bytes": 498978,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1361",
+    "title": "濟顛道濟禪師語錄",
+    "path": "X/X69/X69n1361.xml",
+    "sha": "a300ee91d8f0dc3ab237d1dfd423353a51a8362c",
+    "bytes": 293865,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1362",
+    "title": "普覺宗杲禪師語錄",
+    "path": "X/X69/X69n1362.xml",
+    "sha": "52e567a1acb2e83c8aa25c953868df1bc639b26e",
+    "bytes": 327295,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1363",
+    "title": "西山亮禪師語錄",
+    "path": "X/X69/X69n1363.xml",
+    "sha": "b3ea6f178d58c0294ed7c512cad50e38d00a9571",
+    "bytes": 35785,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1364",
+    "title": "率菴梵琮禪師語錄",
+    "path": "X/X69/X69n1364.xml",
+    "sha": "b024cb227b64d63cecfb569629ee36d3f65b788a",
+    "bytes": 117460,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1365",
+    "title": "北磵居簡禪師語錄",
+    "path": "X/X69/X69n1365.xml",
+    "sha": "b25876c16c9cc2651c281074cc0d693f5603a3f7",
+    "bytes": 240326,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1366",
+    "title": "物初大觀禪師語錄",
+    "path": "X/X69/X69n1366.xml",
+    "sha": "e8ea90568159b83bebb352ce3c3263704c967ae3",
+    "bytes": 185381,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1367",
+    "title": "笑隱大訢禪師語錄",
+    "path": "X/X69/X69n1367.xml",
+    "sha": "c388b77399e59d210a7f872804df9366f1266d75",
+    "bytes": 292931,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1368",
+    "title": "偃溪廣聞禪師語錄",
+    "path": "X/X69/X69n1368.xml",
+    "sha": "dcfc7942dee1e394baa932c85be4577e136cd8b9",
+    "bytes": 326241,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1369",
+    "title": "大川普濟禪師語錄",
+    "path": "X/X69/X69n1369.xml",
+    "sha": "15adc99a6cfc9ed01c68e2223a1c227491ee102f",
+    "bytes": 195944,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1370",
+    "title": "淮海原肇禪師語錄",
+    "path": "X/X69/X69n1370.xml",
+    "sha": "50db0c42274b6029f16ae50aa97c92d869e5e488",
+    "bytes": 117300,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1371",
+    "title": "介石智朋禪師語錄",
+    "path": "X/X69/X69n1371.xml",
+    "sha": "ae24d226cf224ebb169ff056094b06b8d5e7a44b",
+    "bytes": 259042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X69",
+    "id": "X69n1372",
+    "title": "無文道燦禪師語錄",
+    "path": "X/X69/X69n1372.xml",
+    "sha": "8c8d271ca8cc23d76036b63330594359e628bede",
+    "bytes": 113441,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

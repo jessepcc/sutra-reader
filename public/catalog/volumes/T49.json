@@ -1,0 +1,142 @@
+[
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2026",
+    "title": "撰集三藏及雜藏傳",
+    "path": "T/T49/T49n2026.xml",
+    "sha": "27c78380cc7b9078838ddd6b0cd542d36f242cf0",
+    "bytes": 72720,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2027",
+    "title": "迦葉結經",
+    "path": "T/T49/T49n2027.xml",
+    "sha": "32c96b9496f91d55be51d70eb0e7fd69d490e1d9",
+    "bytes": 57718,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2028",
+    "title": "迦丁比丘說當來變經",
+    "path": "T/T49/T49n2028.xml",
+    "sha": "877087344bdce985d1eee56cbcffb99fce23731b",
+    "bytes": 83706,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2029",
+    "title": "佛使比丘迦旃延說法沒盡偈百二十章",
+    "path": "T/T49/T49n2029.xml",
+    "sha": "605b3b1b8ff604a2328b38640750cdc054bc4f0e",
+    "bytes": 52140,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2030",
+    "title": "大阿羅漢難提蜜多羅所說法住記",
+    "path": "T/T49/T49n2030.xml",
+    "sha": "713814e364877f34d6aee3d22a810cc13e09b258",
+    "bytes": 35883,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2031",
+    "title": "異部宗輪論",
+    "path": "T/T49/T49n2031.xml",
+    "sha": "a3b665242048900213ba1797e8d8b27d2b45809c",
+    "bytes": 51204,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2032",
+    "title": "十八部論",
+    "path": "T/T49/T49n2032.xml",
+    "sha": "6acf91957dfbec94ac7a96f853b37d1f004f741c",
+    "bytes": 38396,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2033",
+    "title": "部執異論",
+    "path": "T/T49/T49n2033.xml",
+    "sha": "d4e65a0dc78332ae1edc63d9ddb9ec7f5d8a16b6",
+    "bytes": 64520,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2034",
+    "title": "歷代三寶紀",
+    "path": "T/T49/T49n2034.xml",
+    "sha": "d890f280bd37c9e863baad33f011705b93681f65",
+    "bytes": 3047264,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2035",
+    "title": "佛祖統紀",
+    "path": "T/T49/T49n2035.xml",
+    "sha": "b8f204db2e9f1c9d586c2b4967d39fbf5d2cc769",
+    "bytes": 3777891,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2036",
+    "title": "佛祖歷代通載",
+    "path": "T/T49/T49n2036.xml",
+    "sha": "5d34fa5e390f380893f034db7c1af4562f29f885",
+    "bytes": 2810960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2037",
+    "title": "釋氏稽古略",
+    "path": "T/T49/T49n2037.xml",
+    "sha": "a3d0bea9d247d20687451e1233612fb663e4eefe",
+    "bytes": 1654934,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2038",
+    "title": "釋鑑稽古略續集",
+    "path": "T/T49/T49n2038.xml",
+    "sha": "3ef6210d5c9401cdb0a922743443ccfa75568318",
+    "bytes": 458662,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T49",
+    "id": "T49n2039",
+    "title": "三國遺事",
+    "path": "T/T49/T49n2039.xml",
+    "sha": "4988a47a88e7ea780dc3efeb22789c537a1ae944",
+    "bytes": 926363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

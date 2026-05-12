@@ -1,0 +1,282 @@
+[
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0397",
+    "title": "大方等大集經",
+    "path": "T/T13/T13n0397.xml",
+    "sha": "6d572375202a13d27bce6b62350f8120c2e9e373",
+    "bytes": 6963300,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0398",
+    "title": "大哀經",
+    "path": "T/T13/T13n0398.xml",
+    "sha": "b202668ee0b0170e2d3ab81f3edf039372e52f4b",
+    "bytes": 921199,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0399",
+    "title": "寶女所問經",
+    "path": "T/T13/T13n0399.xml",
+    "sha": "b92ae8ed5844a9da1ee1d60641a866e6501fe8ed",
+    "bytes": 451410,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0400",
+    "title": "佛說海意菩薩所問淨印法門經",
+    "path": "T/T13/T13n0400.xml",
+    "sha": "6b456281d45dd351975ea08e314f282820a52c4b",
+    "bytes": 533448,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0401",
+    "title": "佛說無言童子經",
+    "path": "T/T13/T13n0401.xml",
+    "sha": "4f2b81ec1c0da4832d1ad9ff031e624b35472195",
+    "bytes": 253261,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0402",
+    "title": "寶星陀羅尼經",
+    "path": "T/T13/T13n0402.xml",
+    "sha": "9c15eed71284398f2d865e20ae72bb815d3e1141",
+    "bytes": 833827,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0403",
+    "title": "阿差末菩薩經",
+    "path": "T/T13/T13n0403.xml",
+    "sha": "e3d449eac0adf4ead205766fbdfb9a98e164c0b7",
+    "bytes": 657113,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0404",
+    "title": "大集大虛空藏菩薩所問經",
+    "path": "T/T13/T13n0404.xml",
+    "sha": "f606e17992dff11cce2e7725b4a6c0b817634d74",
+    "bytes": 325289,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0405",
+    "title": "虛空藏菩薩經",
+    "path": "T/T13/T13n0405.xml",
+    "sha": "bd762c79ac7637c177f1a1bec5ba1649e39afd1e",
+    "bytes": 108499,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0406",
+    "title": "虛空藏菩薩神呪經",
+    "path": "T/T13/T13n0406.xml",
+    "sha": "647d489fff3527fa96efba9cffd01c9f8d147215",
+    "bytes": 59680,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0407",
+    "title": "虛空藏菩薩神呪經",
+    "path": "T/T13/T13n0407.xml",
+    "sha": "b7b9bb7508a7f1a50370dfed7334873c0711d74f",
+    "bytes": 87871,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0408",
+    "title": "虛空孕菩薩經",
+    "path": "T/T13/T13n0408.xml",
+    "sha": "c293f0b4bd54644ce407c60f83103ad347b644c0",
+    "bytes": 121512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0409",
+    "title": "觀虛空藏菩薩經",
+    "path": "T/T13/T13n0409.xml",
+    "sha": "7ba099e45fc8ad9f2ee554eaf60b593dc72a93bb",
+    "bytes": 60986,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0410",
+    "title": "大方廣十輪經",
+    "path": "T/T13/T13n0410.xml",
+    "sha": "719a336bef023d113b440e3df46d181a7438a496",
+    "bytes": 662177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0411",
+    "title": "大乘大集地藏十輪經",
+    "path": "T/T13/T13n0411.xml",
+    "sha": "7d5b3327aa0be2cdef6c01bb998f9f95a23c72d2",
+    "bytes": 680542,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0412",
+    "title": "地藏菩薩本願經",
+    "path": "T/T13/T13n0412.xml",
+    "sha": "047e2a4486357fdc27f64a57954ea6679a5e1ceb",
+    "bytes": 113078,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0413",
+    "title": "百千頌大集經地藏菩薩請問法身讚",
+    "path": "T/T13/T13n0413.xml",
+    "sha": "58a91bfb4124ccdf74e7e7f40594ed5fc8900bc6",
+    "bytes": 46362,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0414",
+    "title": "菩薩念佛三昧經",
+    "path": "T/T13/T13n0414.xml",
+    "sha": "eedf4b9f0c8a1c4a7185e5d013d123b93d97890c",
+    "bytes": 563044,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0415",
+    "title": "大方等大集經菩薩念佛三昧分",
+    "path": "T/T13/T13n0415.xml",
+    "sha": "1ad634ee6c5ffde5e02d83d7bc3559ade94967e1",
+    "bytes": 537148,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0416",
+    "title": "大方等大集經賢護分",
+    "path": "T/T13/T13n0416.xml",
+    "sha": "48cb92a94ca87a520aea3a0445cb30bbb79dca99",
+    "bytes": 369733,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0417",
+    "title": "佛說般舟三昧經",
+    "path": "T/T13/T13n0417.xml",
+    "sha": "e720c5092c20fdd1b97193a2044b2e64306854a1",
+    "bytes": 47905,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0418",
+    "title": "般舟三昧經",
+    "path": "T/T13/T13n0418.xml",
+    "sha": "ab9edff62566d7cbf04f45defe8ae4f4de6eacec",
+    "bytes": 455409,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0419",
+    "title": "拔陂菩薩經",
+    "path": "T/T13/T13n0419.xml",
+    "sha": "1a7e5c8203de3fced05b30b1df44a146684c4b52",
+    "bytes": 110802,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0420",
+    "title": "自在王菩薩經",
+    "path": "T/T13/T13n0420.xml",
+    "sha": "9f52407baaf29b53b8ebfa200dee2865c7a933d4",
+    "bytes": 174758,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0421",
+    "title": "奮迅王問經",
+    "path": "T/T13/T13n0421.xml",
+    "sha": "6bc13146e85b63fb6e5077f34a36185428968f85",
+    "bytes": 184976,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0422",
+    "title": "大集譬喻王經",
+    "path": "T/T13/T13n0422.xml",
+    "sha": "10bb32811975fcbe5295ecd0765a4800bd470547",
+    "bytes": 126375,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0423",
+    "title": "僧伽吒經",
+    "path": "T/T13/T13n0423.xml",
+    "sha": "8c79903373c668c87a352a1f7186c940e2d05525",
+    "bytes": 265746,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T13",
+    "id": "T13n0424",
+    "title": "大集會正法經",
+    "path": "T/T13/T13n0424.xml",
+    "sha": "5680afc0063580b2912e01f57fa2d3e623568a2b",
+    "bytes": 212155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB090",
+    "title": "續原教論",
+    "path": "J/J20/J20nB090.xml",
+    "sha": "4a1c7d4d77baeb684c87c32ba42d9009897a4133",
+    "bytes": 130657,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB091",
+    "title": "道餘錄",
+    "path": "J/J20/J20nB091.xml",
+    "sha": "53e34d5a21dc6290651d69ae0cc51121c3aef39b",
+    "bytes": 87750,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB095",
+    "title": "蕅益三頌",
+    "path": "J/J20/J20nB095.xml",
+    "sha": "4d0495912f778f9ae9eea9906f3c43692666857c",
+    "bytes": 113281,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB096",
+    "title": "周易禪解",
+    "path": "J/J20/J20nB096.xml",
+    "sha": "a9c8881080605edc0ba4b8ffc5e9cb70edc8b3e4",
+    "bytes": 735525,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB097",
+    "title": "天樂鳴空集",
+    "path": "J/J20/J20nB097.xml",
+    "sha": "65ea203221fdc530a11de128be5f386f783d3a40",
+    "bytes": 330527,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB098",
+    "title": "黃蘗無念禪師復問",
+    "path": "J/J20/J20nB098.xml",
+    "sha": "6940b0dc939c8d1ecceef4eea0e390568ce2b506",
+    "bytes": 259441,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J20",
+    "id": "J20nB103",
+    "title": "寒山子詩集",
+    "path": "J/J20/J20nB103.xml",
+    "sha": "59286ac03a6cf0f241e6d13f5ac33b1430637b00",
+    "bytes": 143951,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

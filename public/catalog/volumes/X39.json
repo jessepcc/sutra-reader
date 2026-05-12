@@ -1,0 +1,132 @@
+[
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0699",
+    "title": "梵網經順硃",
+    "path": "X/X39/X39n0699.xml",
+    "sha": "9c6330d26b8ca8c69f42ddad27d28d9cb16f0e54",
+    "bytes": 716619,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0700",
+    "title": "梵網經菩薩戒初津",
+    "path": "X/X39/X39n0700.xml",
+    "sha": "b2ff33aef15cde978561a71e7c9edbed140d9403",
+    "bytes": 1175659,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0702",
+    "title": "菩薩戒本箋要",
+    "path": "X/X39/X39n0702.xml",
+    "sha": "379f57440a4ee3be6f25d4b0d7d1f7912e3d27ba",
+    "bytes": 120423,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0703",
+    "title": "菩薩戒羯磨文釋",
+    "path": "X/X39/X39n0703.xml",
+    "sha": "63d928786ee01ee64a264f8a264ee16e6e3eb4c0",
+    "bytes": 74019,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0704",
+    "title": "地持論義記",
+    "path": "X/X39/X39n0704.xml",
+    "sha": "a31be396e323f7b7a750faba93def5fc522b8c63",
+    "bytes": 544026,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0705",
+    "title": "瓔珞本業經疏",
+    "path": "X/X39/X39n0705.xml",
+    "sha": "cf5adb6ddc52ebc4f54a0ce71749381c0b1dfbf9",
+    "bytes": 204275,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0706",
+    "title": "十善業道經節要",
+    "path": "X/X39/X39n0706.xml",
+    "sha": "7d5a2aecee3256a9ce87af5fb172da0070f9edee",
+    "bytes": 26183,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0707",
+    "title": "新刪定四分僧戒本",
+    "path": "X/X39/X39n0707.xml",
+    "sha": "8f4bd3cacaa23120ca7ca2288ead86ef8de95065",
+    "bytes": 177451,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0708",
+    "title": "毗尼珍敬錄",
+    "path": "X/X39/X39n0708.xml",
+    "sha": "a0460ebbe978ce0b7d88c59a8bbde6e27ba811d8",
+    "bytes": 512949,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0709",
+    "title": "毗尼止持會集",
+    "path": "X/X39/X39n0709.xml",
+    "sha": "7addbb232980c8e621fca9dceb0b86cf7b4b3320",
+    "bytes": 2123520,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0712",
+    "title": "四分律含注戒本疏發揮記",
+    "path": "X/X39/X39n0712.xml",
+    "sha": "7fd2b7b2182a364b19f380eb0b7a5fae6689fbfe",
+    "bytes": 196571,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0713",
+    "title": "四分律含注戒本疏科",
+    "path": "X/X39/X39n0713.xml",
+    "sha": "076c9665018150e551da1df5e30c64793e4bcba3",
+    "bytes": 876910,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X39",
+    "id": "X39n0714",
+    "title": "四分律含注戒本疏行宗記(第1卷-第3卷)",
+    "path": "X/X39/X39n0714.xml",
+    "sha": "19efef287d620fc4162f39c30d567f0c141464b8",
+    "bytes": 2630783,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

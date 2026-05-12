@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "L",
+    "volume": "L153",
+    "id": "L153n1635",
+    "title": "性相通說（選錄序文）",
+    "path": "L/L153/L153n1635.xml",
+    "sha": "49e2e37efda0dfa91e7e4fa540e3e42996ce57ad",
+    "bytes": 5658,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L153",
+    "id": "L153n1636",
+    "title": "莊子內篇註",
+    "path": "L/L153/L153n1636.xml",
+    "sha": "6c1a70dda181ecd94a260c56263be4021f768c14",
+    "bytes": 465732,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L153",
+    "id": "L153n1637",
+    "title": "幻有傳禪師語錄",
+    "path": "L/L153/L153n1637.xml",
+    "sha": "45f4ade5d7bdffcdb9f2cc4254a49278af79ccc9",
+    "bytes": 675811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L153",
+    "id": "L153n1638",
+    "title": "雪嶠信禪師語錄(第1卷-第6卷)",
+    "path": "L/L153/L153n1638.xml",
+    "sha": "13086eec52b3d4299562f051c18851323d69ddfd",
+    "bytes": 374725,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

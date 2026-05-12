@@ -1,0 +1,352 @@
+[
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB435",
+    "title": "伏獅義公禪師語錄",
+    "path": "J/J39/J39nB435.xml",
+    "sha": "3445c071f89f2bb7abbc5b1779764110197a271a",
+    "bytes": 66879,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB436",
+    "title": "參同一揆禪師語錄",
+    "path": "J/J39/J39nB436.xml",
+    "sha": "4cef8619904b3f529b97388d1af47c55f84f5647",
+    "bytes": 124706,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB438",
+    "title": "衡山禪師語錄",
+    "path": "J/J39/J39nB438.xml",
+    "sha": "bc151a2697e55d1842efba12e209c24441e4e85a",
+    "bytes": 64205,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB439",
+    "title": "高峰三山來禪師疏語",
+    "path": "J/J39/J39nB439.xml",
+    "sha": "186739ba2444147526aab58a867e15ed4e2c61bc",
+    "bytes": 120695,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB440",
+    "title": "高峰喬松億禪師語錄",
+    "path": "J/J39/J39nB440.xml",
+    "sha": "80ce8a58778e95ff415af801a27fb288d5381779",
+    "bytes": 171870,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB441",
+    "title": "萬峰童真禪師語錄",
+    "path": "J/J39/J39nB441.xml",
+    "sha": "8730e2bc84caed71d453357c4378e1be0a6455ae",
+    "bytes": 431090,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB442",
+    "title": "大笑崇禪師語錄",
+    "path": "J/J39/J39nB442.xml",
+    "sha": "b089f015aa37b098755f5126b4c8c19b1c2bede6",
+    "bytes": 114198,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB443",
+    "title": "玉眉亮禪師語錄",
+    "path": "J/J39/J39nB443.xml",
+    "sha": "aa0eff91c8a8fa09ec8f9e8fc0e1aff700ee2105",
+    "bytes": 56777,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB444",
+    "title": "卓峰玨禪師語錄",
+    "path": "J/J39/J39nB444.xml",
+    "sha": "3e5507df98b775b15d9f4e62ff0548cf725709e7",
+    "bytes": 55016,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB445",
+    "title": "別菴禪師同門錄",
+    "path": "J/J39/J39nB445.xml",
+    "sha": "f643d31a150cffd9176e0d2a04cd28bab915b4d6",
+    "bytes": 153460,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB446",
+    "title": "靈隱文禪師語錄",
+    "path": "J/J39/J39nB446.xml",
+    "sha": "5c023c138a8baa5174cba8ec7ecd5205d1b3c4a0",
+    "bytes": 165155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB447",
+    "title": "東山梅溪度禪師語錄",
+    "path": "J/J39/J39nB447.xml",
+    "sha": "0652c4b7fe84d43129daa451f31e7224c217ea99",
+    "bytes": 506194,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB448",
+    "title": "靈機禪師語錄",
+    "path": "J/J39/J39nB448.xml",
+    "sha": "1fae7edb53e1b379eb3feb41f74d7e06d519a91e",
+    "bytes": 373831,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB449",
+    "title": "祖亮啟禪師語錄",
+    "path": "J/J39/J39nB449.xml",
+    "sha": "cd1127d5db9b27603740cde4dab8782200ea9b45",
+    "bytes": 109958,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB450",
+    "title": "敏樹禪師語錄",
+    "path": "J/J39/J39nB450.xml",
+    "sha": "dac7929d49dbad9a042e9d106979a7c59e1fb04b",
+    "bytes": 388106,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB451",
+    "title": "赤松領禪師語錄",
+    "path": "J/J39/J39nB451.xml",
+    "sha": "bca1c627c5a5461d5fcbeea63b81635f4dbc8742",
+    "bytes": 232105,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB452",
+    "title": "侶巖荷禪師語錄",
+    "path": "J/J39/J39nB452.xml",
+    "sha": "f2272cca2082e386c7e20ecc840e7b76e25050ee",
+    "bytes": 289579,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB453",
+    "title": "元潔瑩禪師語錄",
+    "path": "J/J39/J39nB453.xml",
+    "sha": "4d561f74ed65572a37140b361455830f9171625b",
+    "bytes": 481155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB454",
+    "title": "頻吉祥禪師語錄",
+    "path": "J/J39/J39nB454.xml",
+    "sha": "d68c48725368b730de3cd23818cdec7acb9bc8f0",
+    "bytes": 876387,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB455",
+    "title": "通天逸叟高禪師語錄",
+    "path": "J/J39/J39nB455.xml",
+    "sha": "5feb3357a3aafc922baa08c14a1a7b22d6e901a1",
+    "bytes": 36295,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB456",
+    "title": "通天澹崖原禪師語錄",
+    "path": "J/J39/J39nB456.xml",
+    "sha": "7b4749e463108bd2f34eac72d288b2d2ed7c4a1c",
+    "bytes": 82033,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB457",
+    "title": "白雲象林本真禪師語錄",
+    "path": "J/J39/J39nB457.xml",
+    "sha": "b88ca07bd4ea4a28ae81305c7afe788fa637365a",
+    "bytes": 51626,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB458",
+    "title": "正覺潤光澤禪師澡雪集",
+    "path": "J/J39/J39nB458.xml",
+    "sha": "e2e713ca9a9b155e8a6eb8cd4216674150e17170",
+    "bytes": 70115,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB459",
+    "title": "香巖洗心水禪師語錄",
+    "path": "J/J39/J39nB459.xml",
+    "sha": "bf270f7c25620fef35aff9e7eee3f8472c271a5e",
+    "bytes": 142117,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB460",
+    "title": "灤州萬善暉州昊禪師語錄",
+    "path": "J/J39/J39nB460.xml",
+    "sha": "997ef5f84ae97a9b37308cd0d09736a3260ac9ed",
+    "bytes": 199095,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB461",
+    "title": "性空臻禪師語錄",
+    "path": "J/J39/J39nB461.xml",
+    "sha": "5d204072332405e216da93d5039a92f84a4c7f86",
+    "bytes": 205333,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB462",
+    "title": "何一自禪師語錄",
+    "path": "J/J39/J39nB462.xml",
+    "sha": "9a1f06d2eeb896a6d70fa51db373674f277e8ab7",
+    "bytes": 158471,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB463",
+    "title": "溈山古梅冽禪師語錄",
+    "path": "J/J39/J39nB463.xml",
+    "sha": "599dcfb175f316af0d7eda603c7800797d931a56",
+    "bytes": 267423,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB464",
+    "title": "華嚴起宗真禪師語錄",
+    "path": "J/J39/J39nB464.xml",
+    "sha": "3c1b97c27917df3f37e10561a96177bc4b37e8b4",
+    "bytes": 68251,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB465",
+    "title": "子雍如禪師語錄",
+    "path": "J/J39/J39nB465.xml",
+    "sha": "fa83163d2e585ea15f77d752ef9a2aa7582fb930",
+    "bytes": 140050,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB466",
+    "title": "山西柏山楷禪師語錄",
+    "path": "J/J39/J39nB466.xml",
+    "sha": "ccbd2997c841e67ff141330224166d247bf85ed7",
+    "bytes": 299748,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB468",
+    "title": "善一純禪師語錄",
+    "path": "J/J39/J39nB468.xml",
+    "sha": "4eb9537bb8c24f6464b228bd1f30610faeed4ff3",
+    "bytes": 194474,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB469",
+    "title": "善權位禪師語錄",
+    "path": "J/J39/J39nB469.xml",
+    "sha": "277ecf9d10afbff1988704e5eed1a6070023ac91",
+    "bytes": 93745,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB470",
+    "title": "天一悅禪師語錄",
+    "path": "J/J39/J39nB470.xml",
+    "sha": "66b10fc29245d8d84da5c7f9febf0228845fa0ce",
+    "bytes": 42085,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J39",
+    "id": "J39nB471",
+    "title": "空谷道澄禪師語錄",
+    "path": "J/J39/J39nB471.xml",
+    "sha": "d461c41dbbb261d4ae9766cf391af69eb3207d35",
+    "bytes": 778040,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

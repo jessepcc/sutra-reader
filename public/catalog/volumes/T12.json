@@ -1,0 +1,762 @@
+[
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0321",
+    "title": "佛說護國尊者所問大乘經",
+    "path": "T/T12/T12n0321.xml",
+    "sha": "3b454990eaf86622178ffd7e748981fd1bea72fa",
+    "bytes": 197628,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0322",
+    "title": "法鏡經",
+    "path": "T/T12/T12n0322.xml",
+    "sha": "bddc38e6230eb39a879a395763d4c520b37d7e05",
+    "bytes": 278327,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0323",
+    "title": "郁迦羅越問菩薩行經",
+    "path": "T/T12/T12n0323.xml",
+    "sha": "be977fcf13c5042c2e35a99d67dbaf709dd05f54",
+    "bytes": 135470,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0324",
+    "title": "佛說幻士仁賢經",
+    "path": "T/T12/T12n0324.xml",
+    "sha": "16b746aa572f6493dd886bddfa71d5565b117ec8",
+    "bytes": 125096,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0325",
+    "title": "佛說決定毘尼經",
+    "path": "T/T12/T12n0325.xml",
+    "sha": "50aa2fa2e2b850a04df45b42f7ddb93dae9cf376",
+    "bytes": 118408,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0326",
+    "title": "佛說三十五佛名禮懺文",
+    "path": "T/T12/T12n0326.xml",
+    "sha": "94083706e9f179211b426c110a1b6cd8372363c8",
+    "bytes": 13964,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0327",
+    "title": "發覺淨心經",
+    "path": "T/T12/T12n0327.xml",
+    "sha": "6bdb9e8935990f5b139077f25dbe8b617b2df3d7",
+    "bytes": 125543,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0328",
+    "title": "佛說須賴經",
+    "path": "T/T12/T12n0328.xml",
+    "sha": "7b61dca9ab15fa97655eaede86619212f175a1f5",
+    "bytes": 66951,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0329",
+    "title": "佛說須賴經",
+    "path": "T/T12/T12n0329.xml",
+    "sha": "733bf5e4f6cae72180df88dca8c6807826d8e164",
+    "bytes": 163927,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0330",
+    "title": "佛說菩薩修行經",
+    "path": "T/T12/T12n0330.xml",
+    "sha": "f5f15a07330d865dc729e63c7b31dd82e73f6b56",
+    "bytes": 58675,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0331",
+    "title": "佛說無畏授所問大乘經",
+    "path": "T/T12/T12n0331.xml",
+    "sha": "d7b60c240599f74718cdb21eef28a96372da0f45",
+    "bytes": 55980,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0332",
+    "title": "佛說優填王經",
+    "path": "T/T12/T12n0332.xml",
+    "sha": "d147ca9104ebb85557763d935999a91df0e84051",
+    "bytes": 56890,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0333",
+    "title": "佛說大乘日子王所問經",
+    "path": "T/T12/T12n0333.xml",
+    "sha": "e9909ab8378f42b7cfe2b53cfd767123eb712f53",
+    "bytes": 59746,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0334",
+    "title": "佛說須摩提菩薩經",
+    "path": "T/T12/T12n0334.xml",
+    "sha": "b97c773005493f951c666b8927fcebb598aa117f",
+    "bytes": 47076,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0335",
+    "title": "佛說須摩提菩薩經",
+    "path": "T/T12/T12n0335.xml",
+    "sha": "a9f8854a597953f6736c3bfa69dea8d7b1d7e679",
+    "bytes": 74175,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0336",
+    "title": "須摩提經",
+    "path": "T/T12/T12n0336.xml",
+    "sha": "f485afbc8c0219f18f0caa97e4d4253ee8531698",
+    "bytes": 23918,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0337",
+    "title": "佛說阿闍貰王女阿術達菩薩經",
+    "path": "T/T12/T12n0337.xml",
+    "sha": "e30dcaa318aabe6d61dadcf066bd1f72d2dc1bd4",
+    "bytes": 106637,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0338",
+    "title": "佛說離垢施女經",
+    "path": "T/T12/T12n0338.xml",
+    "sha": "dc0b1bf2467a7d45f77abc1287336c89cab9b531",
+    "bytes": 155635,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0339",
+    "title": "得無垢女經",
+    "path": "T/T12/T12n0339.xml",
+    "sha": "ea294402e24fc03335c2c97eedb7ce6882783c5a",
+    "bytes": 109512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0340",
+    "title": "文殊師利所說不思議佛境界經",
+    "path": "T/T12/T12n0340.xml",
+    "sha": "28ea2ffbdc56167a4668895b25c4ca945690fb49",
+    "bytes": 100961,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0341",
+    "title": "聖善住意天子所問經",
+    "path": "T/T12/T12n0341.xml",
+    "sha": "147e1e657e35553fe96483c7c24ebb551705ed23",
+    "bytes": 273589,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0342",
+    "title": "佛說如幻三昧經",
+    "path": "T/T12/T12n0342.xml",
+    "sha": "80563ce61d98feb301f3e6d39daa2b581bd693d9",
+    "bytes": 548590,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0343",
+    "title": "佛說太子刷護經",
+    "path": "T/T12/T12n0343.xml",
+    "sha": "d812fece4b86211caf1a55c68d388ad8d6f1dd94",
+    "bytes": 28096,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0344",
+    "title": "佛說太子和休經",
+    "path": "T/T12/T12n0344.xml",
+    "sha": "5f249b510496ceee7d033f00ba9bd9555866c3b0",
+    "bytes": 31230,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0345",
+    "title": "慧上菩薩問大善權經",
+    "path": "T/T12/T12n0345.xml",
+    "sha": "5dcd99a20c9b84941b6d28de63b59f5f28239b55",
+    "bytes": 211906,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0346",
+    "title": "佛說大方廣善巧方便經",
+    "path": "T/T12/T12n0346.xml",
+    "sha": "22b90989884f73337259cb727c9f38c8f0fed338",
+    "bytes": 120185,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0347",
+    "title": "大乘顯識經",
+    "path": "T/T12/T12n0347.xml",
+    "sha": "2ae3c2e3c919732ce008d77c64a74d18aae16431",
+    "bytes": 127213,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0348",
+    "title": "佛說大乘方等要慧經",
+    "path": "T/T12/T12n0348.xml",
+    "sha": "760241039bfb79727123be495a81d8e576d7e17d",
+    "bytes": 10375,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0349",
+    "title": "彌勒菩薩所問本願經",
+    "path": "T/T12/T12n0349.xml",
+    "sha": "6e82858ffb597d83c1ba7aec67ca86e93b5c9b61",
+    "bytes": 54594,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0350",
+    "title": "佛說遺日摩尼寶經",
+    "path": "T/T12/T12n0350.xml",
+    "sha": "d56be91dcafe70562281edf2fc7861f5d2318d34",
+    "bytes": 105644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0351",
+    "title": "佛說摩訶衍寶嚴經",
+    "path": "T/T12/T12n0351.xml",
+    "sha": "46550dd55f4800d88a9454683610c8c544b0705e",
+    "bytes": 109319,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0352",
+    "title": "佛說大迦葉問大寶積正法經",
+    "path": "T/T12/T12n0352.xml",
+    "sha": "d53b61d6513af13c35349c7edfcbef20403c4a20",
+    "bytes": 172990,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0353",
+    "title": "勝鬘師子吼一乘大方便方廣經",
+    "path": "T/T12/T12n0353.xml",
+    "sha": "b401e841b28d06b866a8c6ef16561ca2e906263e",
+    "bytes": 107874,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0354",
+    "title": "毘耶娑問經",
+    "path": "T/T12/T12n0354.xml",
+    "sha": "e410a7aa780b93169ce85f518ad86fac9db2186b",
+    "bytes": 227145,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0355",
+    "title": "入法界體性經",
+    "path": "T/T12/T12n0355.xml",
+    "sha": "fa290db659b130289beece721777673787f5ac2f",
+    "bytes": 41747,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0356",
+    "title": "佛說寶積三昧文殊師利菩薩問法身經",
+    "path": "T/T12/T12n0356.xml",
+    "sha": "d850baf40e188c88987e4b40d446ee0be1ff0ecc",
+    "bytes": 39289,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0357",
+    "title": "如來莊嚴智慧光明入一切佛境界經",
+    "path": "T/T12/T12n0357.xml",
+    "sha": "2b6ec8a4acd37715e99e8f998c4efedb9a70dbc8",
+    "bytes": 127069,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0358",
+    "title": "度一切諸佛境界智嚴經",
+    "path": "T/T12/T12n0358.xml",
+    "sha": "af533755e68adc1fb60f9e380abc03c9460c7eea",
+    "bytes": 41647,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0359",
+    "title": "佛說大乘入諸佛境界智光明莊嚴經",
+    "path": "T/T12/T12n0359.xml",
+    "sha": "98a6daa0355fddac2be44ec9e1973daaeeb8dee4",
+    "bytes": 123221,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0360",
+    "title": "佛說無量壽經",
+    "path": "T/T12/T12n0360.xml",
+    "sha": "b94c89ffc30c361f2050d1cea45365cf286b7417",
+    "bytes": 312136,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0361",
+    "title": "佛說無量清淨平等覺經",
+    "path": "T/T12/T12n0361.xml",
+    "sha": "e8d4b64a4d917a4bb17c64c0debec7b9a594f43d",
+    "bytes": 390867,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0362",
+    "title": "佛說阿彌陀三耶三佛薩樓佛檀過度人道經",
+    "path": "T/T12/T12n0362.xml",
+    "sha": "48c9300bc14bdbf13f8f18c8f449234037792902",
+    "bytes": 324288,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0363",
+    "title": "佛說大乘無量壽莊嚴經",
+    "path": "T/T12/T12n0363.xml",
+    "sha": "8ea305b9b43e47def5e83b0a73a16a7153071e8c",
+    "bytes": 98960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0364",
+    "title": "佛說大阿彌陀經",
+    "path": "T/T12/T12n0364.xml",
+    "sha": "da5c1f671d4ec822b3a5a6f5ff2f891a67824973",
+    "bytes": 118865,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0365",
+    "title": "佛說觀無量壽佛經",
+    "path": "T/T12/T12n0365.xml",
+    "sha": "10b611a6f4e29f416db02cab96314c681f1e2716",
+    "bytes": 169652,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0366",
+    "title": "佛說阿彌陀經",
+    "path": "T/T12/T12n0366.xml",
+    "sha": "135f788e706adc83153df8dc02163ee5dc8b08ac",
+    "bytes": 48194,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0367",
+    "title": "稱讚淨土佛攝受經",
+    "path": "T/T12/T12n0367.xml",
+    "sha": "11732c624a2257d9edca6fab7c200791018e3a91",
+    "bytes": 39272,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0368",
+    "title": "拔一切業障根本得生淨土神呪",
+    "path": "T/T12/T12n0368.xml",
+    "sha": "88211cc75684d59c4c688b0cbe9a3e452cb0dabd",
+    "bytes": 16531,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0369",
+    "title": "阿彌陀佛說呪",
+    "path": "T/T12/T12n0369.xml",
+    "sha": "0841affebc4e4de0a464d319d907fd012e417357",
+    "bytes": 6053,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0370",
+    "title": "阿彌陀鼓音聲王陀羅尼經",
+    "path": "T/T12/T12n0370.xml",
+    "sha": "1accba46d04e8dbdf818ce8f5dcae39dbc59f063",
+    "bytes": 39610,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0371",
+    "title": "觀世音菩薩授記經",
+    "path": "T/T12/T12n0371.xml",
+    "sha": "b873c6a3c8ccb581c05bc081b19b3c9e74112fac",
+    "bytes": 104799,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0372",
+    "title": "佛說如幻三摩地無量印法門經",
+    "path": "T/T12/T12n0372.xml",
+    "sha": "047e728915d3e16ca73ff446fb8da1c1c28f31eb",
+    "bytes": 79528,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0373",
+    "title": "後出阿彌陀佛偈",
+    "path": "T/T12/T12n0373.xml",
+    "sha": "224f52cde1df31cf79ddf26efc26a48bd45b940a",
+    "bytes": 12332,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0374",
+    "title": "大般涅槃經",
+    "path": "T/T12/T12n0374.xml",
+    "sha": "ef1277c20cb5271fa28956e19cd0bfa1639ca919",
+    "bytes": 3804644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0375",
+    "title": "大般涅槃經",
+    "path": "T/T12/T12n0375.xml",
+    "sha": "56292803a24dc09fb39a51c460c0c8cb5f49e24f",
+    "bytes": 4020187,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0376",
+    "title": "佛說大般泥洹經",
+    "path": "T/T12/T12n0376.xml",
+    "sha": "04edd89b506e41fe3c0bd83e4b81d8e7fe6f42c7",
+    "bytes": 1177746,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0377",
+    "title": "大般涅槃經後分",
+    "path": "T/T12/T12n0377.xml",
+    "sha": "cae35af2faffc0b9a3062dd6087bca87558f946c",
+    "bytes": 223113,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0378",
+    "title": "佛說方等般泥洹經",
+    "path": "T/T12/T12n0378.xml",
+    "sha": "102bf2a73662407b5cc9292f057aedbba0aa0557",
+    "bytes": 261218,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0379",
+    "title": "四童子三昧經",
+    "path": "T/T12/T12n0379.xml",
+    "sha": "355462145d21af122e175141514d39e53e97dc97",
+    "bytes": 261923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0380",
+    "title": "大悲經",
+    "path": "T/T12/T12n0380.xml",
+    "sha": "ed24bacc0752bac3c4da2c90d35c1abb12b161ee",
+    "bytes": 420353,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0381",
+    "title": "等集眾德三昧經",
+    "path": "T/T12/T12n0381.xml",
+    "sha": "f933121ac14cea1ccda888963de17eb33a428e10",
+    "bytes": 358915,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0382",
+    "title": "集一切福德三昧經",
+    "path": "T/T12/T12n0382.xml",
+    "sha": "5805f31a1cd633aee81bcf8326a481bb8d4e4677",
+    "bytes": 247747,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0383",
+    "title": "摩訶摩耶經",
+    "path": "T/T12/T12n0383.xml",
+    "sha": "c1cb4018aa1023dcbbb0a431ffe57644edb5c674",
+    "bytes": 259443,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0384",
+    "title": "菩薩從兜術天降神母胎說廣普經",
+    "path": "T/T12/T12n0384.xml",
+    "sha": "ebab0303a032709bfdcc81bd00a9a350c4f98bb4",
+    "bytes": 1002307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0385",
+    "title": "中陰經",
+    "path": "T/T12/T12n0385.xml",
+    "sha": "99d4c021f3937934d26ce3965b83059e923e63ff",
+    "bytes": 214120,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0386",
+    "title": "蓮華面經",
+    "path": "T/T12/T12n0386.xml",
+    "sha": "ca7ab0017e8a605bd391dc51f3e3a8e028c99574",
+    "bytes": 107898,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0387",
+    "title": "大方等無想經",
+    "path": "T/T12/T12n0387.xml",
+    "sha": "a86d26a3139e387ff2d797c004df468f7cab7409",
+    "bytes": 469263,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0388",
+    "title": "大雲無想經卷第九",
+    "path": "T/T12/T12n0388.xml",
+    "sha": "7f2810de4b949ce28fc3c408fbcff02849bd714d",
+    "bytes": 36061,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0389",
+    "title": "佛垂般涅槃略說教誡經",
+    "path": "T/T12/T12n0389.xml",
+    "sha": "ea9a6218fe6c4239cfc439535d9e8a41e4f1bc4c",
+    "bytes": 50027,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0390",
+    "title": "佛臨涅槃記法住經",
+    "path": "T/T12/T12n0390.xml",
+    "sha": "782ef33bdaf5c8c33a0aa52140d641dce4946ce3",
+    "bytes": 16981,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0391",
+    "title": "般泥洹後灌臘經",
+    "path": "T/T12/T12n0391.xml",
+    "sha": "7f61ec02ce790e1afee4ee393edaba97c764a8bd",
+    "bytes": 10071,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0392",
+    "title": "佛滅度後棺斂葬送經",
+    "path": "T/T12/T12n0392.xml",
+    "sha": "ae8457a07023103ea63bb098718cedfc01b8ecfa",
+    "bytes": 36372,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0393",
+    "title": "迦葉赴佛般涅槃經",
+    "path": "T/T12/T12n0393.xml",
+    "sha": "b1e81a7a0a990e7f86ff6e676fcbd59aba50af99",
+    "bytes": 32942,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0394",
+    "title": "佛入涅槃密迹金剛力士哀戀經",
+    "path": "T/T12/T12n0394.xml",
+    "sha": "fcc2118d55b363a9cca2d153ddb301ca3d71d017",
+    "bytes": 42773,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0395",
+    "title": "佛說當來變經",
+    "path": "T/T12/T12n0395.xml",
+    "sha": "f4905d86e3c0f0257428b89367b8e3d6ce7060d9",
+    "bytes": 43929,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T12",
+    "id": "T12n0396",
+    "title": "佛說法滅盡經",
+    "path": "T/T12/T12n0396.xml",
+    "sha": "62332f39a106c977f55fed440d9baf54d30d274f",
+    "bytes": 30969,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

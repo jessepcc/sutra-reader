@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0307",
+    "title": "楞嚴經指掌疏懸示",
+    "path": "X/X16/X16n0307.xml",
+    "sha": "a8abf41ec0573ab1ceb6f078784e9cbf200b8aed",
+    "bytes": 151943,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0308",
+    "title": "楞嚴經指掌疏",
+    "path": "X/X16/X16n0308.xml",
+    "sha": "fee4d0ce0862c446b8317140e1f6cdc3f481d791",
+    "bytes": 3912881,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0309",
+    "title": "楞嚴經指掌疏事義",
+    "path": "X/X16/X16n0309.xml",
+    "sha": "e6ead19a89e6f4f5e036a7b604d240607c16d0db",
+    "bytes": 258673,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0310",
+    "title": "楞嚴經勢至圓通章科解",
+    "path": "X/X16/X16n0310.xml",
+    "sha": "b31af77575682b0e15081ff25835130fa1c10a3d",
+    "bytes": 34846,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0311",
+    "title": "楞嚴經勢至圓通章疏鈔",
+    "path": "X/X16/X16n0311.xml",
+    "sha": "fe9e345b919ab76f3c0bc6d624a47a56c0690608",
+    "bytes": 218763,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0312",
+    "title": "楞嚴經勢至圓通章解",
+    "path": "X/X16/X16n0312.xml",
+    "sha": "b6fc8e41c054b5bebdcf3d65860a381c520eb7e3",
+    "bytes": 23804,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0313",
+    "title": "楞嚴經序指味疏",
+    "path": "X/X16/X16n0313.xml",
+    "sha": "d139f0b364b28347d6a2d4b44882ff9ffa7fd01e",
+    "bytes": 157751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0314",
+    "title": "楞嚴經寶鏡疏科文",
+    "path": "X/X16/X16n0314.xml",
+    "sha": "c61a50c036c0c44080c295bd44236a7dc1d8a922",
+    "bytes": 137687,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0315",
+    "title": "楞嚴經寶鏡疏懸談",
+    "path": "X/X16/X16n0315.xml",
+    "sha": "0e0d238aa1529241633669b4fc5e41ecde0108e2",
+    "bytes": 103657,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0316",
+    "title": "楞嚴經寶鏡疏",
+    "path": "X/X16/X16n0316.xml",
+    "sha": "686872373abbcdb52cec7df0c09673e261a13ba3",
+    "bytes": 2073760,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0317",
+    "title": "楞嚴經正見",
+    "path": "X/X16/X16n0317.xml",
+    "sha": "00e842bca3e6ec23063d500b22f3ca06fcf1f553",
+    "bytes": 1293974,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X16",
+    "id": "X16n0318",
+    "title": "楞嚴經宗通",
+    "path": "X/X16/X16n0318.xml",
+    "sha": "d391cb3c9b8841d6a07eec64e31f6eca8fbe28ba",
+    "bytes": 2095191,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB345",
+    "title": "蘇州竹庵衍禪師語錄",
+    "path": "J/J36/J36nB345.xml",
+    "sha": "382af0b67f1037629f145dfd8ec4a4737e98ce75",
+    "bytes": 120111,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB346",
+    "title": "古林如禪師語錄",
+    "path": "J/J36/J36nB346.xml",
+    "sha": "05946f8fb998052e30bf921ce96d7671938a0b4a",
+    "bytes": 148664,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB348",
+    "title": "靈峰蕅益大師宗論",
+    "path": "J/J36/J36nB348.xml",
+    "sha": "e87a88d6b7cb4880958c9a45ab50babfb6824b25",
+    "bytes": 1750733,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB351",
+    "title": "道德經順硃",
+    "path": "J/J36/J36nB351.xml",
+    "sha": "e7f9d558cb61c4489d983281e7cc575290d5d286",
+    "bytes": 192883,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB352",
+    "title": "東山破峰重禪師語錄",
+    "path": "J/J36/J36nB352.xml",
+    "sha": "61156cd0d03c2e09d41639451aebda93849ee32e",
+    "bytes": 114121,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB353",
+    "title": "雲幻宸禪師語錄",
+    "path": "J/J36/J36nB353.xml",
+    "sha": "4e9a86a22ceae8a6e2c730d8d57cf5a2afda122c",
+    "bytes": 66803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB354",
+    "title": "錦屏破石卓禪師雜著",
+    "path": "J/J36/J36nB354.xml",
+    "sha": "7de0a4ab045f906a49c5dc84df8268965cca90bb",
+    "bytes": 16365,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB355",
+    "title": "綠蘿恒秀林禪師語錄",
+    "path": "J/J36/J36nB355.xml",
+    "sha": "4078a6a881eb603b18aeb65500fb97ae7ca4dc80",
+    "bytes": 144411,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB356",
+    "title": "奇然智禪師語錄",
+    "path": "J/J36/J36nB356.xml",
+    "sha": "be55cffe6fe85ebff317022c5f2aceab972e851b",
+    "bytes": 189122,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB357",
+    "title": "秀野林禪師語錄",
+    "path": "J/J36/J36nB357.xml",
+    "sha": "cf0584b70576fd06895b5088d3c10a1040cf1b3a",
+    "bytes": 316214,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB358",
+    "title": "智覃正禪師語錄",
+    "path": "J/J36/J36nB358.xml",
+    "sha": "96baa49f0494b37bad8916da2cec90b4cc486652",
+    "bytes": 61287,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB359",
+    "title": "百愚禪師語錄",
+    "path": "J/J36/J36nB359.xml",
+    "sha": "329866a6137d0b3376bfe46a1bfc65c3cdb088fc",
+    "bytes": 1062792,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB362",
+    "title": "觀濤奇禪師語錄",
+    "path": "J/J36/J36nB362.xml",
+    "sha": "dd8e790a7348ad31eed16fd751be1a4182f22e1d",
+    "bytes": 356035,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB363",
+    "title": "文穆念禪師語錄",
+    "path": "J/J36/J36nB363.xml",
+    "sha": "66f6f3cfb79d81b6639d604e30782350498f927b",
+    "bytes": 185512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB364",
+    "title": "佛古聞禪師語錄",
+    "path": "J/J36/J36nB364.xml",
+    "sha": "37905f2ab618ca3a339243849aa69f5269bedddf",
+    "bytes": 149909,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB365",
+    "title": "石璞質禪師語錄",
+    "path": "J/J36/J36nB365.xml",
+    "sha": "36e3b9c81c1423f53ac9f2c3f80ddde7b1e41394",
+    "bytes": 99979,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB366",
+    "title": "大方禪師語錄",
+    "path": "J/J36/J36nB366.xml",
+    "sha": "da20384744c26f39e80e8dd9aeaed22e9d7ce6b1",
+    "bytes": 294218,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB367",
+    "title": "寂光豁禪師語錄",
+    "path": "J/J36/J36nB367.xml",
+    "sha": "3e8a184522410d454a44224727a4f20621628fa7",
+    "bytes": 283588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB368",
+    "title": "天台通玄寺獨朗禪師語錄",
+    "path": "J/J36/J36nB368.xml",
+    "sha": "6869e66908ca49e96556e1bc03db7555512a4076",
+    "bytes": 108533,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J36",
+    "id": "J36nB369",
+    "title": "蔗菴範禪師語錄",
+    "path": "J/J36/J36nB369.xml",
+    "sha": "8d44d930725c2f5899bb495130441d744f76cce4",
+    "bytes": 1560670,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

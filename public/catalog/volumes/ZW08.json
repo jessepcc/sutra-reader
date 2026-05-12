@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08n0067",
+    "title": "華嚴略疏卷第一",
+    "path": "ZW/ZW08/ZW08n0067.xml",
+    "sha": "6104e2c1c3ec3ba56465edca128c9070aa744ed1",
+    "bytes": 99927,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08n0068",
+    "title": "如來廣孝十種報恩道場儀",
+    "path": "ZW/ZW08/ZW08n0068.xml",
+    "sha": "13c52b42de92eebab44bc059fca9cb8d6aa92309",
+    "bytes": 1126657,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08n0069",
+    "title": "二曜金剛合璧",
+    "path": "ZW/ZW08/ZW08n0069.xml",
+    "sha": "6d06010e9df22a130a4a1eb5d1c2767dbbdb252b",
+    "bytes": 34540,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08n0070",
+    "title": "敦煌寺院所藏大藏經概貌",
+    "path": "ZW/ZW08/ZW08n0070.xml",
+    "sha": "2d1d66996e2bcc035c1e27206713e9706c96c1cd",
+    "bytes": 90315,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08n0071",
+    "title": "《慧琳音義》與唐代大藏經",
+    "path": "ZW/ZW08/ZW08n0071.xml",
+    "sha": "01ef4f6e8abff379b2e284a7ea2cc89899915ab9",
+    "bytes": 63791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na044",
+    "title": "藏外佛教文獻第八輯．卷首語",
+    "path": "ZW/ZW08/ZW08na044.xml",
+    "sha": "05f16ef9ea66dd631ab66bb6b11ad2927cc55cd0",
+    "bytes": 26968,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na045",
+    "title": "藏外佛教文獻第八輯．目錄",
+    "path": "ZW/ZW08/ZW08na045.xml",
+    "sha": "3e54220b8abcd45a061bd41219c327af19390647",
+    "bytes": 6205,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na046",
+    "title": "藏外佛教文獻第八輯．錄文校勘體例",
+    "path": "ZW/ZW08/ZW08na046.xml",
+    "sha": "8ff2762f18ef74d2eab80914c0576e42412068eb",
+    "bytes": 15019,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na047",
+    "title": "《藏外佛教文獻》第一～九輯要目",
+    "path": "ZW/ZW08/ZW08na047.xml",
+    "sha": "36775e3595b32c72311716875ce30828a33033ed",
+    "bytes": 15670,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na048",
+    "title": "藏外佛教文獻第八輯．徵稿啟事",
+    "path": "ZW/ZW08/ZW08na048.xml",
+    "sha": "2d6f4ee61be8fe9852a8f9dbc9a0aa2a2eb224f0",
+    "bytes": 9155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW08",
+    "id": "ZW08na049",
+    "title": "藏外佛教文獻第八輯．鳴謝",
+    "path": "ZW/ZW08/ZW08na049.xml",
+    "sha": "3c4869cd30d8234916ab2c0eb1ebada7e0604adc",
+    "bytes": 3095,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

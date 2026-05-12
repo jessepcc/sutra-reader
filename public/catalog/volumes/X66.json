@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "X",
+    "volume": "X66",
+    "id": "X66n1296",
+    "title": "宗門拈古彙集",
+    "path": "X/X66/X66n1296.xml",
+    "sha": "66f6e9149ffe339365501e8f851f58cd35d06786",
+    "bytes": 2761672,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X66",
+    "id": "X66n1297",
+    "title": "宗鑑法林",
+    "path": "X/X66/X66n1297.xml",
+    "sha": "e3d4ae0911e1c78c9461ee3343f0a5b0ff42c823",
+    "bytes": 4775504,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X66",
+    "id": "X66n1298",
+    "title": "禪門諸祖師偈頌",
+    "path": "X/X66/X66n1298.xml",
+    "sha": "4c81e3c36b3499b7f07aa867b3ce6f9f33597d3a",
+    "bytes": 459030,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

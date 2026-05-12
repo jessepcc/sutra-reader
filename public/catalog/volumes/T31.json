@@ -1,0 +1,432 @@
+[
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1585",
+    "title": "成唯識論",
+    "path": "T/T31/T31n1585.xml",
+    "sha": "7497efb668e1c77e073381c13d34764397e9596a",
+    "bytes": 757376,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1586",
+    "title": "唯識三十論頌",
+    "path": "T/T31/T31n1586.xml",
+    "sha": "d06192f7301ddbb7f9f44938837d6d024d328804",
+    "bytes": 72254,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1587",
+    "title": "轉識論",
+    "path": "T/T31/T31n1587.xml",
+    "sha": "1a56db386c69707f791c04617b9767adffde2217",
+    "bytes": 43296,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1588",
+    "title": "唯識論",
+    "path": "T/T31/T31n1588.xml",
+    "sha": "2ec8d83858f5c63670aa8c3a0318270f6dea9294",
+    "bytes": 100992,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1589",
+    "title": "大乘唯識論",
+    "path": "T/T31/T31n1589.xml",
+    "sha": "823e5378248353bb0157cc5cec84108733bf59ff",
+    "bytes": 75502,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1590",
+    "title": "唯識二十論",
+    "path": "T/T31/T31n1590.xml",
+    "sha": "8d58ce1d077e93c27ec9e2c6da1cba06bdc782ba",
+    "bytes": 41175,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1591",
+    "title": "成唯識寶生論",
+    "path": "T/T31/T31n1591.xml",
+    "sha": "7eaf942f0cfa6068e40edecf7ae2295594fbe3b7",
+    "bytes": 236588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1592",
+    "title": "攝大乘論",
+    "path": "T/T31/T31n1592.xml",
+    "sha": "280fa6806af70ee99523253b84c3b6ab850c0303",
+    "bytes": 227461,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1593",
+    "title": "攝大乘論",
+    "path": "T/T31/T31n1593.xml",
+    "sha": "d9c2fbaaef320b32008a88c2215126798a034088",
+    "bytes": 269206,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1594",
+    "title": "攝大乘論本",
+    "path": "T/T31/T31n1594.xml",
+    "sha": "409a30952fbd425e76482b8fa1ebb12a85531ba5",
+    "bytes": 219994,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1595",
+    "title": "攝大乘論釋",
+    "path": "T/T31/T31n1595.xml",
+    "sha": "fa47d32d523b9dc2b860ed1c7b612de38e47d01f",
+    "bytes": 1525623,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1596",
+    "title": "攝大乘論釋論",
+    "path": "T/T31/T31n1596.xml",
+    "sha": "3b6b3f46cd0669b04e29f947de0ae04d9fff098f",
+    "bytes": 573418,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1597",
+    "title": "攝大乘論釋",
+    "path": "T/T31/T31n1597.xml",
+    "sha": "e39ffdbc73dc80c4cb268c771ddea932d90239a6",
+    "bytes": 559242,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1598",
+    "title": "攝大乘論釋",
+    "path": "T/T31/T31n1598.xml",
+    "sha": "dab2364ea34fdad8249bca84190dc0bf67226208",
+    "bytes": 705214,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1599",
+    "title": "中邊分別論",
+    "path": "T/T31/T31n1599.xml",
+    "sha": "e7a1f135c3e3d658f6397663f47a3a2f2207712b",
+    "bytes": 234097,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1600",
+    "title": "辯中邊論",
+    "path": "T/T31/T31n1600.xml",
+    "sha": "d24b5e4377f7a996d251bd7a25a43cbf675da798",
+    "bytes": 133668,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1601",
+    "title": "辯中邊論頌",
+    "path": "T/T31/T31n1601.xml",
+    "sha": "cb1b025e53373e303a01e0d5140489305e04be80",
+    "bytes": 36363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1602",
+    "title": "顯揚聖教論",
+    "path": "T/T31/T31n1602.xml",
+    "sha": "4de2e819bac007cb64e3a854c8ac28971cefd7cc",
+    "bytes": 1150988,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1603",
+    "title": "顯揚聖教論頌",
+    "path": "T/T31/T31n1603.xml",
+    "sha": "bef5fea30139d3f47bd52798b983d8236fe1c876",
+    "bytes": 69246,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1604",
+    "title": "大乘莊嚴經論",
+    "path": "T/T31/T31n1604.xml",
+    "sha": "d409e14a6d69d00d1af2d568e6273001782b4d1d",
+    "bytes": 956788,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1605",
+    "title": "大乘阿毘達磨集論",
+    "path": "T/T31/T31n1605.xml",
+    "sha": "c27900c7fc64f90e924c8da4e42b9e4885141f0b",
+    "bytes": 339631,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1606",
+    "title": "大乘阿毘達磨雜集論",
+    "path": "T/T31/T31n1606.xml",
+    "sha": "e03534b1fb88b6be8d87b69ba69720d6e617d38b",
+    "bytes": 968679,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1607",
+    "title": "六門教授習定論",
+    "path": "T/T31/T31n1607.xml",
+    "sha": "712a509d232947c72b5bc8b493cd35805016a9a2",
+    "bytes": 40649,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1608",
+    "title": "業成就論",
+    "path": "T/T31/T31n1608.xml",
+    "sha": "9cf7c54c05665970600c0b9382a91493f89f476a",
+    "bytes": 61636,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1609",
+    "title": "大乘成業論",
+    "path": "T/T31/T31n1609.xml",
+    "sha": "987e91b9484a04090da914a81476ad83f9a6f91a",
+    "bytes": 64656,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1610",
+    "title": "佛性論",
+    "path": "T/T31/T31n1610.xml",
+    "sha": "269291e13ebe0aa1f3b12be96e3c9ca9fe41271e",
+    "bytes": 326651,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1611",
+    "title": "究竟一乘寶性論",
+    "path": "T/T31/T31n1611.xml",
+    "sha": "605df36612e82897a6a8f90c3a4e2d377cae42a4",
+    "bytes": 529260,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1612",
+    "title": "大乘五蘊論",
+    "path": "T/T31/T31n1612.xml",
+    "sha": "f88acd4e382067438f37840e75d14d389bfb6e68",
+    "bytes": 34676,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1613",
+    "title": "大乘廣五蘊論",
+    "path": "T/T31/T31n1613.xml",
+    "sha": "713ddcd4b1f375e9d27da4831e8392f39b008d1f",
+    "bytes": 59633,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1614",
+    "title": "大乘百法明門論",
+    "path": "T/T31/T31n1614.xml",
+    "sha": "86403228a3ebfc010b79b95405ed6b532a04672b",
+    "bytes": 15420,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1615",
+    "title": "王法正理論",
+    "path": "T/T31/T31n1615.xml",
+    "sha": "20c976784b8831a3f8f89c28ce7b765cd7fd37a9",
+    "bytes": 58882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1616",
+    "title": "十八空論",
+    "path": "T/T31/T31n1616.xml",
+    "sha": "9eada9343519d9bf48c4235bdc0929cdb28b8507",
+    "bytes": 91924,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1617",
+    "title": "三無性論",
+    "path": "T/T31/T31n1617.xml",
+    "sha": "fb038c8e53731ccc9c41fdbea91bad4949445f27",
+    "bytes": 176904,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1618",
+    "title": "顯識論",
+    "path": "T/T31/T31n1618.xml",
+    "sha": "149f31043f54d3017c4bdafb8f3f0ca89e6f75dc",
+    "bytes": 62479,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1619",
+    "title": "無相思塵論",
+    "path": "T/T31/T31n1619.xml",
+    "sha": "2854ceb9c3f2f791759707d9fa90e3a8e48787ee",
+    "bytes": 23178,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1620",
+    "title": "解捲論",
+    "path": "T/T31/T31n1620.xml",
+    "sha": "3151e7632f3f3d4563d37ad17caad9f6f449fe27",
+    "bytes": 16075,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1621",
+    "title": "掌中論",
+    "path": "T/T31/T31n1621.xml",
+    "sha": "6e2633ee69329c5bb74cb1c9277b98e20e5dc2b6",
+    "bytes": 14257,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1622",
+    "title": "取因假設論",
+    "path": "T/T31/T31n1622.xml",
+    "sha": "c28497bb9be5fb140975101009f8ccbb77527904",
+    "bytes": 37005,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1623",
+    "title": "觀總相論頌",
+    "path": "T/T31/T31n1623.xml",
+    "sha": "7ab789773fc02d4de93cf4e50491cc38281d892f",
+    "bytes": 9223,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1624",
+    "title": "觀所緣緣論",
+    "path": "T/T31/T31n1624.xml",
+    "sha": "5fe7709244239463dc8d09c5a86182552158e410",
+    "bytes": 14867,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1625",
+    "title": "觀所緣論釋",
+    "path": "T/T31/T31n1625.xml",
+    "sha": "c3cbec9e78bff2c22fdafc2a9ef648e101784d49",
+    "bytes": 40617,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1626",
+    "title": "大乘法界無差別論",
+    "path": "T/T31/T31n1626.xml",
+    "sha": "4f111a7762a55bb23bda234f6ca2a87c561c06a3",
+    "bytes": 34071,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T31",
+    "id": "T31n1627",
+    "title": "大乘法界無差別論",
+    "path": "T/T31/T31n1627.xml",
+    "sha": "fd04ae5d50cfefbe0c83bb9c4e7ec0d59caf66ed",
+    "bytes": 30468,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

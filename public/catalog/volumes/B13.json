@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "B",
+    "volume": "B13",
+    "id": "B13n0079",
+    "title": "釋氏六帖",
+    "path": "B/B13/B13n0079.xml",
+    "sha": "44d6af84c83617ace9eecf0f3b1d8e6de55546b8",
+    "bytes": 3270233,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B13",
+    "id": "B13n0080",
+    "title": "大唐西域記（校點本）",
+    "path": "B/B13/B13n0080.xml",
+    "sha": "d734447f2ea135c573eea9041dc9a5fdae362c60",
+    "bytes": 781867,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B13",
+    "id": "B13na011",
+    "title": "釋氏六帖解題",
+    "path": "B/B13/B13na011.xml",
+    "sha": "f8193f48b83564416aa97898787a091570715971",
+    "bytes": 7354,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B13",
+    "id": "B13na012",
+    "title": "大唐西域記解題",
+    "path": "B/B13/B13na012.xml",
+    "sha": "74b8374514e00c4c0c02a1c457ff367d6858f5b7",
+    "bytes": 14871,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

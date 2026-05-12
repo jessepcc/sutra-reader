@@ -1,0 +1,82 @@
+[
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0240",
+    "title": "華嚴綱要(第45卷-第80卷)",
+    "path": "X/X09/X09n0240.xml",
+    "sha": "d496eaf544fcdc99b6d0af555db6798e3947aa19",
+    "bytes": 3234288,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0241",
+    "title": "華嚴經綱目貫攝",
+    "path": "X/X09/X09n0241.xml",
+    "sha": "5f7b3371fd62106f9006c0b8705d9b8e44eec936",
+    "bytes": 129350,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0242",
+    "title": "華嚴經三十九品大意",
+    "path": "X/X09/X09n0242.xml",
+    "sha": "e025b7fa958446b5c29f036c109acf0139e2df8a",
+    "bytes": 115349,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0243",
+    "title": "圓覺經大疏",
+    "path": "X/X09/X09n0243.xml",
+    "sha": "38e3fd5a72b5853233fc1421cd931e9df51b615a",
+    "bytes": 1349412,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0244",
+    "title": "圓覺經大疏鈔科",
+    "path": "X/X09/X09n0244.xml",
+    "sha": "e98e166d4ef941d5d9642a09f1d1ffe4fd66b91e",
+    "bytes": 342213,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0245",
+    "title": "圓覺經大疏釋義鈔",
+    "path": "X/X09/X09n0245.xml",
+    "sha": "efcd91dab46212bede7ab9f01efda6413c495ae1",
+    "bytes": 3537916,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0246",
+    "title": "圓覺經略疏科",
+    "path": "X/X09/X09n0246.xml",
+    "sha": "5ece0abb897d906e73ad89bc4ab8d506e6f7e7b4",
+    "bytes": 275067,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X09",
+    "id": "X09n0248",
+    "title": "圓覺經略疏鈔",
+    "path": "X/X09/X09n0248.xml",
+    "sha": "7a42076b631a1a25d845d8fd48d61a4d0b1ff5c1",
+    "bytes": 1594396,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

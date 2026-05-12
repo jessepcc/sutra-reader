@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA001",
+    "id": "GA001n0002",
+    "title": "洛陽伽藍記集證",
+    "path": "GA/GA001/GA001n0002.xml",
+    "sha": "b12fadae45c4b595bc71892f6d7e5e279d6fa947",
+    "bytes": 270128,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA001",
+    "id": "GA001n0003",
+    "title": "洛陽伽藍記鉤沈",
+    "path": "GA/GA001/GA001n0003.xml",
+    "sha": "1b590fa5e61d7147f8a1d94b3fa432e04c9fbf6d",
+    "bytes": 212823,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA001",
+    "id": "GA001n0004",
+    "title": "洛陽伽藍記合校本",
+    "path": "GA/GA001/GA001n0004.xml",
+    "sha": "b89c5f458af610edf90affc29d67dd2d5167dbbf",
+    "bytes": 365696,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

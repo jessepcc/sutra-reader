@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0796",
+    "title": "雜集論述記",
+    "path": "X/X48/X48n0796.xml",
+    "sha": "73b433c3d51bf50dc7584dc404fdd4a993eb62a7",
+    "bytes": 1672144,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0797",
+    "title": "中邊分別論疏",
+    "path": "X/X48/X48n0797.xml",
+    "sha": "0039c3914129a42b5c48f3e3e65e7d846781b7b7",
+    "bytes": 178702,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0799",
+    "title": "百法論顯幽鈔",
+    "path": "X/X48/X48n0799.xml",
+    "sha": "a0e76491f7b50f8fb97e314b71054076ef28f33d",
+    "bytes": 703608,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0802",
+    "title": "百法明門論論義",
+    "path": "X/X48/X48n0802.xml",
+    "sha": "7a073a5d9093f2b3d13b19360dbb180e3cb9b6bf",
+    "bytes": 44795,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0803",
+    "title": "百法明門論纂",
+    "path": "X/X48/X48n0803.xml",
+    "sha": "8a9f36bef660da27976899a6431737a965e2bd0c",
+    "bytes": 179639,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0804",
+    "title": "百法明門論贅言",
+    "path": "X/X48/X48n0804.xml",
+    "sha": "fdff77dd58e9b81983be042e524a2c2e2b3eee6d",
+    "bytes": 134187,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0805",
+    "title": "百法明門論直解",
+    "path": "X/X48/X48n0805.xml",
+    "sha": "1c5d54a187026c2742472005c589510a47c92ad2",
+    "bytes": 45272,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0806",
+    "title": "成唯識論料簡",
+    "path": "X/X48/X48n0806.xml",
+    "sha": "b988505a22cc39b229416ff8bedea1b0fdd8c6dd",
+    "bytes": 431869,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X48",
+    "id": "X48n0808",
+    "title": "成唯識論別抄",
+    "path": "X/X48/X48n0808.xml",
+    "sha": "fa51c88e28a873a2795af6b6c232352696e6af6b",
+    "bytes": 419074,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

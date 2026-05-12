@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1260",
+    "title": "列祖提綱錄",
+    "path": "X/X64/X64n1260.xml",
+    "sha": "2aa6c057adea024e4119b730c48138986db52370",
+    "bytes": 3248151,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1261",
+    "title": "祖庭事苑",
+    "path": "X/X64/X64n1261.xml",
+    "sha": "f12fc49d7fc2c30fd38ff948521866d43de7770a",
+    "bytes": 1577303,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1262",
+    "title": "禪林寶訓音義",
+    "path": "X/X64/X64n1262.xml",
+    "sha": "1a678bf0b756e0931c62bc50d0160bcd1546ad86",
+    "bytes": 439707,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1263",
+    "title": "禪林寶訓合註",
+    "path": "X/X64/X64n1263.xml",
+    "sha": "26d8746407936b13a3cfbad4b114e7346b2e7a8f",
+    "bytes": 742335,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1264",
+    "title": "禪林寶訓拈頌",
+    "path": "X/X64/X64n1264.xml",
+    "sha": "91ae0f009e94f7a8e563ecea31898ce42a203e1a",
+    "bytes": 72161,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1265",
+    "title": "禪林寶訓順硃",
+    "path": "X/X64/X64n1265.xml",
+    "sha": "159ada9eaad64c4ffd6397a4445c4f27103e96ab",
+    "bytes": 960531,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1266",
+    "title": "禪林寶訓筆說",
+    "path": "X/X64/X64n1266.xml",
+    "sha": "52a6e9c87672e52daaca6d1177314718a45050ab",
+    "bytes": 1232737,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1268",
+    "title": "叢林公論",
+    "path": "X/X64/X64n1268.xml",
+    "sha": "70bda303e70fbf3a0ff687f5eb312e95565153e2",
+    "bytes": 100834,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1269",
+    "title": "十牛圖頌",
+    "path": "X/X64/X64n1269.xml",
+    "sha": "cb8520d6cbd5bf52d83de683a1fafd157b3d2568",
+    "bytes": 30016,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1270",
+    "title": "十牛圖頌",
+    "path": "X/X64/X64n1270.xml",
+    "sha": "e7f744daa15c5b277ae706bfc299715d262d49cf",
+    "bytes": 22311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1271",
+    "title": "十牛圖和頌",
+    "path": "X/X64/X64n1271.xml",
+    "sha": "2c8b9356ad7e29c0ea4efe69973e195d20d7d292",
+    "bytes": 109428,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X64",
+    "id": "X64n1276",
+    "title": "禪門寶藏錄",
+    "path": "X/X64/X64n1276.xml",
+    "sha": "81eeaeca8905f437fd9c3ddc999cae6aa5470f5d",
+    "bytes": 107032,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

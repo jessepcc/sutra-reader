@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "A",
+    "volume": "A114",
+    "id": "A114n1504",
+    "title": "佛說大乘僧伽吒法義經",
+    "path": "A/A114/A114n1504.xml",
+    "sha": "3fda5fe3bc548728dda20b8220cab366ec15a190",
+    "bytes": 115825,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "A",
+    "volume": "A114",
+    "id": "A114n1505",
+    "title": "佛說清淨毘奈耶最上大乘經",
+    "path": "A/A114/A114n1505.xml",
+    "sha": "b89d6313dca9a7051691df42bade37e4c25b2215",
+    "bytes": 51323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

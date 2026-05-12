@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1508",
+    "title": "釋迦如來成道記",
+    "path": "X/X75/X75n1508.xml",
+    "sha": "1fd68cfc434ace332d429ca7667960c087016331",
+    "bytes": 3725,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1509",
+    "title": "釋迦如來成道記註",
+    "path": "X/X75/X75n1509.xml",
+    "sha": "1548185eb12dbf7f77088ba85e1aeee8e3cfee05",
+    "bytes": 217774,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1510",
+    "title": "釋迦如來行蹟頌",
+    "path": "X/X75/X75n1510.xml",
+    "sha": "b44a710d2035263f832c0dd5ef6726c2593f0a01",
+    "bytes": 440942,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1511",
+    "title": "釋迦如來應化錄",
+    "path": "X/X75/X75n1511.xml",
+    "sha": "9ca8b6981702c498b911b9a194e7efe2da54ca90",
+    "bytes": 574189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1512",
+    "title": "隆興編年通論",
+    "path": "X/X75/X75n1512.xml",
+    "sha": "eb53a1f956121eadf3e8e344c7510ea2a6d5d59e",
+    "bytes": 1697728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1513",
+    "title": "釋門正統",
+    "path": "X/X75/X75n1513.xml",
+    "sha": "3111ea2fe644db5f1b65e302b98a2d76d1115837",
+    "bytes": 1228228,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X75",
+    "id": "X75n1515",
+    "title": "續佛祖統紀",
+    "path": "X/X75/X75n1515.xml",
+    "sha": "a0b576bc322673e2321c148ab55e17461f20ab9c",
+    "bytes": 181264,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "L",
+    "volume": "L155",
+    "id": "L155n1642",
+    "title": "明道正覺森禪師語錄",
+    "path": "L/L155/L155n1642.xml",
+    "sha": "cd2e6c1499d663de927d35cfa612171a56215ca7",
+    "bytes": 213233,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L155",
+    "id": "L155n1643",
+    "title": "弘覺忞禪師語錄",
+    "path": "L/L155/L155n1643.xml",
+    "sha": "32fc985532cd7aa37f5908dc7421d0f57efb8a51",
+    "bytes": 1131299,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

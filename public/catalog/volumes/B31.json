@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "B",
+    "volume": "B31",
+    "id": "B31n0169",
+    "title": "朝鮮寺剎史料",
+    "path": "B/B31/B31n0169.xml",
+    "sha": "18c45768dfd00f6a6a7b97dbe553fdda4cb67fb8",
+    "bytes": 2083522,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B31",
+    "id": "B31n0170",
+    "title": "朝鮮佛教通史",
+    "path": "B/B31/B31n0170.xml",
+    "sha": "f9414a40c03b5747fa44fd2ab9d3c3543c68dc6e",
+    "bytes": 5244697,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B31",
+    "id": "B31na030",
+    "title": "大藏經補編第三十一冊．編輯說明",
+    "path": "B/B31/B31na030.xml",
+    "sha": "6264f6d022d75879637a7a936c36bf2354231b90",
+    "bytes": 6727,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -25,6 +25,7 @@ import {
   recordRecent,
   getSettings,
 } from "../src/lib/db";
+import { _resetCatalogForTests } from "../src/lib/catalog-context";
 
 function renderApp(initialEntries: string[] = ["/"]) {
   const router = createMemoryRouter(
@@ -54,10 +55,11 @@ beforeEach(() => {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   (globalThis as any).indexedDB = new IDBFactory();
   _resetDbForTests();
+  _resetCatalogForTests();
 });
 
 describe("HomePage", () => {
-  it("renders the brand and the canon list from the bundled catalog", async () => {
+  it("renders the brand and the canon list from the lazy catalog index", async () => {
     renderApp();
     expect(screen.getByText("經閣", { selector: "h1" })).toBeInTheDocument();
     expect(await screen.findByText(/大正新脩大藏經/)).toBeInTheDocument();

@@ -1,0 +1,762 @@
+[
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0848",
+    "title": "大毘盧遮那成佛神變加持經",
+    "path": "T/T18/T18n0848.xml",
+    "sha": "3c18ed0e0f55870ddd648eaafd9db9b8ffec2794",
+    "bytes": 1346076,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0849",
+    "title": "大毘盧遮那佛說要略念誦經",
+    "path": "T/T18/T18n0849.xml",
+    "sha": "c90e36511787f964d2d8e97054b2d0066356e398",
+    "bytes": 104437,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0850",
+    "title": "攝大毘盧遮那成佛神變加持經入蓮華胎藏海會悲生曼荼攞廣大念誦儀軌供養方便會",
+    "path": "T/T18/T18n0850.xml",
+    "sha": "60fe2cb06d656c16d33bbe5ee580ac193464ff38",
+    "bytes": 1123697,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0851",
+    "title": "大毘盧遮那經廣大儀軌",
+    "path": "T/T18/T18n0851.xml",
+    "sha": "5ff0a1cd97950dbed772c193d43c64e1ad53c175",
+    "bytes": 231683,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0852a",
+    "title": "大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會",
+    "path": "T/T18/T18n0852a.xml",
+    "sha": "c144a2aafde38cff01202f263d7adcefc97fc0f8",
+    "bytes": 755427,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0852b",
+    "title": "大毘盧舍那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌",
+    "path": "T/T18/T18n0852b.xml",
+    "sha": "ee49103e9235e38d58d0949c863f0177ea1845b6",
+    "bytes": 203707,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0853",
+    "title": "大毘盧遮那成佛神變加持經蓮華胎藏菩提幢標幟普通真言藏廣大成就瑜伽",
+    "path": "T/T18/T18n0853.xml",
+    "sha": "40ad3ea11c6bb446475c7332c8d12d187922a7e3",
+    "bytes": 552866,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0854",
+    "title": "胎藏梵字真言",
+    "path": "T/T18/T18n0854.xml",
+    "sha": "367f8c7c664431b53749dc5af855281f747a17f7",
+    "bytes": 571472,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0855",
+    "title": "青龍寺軌記",
+    "path": "T/T18/T18n0855.xml",
+    "sha": "66c1b27a704b6e50db5a77f45550d9577e851236",
+    "bytes": 70024,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0856",
+    "title": "大毘盧遮那成佛神變加持經略示七支念誦隨行法",
+    "path": "T/T18/T18n0856.xml",
+    "sha": "aa723d347f33cd2705f7349a06ec51216877e672",
+    "bytes": 50335,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0857",
+    "title": "大日經略攝念誦隨行法",
+    "path": "T/T18/T18n0857.xml",
+    "sha": "9097445737031f467520b884f3b27a26e1bb5bea",
+    "bytes": 66422,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0858",
+    "title": "大毘盧遮那略要速疾門五支念誦法",
+    "path": "T/T18/T18n0858.xml",
+    "sha": "d5b516d4174aa7a430954897b73dd7df1b3e271f",
+    "bytes": 8090,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0859",
+    "title": "供養儀式",
+    "path": "T/T18/T18n0859.xml",
+    "sha": "fa0f77e9781e3fb9d0709e843a23192ff445c25b",
+    "bytes": 155205,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0860",
+    "title": "大日經持誦次第儀軌",
+    "path": "T/T18/T18n0860.xml",
+    "sha": "eb2d250fa7543d0952acfa52ca5275b49fdefc97",
+    "bytes": 254902,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0861",
+    "title": "毘盧遮那五字真言修習儀軌",
+    "path": "T/T18/T18n0861.xml",
+    "sha": "182270f13e64d04e692a3d03258fd367d2f06d4b",
+    "bytes": 55220,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0862",
+    "title": "阿闍梨大曼荼攞灌頂儀軌",
+    "path": "T/T18/T18n0862.xml",
+    "sha": "c5023be677985635687cc1f520083f52593e7745",
+    "bytes": 177966,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0863",
+    "title": "大毘盧遮那經阿闍梨真實智品中阿闍梨住阿字觀門",
+    "path": "T/T18/T18n0863.xml",
+    "sha": "51a9cbfc0ed938e81078fe22d2223ea7fccff7b1",
+    "bytes": 119530,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0864A",
+    "title": "大日如來劍印",
+    "path": "T/T18/T18n0864A.xml",
+    "sha": "26a3577dc53baf9222e8e70439b7d72bddb3126b",
+    "bytes": 384961,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0864B",
+    "title": "胎藏金剛教法名號",
+    "path": "T/T18/T18n0864B.xml",
+    "sha": "ff271697a49e2e68e332228410dc551b5b8d802d",
+    "bytes": 92105,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0865",
+    "title": "金剛頂一切如來真實攝大乘現證大教王經",
+    "path": "T/T18/T18n0865.xml",
+    "sha": "7e9606ba93baea955d9c8007c8a4b78dfb210662",
+    "bytes": 516161,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0866",
+    "title": "金剛頂瑜伽中略出念誦經",
+    "path": "T/T18/T18n0866.xml",
+    "sha": "2a1f657ef88b13445427cfc0bb3c6fbfa3b831cb",
+    "bytes": 848075,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0867",
+    "title": "金剛峰樓閣一切瑜伽瑜祇經",
+    "path": "T/T18/T18n0867.xml",
+    "sha": "2b92672e2ef938d7233296adfe0a1a04e298edbe",
+    "bytes": 699395,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0868",
+    "title": "諸佛境界攝真實經",
+    "path": "T/T18/T18n0868.xml",
+    "sha": "a6f590eea0fe8e2b01c47452d2ddbe76740125b7",
+    "bytes": 310579,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0869",
+    "title": "金剛頂經瑜伽十八會指歸",
+    "path": "T/T18/T18n0869.xml",
+    "sha": "314c4f7d774c4d439b74189a95c6245bc18b0cb4",
+    "bytes": 107241,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0870",
+    "title": "略述金剛頂瑜伽分別聖位修證法門",
+    "path": "T/T18/T18n0870.xml",
+    "sha": "de6d750380f739d8576efb896ca79e97323ec35d",
+    "bytes": 76867,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0871",
+    "title": "金剛頂瑜伽略述三十七尊心要",
+    "path": "T/T18/T18n0871.xml",
+    "sha": "7c30fd759f88a5a5bd4af2ac7172c6ec9dd4325d",
+    "bytes": 118477,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0872",
+    "title": "金剛頂瑜伽三十七尊出生義",
+    "path": "T/T18/T18n0872.xml",
+    "sha": "36ddf8eb185eb487157fca987a009e862586130b",
+    "bytes": 48644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0873",
+    "title": "金剛頂蓮華部心念誦儀軌",
+    "path": "T/T18/T18n0873.xml",
+    "sha": "11c92c1beeef42115e23b98534efd9227822a92a",
+    "bytes": 373719,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0874",
+    "title": "金剛頂一切如來真實攝大乘現證大教王經",
+    "path": "T/T18/T18n0874.xml",
+    "sha": "ff3162088b810259c6966de013958e6ad6166cb4",
+    "bytes": 193218,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0875",
+    "title": "蓮華部心念誦儀軌",
+    "path": "T/T18/T18n0875.xml",
+    "sha": "361c9717f2de6ef32a13d1246a1dda4d1a412437",
+    "bytes": 301042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0876",
+    "title": "金剛頂經瑜伽修習毘盧遮那三摩地法",
+    "path": "T/T18/T18n0876.xml",
+    "sha": "f070d9778294ef5ee57281e120f5595d28431614",
+    "bytes": 166244,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0877",
+    "title": "金剛頂經毘盧遮那一百八尊法身契印",
+    "path": "T/T18/T18n0877.xml",
+    "sha": "53a0a23b4b6d605ec1e9d046c47802aced953e07",
+    "bytes": 292731,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0878",
+    "title": "金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文",
+    "path": "T/T18/T18n0878.xml",
+    "sha": "1403c59261e7a6a6d8a5c69f895ce703bda3e940",
+    "bytes": 22880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0879",
+    "title": "金剛頂瑜伽三十七尊禮",
+    "path": "T/T18/T18n0879.xml",
+    "sha": "9a9585679e2854ee4a1abfcd822702dd03a398a1",
+    "bytes": 16296,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0880",
+    "title": "瑜伽金剛頂經釋字母品",
+    "path": "T/T18/T18n0880.xml",
+    "sha": "32a2b37fd1eaf130aac79bf5e194b204c55bccdb",
+    "bytes": 71566,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0881",
+    "title": "賢劫十六尊",
+    "path": "T/T18/T18n0881.xml",
+    "sha": "eff979cb06645d8ddd3bbf5aeb118825744e2d29",
+    "bytes": 99759,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0882",
+    "title": "佛說一切如來真實攝大乘現證三昧大教王經",
+    "path": "T/T18/T18n0882.xml",
+    "sha": "0051a14bff5374ad65538926bc36a2e05407d1fa",
+    "bytes": 1508570,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0883",
+    "title": "佛說祕密三昧大教王經",
+    "path": "T/T18/T18n0883.xml",
+    "sha": "fd76da709d5a6e65fb3b51dbd8ba48c4cfd42610",
+    "bytes": 244998,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0884",
+    "title": "佛說祕密相經",
+    "path": "T/T18/T18n0884.xml",
+    "sha": "5a847eb891c1f97265cc51d2714d80c88ac27a4f",
+    "bytes": 90270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0885",
+    "title": "佛說一切如來金剛三業最上祕密大教王經",
+    "path": "T/T18/T18n0885.xml",
+    "sha": "0ce14837dab541640a2071eec870308795b8c283",
+    "bytes": 617645,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0886",
+    "title": "佛說金剛場莊嚴般若波羅蜜多教中一分",
+    "path": "T/T18/T18n0886.xml",
+    "sha": "60d1558d380c367eeec09740c5856244c45ae37e",
+    "bytes": 45950,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0887",
+    "title": "佛說無二平等最上瑜伽大教王經",
+    "path": "T/T18/T18n0887.xml",
+    "sha": "d4b9386570cf5713dd9b09795dfcce49261176e3",
+    "bytes": 251803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0888",
+    "title": "一切祕密最上名義大教王儀軌",
+    "path": "T/T18/T18n0888.xml",
+    "sha": "235c3b6682d53706743c4ab1fe67b1704dbcd3a9",
+    "bytes": 63876,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0889",
+    "title": "一切如來大祕密王未曾有最上微妙大曼拏羅經",
+    "path": "T/T18/T18n0889.xml",
+    "sha": "ea0dc207640e4b6cbb95d1a227f2ec2cd29d6e11",
+    "bytes": 205520,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0890",
+    "title": "佛說瑜伽大教王經",
+    "path": "T/T18/T18n0890.xml",
+    "sha": "2fc0eebf0c69111719d5151d7f17f31fed9311f6",
+    "bytes": 390796,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0891",
+    "title": "佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經",
+    "path": "T/T18/T18n0891.xml",
+    "sha": "d025b1f1fa3f4bbaec2b0a5565d4960fb0ed72c9",
+    "bytes": 91134,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0892",
+    "title": "佛說大悲空智金剛大教王儀軌經",
+    "path": "T/T18/T18n0892.xml",
+    "sha": "162401115666bf8cf9e8c1b20d4647dccceef7b7",
+    "bytes": 210369,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0893a",
+    "title": "蘇悉地羯羅經",
+    "path": "T/T18/T18n0893a.xml",
+    "sha": "f513ef26bcc9be71e115abac56b2548fdfc4a61c",
+    "bytes": 300147,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0893b",
+    "title": "蘇悉地羯羅經",
+    "path": "T/T18/T18n0893b.xml",
+    "sha": "0010fdcf3f95d127c141833be64d2a137e69ba3b",
+    "bytes": 914687,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0893c",
+    "title": "蘇悉地羯羅經",
+    "path": "T/T18/T18n0893c.xml",
+    "sha": "57c7e0463f33c452ba87d73d86a40357ec974c72",
+    "bytes": 316976,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0894a",
+    "title": "蘇悉地羯羅供養法",
+    "path": "T/T18/T18n0894a.xml",
+    "sha": "a2d1b8bbb9738fcd5c6eee701adf469a3acda20c",
+    "bytes": 438124,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0894b",
+    "title": "蘇悉地羯羅供養法",
+    "path": "T/T18/T18n0894b.xml",
+    "sha": "77b7d972c430914c10d12fc4c7606276d4d6b791",
+    "bytes": 705923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0895a",
+    "title": "蘇婆呼童子請問經",
+    "path": "T/T18/T18n0895a.xml",
+    "sha": "b318f54af0a6524fb3d6056e07a00c0dd3cf1958",
+    "bytes": 374995,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0895b",
+    "title": "蘇婆呼童子請問經",
+    "path": "T/T18/T18n0895b.xml",
+    "sha": "81846df052aeab7f2d3b73a9f24023da3ac05a0e",
+    "bytes": 151817,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0896",
+    "title": "妙臂菩薩所問經",
+    "path": "T/T18/T18n0896.xml",
+    "sha": "49c52583f25400ce13ba3ef84de689555c295aed",
+    "bytes": 191809,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0897",
+    "title": "蕤呬耶經",
+    "path": "T/T18/T18n0897.xml",
+    "sha": "ca277f74f834c9545b271014276dee936cef7889",
+    "bytes": 344311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0898",
+    "title": "佛說毘奈耶經",
+    "path": "T/T18/T18n0898.xml",
+    "sha": "044704eff7869d680533d03494e79aa921dd7ce7",
+    "bytes": 108186,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0899",
+    "title": "清淨法身毘盧遮那心地法門成就一切陀羅尼三種悉地",
+    "path": "T/T18/T18n0899.xml",
+    "sha": "5ac9f662cb3cbce8665bd3089f27ebf54739a67f",
+    "bytes": 68539,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0900",
+    "title": "十八契印",
+    "path": "T/T18/T18n0900.xml",
+    "sha": "b0bd32c13648e7cd7fff8a9be1e39c6e8a616aa2",
+    "bytes": 33207,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0901",
+    "title": "陀羅尼集經",
+    "path": "T/T18/T18n0901.xml",
+    "sha": "45228415c241f93e270e06a0ac28e5ab9583d14c",
+    "bytes": 3167797,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0902",
+    "title": "總釋陀羅尼義讚",
+    "path": "T/T18/T18n0902.xml",
+    "sha": "2bfc1990bbcba4acb7d284f7e20bdab9d465382a",
+    "bytes": 11751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0903",
+    "title": "都部陀羅尼目",
+    "path": "T/T18/T18n0903.xml",
+    "sha": "5137a585af1445eac58beb17b78813d89ac7e75a",
+    "bytes": 78148,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0904",
+    "title": "念誦結護法普通諸部",
+    "path": "T/T18/T18n0904.xml",
+    "sha": "d00840de3e194bda3ecba0afb060ca796b6698c0",
+    "bytes": 278154,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0905",
+    "title": "三種悉地破地獄轉業障出三界祕密陀羅尼法",
+    "path": "T/T18/T18n0905.xml",
+    "sha": "606cff7bdc44099b04d4d13a65fb9b3800733839",
+    "bytes": 79035,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0906",
+    "title": "佛頂尊勝心破地獄轉業障出三界祕密三身佛果三種悉地真言儀軌",
+    "path": "T/T18/T18n0906.xml",
+    "sha": "4cdf028728f732e437c9ee4b85f0548e6da0b652",
+    "bytes": 30166,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0907",
+    "title": "佛頂尊勝心破地獄轉業障出三界祕密陀羅尼",
+    "path": "T/T18/T18n0907.xml",
+    "sha": "dfc2312af250cba0e636ad6f218aff5fa443180b",
+    "bytes": 26464,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0908",
+    "title": "金剛頂瑜伽護摩儀軌",
+    "path": "T/T18/T18n0908.xml",
+    "sha": "83531354b448067ab4e68df48642447de4dc3146",
+    "bytes": 252472,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0909",
+    "title": "金剛頂瑜伽護摩儀軌",
+    "path": "T/T18/T18n0909.xml",
+    "sha": "0bfe883f628db8f31f20d2fb4296f81f19f31bc6",
+    "bytes": 162755,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0910",
+    "title": "梵天擇地法",
+    "path": "T/T18/T18n0910.xml",
+    "sha": "911c0f39aa86ae803ab859096a001bf9657caa0a",
+    "bytes": 24568,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0911",
+    "title": "建立曼荼羅及揀擇地法",
+    "path": "T/T18/T18n0911.xml",
+    "sha": "391c9f55c460ab6118a07e6e6f3de325ba74d5b7",
+    "bytes": 66845,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0912",
+    "title": "建立曼荼羅護摩儀軌",
+    "path": "T/T18/T18n0912.xml",
+    "sha": "7468766f5ac12c35a43f091ff571c98dbd60df06",
+    "bytes": 120008,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0913",
+    "title": "火□供養儀軌",
+    "path": "T/T18/T18n0913.xml",
+    "sha": "7672e79df85b23aeaef435f9fe0e83db55fabf27",
+    "bytes": 96875,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0914",
+    "title": "火吽軌別錄",
+    "path": "T/T18/T18n0914.xml",
+    "sha": "1d1aa0471069a15748535cc392188c48e35679b6",
+    "bytes": 236328,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0915",
+    "title": "受菩提心戒儀",
+    "path": "T/T18/T18n0915.xml",
+    "sha": "d44a73a2aa0fba3d6599158f6adff8b6eb9ab04e",
+    "bytes": 27679,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0916",
+    "title": "受五戒八戒文",
+    "path": "T/T18/T18n0916.xml",
+    "sha": "e616a6dbfc359fc501aec29dad77fd2968cf7854",
+    "bytes": 13890,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T18",
+    "id": "T18n0917",
+    "title": "無畏三藏禪要",
+    "path": "T/T18/T18n0917.xml",
+    "sha": "91285df89bd2b9d488ff3a471a25b703be3b9095",
+    "bytes": 126762,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

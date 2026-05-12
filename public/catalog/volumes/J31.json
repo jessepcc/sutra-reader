@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "J",
+    "volume": "J31",
+    "id": "J31nB267",
+    "title": "牧雲和尚嬾齋別集",
+    "path": "J/J31/J31nB267.xml",
+    "sha": "705ba12fcb75e9ac897f11be1094b985a52c3c93",
+    "bytes": 1297252,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J31",
+    "id": "J31nB268",
+    "title": "牧雲和尚宗本投機頌",
+    "path": "J/J31/J31nB268.xml",
+    "sha": "4d081d6adac5640457c72fa546485db46edcff82",
+    "bytes": 384892,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J31",
+    "id": "J31nB269",
+    "title": "金剛般若經疏論纂要刊定記會編",
+    "path": "J/J31/J31nB269.xml",
+    "sha": "a3db4281b30d45ab846b0c12bb8bad352ff7af9c",
+    "bytes": 784113,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J31",
+    "id": "J31nB271",
+    "title": "閱藏知津(第1卷-第5卷)",
+    "path": "J/J31/J31nB271.xml",
+    "sha": "2f0b06c9869f88ee8a5279867a5d825230c1a11a",
+    "bytes": 566390,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

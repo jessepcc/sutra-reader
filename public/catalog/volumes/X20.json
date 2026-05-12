@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0355",
+    "title": "金光明經玄義科",
+    "path": "X/X20/X20n0355.xml",
+    "sha": "229d32e217284152a3507ff6b7bbef3bc98d660f",
+    "bytes": 108136,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0356",
+    "title": "金光明經玄義拾遺記會本",
+    "path": "X/X20/X20n0356.xml",
+    "sha": "00a77d2be62ff271bc29072a35b7fd641caa79ac",
+    "bytes": 593934,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0357",
+    "title": "金光明經文句科",
+    "path": "X/X20/X20n0357.xml",
+    "sha": "20ba6c9c36a2581216340011f81eceabc0c04c75",
+    "bytes": 491899,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0358",
+    "title": "金光明經文句文句記會本",
+    "path": "X/X20/X20n0358.xml",
+    "sha": "326f3578831c9fc2375bb322226d2f867741b669",
+    "bytes": 1912812,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0359",
+    "title": "金光明經玄義順正記",
+    "path": "X/X20/X20n0359.xml",
+    "sha": "b9a5aa5346c5bbc391afb5980708735f10b541a5",
+    "bytes": 706369,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0360",
+    "title": "金光明經文句新記",
+    "path": "X/X20/X20n0360.xml",
+    "sha": "d2c86c7ba5d641243ee15f3927d96925dab30a23",
+    "bytes": 1197132,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0361",
+    "title": "金光明經照解",
+    "path": "X/X20/X20n0361.xml",
+    "sha": "b8bf2bac8a427dfa5ced7756319120635ca4bf87",
+    "bytes": 668968,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0362",
+    "title": "金光明經科註",
+    "path": "X/X20/X20n0362.xml",
+    "sha": "4325c3434ea0776b58db9577ee00970612086a1f",
+    "bytes": 574391,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0364",
+    "title": "思益梵天所問經簡註",
+    "path": "X/X20/X20n0364.xml",
+    "sha": "f43b73d5c87a6cc56912b4c50a7089058f4aafcb",
+    "bytes": 923063,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0365",
+    "title": "大乘本生心地觀經淺註懸示",
+    "path": "X/X20/X20n0365.xml",
+    "sha": "43ce670513d05dc179878f4ef9a5ee06f66e253c",
+    "bytes": 74383,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0366",
+    "title": "大乘本生心地觀經淺註科文",
+    "path": "X/X20/X20n0366.xml",
+    "sha": "cb3a3b31fb8422646a24f66e7aaf04e812f03fbf",
+    "bytes": 222852,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X20",
+    "id": "X20n0367",
+    "title": "大乘本生心地觀經淺註(第1卷-第3卷)",
+    "path": "X/X20/X20n0367.xml",
+    "sha": "3aaf5f11de3a5b49f5242bead6f51fd9ff289709",
+    "bytes": 1127159,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "P",
+    "volume": "P179",
+    "id": "P179n1611",
+    "title": "諸佛世尊如來菩薩尊者神僧名經(第30卷-第40卷)",
+    "path": "P/P179/P179n1611.xml",
+    "sha": "625d2ff5489e6a6122ef60d2aefc2ef0f7a17f31",
+    "bytes": 833762,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "P",
+    "volume": "P179",
+    "id": "P179n1612",
+    "title": "諸佛世尊如來菩薩尊者名稱歌曲(第1卷-第18卷)",
+    "path": "P/P179/P179n1612.xml",
+    "sha": "43f550074d731e23b3b8ff0c0e9c6ba89720d13f",
+    "bytes": 1458083,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

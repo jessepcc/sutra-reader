@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0822",
+    "title": "成唯識論證義(第4卷-第10卷)",
+    "path": "X/X51/X51n0822.xml",
+    "sha": "8b88e7d29f4098015701f3f1b50dad48de4ae0b3",
+    "bytes": 1526363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0823",
+    "title": "成唯識論自攷",
+    "path": "X/X51/X51n0823.xml",
+    "sha": "87033d6de89bbf600bdc701c4567f86c1877877a",
+    "bytes": 1688319,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0824",
+    "title": "成唯識論觀心法要",
+    "path": "X/X51/X51n0824.xml",
+    "sha": "79b1c6e0fb7a77feb4e6a2668f03e57efa880b91",
+    "bytes": 1981155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0825",
+    "title": "成唯識論音響補遺科",
+    "path": "X/X51/X51n0825.xml",
+    "sha": "90c5a468a88b32200c55e18763ac94f33efa8d6d",
+    "bytes": 574765,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0826",
+    "title": "成唯識論音響補遺",
+    "path": "X/X51/X51n0826.xml",
+    "sha": "106ab1da1867121f01565ddfa9050311a5a429f1",
+    "bytes": 2770888,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0827",
+    "title": "唯識三十論約意",
+    "path": "X/X51/X51n0827.xml",
+    "sha": "baa36a34d6693f7ed58521250ae4b565e9491967",
+    "bytes": 87626,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0828",
+    "title": "唯識三十論直解",
+    "path": "X/X51/X51n0828.xml",
+    "sha": "1a2786e356f89dba828624950addb36b5ff2a780",
+    "bytes": 51963,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0830",
+    "title": "觀所緣緣論會釋",
+    "path": "X/X51/X51n0830.xml",
+    "sha": "97a4798c382b4727adb6078da3a358d098c6f2fd",
+    "bytes": 38935,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0831",
+    "title": "觀所緣緣論直解",
+    "path": "X/X51/X51n0831.xml",
+    "sha": "b8665ee859e0481ccc1bd6218db6e944689d3369",
+    "bytes": 40106,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0832",
+    "title": "觀所緣緣論釋記",
+    "path": "X/X51/X51n0832.xml",
+    "sha": "12e0ac80f82b1111d7306c982ba11124ce92429a",
+    "bytes": 199770,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X51",
+    "id": "X51n0833",
+    "title": "觀所緣緣論釋直解",
+    "path": "X/X51/X51n0833.xml",
+    "sha": "7f45c4b76ef9ca4fc3c1df1d92bcc413e304b473",
+    "bytes": 122139,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

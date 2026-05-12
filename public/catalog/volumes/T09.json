@@ -1,0 +1,172 @@
+[
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0262",
+    "title": "妙法蓮華經",
+    "path": "T/T09/T09n0262.xml",
+    "sha": "0819424e6a6a6072712dc4f8c57e9d0a4b5abb97",
+    "bytes": 1123303,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0263",
+    "title": "正法華經",
+    "path": "T/T09/T09n0263.xml",
+    "sha": "52509540981dc60fcdcf369c0b708e1abe23c0ad",
+    "bytes": 1975404,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0264",
+    "title": "添品妙法蓮華經",
+    "path": "T/T09/T09n0264.xml",
+    "sha": "3ad406f8919e54bf2ffa54e198aefb0094bdf6b2",
+    "bytes": 783907,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0265",
+    "title": "薩曇分陀利經",
+    "path": "T/T09/T09n0265.xml",
+    "sha": "6137884eb8c3f1388a60b428cb3d5dd67e130f9b",
+    "bytes": 24306,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0266",
+    "title": "佛說阿惟越致遮經",
+    "path": "T/T09/T09n0266.xml",
+    "sha": "7fba8ec5ce30a63f2cda187a2609c8d32c1bf113",
+    "bytes": 592752,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0267",
+    "title": "不退轉法輪經",
+    "path": "T/T09/T09n0267.xml",
+    "sha": "f0cceb9e0aa9b9e7c7e16e1c830e459b7a16a2e4",
+    "bytes": 419663,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0268",
+    "title": "佛說廣博嚴淨不退轉輪經",
+    "path": "T/T09/T09n0268.xml",
+    "sha": "8075985655b32cc579b8035c9d92e244a4685423",
+    "bytes": 584011,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0269",
+    "title": "佛說法華三昧經",
+    "path": "T/T09/T09n0269.xml",
+    "sha": "daeda4090bdb4f987388e545c617d36dd11e77f1",
+    "bytes": 83685,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0270",
+    "title": "大法鼓經",
+    "path": "T/T09/T09n0270.xml",
+    "sha": "3c1b2bd7ca961215e7736bab704fce80abc03140",
+    "bytes": 173669,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0271",
+    "title": "佛說菩薩行方便境界神通變化經",
+    "path": "T/T09/T09n0271.xml",
+    "sha": "ed0c997789e72d0c9b6eb47ea4b0278ca5d88698",
+    "bytes": 301751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0272",
+    "title": "大薩遮尼乾子所說經",
+    "path": "T/T09/T09n0272.xml",
+    "sha": "22cbc87dbf301af5d9183c00fc1050adabe0de6a",
+    "bytes": 823605,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0273",
+    "title": "金剛三昧經",
+    "path": "T/T09/T09n0273.xml",
+    "sha": "c8261cc557ba876395672de8deb99645e6f6becf",
+    "bytes": 170528,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0274",
+    "title": "佛說濟諸方等學經",
+    "path": "T/T09/T09n0274.xml",
+    "sha": "8d660c18a82e43f0c8ea14bca978d7505dbfdc3a",
+    "bytes": 92808,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0275",
+    "title": "大乘方廣總持經",
+    "path": "T/T09/T09n0275.xml",
+    "sha": "c49891fb9153e115f1d57db4443e7165e5fb4593",
+    "bytes": 51392,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0276",
+    "title": "無量義經",
+    "path": "T/T09/T09n0276.xml",
+    "sha": "56d46a493e5eda8a2928356b8c45fad312089524",
+    "bytes": 157042,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0277",
+    "title": "佛說觀普賢菩薩行法經",
+    "path": "T/T09/T09n0277.xml",
+    "sha": "02a748074a26f93474f69292ff0cbc92e3beb5a0",
+    "bytes": 107840,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T09",
+    "id": "T09n0278",
+    "title": "大方廣佛華嚴經",
+    "path": "T/T09/T09n0278.xml",
+    "sha": "6b60b673a6df3a0984828d97cea0191d98a7b2c0",
+    "bytes": 4921321,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

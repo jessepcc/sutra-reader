@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "X",
+    "volume": "X04",
+    "id": "X04n0223",
+    "title": "華嚴經合論",
+    "path": "X/X04/X04n0223.xml",
+    "sha": "e1cd8a650642fb468f286287ae8e3bb1e2a087a5",
+    "bytes": 9045613,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X04",
+    "id": "X04n0225",
+    "title": "華嚴經合論簡要",
+    "path": "X/X04/X04n0225.xml",
+    "sha": "f057e1df33b78203df87f7abacac99d6e89b0274",
+    "bytes": 479297,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

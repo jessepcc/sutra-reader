@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X03",
+    "id": "X03n0208",
+    "title": "華嚴經論〔卷十〕",
+    "path": "X/X03/X03n0208.xml",
+    "sha": "890ce7adf4a093c09fc7fcad0c3f4fce94605180",
+    "bytes": 56177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X03",
+    "id": "X03n0211",
+    "title": "華嚴經文義記〔卷六〕",
+    "path": "X/X03/X03n0211.xml",
+    "sha": "1716fe50eaec79c0a793edbab12074d8c27006d6",
+    "bytes": 340748,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X03",
+    "id": "X03n0218",
+    "title": "華嚴經入法界品十八問答",
+    "path": "X/X03/X03n0218.xml",
+    "sha": "04d12f0cd16cde617123768f90ff731fe03b7acb",
+    "bytes": 18468,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X03",
+    "id": "X03n0220",
+    "title": "華嚴經綸貫",
+    "path": "X/X03/X03n0220.xml",
+    "sha": "92482fecdb48d2892ed171ebd6829de623db1339",
+    "bytes": 35923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X03",
+    "id": "X03n0221",
+    "title": "續華嚴經略疏刊定記",
+    "path": "X/X03/X03n0221.xml",
+    "sha": "4d6555aea6078c7c90d5df16370b88b9cab4c0b9",
+    "bytes": 3564035,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

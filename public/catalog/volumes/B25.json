@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "B",
+    "volume": "B25",
+    "id": "B25n0142",
+    "title": "新校定的敦煌寫本神會和尚遺著兩種",
+    "path": "B/B25/B25n0142.xml",
+    "sha": "dd3ef4647aa296d13f1b18753a0d609d1837f38b",
+    "bytes": 262079,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B25",
+    "id": "B25n0143",
+    "title": "神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）",
+    "path": "B/B25/B25n0143.xml",
+    "sha": "ab083c6b67f8c0784953b4089421d5a1d0ecd9aa",
+    "bytes": 154778,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B25",
+    "id": "B25n0144",
+    "title": "祖堂集",
+    "path": "B/B25/B25n0144.xml",
+    "sha": "89659a363c0d5788e7dff383e04cd143375f1f80",
+    "bytes": 2054231,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B25",
+    "id": "B25n0145",
+    "title": "天目中峰廣錄",
+    "path": "B/B25/B25n0145.xml",
+    "sha": "e158933a7d27531791337eeed8e91a79ed286209",
+    "bytes": 1699472,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B25",
+    "id": "B25na024",
+    "title": "大藏經補編第二十五冊．編輯說明",
+    "path": "B/B25/B25na024.xml",
+    "sha": "effde254c34b26d13ab223a76ca2841bb8cd4670",
+    "bytes": 6530,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

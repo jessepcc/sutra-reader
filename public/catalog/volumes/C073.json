@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "C",
+    "volume": "C073",
+    "id": "C073n1679",
+    "title": "御製佛賦",
+    "path": "C/C073/C073n1679.xml",
+    "sha": "59d5efd6b4f4b9baace50f70de013c3b179a853d",
+    "bytes": 115903,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "C",
+    "volume": "C073",
+    "id": "C073n1680",
+    "title": "御製詮源歌",
+    "path": "C/C073/C073n1680.xml",
+    "sha": "1ace5016fa924e823e756166941ae0feef37bb0a",
+    "bytes": 43141,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

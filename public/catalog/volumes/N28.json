@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "N",
+    "volume": "N28",
+    "id": "N28n0014",
+    "title": "餓鬼事經",
+    "path": "N/N28/N28n0014.xml",
+    "sha": "add8644d7d4518e1eab6394112bcdc6e4ec3cc2d",
+    "bytes": 188637,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N28",
+    "id": "N28n0015",
+    "title": "長老偈經",
+    "path": "N/N28/N28n0015.xml",
+    "sha": "bae6d498893905ebc21d485bac6ce62a4315c660",
+    "bytes": 400036,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N28",
+    "id": "N28n0016",
+    "title": "長老尼偈經",
+    "path": "N/N28/N28n0016.xml",
+    "sha": "49fc78ce4d8dbd7d61dd12b0de42a3f70f54daef",
+    "bytes": 153770,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

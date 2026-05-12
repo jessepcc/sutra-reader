@@ -1,0 +1,192 @@
+[
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2102",
+    "title": "弘明集",
+    "path": "T/T52/T52n2102.xml",
+    "sha": "ff9c8e30b9a064c3bff38511bce9ca6fdd108201",
+    "bytes": 2866629,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2103",
+    "title": "廣弘明集",
+    "path": "T/T52/T52n2103.xml",
+    "sha": "0b7c8608826f45035f511fb4d0096b1dd4083485",
+    "bytes": 6967572,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2104",
+    "title": "集古今佛道論衡",
+    "path": "T/T52/T52n2104.xml",
+    "sha": "731dbbf545ab91776c7037770bfcdd7dae291c4f",
+    "bytes": 1092344,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2105",
+    "title": "續集古今佛道論衡",
+    "path": "T/T52/T52n2105.xml",
+    "sha": "16377c69bf114281461ab3f0ae2a796e132a4b68",
+    "bytes": 150567,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2106",
+    "title": "集神州三寶感通錄",
+    "path": "T/T52/T52n2106.xml",
+    "sha": "86dac3cf4f954b4a028837ed01970c341890428c",
+    "bytes": 961122,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2107",
+    "title": "道宣律師感通錄",
+    "path": "T/T52/T52n2107.xml",
+    "sha": "4c87a41116a74f62a6d1fe6f65c6683f1270f38c",
+    "bytes": 65286,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2108",
+    "title": "集沙門不應拜俗等事",
+    "path": "T/T52/T52n2108.xml",
+    "sha": "219cec429868f4a4ba0ce960ece8a62d4145a624",
+    "bytes": 728661,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2109",
+    "title": "破邪論",
+    "path": "T/T52/T52n2109.xml",
+    "sha": "a1179d31ae0935f28b734e25c20dad2527f4fcc2",
+    "bytes": 571311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2110",
+    "title": "辯正論",
+    "path": "T/T52/T52n2110.xml",
+    "sha": "db61837823b2addf2d823b0cfce2277eeacdc6f6",
+    "bytes": 1791014,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2111",
+    "title": "十門辯惑論",
+    "path": "T/T52/T52n2111.xml",
+    "sha": "314311261784df969d6ab295fc4a84e55c96fe1d",
+    "bytes": 225743,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2112",
+    "title": "甄正論",
+    "path": "T/T52/T52n2112.xml",
+    "sha": "1f91c557c42283b89eda08dfbf7cf40d77e10101",
+    "bytes": 493110,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2113",
+    "title": "北山錄",
+    "path": "T/T52/T52n2113.xml",
+    "sha": "59031318deeebd2cecbadf8122e3c2ae241bed7c",
+    "bytes": 697961,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2114",
+    "title": "護法論",
+    "path": "T/T52/T52n2114.xml",
+    "sha": "7f57b29d529230ef38f32c431628b1c5cd08d36c",
+    "bytes": 80515,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2115",
+    "title": "鐔津文集",
+    "path": "T/T52/T52n2115.xml",
+    "sha": "93b2f1c57dc8949a8582bf4d0b8b275eef3788e4",
+    "bytes": 845336,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2116",
+    "title": "辯偽錄",
+    "path": "T/T52/T52n2116.xml",
+    "sha": "4b6fae2b2a1baa6e4b1011b087e02950e9c228e7",
+    "bytes": 247073,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2117",
+    "title": "三教平心論",
+    "path": "T/T52/T52n2117.xml",
+    "sha": "23d47bcfa1c57f27cb2edcaa90a7da2178154a9a",
+    "bytes": 104307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2118",
+    "title": "折疑論",
+    "path": "T/T52/T52n2118.xml",
+    "sha": "1a63d6eb279e336c7837afec60add4eb17966a9c",
+    "bytes": 264176,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2119",
+    "title": "寺沙門玄奘上表記",
+    "path": "T/T52/T52n2119.xml",
+    "sha": "83e48bfd645993054af80c9f674de0e7763c9193",
+    "bytes": 172366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T52",
+    "id": "T52n2120",
+    "title": "代宗朝贈司空大辨正廣智三藏和上表制集",
+    "path": "T/T52/T52n2120.xml",
+    "sha": "6ea8dc0319abd3215b3093152bc0c2da23b4cbc3",
+    "bytes": 511650,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

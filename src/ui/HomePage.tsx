@@ -1,19 +1,21 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { CATALOG } from "../lib/catalog-context";
+import { findTextById, loadCatalogIndex } from "../lib/catalog-context";
 import { getRecents, removeRecent } from "../lib/db";
-import { findText } from "../lib/catalog";
-import type { RecentEntry } from "../lib/types";
+import type { CatalogIndex, RecentEntry, TextEntry } from "../lib/types";
 
 export function HomePage() {
-  const [recents, setRecents] = useState<RecentEntry[] | null>(null);
+  const [catalog, setCatalog] = useState<CatalogIndex | null>(null);
+  const [recents, setRecents] = useState<(RecentEntry & { text?: TextEntry })[] | null>(null);
 
   useEffect(() => {
     void (async () => {
+      setCatalog(await loadCatalogIndex());
       const all = await getRecents();
-      const live: RecentEntry[] = [];
+      const live: (RecentEntry & { text?: TextEntry })[] = [];
       for (const r of all) {
-        if (findText(CATALOG, r.textId)) live.push(r);
+        const text = await findTextById(r.textId);
+        if (text) live.push({ ...r, text });
         else await removeRecent(r.textId);
       }
       setRecents(live);
@@ -34,11 +36,10 @@ export function HomePage() {
         ) : (
           <ul className="list">
             {recents.slice(0, 6).map((r) => {
-              const t = findText(CATALOG, r.textId);
               return (
                 <li key={r.textId}>
                   <Link to={`/read/${r.textId}${r.lastLb ? `#lb_${r.lastLb}` : ""}`}>
-                    {t?.title ?? r.textId}
+                    {r.text?.title ?? r.textId}
                   </Link>
                   <div className="muted">{new Date(r.openedAt).toLocaleString("zh-Hant")}</div>
                 </li>
@@ -51,7 +52,7 @@ export function HomePage() {
       <section className="home-section">
         <div className="subtle">瀏覽</div>
         <ul className="list">
-          {CATALOG.canons.map((c) => (
+          {(catalog?.canons ?? []).map((c) => (
             <li key={c.id}>
               <Link to={`/browse/${c.id}`}>
                 《{c.name}》<span className="muted">　{c.abbr}</span>

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "S",
+    "volume": "S06",
+    "id": "S06n0046",
+    "title": "上生經會古通今新抄",
+    "path": "S/S06/S06n0046.xml",
+    "sha": "24f517c87dcd32dffbd37406d4a2f7b4ef3f3e25",
+    "bytes": 253318,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "S",
+    "volume": "S06",
+    "id": "S06n0047",
+    "title": "上生經疏隨新抄科文",
+    "path": "S/S06/S06n0047.xml",
+    "sha": "6f9f3b2bf3927024c44bcc2cdf7efa8537c8771e",
+    "bytes": 166181,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

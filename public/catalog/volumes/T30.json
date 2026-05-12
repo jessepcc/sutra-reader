@@ -1,0 +1,212 @@
+[
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1564",
+    "title": "中論",
+    "path": "T/T30/T30n1564.xml",
+    "sha": "6e7349edf2b65f98fd6e52b0b74afaabe399ec8a",
+    "bytes": 709118,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1565",
+    "title": "順中論",
+    "path": "T/T30/T30n1565.xml",
+    "sha": "700c41db2826bc4aba960da89d1abd82019571cc",
+    "bytes": 134720,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1566",
+    "title": "般若燈論釋",
+    "path": "T/T30/T30n1566.xml",
+    "sha": "b70af9576111acc2c60aea57478383bc6a0cd0db",
+    "bytes": 923220,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1567",
+    "title": "大乘中觀釋論(第1卷-第9卷)",
+    "path": "T/T30/T30n1567.xml",
+    "sha": "2b30d9e949ced9f95ba7c63ffb5cef7fce88c199",
+    "bytes": 232315,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1568",
+    "title": "十二門論",
+    "path": "T/T30/T30n1568.xml",
+    "sha": "2c2085846e535b6f4682d127c69ce7e88aa93aa9",
+    "bytes": 185207,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1569",
+    "title": "百論",
+    "path": "T/T30/T30n1569.xml",
+    "sha": "3830e4bb9a6457f2f55bdd0de23c69f5090618dd",
+    "bytes": 241563,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1570",
+    "title": "廣百論本",
+    "path": "T/T30/T30n1570.xml",
+    "sha": "08f059bf983bdc96b22b5513d4c38da3ada17f28",
+    "bytes": 95910,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1571",
+    "title": "大乘廣百論釋論",
+    "path": "T/T30/T30n1571.xml",
+    "sha": "a546612297c0cce3532a527d3dfb0834e5e26ceb",
+    "bytes": 696309,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1572",
+    "title": "百字論",
+    "path": "T/T30/T30n1572.xml",
+    "sha": "f65bc7125e3b527b78f53b03ab1f0e7632ea5ab9",
+    "bytes": 40167,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1573",
+    "title": "壹輸盧迦論",
+    "path": "T/T30/T30n1573.xml",
+    "sha": "e967f6778c6e5088aa856da46a456ce802ee7acb",
+    "bytes": 15476,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1574",
+    "title": "大乘破有論",
+    "path": "T/T30/T30n1574.xml",
+    "sha": "b44cc13fad1a592784e6863fa751d16236299330",
+    "bytes": 7995,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1575",
+    "title": "六十頌如理論",
+    "path": "T/T30/T30n1575.xml",
+    "sha": "485bc0214c3e22a697b389bf8de7cb8714177e81",
+    "bytes": 20581,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1576",
+    "title": "大乘二十頌論",
+    "path": "T/T30/T30n1576.xml",
+    "sha": "a97992af4aec6a8361f907a71997c027ec655559",
+    "bytes": 11542,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1577",
+    "title": "大丈夫論",
+    "path": "T/T30/T30n1577.xml",
+    "sha": "5300046c6081a3e1a62bc286b432dee604b7003e",
+    "bytes": 181784,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1578",
+    "title": "大乘掌珍論",
+    "path": "T/T30/T30n1578.xml",
+    "sha": "505554c9e242380e98688368c947f290e9da092b",
+    "bytes": 107111,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1579",
+    "title": "瑜伽師地論",
+    "path": "T/T30/T30n1579.xml",
+    "sha": "bbb30e37f7dbf4d36a61aa06ec919f56cb39b01d",
+    "bytes": 7361520,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1580",
+    "title": "瑜伽師地論釋",
+    "path": "T/T30/T30n1580.xml",
+    "sha": "fea46283fdcf2b3d2855a694821ddea1e478a014",
+    "bytes": 53145,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1581",
+    "title": "菩薩地持經",
+    "path": "T/T30/T30n1581.xml",
+    "sha": "4bdbc5273bec2107a195f25ca9caf458f5f6130d",
+    "bytes": 1823256,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1582",
+    "title": "菩薩善戒經",
+    "path": "T/T30/T30n1582.xml",
+    "sha": "cc68be8a41dcd3de2278ba63899715e87d4d390e",
+    "bytes": 832673,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1583",
+    "title": "菩薩善戒經",
+    "path": "T/T30/T30n1583.xml",
+    "sha": "96c4e0332690d77505f920af5d1c43cb18853b17",
+    "bytes": 62050,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T30",
+    "id": "T30n1584",
+    "title": "決定藏論",
+    "path": "T/T30/T30n1584.xml",
+    "sha": "4308eb0baf13bcc37397b2f588cd411571701fcb",
+    "bytes": 202444,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB472",
+    "title": "大博乾禪師語錄",
+    "path": "J/J40/J40nB472.xml",
+    "sha": "7ba28fd9676faf904432fcfade3f305bba04e030",
+    "bytes": 180761,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB473",
+    "title": "盤山朗空順禪師語錄",
+    "path": "J/J40/J40nB473.xml",
+    "sha": "6c99b5f77808b466f4ec45c53b600648c8ff6e40",
+    "bytes": 51012,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB474",
+    "title": "盤山了宗禪師語錄",
+    "path": "J/J40/J40nB474.xml",
+    "sha": "84f26d1675c3d13ac0b297fb251ca194e6352f16",
+    "bytes": 145242,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB475",
+    "title": "逕庭宗禪師語錄",
+    "path": "J/J40/J40nB475.xml",
+    "sha": "c54e4a6c508bafb319ce8c14a797f5bb5d3ae868",
+    "bytes": 172786,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB476",
+    "title": "別牧純禪師語錄",
+    "path": "J/J40/J40nB476.xml",
+    "sha": "a6ae8b5a6dc2546a1b2370a59bb23f2909ff899b",
+    "bytes": 93806,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB477",
+    "title": "天翼翔禪師語錄",
+    "path": "J/J40/J40nB477.xml",
+    "sha": "fc3ab1cba75fd79d0776ca65f178581c08b2e050",
+    "bytes": 123518,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB478",
+    "title": "雲山燕居申禪師語錄",
+    "path": "J/J40/J40nB478.xml",
+    "sha": "55eece6099be835beec793182f8e6351c0a722d1",
+    "bytes": 383775,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB479",
+    "title": "昭覺竹峰續禪師語錄",
+    "path": "J/J40/J40nB479.xml",
+    "sha": "0cb2a2cdd410d448d35489eae599d4dac2d7ff1f",
+    "bytes": 409294,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB480",
+    "title": "一貫別傳",
+    "path": "J/J40/J40nB480.xml",
+    "sha": "ddc6716fa79cdf238853e8cc36d564deebb015ec",
+    "bytes": 367838,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB481",
+    "title": "古音王傳",
+    "path": "J/J40/J40nB481.xml",
+    "sha": "32e9b46452f14a5bf2e7a807ea9a33522d4cae8b",
+    "bytes": 87832,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB483",
+    "title": "竺峰敏禪師語錄",
+    "path": "J/J40/J40nB483.xml",
+    "sha": "e95f916755b03d1c28f584acaca37edf3b5f2fc8",
+    "bytes": 567960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB484",
+    "title": "野雲映禪師宗統頌",
+    "path": "J/J40/J40nB484.xml",
+    "sha": "9cf90e1112c57f69e50807711d46caa560b39c56",
+    "bytes": 58237,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB485",
+    "title": "普門顯禪師語錄",
+    "path": "J/J40/J40nB485.xml",
+    "sha": "8f9bad9686a29817f458bcfb397cfe082508bac8",
+    "bytes": 79401,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB486",
+    "title": "鑑堂一禪師語錄",
+    "path": "J/J40/J40nB486.xml",
+    "sha": "87d2e117f77e363e79452898d4aa7beeb3f2dbc8",
+    "bytes": 46327,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB487",
+    "title": "翠崖必禪師語錄",
+    "path": "J/J40/J40nB487.xml",
+    "sha": "bb3acaa1dd93f159aef8e4baa9c05467d32e605d",
+    "bytes": 127131,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB488",
+    "title": "斗南暐禪師語錄",
+    "path": "J/J40/J40nB488.xml",
+    "sha": "3a69bd14387eb76d411ba92044db58556c37c891",
+    "bytes": 144235,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB490",
+    "title": "博山粟如瀚禪師語錄",
+    "path": "J/J40/J40nB490.xml",
+    "sha": "ff2152d481e4ab24a065c2792c75cfc448038b0c",
+    "bytes": 288921,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB491",
+    "title": "天寧法舟濟禪師剩語",
+    "path": "J/J40/J40nB491.xml",
+    "sha": "399b25ce7be1d3d19eddbedc22c6fbf49352398e",
+    "bytes": 97049,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB492",
+    "title": "萬峰和尚語錄",
+    "path": "J/J40/J40nB492.xml",
+    "sha": "323d3ffc5d4097f087bf0a41f895c17366b845bf",
+    "bytes": 138656,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB493",
+    "title": "磬山牧亭樸夫拙禪師語錄",
+    "path": "J/J40/J40nB493.xml",
+    "sha": "334928052cd6c97030103a62e11aba22bd79c247",
+    "bytes": 299605,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB494",
+    "title": "雨山和尚語錄",
+    "path": "J/J40/J40nB494.xml",
+    "sha": "242a447e132d6319686bea90b0b5b677bd4ed874",
+    "bytes": 992269,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB495",
+    "title": "天然居士懷淨土詩",
+    "path": "J/J40/J40nB495.xml",
+    "sha": "baafa4a3e749f5a47c024ddc7283c0684d43c76c",
+    "bytes": 74255,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J40",
+    "id": "J40nB497",
+    "title": "鶴山禪師執帚集",
+    "path": "J/J40/J40nB497.xml",
+    "sha": "04f3a3e2bfedd82d499540a505eee59e6bdd81b2",
+    "bytes": 202316,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

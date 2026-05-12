@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA044",
+    "id": "GA044n0047",
+    "title": "潭柘山岫雲寺志",
+    "path": "GA/GA044/GA044n0047.xml",
+    "sha": "c84b068ab03ef9156296a2378aa355a0966d39ec",
+    "bytes": 275165,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA044",
+    "id": "GA044n0048",
+    "title": "弘慈廣濟寺新志",
+    "path": "GA/GA044/GA044n0048.xml",
+    "sha": "c5c028337560a26ed768853d8b476d12dfef287b",
+    "bytes": 249534,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

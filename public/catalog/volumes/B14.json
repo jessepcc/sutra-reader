@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0081",
+    "title": "雙峰山曹侯溪寶林傳（殘卷）",
+    "path": "B/B14/B14n0081.xml",
+    "sha": "d7f271289511541476cfac6b2300c61a9dc5e9b4",
+    "bytes": 567070,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0082",
+    "title": "傳燈玉英集（殘卷）",
+    "path": "B/B14/B14n0082.xml",
+    "sha": "09bf7bcf085940b65bb2d977ca797b0335753282",
+    "bytes": 643149,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0084",
+    "title": "藏逸經書標目",
+    "path": "B/B14/B14n0084.xml",
+    "sha": "684555b33b9d004e842ec096805a8adbfc7f4fa7",
+    "bytes": 46542,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0085",
+    "title": "憨山大師年譜疏註",
+    "path": "B/B14/B14n0085.xml",
+    "sha": "8074db6dfc443be1312995eacd8348be8a7655dc",
+    "bytes": 330684,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0086",
+    "title": "南朝寺考",
+    "path": "B/B14/B14n0086.xml",
+    "sha": "ef7d6e9251e08d95c7b993190043db29bb62c89f",
+    "bytes": 341662,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14n0087",
+    "title": "合訂天台三聖二和詩集",
+    "path": "B/B14/B14n0087.xml",
+    "sha": "56ec1b823c1835fd44ac4a2475b506c46f5273c7",
+    "bytes": 387617,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B14",
+    "id": "B14na013",
+    "title": "大藏經補編第十四冊．編輯說明",
+    "path": "B/B14/B14na013.xml",
+    "sha": "16c9ace9612446a7bdf21d8064a46a65d2f91fa2",
+    "bytes": 6278,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

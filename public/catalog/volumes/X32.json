@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0615",
+    "title": "法華經綸貫",
+    "path": "X/X32/X32n0615.xml",
+    "sha": "dae14c498681cda2837c2217495903a0749258b9",
+    "bytes": 72552,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0616",
+    "title": "法華經會義",
+    "path": "X/X32/X32n0616.xml",
+    "sha": "f22ad2ce9bf834ae75e1706388f132b24fd2445f",
+    "bytes": 2450525,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0617",
+    "title": "法華經卓解",
+    "path": "X/X32/X32n0617.xml",
+    "sha": "d7919d011484c2fa3eaf67dcf087acf06e20a5c5",
+    "bytes": 943254,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0618",
+    "title": "法華經大成科",
+    "path": "X/X32/X32n0618.xml",
+    "sha": "f124aad5a8f890797a0aadee25ffa9aecb855078",
+    "bytes": 357033,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0619",
+    "title": "法華經大成",
+    "path": "X/X32/X32n0619.xml",
+    "sha": "fbe890b1d26a87e2dff9230d8923ddb18d4805a0",
+    "bytes": 2359258,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0620",
+    "title": "法華經大成音義",
+    "path": "X/X32/X32n0620.xml",
+    "sha": "a79b2843af0b7d56ca6da78f8cbb3194f9f5d5c7",
+    "bytes": 269948,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0621",
+    "title": "法華經授手〔卷首〕",
+    "path": "X/X32/X32n0621.xml",
+    "sha": "d440dc0faa85b33e25bfe281490959bd69266b61",
+    "bytes": 155578,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0622",
+    "title": "法華經授手科",
+    "path": "X/X32/X32n0622.xml",
+    "sha": "4c765bf82fef822fbaece74e62f704a5dea8ffb1",
+    "bytes": 245437,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X32",
+    "id": "X32n0623",
+    "title": "法華經授手",
+    "path": "X/X32/X32n0623.xml",
+    "sha": "6d732b195637114f682a2479a55f0bb538b526a0",
+    "bytes": 2649923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

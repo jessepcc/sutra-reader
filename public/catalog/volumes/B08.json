@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "B",
+    "volume": "B08",
+    "id": "B08n0026",
+    "title": "四分比丘尼戒本註解",
+    "path": "B/B08/B08n0026.xml",
+    "sha": "5760281a1d413f113a06053fa618076c02faee2f",
+    "bytes": 4328880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B08",
+    "id": "B08n0027",
+    "title": "瑜伽師地論戒品纂釋",
+    "path": "B/B08/B08n0027.xml",
+    "sha": "f9496d80a98f95e9125459df0775d4ed14ab12cd",
+    "bytes": 493762,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B08",
+    "id": "B08n0028",
+    "title": "菩提正道菩薩戒論",
+    "path": "B/B08/B08n0028.xml",
+    "sha": "f0b1fbbd97650027452dd521f51da958a1e4b35b",
+    "bytes": 297782,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B08",
+    "id": "B08n0029",
+    "title": "菩薩戒品釋",
+    "path": "B/B08/B08n0029.xml",
+    "sha": "5af5df408fbb51c632606090fdf5d2ab7320b393",
+    "bytes": 363071,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B08",
+    "id": "B08na006",
+    "title": "大藏經補編第八冊．編輯說明",
+    "path": "B/B08/B08na006.xml",
+    "sha": "13c15050166ebfdba5ce5790c414f545568daf93",
+    "bytes": 5602,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

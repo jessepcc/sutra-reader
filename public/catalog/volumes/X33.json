@@ -1,0 +1,102 @@
+[
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0624",
+    "title": "法華經演義科",
+    "path": "X/X33/X33n0624.xml",
+    "sha": "812d8835525875420fb807605de5860ea6a98e0f",
+    "bytes": 362141,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0625",
+    "title": "法華經演義",
+    "path": "X/X33/X33n0625.xml",
+    "sha": "c3042da716e8eec8e90209d8888064d4a85002cc",
+    "bytes": 2957005,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0626",
+    "title": "法華經科拾懸談卷首",
+    "path": "X/X33/X33n0626.xml",
+    "sha": "c79532e9670ddcbf3c89b766ec5844e5b77472fa",
+    "bytes": 116252,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0627",
+    "title": "法華經科拾科",
+    "path": "X/X33/X33n0627.xml",
+    "sha": "805d3647532d635bae79e35b973a3d3f505da34c",
+    "bytes": 199266,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0628",
+    "title": "法華經科拾",
+    "path": "X/X33/X33n0628.xml",
+    "sha": "b8e7ed793d33e216193af5d8121cc24d471bc5dd",
+    "bytes": 1177089,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0629",
+    "title": "法華經指掌疏科文",
+    "path": "X/X33/X33n0629.xml",
+    "sha": "b96d9ea90193a44b16367dc23767f8041892cc65",
+    "bytes": 356139,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0630",
+    "title": "法華經指掌疏懸示",
+    "path": "X/X33/X33n0630.xml",
+    "sha": "5eecd06c56c94a97d5703f7b49a983fc3747058c",
+    "bytes": 177564,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0631",
+    "title": "法華經指掌疏",
+    "path": "X/X33/X33n0631.xml",
+    "sha": "9070daa861cc43b68f155b047d4d7e14debffe49",
+    "bytes": 2516896,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0632",
+    "title": "法華經指掌疏事義",
+    "path": "X/X33/X33n0632.xml",
+    "sha": "5234f9338f2c3c1087b10501fdc732e8e6f7f4fd",
+    "bytes": 262039,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X33",
+    "id": "X33n0633",
+    "title": "法華經為為章",
+    "path": "X/X33/X33n0633.xml",
+    "sha": "375a52205db8973affe90433f67c19fa77a5a122",
+    "bytes": 63648,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

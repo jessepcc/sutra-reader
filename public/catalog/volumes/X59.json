@@ -1,0 +1,342 @@
+[
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1043",
+    "title": "看命一掌金",
+    "path": "X/X59/X59n1043.xml",
+    "sha": "d962f67d600365b358e3ef1c44c2b91aea086b14",
+    "bytes": 89622,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1048",
+    "title": "持咒仙人飛鉢儀軌",
+    "path": "X/X59/X59n1048.xml",
+    "sha": "326749b1a292fd0d4ca55ab6ba8b3762a0cd7e94",
+    "bytes": 11445,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1052",
+    "title": "成就夢想法",
+    "path": "X/X59/X59n1052.xml",
+    "sha": "eea8cf4bd761be6a9afa3703f1658c12e8398099",
+    "bytes": 13675,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1054",
+    "title": "多利心菩薩念誦法",
+    "path": "X/X59/X59n1054.xml",
+    "sha": "503e697129e8e8db9883958ea1f50922c7cde84b",
+    "bytes": 142080,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1069",
+    "title": "釋迦牟尼如來拔除苦惱現大神變飛空大鉢法",
+    "path": "X/X59/X59n1069.xml",
+    "sha": "7ef886d3e95741e17f375cf33b61fa5184b0f86c",
+    "bytes": 13760,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1073",
+    "title": "金胎兩界師資相承",
+    "path": "X/X59/X59n1073.xml",
+    "sha": "e701d9e9999dd41205685cac5be4092712bbd9e1",
+    "bytes": 18541,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1074",
+    "title": "胎金兩界血脈",
+    "path": "X/X59/X59n1074.xml",
+    "sha": "ebcbbf094098ea2e6b2a110bf01af180235c11db",
+    "bytes": 15814,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1077",
+    "title": "準提淨業",
+    "path": "X/X59/X59n1077.xml",
+    "sha": "3a557453ab9b1a1b2d9d6b1edf25496ef43c5aca",
+    "bytes": 313106,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1078",
+    "title": "準提心要",
+    "path": "X/X59/X59n1078.xml",
+    "sha": "4796dd24f6574475ec88f206ba40fa1edbaa603c",
+    "bytes": 86101,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1079",
+    "title": "持誦準提真言法要",
+    "path": "X/X59/X59n1079.xml",
+    "sha": "0896c88b966742a6f54c0020bff1f3db43b79285",
+    "bytes": 63199,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1080",
+    "title": "瑜伽集要施食儀軌",
+    "path": "X/X59/X59n1080.xml",
+    "sha": "79602e549b1cc01648a76653ae58b3bf1598c8df",
+    "bytes": 238535,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1081",
+    "title": "修設瑜伽集要施食壇儀",
+    "path": "X/X59/X59n1081.xml",
+    "sha": "cb22703ee1f61f88ad714b57dc8370e050925756",
+    "bytes": 345142,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1082",
+    "title": "於密滲施食旨槩",
+    "path": "X/X59/X59n1082.xml",
+    "sha": "d1f3ed9697909285524f603d63c04ed8ce3edb0d",
+    "bytes": 52633,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1083",
+    "title": "修習瑜伽集要施食壇儀",
+    "path": "X/X59/X59n1083.xml",
+    "sha": "7ce6a3f7125234203c3bdccd1c403f8f10364058",
+    "bytes": 254600,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1084",
+    "title": "瑜伽燄口註集纂要儀軌",
+    "path": "X/X59/X59n1084.xml",
+    "sha": "eec3379cac3d580db66e47f97db8d2c04336b1eb",
+    "bytes": 317212,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1085",
+    "title": "受菩薩戒儀",
+    "path": "X/X59/X59n1085.xml",
+    "sha": "d4682cb996d88e50aa63009a97daef2c8b135258",
+    "bytes": 58403,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1086",
+    "title": "授菩薩戒儀",
+    "path": "X/X59/X59n1086.xml",
+    "sha": "c3a208fe518eb4f36a2fab01253ae2b65bac0043",
+    "bytes": 43721,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1087",
+    "title": "略授三歸五八戒並菩薩戒",
+    "path": "X/X59/X59n1087.xml",
+    "sha": "8130095f971919870052ae1358cbc6d799488dc6",
+    "bytes": 119309,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1088",
+    "title": "受菩薩戒法",
+    "path": "X/X59/X59n1088.xml",
+    "sha": "01c62fef8a204533eee9d0e966e8bf9004ae1af1",
+    "bytes": 41574,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1094",
+    "title": "釋門歸敬儀護法記",
+    "path": "X/X59/X59n1094.xml",
+    "sha": "b36d0f9bec5c01b9f9f24471dc1bb409d745715c",
+    "bytes": 207808,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1095",
+    "title": "釋門歸敬儀通真記",
+    "path": "X/X59/X59n1095.xml",
+    "sha": "0f8313f4f7269662f9144f28d56702568b03ee2e",
+    "bytes": 811625,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1096",
+    "title": "淨心誡觀法發真鈔",
+    "path": "X/X59/X59n1096.xml",
+    "sha": "579e6c9cd1e7c80b304b61a461147013bab7ba8e",
+    "bytes": 755924,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1097",
+    "title": "釋門章服儀應法記",
+    "path": "X/X59/X59n1097.xml",
+    "sha": "4b088a2ab0244d7e82d85ecba854245574a9f930",
+    "bytes": 238288,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1098",
+    "title": "衣鉢名義章",
+    "path": "X/X59/X59n1098.xml",
+    "sha": "7f61b975c07ac8e0516e1c725282b479769637e9",
+    "bytes": 28085,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1099",
+    "title": "新受戒比丘六念五觀法",
+    "path": "X/X59/X59n1099.xml",
+    "sha": "5540dd982022b709f31e69f07ddb3c339ab5399f",
+    "bytes": 26350,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1100",
+    "title": "道具賦",
+    "path": "X/X59/X59n1100.xml",
+    "sha": "ce9ed88681e158b26bf501c0393254e5ebed611a",
+    "bytes": 12108,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1102",
+    "title": "佛制六物圖辯訛",
+    "path": "X/X59/X59n1102.xml",
+    "sha": "7ae401fe183b60a43018eafa6d7729af50ba34b0",
+    "bytes": 37276,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1103",
+    "title": "三衣顯正圖",
+    "path": "X/X59/X59n1103.xml",
+    "sha": "4fb03c85cb6796c596a43ff101623c99f13b96ce",
+    "bytes": 63882,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1104",
+    "title": "芝園遺編",
+    "path": "X/X59/X59n1104.xml",
+    "sha": "f0e7f90154aea48c8fac378ae23ba220bcbcadfe",
+    "bytes": 375015,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1105",
+    "title": "芝園集",
+    "path": "X/X59/X59n1105.xml",
+    "sha": "ddec78ce5ad92ac771564df1e830417e707c72c3",
+    "bytes": 167108,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1106",
+    "title": "補續芝園集",
+    "path": "X/X59/X59n1106.xml",
+    "sha": "7c58fe6684e320bc0ea3e255eb1b96c2d45e5680",
+    "bytes": 39613,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1107",
+    "title": "律宗新學名句",
+    "path": "X/X59/X59n1107.xml",
+    "sha": "e99fbee98db7926ef91a9acc53b33b854c1c1710",
+    "bytes": 465107,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1108",
+    "title": "律宗問答",
+    "path": "X/X59/X59n1108.xml",
+    "sha": "bf02fbf2f6ae2d82d8ecab8815e107053eba225a",
+    "bytes": 102785,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X59",
+    "id": "X59n1109",
+    "title": "終南家業",
+    "path": "X/X59/X59n1109.xml",
+    "sha": "136e6734c26966bc32d01e52d3ae0c2106745266",
+    "bytes": 589689,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

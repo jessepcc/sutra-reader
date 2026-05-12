@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "B",
+    "volume": "B16",
+    "id": "B16n0088",
+    "title": "古今圖書集成選輯（下）",
+    "path": "B/B16/B16n0088.xml",
+    "sha": "e86bab76079b4feb375529feaa7f927946c896aa",
+    "bytes": 6304660,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B16",
+    "id": "B16na015",
+    "title": "大藏經補編第十六冊．編輯說明（下）",
+    "path": "B/B16/B16na015.xml",
+    "sha": "0eaa2d2d51e313e19a482e16d7dd18c9bbd7498c",
+    "bytes": 5414,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

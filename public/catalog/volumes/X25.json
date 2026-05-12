@@ -1,0 +1,402 @@
+[
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0471",
+    "title": "金剛經宗通",
+    "path": "X/X25/X25n0471.xml",
+    "sha": "d4cc01591cc7dd614265f8fded06cdef2b2e91cd",
+    "bytes": 443852,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0472",
+    "title": "金剛經偈釋",
+    "path": "X/X25/X25n0472.xml",
+    "sha": "69fd14851b5b9288de0696e69187fb38957281f4",
+    "bytes": 122235,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0473",
+    "title": "金剛經釋",
+    "path": "X/X25/X25n0473.xml",
+    "sha": "b8e4b9e9fcd3953148efdda52c22799566319f53",
+    "bytes": 19396,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0474",
+    "title": "金剛經決疑",
+    "path": "X/X25/X25n0474.xml",
+    "sha": "a57962d8e67b76e10b7e09a95d10db829edaca24",
+    "bytes": 162233,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0475",
+    "title": "金剛經鎞",
+    "path": "X/X25/X25n0475.xml",
+    "sha": "ad4bdd4d54dc7b00bc256bfeab8b4ccb6c80b642",
+    "bytes": 306522,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0476",
+    "title": "金剛經統論",
+    "path": "X/X25/X25n0476.xml",
+    "sha": "67457d6339284357126fed48681b60e94f8a1165",
+    "bytes": 153295,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0477",
+    "title": "金剛經正眼",
+    "path": "X/X25/X25n0477.xml",
+    "sha": "7eb29115df1c48eeb2dd285fb4809da88eeb6726",
+    "bytes": 22074,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0478",
+    "title": "金剛經筆記",
+    "path": "X/X25/X25n0478.xml",
+    "sha": "704cac830729789555c47c585b6508bb3917d8f6",
+    "bytes": 168531,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0479",
+    "title": "金剛經破空論",
+    "path": "X/X25/X25n0479.xml",
+    "sha": "8c7d3551f065580e13039dc9fc667957a181d66e",
+    "bytes": 155761,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0480",
+    "title": "金剛經觀心釋",
+    "path": "X/X25/X25n0480.xml",
+    "sha": "34432faee0c3509e5d0d0d7dd803d302b3aeb85c",
+    "bytes": 15352,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0481",
+    "title": "金剛經略談",
+    "path": "X/X25/X25n0481.xml",
+    "sha": "fa60d30f2f0af3ded18213350b65884c12ff475c",
+    "bytes": 34399,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0482",
+    "title": "金剛經略疏",
+    "path": "X/X25/X25n0482.xml",
+    "sha": "cbf8ee454e1177020aebba977d1af0c5ecd3e01c",
+    "bytes": 141035,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0483",
+    "title": "金剛經音釋直解",
+    "path": "X/X25/X25n0483.xml",
+    "sha": "5d620d94635b79d532a080f5fcfb1eb3303786f6",
+    "bytes": 157373,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0484",
+    "title": "金剛經大意",
+    "path": "X/X25/X25n0484.xml",
+    "sha": "f583521f82875060b1d182f66cba6a02ce64c106",
+    "bytes": 40330,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0485",
+    "title": "金剛經如是解",
+    "path": "X/X25/X25n0485.xml",
+    "sha": "8cd93a89075cb41bca18109299ae10715630d827",
+    "bytes": 240693,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0486",
+    "title": "金剛經會解了義",
+    "path": "X/X25/X25n0486.xml",
+    "sha": "f4cf05c573118238e156c376ea72ab60b75f492f",
+    "bytes": 204886,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0487",
+    "title": "金剛新眼疏經偈合釋",
+    "path": "X/X25/X25n0487.xml",
+    "sha": "747745ce81c71f2ae5a6f3d9cc0651d784c207d7",
+    "bytes": 614488,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0488",
+    "title": "金剛經郢說",
+    "path": "X/X25/X25n0488.xml",
+    "sha": "6b517d59408b75ba3337d0c50b48ae7bbea3f9c2",
+    "bytes": 289540,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0489",
+    "title": "金剛經註正訛",
+    "path": "X/X25/X25n0489.xml",
+    "sha": "d5d5bc6a244548a48bc86944ae44de4a209e5739",
+    "bytes": 308903,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0490",
+    "title": "金剛經淺解",
+    "path": "X/X25/X25n0490.xml",
+    "sha": "a4d60d697e5378d6c35fc381494e15ef15dc8fd8",
+    "bytes": 195270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0491",
+    "title": "金剛經疏記科會",
+    "path": "X/X25/X25n0491.xml",
+    "sha": "591d28dfa63435739fb84b3a0517aa367bc35293",
+    "bytes": 1291976,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0492",
+    "title": "金剛經疏記會編",
+    "path": "X/X25/X25n0492.xml",
+    "sha": "fb1f6d251c0e0ee84e427fa7df1f27b4d1737abd",
+    "bytes": 133459,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0493",
+    "title": "金剛經部旨",
+    "path": "X/X25/X25n0493.xml",
+    "sha": "1aaf77a2130b676f69c47748ebbb135678bbe5e3",
+    "bytes": 219014,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0494",
+    "title": "金剛經註釋",
+    "path": "X/X25/X25n0494.xml",
+    "sha": "3f0b7b70670a262ff23848283bd26aff43cc5ca1",
+    "bytes": 269986,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0495",
+    "title": "金剛經演古",
+    "path": "X/X25/X25n0495.xml",
+    "sha": "1443c7c71dc8f3cd725ac2b5c3c6e6d630c4aa4a",
+    "bytes": 208153,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0496",
+    "title": "金剛經直說",
+    "path": "X/X25/X25n0496.xml",
+    "sha": "371f9b4346fc6f8e356fe664984bad5a7e47e4c9",
+    "bytes": 156639,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0497",
+    "title": "金剛經石注",
+    "path": "X/X25/X25n0497.xml",
+    "sha": "52f5030c38414fc55783a0b0f2fad22b16566f81",
+    "bytes": 292528,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0498",
+    "title": "金剛經正解",
+    "path": "X/X25/X25n0498.xml",
+    "sha": "5c8ea375553e67a7c9dbc7015036197194f4a86a",
+    "bytes": 220608,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0499",
+    "title": "金剛經法眼懸判疏鈔",
+    "path": "X/X25/X25n0499.xml",
+    "sha": "9cc709045011a0c12fa9c43835b512ab7e05f802",
+    "bytes": 355531,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0500",
+    "title": "金剛經法眼註疏",
+    "path": "X/X25/X25n0500.xml",
+    "sha": "947143fb94af2bd8eba0006661fa41ce879634fd",
+    "bytes": 259665,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0501",
+    "title": "金剛經如是經義",
+    "path": "X/X25/X25n0501.xml",
+    "sha": "4830f18af4ccd95c52a94e5644a16aed53447415",
+    "bytes": 238070,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0502",
+    "title": "金剛經註講",
+    "path": "X/X25/X25n0502.xml",
+    "sha": "52b39169d73e70b7b526c9042fc9a0255fc42dce",
+    "bytes": 432105,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0503",
+    "title": "金剛經注解",
+    "path": "X/X25/X25n0503.xml",
+    "sha": "498f4f473ad6f8c0f55f8fcc1ddb0d2061bcff0a",
+    "bytes": 182923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0504",
+    "title": "金剛經彙纂",
+    "path": "X/X25/X25n0504.xml",
+    "sha": "3c3597e383347827e5815173b6155bbc727ef380",
+    "bytes": 707200,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0505",
+    "title": "金剛經心印疏",
+    "path": "X/X25/X25n0505.xml",
+    "sha": "0b0ff706e7b70d93b2833425ed337a34db4cca8f",
+    "bytes": 481398,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0506",
+    "title": "金剛經注",
+    "path": "X/X25/X25n0506.xml",
+    "sha": "a8be6f55025a753c03af7144d3248a80b90c1541",
+    "bytes": 84931,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0507",
+    "title": "金剛經訂義",
+    "path": "X/X25/X25n0507.xml",
+    "sha": "b0a78c0a6b5a7b0fda6c5dff2afce1c60d59717e",
+    "bytes": 27230,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0508",
+    "title": "金剛經闡說",
+    "path": "X/X25/X25n0508.xml",
+    "sha": "82fa12434a9f06f73228ed7919c95476fe9b542d",
+    "bytes": 102880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0509",
+    "title": "金剛經解義",
+    "path": "X/X25/X25n0509.xml",
+    "sha": "0ce500e9a66807c572497a107b76c9799c5b84ef",
+    "bytes": 288717,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X25",
+    "id": "X25n0510",
+    "title": "金剛經易解",
+    "path": "X/X25/X25n0510.xml",
+    "sha": "7a9d2d578e9578cecc853eafbf623998d2a15067",
+    "bytes": 290309,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

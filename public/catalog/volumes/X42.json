@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X42",
+    "id": "X42n0733",
+    "title": "四分律疏飾宗義記",
+    "path": "X/X42/X42n0733.xml",
+    "sha": "8c6f6d377ff8a9e54ee84d249ff643955fafb11d",
+    "bytes": 4095147,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X42",
+    "id": "X42n0734",
+    "title": "四分律疏",
+    "path": "X/X42/X42n0734.xml",
+    "sha": "7dc21118941d3646186c161d817262daa4693ee5",
+    "bytes": 260177,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X42",
+    "id": "X42n0735",
+    "title": "四分律開宗記",
+    "path": "X/X42/X42n0735.xml",
+    "sha": "b9f91bb3ee311ec509e2ca8103e705598e07dbd7",
+    "bytes": 3168902,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X42",
+    "id": "X42n0736",
+    "title": "四分律行事鈔批",
+    "path": "X/X42/X42n0736.xml",
+    "sha": "87eac926f146bc392c244cb62981ebe7baf52456",
+    "bytes": 5409112,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

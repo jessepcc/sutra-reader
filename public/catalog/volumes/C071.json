@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "C",
+    "volume": "C071",
+    "id": "C071n1665",
+    "title": "菩薩名經",
+    "path": "C/C071/C071n1665.xml",
+    "sha": "89363b2d367631b49856a173f5316bcc2f44994e",
+    "bytes": 485471,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "C",
+    "volume": "C071",
+    "id": "C071n1666",
+    "title": "梵本大悲神咒",
+    "path": "C/C071/C071n1666.xml",
+    "sha": "0c3b36055b2e25856af0ec11c12b8939a63c2f98",
+    "bytes": 14543,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

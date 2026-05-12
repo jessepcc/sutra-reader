@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1071",
+    "title": "釋教最上乘秘密藏陀羅尼集",
+    "path": "F/F28/F28n1071.xml",
+    "sha": "418175a31a2a7f6b5833d5bff02076de0a639f5b",
+    "bytes": 4533565,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1072",
+    "title": "一切佛菩薩名集",
+    "path": "F/F28/F28n1072.xml",
+    "sha": "f54dc820207472f2f24b03ec69604af6da70c11c",
+    "bytes": 2521286,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1076",
+    "title": "發菩提心戒",
+    "path": "F/F28/F28n1076.xml",
+    "sha": "c1a825362b749a9f4ec2851574a6c5199cec2eba",
+    "bytes": 15920,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1081",
+    "title": "一乘法界圖合詩一印",
+    "path": "F/F28/F28n1081.xml",
+    "sha": "feff31e42f188904b9051e438a3fd64e61c29331",
+    "bytes": 6696,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1082",
+    "title": "釋華嚴漩澓偈",
+    "path": "F/F28/F28n1082.xml",
+    "sha": "65e43ecbe45cb0f9419dd5259e875c568d176f17",
+    "bytes": 4133,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1083",
+    "title": "漩澓偈",
+    "path": "F/F28/F28n1083.xml",
+    "sha": "bf6fd0ea5d4a814652ae255c6ff027d951af2d75",
+    "bytes": 9603,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "F",
+    "volume": "F28",
+    "id": "F28n1084",
+    "title": "健拏標訶一乘修行者秘密義記",
+    "path": "F/F28/F28n1084.xml",
+    "sha": "9f9424ed394246da13c63e2994ff0203d3cdf17a",
+    "bytes": 44294,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0069",
+    "title": "七系付法傳",
+    "path": "B/B11/B11n0069.xml",
+    "sha": "cba3103f00157041bf2b600cbb998853cf507ce1",
+    "bytes": 258793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0070",
+    "title": "安樂妙寶",
+    "path": "B/B11/B11n0070.xml",
+    "sha": "053081a1c10ea02d3846cef02586d3fb78d49392",
+    "bytes": 172931,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0071",
+    "title": "蓮華生大士應化史略",
+    "path": "B/B11/B11n0071.xml",
+    "sha": "153a3a2590ef556c04f2cd8da9bbf78310a60002",
+    "bytes": 192986,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0072",
+    "title": "阿底峽尊者傳",
+    "path": "B/B11/B11n0072.xml",
+    "sha": "b1335fa3e6fc8bca3d2328e5301ea744f019a5ec",
+    "bytes": 213408,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0073",
+    "title": "木納記",
+    "path": "B/B11/B11n0073.xml",
+    "sha": "acd2d361e47b96c5f757ebae2760679839ecd543",
+    "bytes": 646696,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0074",
+    "title": "宗喀巴大師傳",
+    "path": "B/B11/B11n0074.xml",
+    "sha": "656793cfb06b97459b7b462858164e81804aa54f",
+    "bytes": 201551,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0075",
+    "title": "西藏王臣護法記",
+    "path": "B/B11/B11n0075.xml",
+    "sha": "4d816874d20e80c3f4bf152d379c5a6484403d7d",
+    "bytes": 587329,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11n0076",
+    "title": "印度佛教史",
+    "path": "B/B11/B11n0076.xml",
+    "sha": "27dc2eec30b1dcc79cb5ae78314e33ac0b93b811",
+    "bytes": 303150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B11",
+    "id": "B11na009",
+    "title": "大藏經補編第十一冊．編輯說明",
+    "path": "B/B11/B11na009.xml",
+    "sha": "c96a2549c39e14ce20f9a38f9acf7e23a6a8fff9",
+    "bytes": 6513,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1464",
+    "title": "三時繫念佛事",
+    "path": "X/X74/X74n1464.xml",
+    "sha": "fbd2edebf28d3bb366d455f9bb00acbdfc57ddd1",
+    "bytes": 68895,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1465",
+    "title": "三時繫念儀範",
+    "path": "X/X74/X74n1465.xml",
+    "sha": "197a10ba4097eac7a3bcdcac2f83af632c46be9f",
+    "bytes": 129791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1466",
+    "title": "無量壽佛讚註",
+    "path": "X/X74/X74n1466.xml",
+    "sha": "481de34aeda1e4d9991d8d04ec7ed43bfbfdc884",
+    "bytes": 35468,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1467",
+    "title": "禮念彌陀道場懺法",
+    "path": "X/X74/X74n1467.xml",
+    "sha": "222c1d85d843bf0b877fc09df09faee1fbd21f2d",
+    "bytes": 726291,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1468",
+    "title": "西歸行儀",
+    "path": "X/X74/X74n1468.xml",
+    "sha": "6cfe4e906f566bead047a002b89162b418b8ac20",
+    "bytes": 75229,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1469",
+    "title": "華嚴經海印道場九會請佛儀",
+    "path": "X/X74/X74n1469.xml",
+    "sha": "eb3ea662e011c9b0903f4867b0779d75972ba1e9",
+    "bytes": 56117,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1470",
+    "title": "華嚴經海印道場懺儀",
+    "path": "X/X74/X74n1470.xml",
+    "sha": "027e0ae9777f7302c79552047a0f17317ec3b27c",
+    "bytes": 2383022,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1471",
+    "title": "華嚴清涼國師禮讚文",
+    "path": "X/X74/X74n1471.xml",
+    "sha": "f18b727dd7b6e32af623df774e168c91bbf0f6d9",
+    "bytes": 37382,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1472",
+    "title": "華嚴普賢行願修證儀",
+    "path": "X/X74/X74n1472.xml",
+    "sha": "29370ed5362de763278b38914817ea47ede22528",
+    "bytes": 81323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1473",
+    "title": "華嚴普賢行願修證儀",
+    "path": "X/X74/X74n1473.xml",
+    "sha": "02d0f00e3ac4e5780315819b0b32e0d279f616fa",
+    "bytes": 52743,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1474",
+    "title": "華嚴道場起止大略",
+    "path": "X/X74/X74n1474.xml",
+    "sha": "53ea7b9c1a7fa3bc309ce2839cb8cf852679f82e",
+    "bytes": 10793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1475",
+    "title": "圓覺經道場修證儀",
+    "path": "X/X74/X74n1475.xml",
+    "sha": "43a7fac8fbc4fd334cdf8bc2ff6506228710082a",
+    "bytes": 1857588,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1476",
+    "title": "圓覺經道場略本修證儀",
+    "path": "X/X74/X74n1476.xml",
+    "sha": "953699c5faffc84ce2b9f944d557ff967b1f657e",
+    "bytes": 52845,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1477",
+    "title": "首楞嚴壇場修證儀",
+    "path": "X/X74/X74n1477.xml",
+    "sha": "0eca2d811195b8226c9018150ab4a8530c06b80f",
+    "bytes": 55546,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1478",
+    "title": "依楞嚴究竟事懺",
+    "path": "X/X74/X74n1478.xml",
+    "sha": "70e71e9ae6d22f4d670554060c93e8cfaa4a0705",
+    "bytes": 218829,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1479",
+    "title": "佛母孔雀尊經科式",
+    "path": "X/X74/X74n1479.xml",
+    "sha": "5a4c78bbd7439076794f545af314cc49a9e6a1d1",
+    "bytes": 47644,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1480",
+    "title": "千手千眼大悲心咒行法",
+    "path": "X/X74/X74n1480.xml",
+    "sha": "8afcfd32eb68f85f7496654d183c66bf66b6765e",
+    "bytes": 55733,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1481",
+    "title": "准提三昧行法",
+    "path": "X/X74/X74n1481.xml",
+    "sha": "932dfb4802a6a766ec082a25b85bf1e961d86347",
+    "bytes": 132210,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1482",
+    "title": "准提焚修悉地懺悔玄文",
+    "path": "X/X74/X74n1482.xml",
+    "sha": "e5df758a003dc75516abca1dde14fe362a7ba55e",
+    "bytes": 84714,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1483",
+    "title": "藥師三昧行法",
+    "path": "X/X74/X74n1483.xml",
+    "sha": "82d2273b33770447568a5f4db9738b6697d13cee",
+    "bytes": 94121,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1484",
+    "title": "慈悲藥師寶懺",
+    "path": "X/X74/X74n1484.xml",
+    "sha": "3a5c56550f34af69f7c8635968c622180ffd1e8f",
+    "bytes": 81244,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1485",
+    "title": "占察善惡業報經行法",
+    "path": "X/X74/X74n1485.xml",
+    "sha": "d74734db78ceb9e3c2a452b6a4097a38494aa417",
+    "bytes": 80117,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1486",
+    "title": "讚禮地藏菩薩懺願儀",
+    "path": "X/X74/X74n1486.xml",
+    "sha": "564c2ac9852f73e6fb1399ef49a5a685e27d301e",
+    "bytes": 37661,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1487",
+    "title": "慈悲地藏菩薩懺法",
+    "path": "X/X74/X74n1487.xml",
+    "sha": "70dbe7dc8a34a277bb4e9f1d5f47fa15fb0c630e",
+    "bytes": 145022,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1488",
+    "title": "得遇龍華修證懺儀",
+    "path": "X/X74/X74n1488.xml",
+    "sha": "791ef7b7c70d8b839be25960a1e1434e241084bb",
+    "bytes": 242523,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1489",
+    "title": "吳中石佛相好懺儀",
+    "path": "X/X74/X74n1489.xml",
+    "sha": "ffcd705508950b3efab89fb7b2fbb46f435d0095",
+    "bytes": 26809,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1490",
+    "title": "舍利懺法",
+    "path": "X/X74/X74n1490.xml",
+    "sha": "6119701d45b61aed0567e1fc76eacb03f4ed9b9b",
+    "bytes": 67924,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1491",
+    "title": "禮舍利塔儀式",
+    "path": "X/X74/X74n1491.xml",
+    "sha": "68001c792bf703a03fd08fab5221533a46b6a923",
+    "bytes": 84004,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1492",
+    "title": "禮佛儀式",
+    "path": "X/X74/X74n1492.xml",
+    "sha": "4839ae3cb43d2cb2a96cbb34bc0e2c2ef3d70709",
+    "bytes": 42732,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1493",
+    "title": "供諸天科儀",
+    "path": "X/X74/X74n1493.xml",
+    "sha": "8db4cb736f7ed06eaa203af58c99e055d5ee7587",
+    "bytes": 86464,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1494",
+    "title": "金剛經科儀",
+    "path": "X/X74/X74n1494.xml",
+    "sha": "feb01caf6aef1076caf7aeb4a73ce094387bbda4",
+    "bytes": 176797,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1495",
+    "title": "慈悲道場水懺法隨聞錄",
+    "path": "X/X74/X74n1495.xml",
+    "sha": "b333bb96089ea40ee4f9776980225410c95dc998",
+    "bytes": 831461,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1496",
+    "title": "慈悲道場水懺法科註",
+    "path": "X/X74/X74n1496.xml",
+    "sha": "217ff989300f7439b4127a8c6fa3f9e92d3306d4",
+    "bytes": 723836,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1497",
+    "title": "法界聖凡水陸勝會修齋儀軌",
+    "path": "X/X74/X74n1497.xml",
+    "sha": "64fddee722cc65c0f0ceb36a0c40d03972622dcb",
+    "bytes": 470685,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1498",
+    "title": "法界聖凡水陸大齋普利道場性相通論",
+    "path": "X/X74/X74n1498.xml",
+    "sha": "15e26d5bf6495ad95d4e1970da57121bbc8527ef",
+    "bytes": 499286,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1499",
+    "title": "法界聖凡水陸大齋法輪寶懺",
+    "path": "X/X74/X74n1499.xml",
+    "sha": "c109e12a19c04d714144b628cca4fc35edd9d115",
+    "bytes": 2180819,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1500",
+    "title": "蘭盆獻供儀",
+    "path": "X/X74/X74n1500.xml",
+    "sha": "e0bb235c1120b50543eef8897bc1ead2541e4339",
+    "bytes": 21742,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1501",
+    "title": "釋迦如來降生禮讚文",
+    "path": "X/X74/X74n1501.xml",
+    "sha": "888be1551b3a3332238ef68f0483ad757c65305a",
+    "bytes": 22111,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1504",
+    "title": "南山祖師禮讚文",
+    "path": "X/X74/X74n1504.xml",
+    "sha": "bd3d31b380ef48d41d22743b38babb7bc1c63b10",
+    "bytes": 19661,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1505",
+    "title": "南山祖師禮讚文",
+    "path": "X/X74/X74n1505.xml",
+    "sha": "4fed2b7d5d3349ae16cccf8f4b81f4cb150ed46f",
+    "bytes": 18891,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1506",
+    "title": "南山祖師禮讚文",
+    "path": "X/X74/X74n1506.xml",
+    "sha": "47391226ff1b668ff078bff306cfb7bd15cc641c",
+    "bytes": 20159,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X74",
+    "id": "X74n1507",
+    "title": "大智律師禮讚文",
+    "path": "X/X74/X74n1507.xml",
+    "sha": "a7935f15fdaba53858a484066177b162fbf6d49a",
+    "bytes": 21847,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

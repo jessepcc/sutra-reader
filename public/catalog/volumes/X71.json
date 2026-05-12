@@ -1,0 +1,232 @@
+[
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1404",
+    "title": "兀菴普寧禪師語錄",
+    "path": "X/X71/X71n1404.xml",
+    "sha": "b560f71d502b3fca15f929a9e7213fde69a5e924",
+    "bytes": 239726,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1405",
+    "title": "石溪心月禪師語錄",
+    "path": "X/X71/X71n1405.xml",
+    "sha": "546394f7416cf1778bb23b6e46aeca3ae1ef9f12",
+    "bytes": 553093,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1406",
+    "title": "石溪心月禪師雜錄",
+    "path": "X/X71/X71n1406.xml",
+    "sha": "ea3c5a0d323ff34d6a3557410e6d9d8592a5cf97",
+    "bytes": 96597,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1407",
+    "title": "虛舟普度禪師語錄",
+    "path": "X/X71/X71n1407.xml",
+    "sha": "cc599b8e36e9189a1c06cc0e5de19e99bf8e2f98",
+    "bytes": 175546,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1408",
+    "title": "即休契了禪師拾遺集",
+    "path": "X/X71/X71n1408.xml",
+    "sha": "30fefcc13b7b654fa6d0004c5c621f9cc578bc15",
+    "bytes": 148917,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1409",
+    "title": "月江正印禪師語錄",
+    "path": "X/X71/X71n1409.xml",
+    "sha": "1c8c002cf9cd97d145af3f3a70aaec91426f2b0c",
+    "bytes": 539439,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1410",
+    "title": "曇芳守忠禪師語錄",
+    "path": "X/X71/X71n1410.xml",
+    "sha": "aebee7fdfe362c1d4c19ac61c57088e1f69c551f",
+    "bytes": 226501,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1411",
+    "title": "橫川行珙禪師語錄",
+    "path": "X/X71/X71n1411.xml",
+    "sha": "62cc0f505e013f73ee475330c4ac3f58bedda873",
+    "bytes": 279791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1412",
+    "title": "古林清茂禪師語錄",
+    "path": "X/X71/X71n1412.xml",
+    "sha": "7db011332f6b624b69a7741a7878f0fb9c81451d",
+    "bytes": 644902,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1413",
+    "title": "古林清茂禪師拾遺偈頌",
+    "path": "X/X71/X71n1413.xml",
+    "sha": "0bbfc7e1cc0f36dd5783e3640f751d899ef77840",
+    "bytes": 291749,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1414",
+    "title": "了菴清欲禪師語錄",
+    "path": "X/X71/X71n1414.xml",
+    "sha": "bcff9edc72117cf4ad3514e13f2864feca2c3acd",
+    "bytes": 1109215,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1415",
+    "title": "穆菴文康禪師語錄",
+    "path": "X/X71/X71n1415.xml",
+    "sha": "822d0d7843bbb2a63dbf6f8d1cfeffb46428ea3f",
+    "bytes": 64736,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1416",
+    "title": "恕中無慍禪師語錄",
+    "path": "X/X71/X71n1416.xml",
+    "sha": "0f6059a359e81fec51652bcfb22d29435eb1415d",
+    "bytes": 453715,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1417",
+    "title": "了堂惟一禪師語錄",
+    "path": "X/X71/X71n1417.xml",
+    "sha": "defeff917e4e88cbdb7678ae8d2909aeec129ed2",
+    "bytes": 446717,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1418",
+    "title": "呆菴普莊禪師語錄",
+    "path": "X/X71/X71n1418.xml",
+    "sha": "0d57c29a35cdc376ec1702b994e2989e9d5f3b32",
+    "bytes": 292785,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1419",
+    "title": "元叟行端禪師語錄",
+    "path": "X/X71/X71n1419.xml",
+    "sha": "19ce59e19842da60c40bafb97d3df79e2978c19b",
+    "bytes": 391833,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1420",
+    "title": "楚石梵琦禪師語錄",
+    "path": "X/X71/X71n1420.xml",
+    "sha": "9d6c02e56a40e4dc4b0617cd834065c6ca42f638",
+    "bytes": 1211873,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1421",
+    "title": "愚菴智及禪師語錄",
+    "path": "X/X71/X71n1421.xml",
+    "sha": "b83d1318f38fb882b29c66f2ac06e49f96670b45",
+    "bytes": 408859,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1422",
+    "title": "南石文琇禪師語錄",
+    "path": "X/X71/X71n1422.xml",
+    "sha": "e2778f9197e306ab8491ed6d956ecf8af246aec4",
+    "bytes": 375372,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1423",
+    "title": "投子義青禪師語錄",
+    "path": "X/X71/X71n1423.xml",
+    "sha": "605754f3fff7dc23fe9872b77e0ac0f41dc35fdd",
+    "bytes": 214722,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1424",
+    "title": "投子義青禪師語錄",
+    "path": "X/X71/X71n1424.xml",
+    "sha": "cb719e325ac7bf1da376add06acadb2c869034e1",
+    "bytes": 38996,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1425",
+    "title": "丹霞子淳禪師語錄",
+    "path": "X/X71/X71n1425.xml",
+    "sha": "753cff6e58e84d43e57db704ef6b16b3be89a622",
+    "bytes": 150732,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X71",
+    "id": "X71n1426",
+    "title": "真歇清了禪師語錄",
+    "path": "X/X71/X71n1426.xml",
+    "sha": "5285073cda9784b5c2330d7f5625f0de5b8cc5c3",
+    "bytes": 205718,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

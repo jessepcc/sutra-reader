@@ -1,0 +1,172 @@
+[
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1595",
+    "title": "佛祖正傳古今捷錄",
+    "path": "X/X86/X86n1595.xml",
+    "sha": "71b8eb316b0e8568b8545e010fcf99eee1dc0d07",
+    "bytes": 133641,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1596",
+    "title": "南嶽單傳記",
+    "path": "X/X86/X86n1596.xml",
+    "sha": "32a66b2f294d302719fac1fcd2ac8a2b5e2cb6a7",
+    "bytes": 343085,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1597",
+    "title": "定應大師布袋和尚傳",
+    "path": "X/X86/X86n1597.xml",
+    "sha": "2957c75f0b5fcb97075e8f5128cf6f971f104cad",
+    "bytes": 70496,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1598",
+    "title": "曹溪大師別傳",
+    "path": "X/X86/X86n1598.xml",
+    "sha": "4f383b8afc5c762dddfe2f30c577e4674065d193",
+    "bytes": 65357,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1599",
+    "title": "永明道蹟",
+    "path": "X/X86/X86n1599.xml",
+    "sha": "9d99700555189e05ca8adca375d5d0abea50751a",
+    "bytes": 71875,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1600",
+    "title": "宗統編年",
+    "path": "X/X86/X86n1600.xml",
+    "sha": "627792b86db3da81551028119a8721f9e9fa7f67",
+    "bytes": 2698693,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1601",
+    "title": "禪燈世譜",
+    "path": "X/X86/X86n1601.xml",
+    "sha": "fa2cc3bc870ca6f5c7f4ccae79efca55c495e5e2",
+    "bytes": 794669,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1602",
+    "title": "佛祖宗派世譜",
+    "path": "X/X86/X86n1602.xml",
+    "sha": "76cd42a836f992c3a13e232acde1ced97346f670",
+    "bytes": 54665,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1603",
+    "title": "緇門世譜",
+    "path": "X/X86/X86n1603.xml",
+    "sha": "2d9c9553637406bc7c7d3bd7d32b35ea62a3815d",
+    "bytes": 41922,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1604",
+    "title": "法門鋤宄",
+    "path": "X/X86/X86n1604.xml",
+    "sha": "926b9d1050c8931ba550bcbb245f53e26cba8b2f",
+    "bytes": 111965,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1605",
+    "title": "繼燈錄",
+    "path": "X/X86/X86n1605.xml",
+    "sha": "35f378e33998738887bdce821fca514214f518a5",
+    "bytes": 626724,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1606",
+    "title": "建州弘釋錄",
+    "path": "X/X86/X86n1606.xml",
+    "sha": "60a1034d029dc9f7e035c5888442c4c80b254c95",
+    "bytes": 244950,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1607",
+    "title": "居士分燈錄",
+    "path": "X/X86/X86n1607.xml",
+    "sha": "9f0d9267c306bde305f8e4c826c7097e9fceebcc",
+    "bytes": 488045,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1608",
+    "title": "八十八祖道影傳贊",
+    "path": "X/X86/X86n1608.xml",
+    "sha": "d32461229afa83b34e16b0ae42e51a065892e151",
+    "bytes": 414387,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1609",
+    "title": "普陀列祖錄",
+    "path": "X/X86/X86n1609.xml",
+    "sha": "e5776c014aa491519604b2c744e06d57defebbc0",
+    "bytes": 76706,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1610",
+    "title": "雲臥紀譚",
+    "path": "X/X86/X86n1610.xml",
+    "sha": "c9652860f93e05ee92b5cbf1e9b4cb6c9bdfe1f6",
+    "bytes": 283240,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X86",
+    "id": "X86n1611",
+    "title": "叢林盛事",
+    "path": "X/X86/X86n1611.xml",
+    "sha": "409c24a1c2b60d934fa162234a816c7b8c4d93a3",
+    "bytes": 263761,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1736",
+    "title": "大方廣佛華嚴經隨疏演義鈔",
+    "path": "T/T36/T36n1736.xml",
+    "sha": "59d7bfeb9a3207d08cc3b1c0683abd93fbfbac3d",
+    "bytes": 11478219,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1737",
+    "title": "大華嚴經略策",
+    "path": "T/T36/T36n1737.xml",
+    "sha": "c925a8f72b937e4e084ff81f430f74d5ba0e050d",
+    "bytes": 92759,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1738",
+    "title": "新譯華嚴經七處九會頌釋章",
+    "path": "T/T36/T36n1738.xml",
+    "sha": "e079e6d8b49678b2d95f75ba1785ff516722da23",
+    "bytes": 79276,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1739",
+    "title": "新華嚴經論",
+    "path": "T/T36/T36n1739.xml",
+    "sha": "70f6879bf8d0c7e8937d9a3e91c36e92c5a18b05",
+    "bytes": 2197803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1740",
+    "title": "大方廣佛華嚴經中卷卷大意略敘",
+    "path": "T/T36/T36n1740.xml",
+    "sha": "0af08b85c72267e2a83c808c20e86101ec363f8e",
+    "bytes": 32591,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1741",
+    "title": "略釋新華嚴經修行次第決疑論",
+    "path": "T/T36/T36n1741.xml",
+    "sha": "bd1f2dc1151f6c6d1322eabb9dfee2eb60601350",
+    "bytes": 297476,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1742",
+    "title": "大方廣佛華嚴經願行觀門骨目",
+    "path": "T/T36/T36n1742.xml",
+    "sha": "2a0eadf1da007af4edbe0cee3a2f8ff462eeebb0",
+    "bytes": 316304,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T36",
+    "id": "T36n1743",
+    "title": "皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部",
+    "path": "T/T36/T36n1743.xml",
+    "sha": "e5b73f2deff4162e784f4fdae292ad8060b3cc53",
+    "bytes": 26406,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

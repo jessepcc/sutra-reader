@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "L",
+    "volume": "L164",
+    "id": "L164n1668",
+    "title": "御錄宗鏡大綱",
+    "path": "L/L164/L164n1668.xml",
+    "sha": "e882b48009401fd4d43d9c4219d1ea9a0a656b01",
+    "bytes": 878382,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "L",
+    "volume": "L164",
+    "id": "L164n1669",
+    "title": "御錄經海一滴",
+    "path": "L/L164/L164n1669.xml",
+    "sha": "87a1b0580206ef2bce854ed595a33315cea3d886",
+    "bytes": 1230772,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

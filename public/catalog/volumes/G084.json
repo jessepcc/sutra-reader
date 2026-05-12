@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "G",
+    "volume": "G084",
+    "id": "G084n2084",
+    "title": "坐禪箴",
+    "path": "G/G084/G084n2084.xml",
+    "sha": "640b732dd73d3f0c05054e0bf3af7e0618f69eca",
+    "bytes": 3570,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G084",
+    "id": "G084n2086",
+    "title": "三根坐禪說",
+    "path": "G/G084/G084n2086.xml",
+    "sha": "3a16eb142b21b120bf13de3071cb1ed43a29cf9e",
+    "bytes": 5334,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

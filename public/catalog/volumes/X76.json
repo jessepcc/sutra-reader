@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "X",
+    "volume": "X76",
+    "id": "X76n1516",
+    "title": "釋氏通鑑",
+    "path": "X/X76/X76n1516.xml",
+    "sha": "65de44589425db8550ec221d648640605280dcc5",
+    "bytes": 1623125,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X76",
+    "id": "X76n1517",
+    "title": "歷朝釋氏資鑑",
+    "path": "X/X76/X76n1517.xml",
+    "sha": "d0fb08e876c0119f0fa0a6272c2c603e770e9aad",
+    "bytes": 1392208,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

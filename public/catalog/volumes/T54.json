@@ -1,0 +1,242 @@
+[
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2123",
+    "title": "諸經要集",
+    "path": "T/T54/T54n2123.xml",
+    "sha": "ef7215e986940e9c909ff2713eb0d9123ea97b60",
+    "bytes": 3414790,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2124",
+    "title": "法門名義集",
+    "path": "T/T54/T54n2124.xml",
+    "sha": "759d1ce5649ef2ffca7a49973736f0b8f3b7b165",
+    "bytes": 99263,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2125",
+    "title": "南海寄歸內法傳",
+    "path": "T/T54/T54n2125.xml",
+    "sha": "8045400bcc7501560393f637f14158a2fc414317",
+    "bytes": 666551,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2126",
+    "title": "大宋僧史略",
+    "path": "T/T54/T54n2126.xml",
+    "sha": "42b6c62be31d2bef437aa3cb0db96c06ce96f734",
+    "bytes": 224881,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2127",
+    "title": "釋氏要覽",
+    "path": "T/T54/T54n2127.xml",
+    "sha": "34a37fecc7d8d058c529efebd50b680a4d26dd56",
+    "bytes": 497805,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2128",
+    "title": "一切經音義",
+    "path": "T/T54/T54n2128.xml",
+    "sha": "08f885440eff2158417e5064623e62b211174989",
+    "bytes": 11543539,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2129",
+    "title": "續一切經音義",
+    "path": "T/T54/T54n2129.xml",
+    "sha": "f81adb1d9a8d2ed364ea65bf1d6ad75574d2a20d",
+    "bytes": 1094265,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2130",
+    "title": "翻梵語",
+    "path": "T/T54/T54n2130.xml",
+    "sha": "ed0523a6d939b6fa8436cf49490baedf4d12cc6d",
+    "bytes": 1226985,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2131",
+    "title": "翻譯名義集",
+    "path": "T/T54/T54n2131.xml",
+    "sha": "83f97721b45c6113be05da9e9e3c8b93a358265c",
+    "bytes": 2204673,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2132",
+    "title": "悉曇字記",
+    "path": "T/T54/T54n2132.xml",
+    "sha": "4fdf9454a49cf5b3cc28c404ba259c290ea97070",
+    "bytes": 250360,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2133A",
+    "title": "梵語千字文",
+    "path": "T/T54/T54n2133A.xml",
+    "sha": "fe94e2490e50ad51daef6cd0672af74563c22c95",
+    "bytes": 566564,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2133B",
+    "title": "梵語千字文",
+    "path": "T/T54/T54n2133B.xml",
+    "sha": "f3cf960088b1187993e51261403a6e2f49f3a111",
+    "bytes": 766384,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2134",
+    "title": "唐梵文字",
+    "path": "T/T54/T54n2134.xml",
+    "sha": "b3784116c9d3923fc6f1238809f16f5d063647e5",
+    "bytes": 595995,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2135",
+    "title": "梵語雜名",
+    "path": "T/T54/T54n2135.xml",
+    "sha": "a069b37280bad48f4f8d128c1ebfa66259dde58c",
+    "bytes": 1205305,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2136",
+    "title": "唐梵兩語雙對集",
+    "path": "T/T54/T54n2136.xml",
+    "sha": "285b3c0db643b67714615fab125d1c71d0522131",
+    "bytes": 72493,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2137",
+    "title": "金七十論",
+    "path": "T/T54/T54n2137.xml",
+    "sha": "3773bb1a2e821963da772ea1086b9ef3c09a6f77",
+    "bytes": 371726,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2138",
+    "title": "勝宗十句義論",
+    "path": "T/T54/T54n2138.xml",
+    "sha": "02de70ecc9fdbd91afd79d6ddd8094c4070fb6d5",
+    "bytes": 40351,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2139",
+    "title": "老子化胡經",
+    "path": "T/T54/T54n2139.xml",
+    "sha": "529ef7f06f2d08648e85e7c03379d7d0efef07ae",
+    "bytes": 40132,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2140",
+    "title": "摩尼教下部讚",
+    "path": "T/T54/T54n2140.xml",
+    "sha": "207d7bf365a031edd5b5799ce76442b2b68934a3",
+    "bytes": 87234,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2141A",
+    "title": "摩尼光佛教法儀略",
+    "path": "T/T54/T54n2141A.xml",
+    "sha": "804ea0eb55316ff8566bee87580ec0bea64114f6",
+    "bytes": 13890,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2141B",
+    "title": "波斯教殘經",
+    "path": "T/T54/T54n2141B.xml",
+    "sha": "1ede04cedf8116180073bb16162feac626faed98",
+    "bytes": 49331,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2142",
+    "title": "序聽迷詩所經",
+    "path": "T/T54/T54n2142.xml",
+    "sha": "9a7502d1128c234a07a0fc128874c891b28ba409",
+    "bytes": 20136,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2143",
+    "title": "景教三威蒙度讚",
+    "path": "T/T54/T54n2143.xml",
+    "sha": "c9895db83bf72be52b6b1220575576c6ff67312c",
+    "bytes": 8550,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T54",
+    "id": "T54n2144",
+    "title": "大秦景教流行中國碑頌",
+    "path": "T/T54/T54n2144.xml",
+    "sha": "22c4c0c4be49dae3d5b5009fef8171f4ef740571",
+    "bytes": 17434,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

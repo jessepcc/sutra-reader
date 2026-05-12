@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1546",
+    "title": "阿毘曇毘婆沙論",
+    "path": "T/T28/T28n1546.xml",
+    "sha": "5ddb0a22cb320ee68cb231f68280255772054872",
+    "bytes": 5304522,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1547",
+    "title": "鞞婆沙論",
+    "path": "T/T28/T28n1547.xml",
+    "sha": "2903b6c883fc0b25454eec5c465ad95b554ab5fd",
+    "bytes": 1608479,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1548",
+    "title": "舍利弗阿毘曇論",
+    "path": "T/T28/T28n1548.xml",
+    "sha": "fc4a1cee4fe0fe966c6db254f23cd191a2146268",
+    "bytes": 3009695,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1549",
+    "title": "尊婆須蜜菩薩所集論",
+    "path": "T/T28/T28n1549.xml",
+    "sha": "e1dbc0f37f641cdfb48c203c0289ddcf365f25e5",
+    "bytes": 1503877,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1550",
+    "title": "阿毘曇心論",
+    "path": "T/T28/T28n1550.xml",
+    "sha": "c82d801369b1fff658556e0ce688651793b74dd9",
+    "bytes": 364349,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1551",
+    "title": "阿毘曇心論經",
+    "path": "T/T28/T28n1551.xml",
+    "sha": "a1919212187023cf2b4d3b9401346fd8d5dfd29c",
+    "bytes": 479794,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1552",
+    "title": "雜阿毘曇心論",
+    "path": "T/T28/T28n1552.xml",
+    "sha": "37599b0237be7085cc975ea740be70d23a8b388e",
+    "bytes": 1625230,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1553",
+    "title": "阿毘曇甘露味論",
+    "path": "T/T28/T28n1553.xml",
+    "sha": "48be21a064e821de03527768ba84b8135f7bfe09",
+    "bytes": 234506,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1554",
+    "title": "入阿毘達磨論",
+    "path": "T/T28/T28n1554.xml",
+    "sha": "1654c1f7e5e15cad8bbc43a0f5c2f1ab17a78347",
+    "bytes": 139235,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1555",
+    "title": "五事毘婆沙論",
+    "path": "T/T28/T28n1555.xml",
+    "sha": "1657145ac027622bd8f4f989e19b53f11f8e76da",
+    "bytes": 92398,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1556",
+    "title": "薩婆多宗五事論",
+    "path": "T/T28/T28n1556.xml",
+    "sha": "8ce6d86c26a84801d5100e2aca1c955d9cf46559",
+    "bytes": 26259,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T28",
+    "id": "T28n1557",
+    "title": "阿毘曇五法行經",
+    "path": "T/T28/T28n1557.xml",
+    "sha": "07a8a9d49e21c8663302cdae1c9b2135209f0973",
+    "bytes": 59349,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

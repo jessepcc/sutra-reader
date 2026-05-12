@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X80",
+    "id": "X80n1564",
+    "title": "五燈會元目錄",
+    "path": "X/X80/X80n1564.xml",
+    "sha": "f80a815b3c0bc78026e0c0b2a869cdc72a7bd616",
+    "bytes": 193969,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X80",
+    "id": "X80n1565",
+    "title": "五燈會元",
+    "path": "X/X80/X80n1565.xml",
+    "sha": "d911e3d158a9c046e86e86d727a47e56843793b4",
+    "bytes": 4771517,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X80",
+    "id": "X80n1566",
+    "title": "五燈會元續略",
+    "path": "X/X80/X80n1566.xml",
+    "sha": "06f9639259a33b0032af2a423f29c66e678e9e75",
+    "bytes": 1100728,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X80",
+    "id": "X80n1567",
+    "title": "五燈嚴統目錄",
+    "path": "X/X80/X80n1567.xml",
+    "sha": "fa4ce8e19322ceacfc8d7634891fc917c5b8bb46",
+    "bytes": 306339,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X80",
+    "id": "X80n1568",
+    "title": "五燈嚴統(第1卷-第9卷)",
+    "path": "X/X80/X80n1568.xml",
+    "sha": "bbe699d0a5d3855b6d34ba7f45f4d39e1208d6c3",
+    "bytes": 1872270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

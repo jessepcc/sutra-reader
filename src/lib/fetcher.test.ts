@@ -32,9 +32,10 @@ describe("loadText", () => {
     const fetcher = mockFetch(SAMPLE_XML);
     const result = await loadText(entry, { fetcher });
     expect(result.fromCache).toBe(false);
+    expect(result.stale).toBe(false);
     expect(result.rendered.juans).toHaveLength(1);
     expect(fetcher).toHaveBeenCalledWith(
-      "https://cdn.jsdelivr.net/gh/cbeta-org/xml-p5@deadbeef/T/T01/T01n0001_001.xml",
+      "https://raw.githubusercontent.com/cbeta-org/xml-p5/deadbeef/T/T01/T01n0001_001.xml",
     );
     const cached = await getStoredText(entry.id);
     expect(cached?.xml).toBe(SAMPLE_XML);
@@ -73,6 +74,50 @@ describe("loadText", () => {
   it("throws a meaningful error on network failure", async () => {
     const fetcher = mockFetch("oops", false);
     await expect(loadText(entry, { fetcher })).rejects.toThrow(/Failed to fetch/);
+  });
+
+  it("serves stale cached XML when refresh fails", async () => {
+    await putStoredText({
+      textId: entry.id,
+      path: entry.path,
+      sha: "OLD-SHA",
+      xml: SAMPLE_XML,
+      htmlFragments: [],
+      lastAccessed: 1,
+      bytes: 10,
+      staleSha: entry.sha,
+    });
+    const fetcher = mockFetch("offline", false);
+    const result = await loadText(entry, { fetcher });
+    expect(result.fromCache).toBe(true);
+    expect(result.stale).toBe(true);
+    expect(result.xml).toBe(SAMPLE_XML);
+  });
+
+  it("refreshes stale cached XML from the manifest commit", async () => {
+    await putStoredText({
+      textId: entry.id,
+      path: entry.path,
+      sha: entry.sha,
+      sourceSha: "old-commit",
+      xml: "<TEI/>",
+      htmlFragments: [],
+      lastAccessed: 1,
+      bytes: 10,
+      staleSha: "new-blob",
+      staleSourceSha: "new-commit",
+      staleBytes: 99,
+    });
+    const fetcher = mockFetch(SAMPLE_XML);
+    const result = await loadText(entry, { fetcher });
+    expect(result.fromCache).toBe(false);
+    expect(fetcher).toHaveBeenCalledWith(
+      "https://raw.githubusercontent.com/cbeta-org/xml-p5/new-commit/T/T01/T01n0001_001.xml",
+    );
+    const cached = await getStoredText(entry.id);
+    expect(cached?.sha).toBe("new-blob");
+    expect(cached?.sourceSha).toBe("new-commit");
+    expect(cached?.staleSha).toBeUndefined();
   });
 
   it("evicts to honor the cache cap after writing", async () => {

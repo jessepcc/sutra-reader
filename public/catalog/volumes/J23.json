@@ -1,0 +1,92 @@
+[
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB118",
+    "title": "密藏開禪師遺稿",
+    "path": "J/J23/J23nB118.xml",
+    "sha": "390691ee2e01fd547a10c25c08eab37ddddc30ad",
+    "bytes": 466483,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB120",
+    "title": "闢邪集",
+    "path": "J/J23/J23nB120.xml",
+    "sha": "58fbae5ddf0322b87dff873d4c1d5327e31df427",
+    "bytes": 51923,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB122",
+    "title": "醒世錄",
+    "path": "J/J23/J23nB122.xml",
+    "sha": "173b047dc18faf07978c54325cd2aa2b284533d4",
+    "bytes": 1018445,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB125",
+    "title": "先覺宗乘（選錄「帝王問道錄」）",
+    "path": "J/J23/J23nB125.xml",
+    "sha": "4bc685ce6af826f5862f1fdb0a860672338813d1",
+    "bytes": 55894,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB127",
+    "title": "無依道人錄",
+    "path": "J/J23/J23nB127.xml",
+    "sha": "a21767602e758194d6dd448871ee5b94bb31f472",
+    "bytes": 110179,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB128",
+    "title": "普明禪師牧牛圖頌",
+    "path": "J/J23/J23nB128.xml",
+    "sha": "4249a1dece54b3c90638fa00d1f77714a2dc6b63",
+    "bytes": 87000,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB129",
+    "title": "牧牛圖頌",
+    "path": "J/J23/J23nB129.xml",
+    "sha": "679fcbb1cfbc1c5963a9aea9211ac337edc9cf20",
+    "bytes": 82682,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB134",
+    "title": "五家語錄（選錄）",
+    "path": "J/J23/J23nB134.xml",
+    "sha": "b712c30a468d78e7d0ac76db0744c68ecbe56437",
+    "bytes": 407215,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J23",
+    "id": "J23nB135",
+    "title": "石門文字禪",
+    "path": "J/J23/J23nB135.xml",
+    "sha": "d24b1a62e9d2da583961a65649d3e3c31b1dfd4f",
+    "bytes": 1758447,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "G",
+    "volume": "G083",
+    "id": "G083n2073",
+    "title": "大明太宗文皇帝御製文殊讚",
+    "path": "G/G083/G083n2073.xml",
+    "sha": "03f46500deb075f109d8ceceecb4519cf9913889",
+    "bytes": 5189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G083",
+    "id": "G083n2075",
+    "title": "御製釋迦牟尼佛讚",
+    "path": "G/G083/G083n2075.xml",
+    "sha": "8295e6718a56b8a04f1e6a2e125b46e661941fd2",
+    "bytes": 5189,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

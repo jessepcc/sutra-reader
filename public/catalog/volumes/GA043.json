@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA043",
+    "id": "GA043n0043",
+    "title": "寒山寺志",
+    "path": "GA/GA043/GA043n0043.xml",
+    "sha": "ed617d0540e60ca654a92d23116f0305bb40de3e",
+    "bytes": 383618,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA043",
+    "id": "GA043n0044",
+    "title": "鹿泉寺志",
+    "path": "GA/GA043/GA043n0044.xml",
+    "sha": "42f25ea1e251788f27965a0f08a4507d63f1efc9",
+    "bytes": 77532,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA043",
+    "id": "GA043n0045",
+    "title": "鶴林寺志（京口三山全志）",
+    "path": "GA/GA043/GA043n0045.xml",
+    "sha": "bbfb6015cb54cfa6ee4f46a916049a63b052f5f2",
+    "bytes": 120736,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA043",
+    "id": "GA043n0046",
+    "title": "鶴林寺志（釋明賢本）",
+    "path": "GA/GA043/GA043n0046.xml",
+    "sha": "af335c9ab4e5d500ef1e817a31f570d3b87f05b7",
+    "bytes": 281912,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA030",
+    "id": "GA030n0029",
+    "title": "西谿梵隱志",
+    "path": "GA/GA030/GA030n0029.xml",
+    "sha": "e7d5f19214caf36220f2471e14b640a8dcd9d9c1",
+    "bytes": 328907,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA030",
+    "id": "GA030n0030",
+    "title": "崇福寺志",
+    "path": "GA/GA030/GA030n0030.xml",
+    "sha": "2089ebe607d771fa33e77dbfe80e253e2d984498",
+    "bytes": 136721,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA030",
+    "id": "GA030n0031",
+    "title": "續崇福寺志",
+    "path": "GA/GA030/GA030n0031.xml",
+    "sha": "3d1e192afbb436e9aec620b2e6419978f2955f98",
+    "bytes": 41559,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -37,7 +37,7 @@ A mobile-first Progressive Web App for reading the CBETA Chinese Buddhist canon,
 - Paper modes: 紙 / 墨 / 灰
 - **Vertical RTL reading by default** (`writing-mode: vertical-rl`); horizontal LTR available as a per-device toggle for accessibility
 - Offline reading of any text the user has opened
-- Background sync against upstream repo
+- Update checks against upstream repo manifest
 - **UI chrome: 繁體中文 only in v1.** English/Japanese chrome deferred to v2.
 
 **Out of scope (v1)** — held firm to prevent scope creep:
@@ -52,15 +52,13 @@ A mobile-first Progressive Web App for reading the CBETA Chinese Buddhist canon,
 ## 3. Data architecture
 
 ### 3.1 Catalog
-- Bundled in the app build: a frozen copy of `canons.json` plus a generated `catalog.json` listing every text file with `{canon, volume, id, path, sha, bytes}`. Excludes gated canons (§1).
-- App ships with **catalog only**, not text bodies. Catalog target < 2 MB gzipped.
+- App ships with **catalog only**, not text bodies. The generated catalog is split into a small index and per-volume JSON shards under `/catalog/`. Excludes gated canons (§1).
 
 ### 3.2 Text fetch
-- On first open of a text, fetch from jsDelivr pinned to commit SHA:
+- On first open of a text, fetch from GitHub raw pinned to an upstream commit SHA:
   ```
-  https://cdn.jsdelivr.net/gh/cbeta-org/xml-p5@<sha>/<path>
+  https://raw.githubusercontent.com/cbeta-org/xml-p5/<commit>/<path>
   ```
-  Preferred over `raw.githubusercontent.com`: edge cache, no per-IP rate limits, supports commit-pinned URLs.
 - Store raw XML + rendered HTML in IndexedDB, keyed by `{textId, sha}`.
 
 ### 3.3 Sync to upstream
@@ -69,12 +67,13 @@ A mobile-first Progressive Web App for reading the CBETA Chinese Buddhist canon,
   { "generatedAt": "...", "upstreamSha": "...", "files": [{ "path": "...", "sha": "..." }, ...] }
   ```
   Hosted at a stable URL the PWA polls.
-- On launch (and via Background Sync API where supported), the PWA:
+- On user request from Settings → "檢查更新", the PWA:
   1. Fetches the latest manifest.
   2. Diffs SHAs against locally cached texts.
   3. Marks changed texts as **stale** (subtle badge) and re-fetches lazily on next open, or eagerly if the user enabled "auto-update".
-- Settings → "檢查更新" runs the same check on demand.
-- Code release required for *new* texts to appear in browse (catalog ships in bundle). v2 may load catalog from the manifest server.
+- Settings → "檢查更新" runs the same check on demand. Cached texts whose content SHA changed are marked stale and refresh when next opened online.
+- Code release required for *new* texts to appear in browse because the app-hosted
+  catalog shards are built and deployed with the app.
 
 ### 3.4 TEI rendering
 - v1 supports the focused subset of TEI P5 as used by CBETA:
@@ -140,7 +139,7 @@ Reader controls (bottom sheet, thumb-reach):
 ### 5.4 Privacy stance (write into About + README)
 
 - No analytics, no third-party scripts, no fingerprinting.
-- Only outbound network calls: jsDelivr for text fetch, the manifest endpoint for sync. Both documented in About.
+- Only outbound network calls: GitHub raw for text fetch, Google Fonts for typography, and app-hosted catalog/manifest JSON. Document these in About.
 
 ---
 
@@ -185,7 +184,7 @@ Thin (1.25 px) hand-drawn strokes. No filled icons. No Material/HIG defaults.
 - Single-column reading column max 38em; tap zones ≥ 44 px.
 - **Vertical RTL is the default reader mode** (`writing-mode: vertical-rl`); horizontal LTR available as per-device toggle.
 - Pinch-zoom and dynamic font-scale both honored.
-- Pull-to-refresh on Browse re-checks the manifest; **disabled inside Reader** to avoid accidental scroll triggers.
+- Settings provides a manual manifest check; Reader does not auto-refresh to avoid accidental scroll-triggered network work.
 - Safe-area insets respected (notch / home indicator).
 - `prefers-color-scheme` and `prefers-reduced-motion` respected.
 
@@ -198,7 +197,7 @@ Thin (1.25 px) hand-drawn strokes. No filled icons. No Material/HIG defaults.
 - Service worker via `vite-plugin-pwa` (Workbox under the hood):
   - App shell: cache-first.
   - Catalog & manifest: stale-while-revalidate.
-  - Text XML on jsDelivr: cache-first, invalidated on SHA change.
+  - Text XML on GitHub raw: cache-first, invalidated on SHA change.
 - IndexedDB via `idb`. LRU eviction at user-configurable cap (default 200 MB).
 - XML → HTML transform in a Web Worker (`fast-xml-parser` or `sax-wasm`).
 - Routing: deep-linkable (`/read/<canonId>/<textId>?lb=001a05`), no hash. React Router in data/`createBrowserRouter` mode; SPA fallback configured at the host so deep links resolve.
@@ -225,13 +224,16 @@ Thin (1.25 px) hand-drawn strokes. No filled icons. No Material/HIG defaults.
 
 ## 9. Hosting
 
-**Primary: Cloudflare Pages.**
+**Primary: GitHub Pages for v1.**
+- Current build defaults to `/sutra-reader/` project hosting.
+- Pure static build, no platform-specific runtime.
+
+**Cloudflare Pages fallback.**
 - Unmetered bandwidth (GH Pages soft-caps at 100 GB/mo)
 - Edge cache in Asia-Pacific is materially faster for likely audience
 - Per-PR preview deploys
 - Optional Worker if the manifest ever needs to be dynamic
-
-**Fallback: GitHub Pages.** Pure static build, no platform-specific build steps in app repo, so the deploy target is interchangeable.
+- Build with `VITE_BASE_PATH=/ npm run build` for a root-hosted Cloudflare Pages URL.
 
 **Public URL.** Use whichever default URL the chosen platform provides:
 - GH Pages → `https://<user>.github.io/sutra-reader/`
@@ -262,7 +264,7 @@ Two public repos under one GitHub namespace:
 ### CI / deploy
 - `ci.yml` — typecheck, lint, build, Lighthouse PWA audit (fail < 90 on PWA / Performance)
 - `deploy.yml` — on push to `main`, deploy to chosen platform
-- `sync.yml` (in `sutra-manifest`) — `schedule: '0 */6 * * *'`, regenerates catalog + manifest, commits if changed
+- `sync.yml` — `schedule: '0 */6 * * *'`, regenerates catalog + manifest, commits if changed
 
 ### Hygiene constraints
 - No analytics phoning home by default. Any future telemetry is opt-in, self-hostable, no third-party trackers.
@@ -297,5 +299,5 @@ Two public repos under one GitHub namespace:
 - Full-canon search
 - Cross-reference / dictionary integration
 - Multi-device backup via user-supplied storage (Dropbox / iCloud / WebDAV)
-- Catalog loaded dynamically from manifest server (so new texts appear without an app release)
+- Catalog loaded from an external manifest service (so new texts appear without an app release)
 - Audio recitation / Pāli or Sanskrit parallels

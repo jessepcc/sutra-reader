@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "J",
+    "volume": "J30",
+    "id": "J30nB259",
+    "title": "怡山禮佛發願文略釋",
+    "path": "J/J30/J30nB259.xml",
+    "sha": "1c44f9f971a60b133035edc07b692436d8bc4d31",
+    "bytes": 126779,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J30",
+    "id": "J30nB260",
+    "title": "大懺悔文略解",
+    "path": "J/J30/J30nB260.xml",
+    "sha": "9bbfb93eb64be440844b0f3f9f3ccd469e1625b7",
+    "bytes": 154837,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X36",
+    "id": "X36n0656",
+    "title": "涅槃經玄義文句",
+    "path": "X/X36/X36n0656.xml",
+    "sha": "ceb519700e35405f1fbbc06df48bc27040cccc96",
+    "bytes": 428561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X36",
+    "id": "X36n0657",
+    "title": "涅槃經治定疏科",
+    "path": "X/X36/X36n0657.xml",
+    "sha": "51850349b1c49650c6cfda95aa4d4ac368a56845",
+    "bytes": 1881652,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X36",
+    "id": "X36n0658",
+    "title": "涅槃經會疏條箇",
+    "path": "X/X36/X36n0658.xml",
+    "sha": "96e087fbf9a83228cff38814791b852847ad97e3",
+    "bytes": 461082,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X36",
+    "id": "X36n0659",
+    "title": "涅槃經會疏",
+    "path": "X/X36/X36n0659.xml",
+    "sha": "a87ef277c71d038cca17aedca99302e4635e7020",
+    "bytes": 6775006,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

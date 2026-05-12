@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA058",
+    "id": "GA058n0062",
+    "title": "泉州開元寺志",
+    "path": "GA/GA058/GA058n0062.xml",
+    "sha": "abba3d61e28fb44fb2909fb18661d3c24131872b",
+    "bytes": 213103,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA058",
+    "id": "GA058n0063",
+    "title": "厦門南普陀寺志",
+    "path": "GA/GA058/GA058n0063.xml",
+    "sha": "312b8d620133019be316e1184b064dedffaf74a5",
+    "bytes": 360522,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

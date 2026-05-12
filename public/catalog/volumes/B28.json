@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28n0155",
+    "title": "聖朝破邪集",
+    "path": "B/B28/B28n0155.xml",
+    "sha": "a47cc52e371aa334370444a333b35ec7c3413e7a",
+    "bytes": 663830,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28n0156",
+    "title": "佛法金湯",
+    "path": "B/B28/B28n0156.xml",
+    "sha": "d3cdf6b690a83872226245ff6fff35e390c7a19e",
+    "bytes": 469366,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28n0157",
+    "title": "楊仁山居士遺著",
+    "path": "B/B28/B28n0157.xml",
+    "sha": "dad1e29a932711779924b9fbcc0e9ef4aed5db0a",
+    "bytes": 1342703,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28n0158",
+    "title": "陰騭文圖",
+    "path": "B/B28/B28n0158.xml",
+    "sha": "5feec9ea7ec06d20bad27b8f05140df80caf5c08",
+    "bytes": 205213,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28n0159",
+    "title": "了凡四訓",
+    "path": "B/B28/B28n0159.xml",
+    "sha": "f2ec2987928dca6399034dec88688a403a07924f",
+    "bytes": 164607,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B28",
+    "id": "B28na027",
+    "title": "大藏經補編第二十八冊．編輯說明",
+    "path": "B/B28/B28na027.xml",
+    "sha": "16297206fbfd0daaff6bb3b1be83d7d62425637c",
+    "bytes": 7412,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

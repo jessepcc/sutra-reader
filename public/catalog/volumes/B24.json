@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0131",
+    "title": "法海觀瀾",
+    "path": "B/B24/B24n0131.xml",
+    "sha": "9669a8e304d3c8463a400a3c6694a50cb0068065",
+    "bytes": 326182,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0132",
+    "title": "尚直編",
+    "path": "B/B24/B24n0132.xml",
+    "sha": "07dd2e1b40d025dcbb18879f0300d08d82d500d8",
+    "bytes": 202790,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0133",
+    "title": "尚理編",
+    "path": "B/B24/B24n0133.xml",
+    "sha": "884bfbfbed0b07f564439525ae0112020a4e6c28",
+    "bytes": 67437,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0134",
+    "title": "闢邪集（選錄）",
+    "path": "B/B24/B24n0134.xml",
+    "sha": "c7a73c2457383866f799479212dc1646612aee73",
+    "bytes": 161599,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0135",
+    "title": "蒲室集",
+    "path": "B/B24/B24n0135.xml",
+    "sha": "17eac59e72051350bc3296baffadfc040dcbd80b",
+    "bytes": 992297,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0136",
+    "title": "選佛譜",
+    "path": "B/B24/B24n0136.xml",
+    "sha": "89c17a59b0a361c138d478159b646f179b006538",
+    "bytes": 368405,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0137",
+    "title": "正名錄",
+    "path": "B/B24/B24n0137.xml",
+    "sha": "009a9e04e3ba51c3ce986202ddcc6fcf9658ce0b",
+    "bytes": 638083,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0139",
+    "title": "獻花巖志",
+    "path": "B/B24/B24n0139.xml",
+    "sha": "bec9b0bb2706df3424c4e954550e4c37374fa838",
+    "bytes": 94377,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0140",
+    "title": "雪峰志",
+    "path": "B/B24/B24n0140.xml",
+    "sha": "4930935ba4d6a74df67430167e105f1411951459",
+    "bytes": 619933,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24n0141",
+    "title": "嵩山少林寺輯志",
+    "path": "B/B24/B24n0141.xml",
+    "sha": "4e29fa4c5c1d1f4907eba6c1dbdc7be15a7c4344",
+    "bytes": 930025,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B24",
+    "id": "B24na023",
+    "title": "大藏經補編第二十四冊．編輯說明",
+    "path": "B/B24/B24na023.xml",
+    "sha": "3f9ae447f8eb37c6baa1d8fe93ae65108d478ff3",
+    "bytes": 7803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

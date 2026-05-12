@@ -1,0 +1,132 @@
+[
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0714",
+    "title": "四分律含注戒本疏行宗記(第3卷-第4卷)",
+    "path": "X/X40/X40n0714.xml",
+    "sha": "c6854619e13a0a6ca57daef976096341cde0e63f",
+    "bytes": 2448981,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0715",
+    "title": "釋四分戒本序",
+    "path": "X/X40/X40n0715.xml",
+    "sha": "efd2c8a7821eefad32e6233b89404cbe6e03315b",
+    "bytes": 44944,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0716",
+    "title": "四分戒本緣起事義",
+    "path": "X/X40/X40n0716.xml",
+    "sha": "f9543f00e61cf959ef53dc42d4bc7474228e81ad",
+    "bytes": 138228,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0717",
+    "title": "四分戒本如釋",
+    "path": "X/X40/X40n0717.xml",
+    "sha": "305ce3ef777e35f6d4e2e6cbbfbf5123cc0abe5c",
+    "bytes": 1474146,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0718",
+    "title": "四分戒本約義",
+    "path": "X/X40/X40n0718.xml",
+    "sha": "a5a5f65c7d45177661d9e854fd28a420bb385d19",
+    "bytes": 412255,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0719",
+    "title": "重治毗尼事義集要",
+    "path": "X/X40/X40n0719.xml",
+    "sha": "2fb85a4e00244cc428601096aae80c94af2a3cfa",
+    "bytes": 1774029,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0720",
+    "title": "毗尼關要",
+    "path": "X/X40/X40n0720.xml",
+    "sha": "2890cc1c04ee3df8881e122d81a7d95f7d9c000d",
+    "bytes": 2067639,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0721",
+    "title": "毗尼關要事義",
+    "path": "X/X40/X40n0721.xml",
+    "sha": "0ad95872a2cc3b3083a0b0f93eaaf29de4d351ad",
+    "bytes": 336080,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0722",
+    "title": "四分刪定比丘尼戒本",
+    "path": "X/X40/X40n0722.xml",
+    "sha": "d595b71b6df57263187e3fea2f96aa5b2cba7f27",
+    "bytes": 149193,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0723",
+    "title": "四分比丘尼鈔科",
+    "path": "X/X40/X40n0723.xml",
+    "sha": "89265e8a249354a11d69ae7defb1e48a5d057faa",
+    "bytes": 235637,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0724",
+    "title": "四分比丘尼鈔",
+    "path": "X/X40/X40n0724.xml",
+    "sha": "6d8b7c1d52c5b72c2f797b4354cf3ec930cfb827",
+    "bytes": 846939,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0725",
+    "title": "式叉摩那尼戒本",
+    "path": "X/X40/X40n0725.xml",
+    "sha": "982e3206a719c60506dba05d49e0cd4b345916c5",
+    "bytes": 92096,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X40",
+    "id": "X40n0726",
+    "title": "四分律隨機羯磨疏正源記",
+    "path": "X/X40/X40n0726.xml",
+    "sha": "19921d92d2165905e20c075aaf66128f66271102",
+    "bytes": 1297856,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

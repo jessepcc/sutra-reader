@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0282",
+    "title": "楞嚴經玄義",
+    "path": "X/X13/X13n0282.xml",
+    "sha": "53d8a1fcbdff25ec5de84c0861a57af3e616caf0",
+    "bytes": 418862,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0283",
+    "title": "楞嚴經秘錄",
+    "path": "X/X13/X13n0283.xml",
+    "sha": "e39c6d7a1ec76a6df46e22f9c54af08ba25de006",
+    "bytes": 1644048,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0284",
+    "title": "楞嚴經玄義",
+    "path": "X/X13/X13n0284.xml",
+    "sha": "496d5611d046832fc36d155471dcbdc60c7092a2",
+    "bytes": 241264,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0285",
+    "title": "楞嚴經文句",
+    "path": "X/X13/X13n0285.xml",
+    "sha": "a3a5f01cf10c9a41a2e23a26ce8c19a5bbe61705",
+    "bytes": 1744894,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0286",
+    "title": "楞嚴經如說",
+    "path": "X/X13/X13n0286.xml",
+    "sha": "578ce52de37f8afa0f3a7b7175980ff8919ea5f4",
+    "bytes": 1213884,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X13",
+    "id": "X13n0287",
+    "title": "楞嚴經疏解蒙鈔",
+    "path": "X/X13/X13n0287.xml",
+    "sha": "e4d122262dcf52290ea971c3e5c783e07e47a8eb",
+    "bytes": 5931489,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

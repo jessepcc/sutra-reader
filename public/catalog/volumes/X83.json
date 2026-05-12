@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X83",
+    "id": "X83n1572",
+    "title": "續傳燈錄目錄",
+    "path": "X/X83/X83n1572.xml",
+    "sha": "a101d0a2d123b1b791d6ef0465ebc049ae7aece4",
+    "bytes": 404361,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X83",
+    "id": "X83n1574",
+    "title": "增集續傳燈錄",
+    "path": "X/X83/X83n1574.xml",
+    "sha": "8a812fc5a91c2f4b13e0ab6b6a3f875966b174c2",
+    "bytes": 1096328,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X83",
+    "id": "X83n1576",
+    "title": "雪堂行拾遺錄",
+    "path": "X/X83/X83n1576.xml",
+    "sha": "0a676590f36909f47c849f5fbb7905cdfc09480f",
+    "bytes": 59417,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X83",
+    "id": "X83n1577",
+    "title": "羅湖野錄",
+    "path": "X/X83/X83n1577.xml",
+    "sha": "22b470556d43b82ea5216b20715b41ba6d8103bf",
+    "bytes": 254550,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X83",
+    "id": "X83n1578",
+    "title": "指月錄",
+    "path": "X/X83/X83n1578.xml",
+    "sha": "628a345639cf7b05ca552329113e953d48acecf0",
+    "bytes": 3984602,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

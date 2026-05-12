@@ -1,6 +1,6 @@
-// Catalog helpers: filter gated canons, build jsDelivr URLs, derive volumes/canons.
+// Catalog helpers: filter gated canons, build raw GitHub URLs, derive volumes/canons.
 
-import type { Canon, Catalog, ManifestFile, TextEntry, Volume } from "./types";
+import type { Canon, Catalog, CatalogIndex, ManifestFile, TextEntry, Volume } from "./types";
 
 /**
  * Canons that v1 must exclude from browse (held by third parties under
@@ -43,22 +43,24 @@ export function gatedCanonForTextId(textId: string): string | undefined {
 }
 
 /** Strip gated canons and volumes from a catalog. Pure / total. */
-export function filterGated(catalog: Catalog): Catalog {
+export function filterGated<T extends Catalog | CatalogIndex>(catalog: T): T {
   const canons = catalog.canons.filter((c) => !isGatedCanon(c.id));
   const allowedCanons = new Set(canons.map((c) => c.id));
   const volumes = catalog.volumes.filter(
     (v) => allowedCanons.has(v.canon) && !isGatedVolume(v.id),
   );
+  if (!("texts" in catalog)) return { ...catalog, canons, volumes } as T;
   const allowedVolumes = new Set(volumes.map((v) => v.id));
   const texts = catalog.texts.filter(
     (t) => allowedCanons.has(t.canon) && allowedVolumes.has(t.volume),
   );
-  return { ...catalog, canons, volumes, texts };
+  return { ...catalog, canons, volumes, texts } as T;
 }
 
-/** Build the jsDelivr URL for a given text entry. */
-export function jsDelivrUrl(text: TextEntry): string {
-  return `https://cdn.jsdelivr.net/gh/cbeta-org/xml-p5@${text.sha}/${text.path}`;
+/** Build the raw GitHub URL for a given text entry using a pinned commit SHA. */
+export function rawGitHubUrl(text: TextEntry): string {
+  const sourceSha = text.sourceSha ?? text.sha;
+  return `https://raw.githubusercontent.com/cbeta-org/xml-p5/${sourceSha}/${text.path}`;
 }
 
 /** Group texts by canon then volume for browse-screen rendering. */

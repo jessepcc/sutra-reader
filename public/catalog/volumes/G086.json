@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "G",
+    "volume": "G086",
+    "id": "G086n2202",
+    "title": "六祖壇經（惠昕原本）",
+    "path": "G/G086/G086n2202.xml",
+    "sha": "7eecd4c56662728f9352e15737112affb52b7727",
+    "bytes": 109455,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G086",
+    "id": "G086n2203",
+    "title": "六祖大師法寶壇經（曹溪原本）",
+    "path": "G/G086/G086n2203.xml",
+    "sha": "43336fb43f80b94828a0de305f2dd5f12826246d",
+    "bytes": 141565,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

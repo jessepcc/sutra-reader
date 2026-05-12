@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0288",
+    "title": "楞嚴經證疏廣解",
+    "path": "X/X14/X14n0288.xml",
+    "sha": "ef0263664f6d59a987ec85fa81f08d23e00bae3f",
+    "bytes": 1526645,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0289",
+    "title": "楞嚴經合轍",
+    "path": "X/X14/X14n0289.xml",
+    "sha": "52ac74a28d322eed80ef062cc174dae8c1e85000",
+    "bytes": 1902834,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0290",
+    "title": "楞嚴經直指科文",
+    "path": "X/X14/X14n0290.xml",
+    "sha": "0c64002e2229ef5010d68ee47c92e85270e9646d",
+    "bytes": 95919,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0291",
+    "title": "楞嚴經直指",
+    "path": "X/X14/X14n0291.xml",
+    "sha": "4d7a2e838da1208c2809bfae3df668b1e0836553",
+    "bytes": 1585852,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0292",
+    "title": "楞嚴經擊節",
+    "path": "X/X14/X14n0292.xml",
+    "sha": "4c15369f1efc9958f8c66f392b07f79f30318ce9",
+    "bytes": 80811,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0293",
+    "title": "楞嚴經懸談",
+    "path": "X/X14/X14n0293.xml",
+    "sha": "cc519f811d89a2b17ea20405669c39960dc2158a",
+    "bytes": 40492,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0294",
+    "title": "楞嚴經說約",
+    "path": "X/X14/X14n0294.xml",
+    "sha": "8b3e9cc4aeeac30bd02024f4fdc58980e5481b92",
+    "bytes": 104478,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0295",
+    "title": "楞嚴經述旨",
+    "path": "X/X14/X14n0295.xml",
+    "sha": "71bb9b9af43a770bbaf24ce64e957cf1d1facff4",
+    "bytes": 589174,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0296",
+    "title": "楞嚴經截流",
+    "path": "X/X14/X14n0296.xml",
+    "sha": "8220dec66ad81686e345bb1ee9703bbc57c6c734",
+    "bytes": 105087,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0297",
+    "title": "楞嚴經圓通疏前茅",
+    "path": "X/X14/X14n0297.xml",
+    "sha": "6dacbbc32efbd2ae372a296f404db1e9de8ea2b7",
+    "bytes": 282830,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X14",
+    "id": "X14n0298",
+    "title": "楞嚴經直解",
+    "path": "X/X14/X14n0298.xml",
+    "sha": "7a78ed9d58b91c03c069aebac1c3017a7e51de02",
+    "bytes": 1774327,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

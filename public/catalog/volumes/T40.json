@@ -1,0 +1,172 @@
+[
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1804",
+    "title": "四分律刪繁補闕行事鈔",
+    "path": "T/T40/T40n1804.xml",
+    "sha": "451cceffe64216526c5fbbae84ebaaa058844d89",
+    "bytes": 1706278,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1805",
+    "title": "四分律行事鈔資持記",
+    "path": "T/T40/T40n1805.xml",
+    "sha": "689b17b8af049ea1524460ff6b23d98256761116",
+    "bytes": 3107130,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1806",
+    "title": "四分律比丘含注戒本",
+    "path": "T/T40/T40n1806.xml",
+    "sha": "0fe3690ed26c79fd6be8f7faa6dd2f39a0e8beae",
+    "bytes": 463763,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1807",
+    "title": "四分比丘戒本疏",
+    "path": "T/T40/T40n1807.xml",
+    "sha": "547d440ccfc788d00da3fb04df13162dce31ffd6",
+    "bytes": 243934,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1808",
+    "title": "四分律刪補隨機羯磨",
+    "path": "T/T40/T40n1808.xml",
+    "sha": "edf3acec42fe0720dbf55274e1aff8f4a6416e6a",
+    "bytes": 746737,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1809",
+    "title": "僧羯磨",
+    "path": "T/T40/T40n1809.xml",
+    "sha": "53fac1bf87811e181491cd258253e7d608f88abe",
+    "bytes": 517307,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1810",
+    "title": "尼羯磨",
+    "path": "T/T40/T40n1810.xml",
+    "sha": "e467ef42193d07e9b9b78dcffb04080a366a8f30",
+    "bytes": 464400,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1811",
+    "title": "菩薩戒義疏",
+    "path": "T/T40/T40n1811.xml",
+    "sha": "f88d40276596e91ccdd2f5083d9d91af5587826e",
+    "bytes": 309208,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1812",
+    "title": "天台菩薩戒疏",
+    "path": "T/T40/T40n1812.xml",
+    "sha": "0a28b0d35d8453e91b0939d2d62ed4fabfb001ee",
+    "bytes": 199349,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1813",
+    "title": "梵網經菩薩戒本疏",
+    "path": "T/T40/T40n1813.xml",
+    "sha": "7ad5d46e0df7db303f923624afb614bd372969e1",
+    "bytes": 711007,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1814",
+    "title": "菩薩戒本疏",
+    "path": "T/T40/T40n1814.xml",
+    "sha": "63202d0de5f01790a2bbb02206ceebf505c49018",
+    "bytes": 282696,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1815",
+    "title": "梵網經古迹記",
+    "path": "T/T40/T40n1815.xml",
+    "sha": "99d7b48df64e7e2d5838b9163057335303265b49",
+    "bytes": 257109,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1816",
+    "title": "金剛般若論會釋",
+    "path": "T/T40/T40n1816.xml",
+    "sha": "b5f04b53c37fbc0457a7872795935aa27e7e7d9f",
+    "bytes": 2793615,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1817",
+    "title": "略明般若末後一頌讚述",
+    "path": "T/T40/T40n1817.xml",
+    "sha": "a78cba96fe3023d217947ca70ff06237c0271de0",
+    "bytes": 27775,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1818",
+    "title": "法華論疏",
+    "path": "T/T40/T40n1818.xml",
+    "sha": "e3dfb8cc40ddd62f9fda4796a189583a9f447957",
+    "bytes": 875655,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1819",
+    "title": "無量壽經優婆提舍願生偈註",
+    "path": "T/T40/T40n1819.xml",
+    "sha": "9284b2c9d9804db1149b371c98f613fff6354224",
+    "bytes": 298092,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T40",
+    "id": "T40n1820",
+    "title": "佛遺教經論疏節要",
+    "path": "T/T40/T40n1820.xml",
+    "sha": "bf816b013d0e565e86acba294f62628e7e40fbe1",
+    "bytes": 262371,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

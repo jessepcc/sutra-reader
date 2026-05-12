@@ -1,0 +1,152 @@
+[
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1421",
+    "title": "彌沙塞部和醯五分律",
+    "path": "T/T22/T22n1421.xml",
+    "sha": "903c920fee2606e3a3e8e76e83b05d6c6d13667b",
+    "bytes": 4050492,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1422a",
+    "title": "彌沙塞五分戒本",
+    "path": "T/T22/T22n1422a.xml",
+    "sha": "06b8012d041c6f1e2aced4e773f2b8c4f710bf40",
+    "bytes": 93960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1422b",
+    "title": "五分戒本",
+    "path": "T/T22/T22n1422b.xml",
+    "sha": "58085907e9b53d19501deb0f794aa961c8dec308",
+    "bytes": 61676,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1423",
+    "title": "五分比丘尼戒本",
+    "path": "T/T22/T22n1423.xml",
+    "sha": "f7df3454e4e704c4f5f9b6aba6837b2d6d844ad5",
+    "bytes": 117839,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1424",
+    "title": "彌沙塞羯磨本",
+    "path": "T/T22/T22n1424.xml",
+    "sha": "56bf33b799c7f117e705695c58034a541e8e987d",
+    "bytes": 283901,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1425",
+    "title": "摩訶僧祇律",
+    "path": "T/T22/T22n1425.xml",
+    "sha": "df52a0ab8f656b1d20a50b459f03878681b74ee0",
+    "bytes": 8150865,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1426",
+    "title": "摩訶僧祇律大比丘戒本",
+    "path": "T/T22/T22n1426.xml",
+    "sha": "a67367be3611c77649bac02b226bf3b866a81d3c",
+    "bytes": 186808,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1427",
+    "title": "摩訶僧祇比丘尼戒本",
+    "path": "T/T22/T22n1427.xml",
+    "sha": "bbbe3433a76789b398ac3818809cb735c96b88ce",
+    "bytes": 436602,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1428",
+    "title": "四分律",
+    "path": "T/T22/T22n1428.xml",
+    "sha": "e876d11fb34b8ee09a9675ac3c9f90ea093ae629",
+    "bytes": 9252713,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1429",
+    "title": "四分律比丘戒本",
+    "path": "T/T22/T22n1429.xml",
+    "sha": "c158218a4cc24403a17654ad6a71ac7f4eb3910b",
+    "bytes": 206820,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1430",
+    "title": "四分僧戒本",
+    "path": "T/T22/T22n1430.xml",
+    "sha": "e8ac98911b276b4ecf70ab09e569ca8b7d1eeeee",
+    "bytes": 128987,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1431",
+    "title": "四分比丘尼戒本",
+    "path": "T/T22/T22n1431.xml",
+    "sha": "1be7378959dcfda3ac1c77deeb5beba46325d478",
+    "bytes": 300310,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1432",
+    "title": "曇無德律部雜羯磨",
+    "path": "T/T22/T22n1432.xml",
+    "sha": "74f911baa2a7dde08b35fa71b16876ca629f3571",
+    "bytes": 202941,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1433",
+    "title": "羯磨",
+    "path": "T/T22/T22n1433.xml",
+    "sha": "a4116e4dba0dcff01962c743371e91ccc8906a2f",
+    "bytes": 411407,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T22",
+    "id": "T22n1434",
+    "title": "四分比丘尼羯磨法",
+    "path": "T/T22/T22n1434.xml",
+    "sha": "b2b72443265771fd2e68f3411bc3761265ef23da",
+    "bytes": 178214,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

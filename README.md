@@ -13,15 +13,14 @@ accounts, no analytics, no telemetry.**
 
 ## What you get
 
-- Browse 藏 → 冊 → 經 from the bundled catalog
+- Browse 藏 → 冊 → 經 from app-hosted lazy catalog shards
 - Read TEI-rendered sutras with line / page markers (`lb`, `pb`) preserved
 - Vertical RTL (`writing-mode: vertical-rl`) by default; horizontal LTR toggle
 - Three paper modes: 紙 (washi) / 墨 (sumi-inverted) / 灰 (ash)
 - 收藏 saved-list and per-position 標記 bookmarks
-- Offline reading of any text you have opened (IndexedDB cache, LRU 200 MB cap)
-- Background sync against the upstream `xml-p5` repo via a manifest endpoint
-- Export / import of saves, bookmarks, settings as a single JSON file
-- Installable PWA (Workbox service worker, app shell + jsDelivr cache)
+- Offline reading of opened texts; saved texts are opportunistically pre-cached
+- Update checks against a generated upstream manifest for cached texts
+- Installable PWA (Workbox service worker, app shell + catalog/XML cache)
 
 ## Stack
 
@@ -39,18 +38,26 @@ npm run coverage    # v8 coverage with 70% gate on src/lib/**
 npm run build       # production bundle + PWA service worker
 ```
 
+Builds default to GitHub Pages project hosting at `/sutra-reader/`. For a root
+host such as Cloudflare Pages, build with:
+
+```sh
+VITE_BASE_PATH=/ npm run build
+```
+
 ## Architecture
 
 ```
 src/lib        # pure logic, fully unit-tested
-  catalog.ts   # gated-canon filtering, jsDelivr URLs, manifest diff
+  catalog.ts   # gated-canon filtering, raw GitHub URLs, manifest diff
   tei.ts       # TEI P5 → HTML transform (juan, lb, gaiji, choice, app)
   db.ts        # idb-backed CRUD for texts (LRU), saved, bookmarks, recents, settings
   fetcher.ts   # cache-first text load with eviction
 src/ui         # React components & pages
-src/data       # bundled catalog + gaiji table
+src/data       # generated catalog source artifact + gaiji table
+public/catalog # generated lazy-loaded catalog index + per-volume shards
 scripts        # build-time tools
-  build-catalog.mjs  # regenerate src/data/catalog.json from a local xml-p5 checkout
+  build-catalog.mjs  # regenerate catalog shards + manifest from xml-p5 metadata/content
 ```
 
 ### Regenerating the catalog
@@ -63,6 +70,9 @@ mkdir -p /tmp/xml-p5 && tar -xzf /tmp/xml-p5.tar.gz -C /tmp/xml-p5 --strip-compo
 
 # 2. Generate
 node scripts/build-catalog.mjs /tmp/xml-p5
+
+# Or refresh blob SHAs/sizes from GitHub tree metadata without downloading XML
+node scripts/build-catalog.mjs --from-github-tree=<40-char-upstream-commit>
 ```
 
 ## Privacy
@@ -73,9 +83,10 @@ This app does **not**:
 - Use cookies or `localStorage` for anything beyond a 1-byte theme bootstrap.
 
 The **only** outbound calls are:
-- `cdn.jsdelivr.net/gh/cbeta-org/xml-p5@<sha>/...` to fetch TEI XML once per
+- `raw.githubusercontent.com/cbeta-org/xml-p5/<commit>/...` to fetch TEI XML once per
   text, then served from IndexedDB.
-- A manifest endpoint (e.g. `sutra-manifest`) when you tap **檢查更新**.
+- The app-hosted `/manifest.json` and `/catalog/**.json` files when browsing or
+  tapping **檢查更新**.
 
 ## Contributing
 

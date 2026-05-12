@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "K",
+    "volume": "K35",
+    "id": "K35n1257",
+    "title": "新集藏經音義隨函錄(第13卷-第30卷)",
+    "path": "K/K35/K35n1257.xml",
+    "sha": "d329386736680e99ea309880e995ebcbf6a19d93",
+    "bytes": 17353375,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "K",
+    "volume": "K35",
+    "id": "K35n1258",
+    "title": "御製蓮華心輪迴文偈頌",
+    "path": "K/K35/K35n1258.xml",
+    "sha": "e8c2718e704aa164bc51ba687cfb110cb87f9da2",
+    "bytes": 1652635,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "K",
+    "volume": "K35",
+    "id": "K35n1259",
+    "title": "御製秘藏詮",
+    "path": "K/K35/K35n1259.xml",
+    "sha": "cad0f765922a7e25f7b8d8198057ba2e39b2619e",
+    "bytes": 2488767,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "K",
+    "volume": "K35",
+    "id": "K35n1260",
+    "title": "御製逍遙詠",
+    "path": "K/K35/K35n1260.xml",
+    "sha": "bafb21242686ca555ba56362b1b37fd911ffec05",
+    "bytes": 761850,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "K",
+    "volume": "K35",
+    "id": "K35n1261",
+    "title": "御製緣識",
+    "path": "K/K35/K35n1261.xml",
+    "sha": "bde7468a9c9a7e8ec80af374c0237111e81d01c7",
+    "bytes": 201767,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

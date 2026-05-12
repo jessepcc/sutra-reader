@@ -1,0 +1,172 @@
+[
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0010",
+    "title": "南傳轉法輪經",
+    "path": "B/B07/B07n0010.xml",
+    "sha": "00e69540ece7cd36ee57d0837985c266e8dc11d2",
+    "bytes": 9251,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0011",
+    "title": "轉法輪經",
+    "path": "B/B07/B07n0011.xml",
+    "sha": "22805b4fa4e87d95626daf94870b8f1f77b2b5d6",
+    "bytes": 8869,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0012",
+    "title": "三寶經",
+    "path": "B/B07/B07n0012.xml",
+    "sha": "337a86671dc3cbe26d4802663a3dfc4f344c2601",
+    "bytes": 13693,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0013",
+    "title": "吉祥經",
+    "path": "B/B07/B07n0013.xml",
+    "sha": "283d28a8be3cec4ee559477dad7752571852a7c4",
+    "bytes": 9458,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0014",
+    "title": "婆羅門正法經",
+    "path": "B/B07/B07n0014.xml",
+    "sha": "1cacdca1f8cecaa4a7636e950f4f6eff292f5617",
+    "bytes": 13149,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0015",
+    "title": "南傳羯臘摩經",
+    "path": "B/B07/B07n0015.xml",
+    "sha": "b515b6cce1c372cac31b0d183cfabaed2eb935d3",
+    "bytes": 8731,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0016",
+    "title": "南傳大悲經",
+    "path": "B/B07/B07n0016.xml",
+    "sha": "acadf56430d7cf3a7c14ca5d8a8fe1da8aef94a8",
+    "bytes": 7625,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0017",
+    "title": "南傳法句經",
+    "path": "B/B07/B07n0017.xml",
+    "sha": "de867c0d1ec7d31936578e7a8d55bf859ac38568",
+    "bytes": 196388,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0018",
+    "title": "南傳大般湼槃經",
+    "path": "B/B07/B07n0018.xml",
+    "sha": "5c3045f7fcdb457fa871c56298ce4ac5e4c7e213",
+    "bytes": 177150,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0019",
+    "title": "南傳念安般經",
+    "path": "B/B07/B07n0019.xml",
+    "sha": "3b48f94be6df84d862d7b4cc12fd1ae287520f5d",
+    "bytes": 38214,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0020",
+    "title": "隨念三寶經淺說",
+    "path": "B/B07/B07n0020.xml",
+    "sha": "8fceb8447c2d0b66d36b39f4b9c39b0930cdd7f5",
+    "bytes": 58799,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0021",
+    "title": "毒語心經",
+    "path": "B/B07/B07n0021.xml",
+    "sha": "97386486c934de5521e27948be22f616fd371412",
+    "bytes": 58512,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0022",
+    "title": "新譯薄伽梵母智慧到彼岸心經詮釋",
+    "path": "B/B07/B07n0022.xml",
+    "sha": "ec7b3b07b5f2e633f17ce6d8dab2e0170d77f4e2",
+    "bytes": 40126,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0023",
+    "title": "金剛般若波羅蜜經講義",
+    "path": "B/B07/B07n0023.xml",
+    "sha": "4acf6c029fb9711b9fc292c9f2acec30e5d077bc",
+    "bytes": 1495409,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0024",
+    "title": "佛說阿彌陀經註釋會要",
+    "path": "B/B07/B07n0024.xml",
+    "sha": "999565dc6bb0571e51a8982b178e1cdb4580a838",
+    "bytes": 314839,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07n0025",
+    "title": "阿毗達摩攝義論",
+    "path": "B/B07/B07n0025.xml",
+    "sha": "b44c3fd8685337204c84f303fa82df120dcc3ae6",
+    "bytes": 125094,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B07",
+    "id": "B07na005",
+    "title": "大藏經補編第七冊．編輯說明",
+    "path": "B/B07/B07na005.xml",
+    "sha": "4a255d7807b177d980640be73768fa6b6602397b",
+    "bytes": 5964,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

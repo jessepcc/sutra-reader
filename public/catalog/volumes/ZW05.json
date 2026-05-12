@@ -1,0 +1,122 @@
+[
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0045",
+    "title": "小誦",
+    "path": "ZW/ZW05/ZW05n0045.xml",
+    "sha": "1f0ac6cfc7185c6353d3890301806ae465fff128",
+    "bytes": 39807,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0046",
+    "title": "即興自說",
+    "path": "ZW/ZW05/ZW05n0046.xml",
+    "sha": "54d6fca9a0b7ae21691f2758196b1cf5aa854948",
+    "bytes": 241118,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0047",
+    "title": "大隧道本生",
+    "path": "ZW/ZW05/ZW05n0047.xml",
+    "sha": "9bc3e8159a2e49a2cf850e7e25a1a0c12b2cfe58",
+    "bytes": 158195,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0048",
+    "title": "大念處經",
+    "path": "ZW/ZW05/ZW05n0048.xml",
+    "sha": "dfae7a063e8da47fcd4094469889077e439d4145",
+    "bytes": 72093,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0049",
+    "title": "瑜伽師地開釋分門記",
+    "path": "ZW/ZW05/ZW05n0049.xml",
+    "sha": "aae2b61685ca71871d96790384c92afda9cc5867",
+    "bytes": 543782,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05n0050",
+    "title": "天台教典入藏考",
+    "path": "ZW/ZW05/ZW05n0050.xml",
+    "sha": "87ee94db3bb775220d47c920e38fc471b9b480cd",
+    "bytes": 57514,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na027",
+    "title": "藏外佛教文獻第五輯．卷首語",
+    "path": "ZW/ZW05/ZW05na027.xml",
+    "sha": "60e4697e17e358f169c169bcc3543ce37dfe70b4",
+    "bytes": 70561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na028",
+    "title": "藏外佛教文獻第五輯．目錄",
+    "path": "ZW/ZW05/ZW05na028.xml",
+    "sha": "9d2373870c4527c573368ff57d4ed61dc18cc84b",
+    "bytes": 6453,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na029",
+    "title": "藏外佛教文獻第五輯．錄文校勘體例",
+    "path": "ZW/ZW05/ZW05na029.xml",
+    "sha": "b34975d2e0538fc3b41d1a17bfcfe554df1cef62",
+    "bytes": 12172,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na030",
+    "title": "《藏外佛教文獻》第一～六輯要目",
+    "path": "ZW/ZW05/ZW05na030.xml",
+    "sha": "636b78335c90e79c34fb5b5a62829c825e4e0db7",
+    "bytes": 11168,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na031",
+    "title": "藏外佛教文獻第五輯．徵稿啟事",
+    "path": "ZW/ZW05/ZW05na031.xml",
+    "sha": "0495fdd4d9e1f4cc547a215738bd143204b2a2ec",
+    "bytes": 9097,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "ZW",
+    "volume": "ZW05",
+    "id": "ZW05na032",
+    "title": "藏外佛教文獻第五輯．編委會名單",
+    "path": "ZW/ZW05/ZW05na032.xml",
+    "sha": "65fd1eb4be71ec94ab1bce77d1d15626a43c3355",
+    "bytes": 8274,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

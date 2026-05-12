@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X81",
+    "id": "X81n1568",
+    "title": "五燈嚴統(第10卷-第25卷)",
+    "path": "X/X81/X81n1568.xml",
+    "sha": "adb0306dc254c03768745238fd20691fa07a4a56",
+    "bytes": 3531019,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X81",
+    "id": "X81n1569",
+    "title": "五燈嚴統解惑編",
+    "path": "X/X81/X81n1569.xml",
+    "sha": "35795ed2f9ecdc3dd8337aa484c8ac637c10c310",
+    "bytes": 104957,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X81",
+    "id": "X81n1570",
+    "title": "五燈全書目錄",
+    "path": "X/X81/X81n1570.xml",
+    "sha": "b2de17454328fb3a2961a50bc2ea9ce1e14f6d08",
+    "bytes": 624557,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X81",
+    "id": "X81n1571",
+    "title": "五燈全書(第1卷-第33卷)",
+    "path": "X/X81/X81n1571.xml",
+    "sha": "cc9e6b3d899436e3bf23d91fb2052b20b90072d3",
+    "bytes": 3446782,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "N",
+    "volume": "N26",
+    "id": "N26n0008",
+    "title": "小誦經",
+    "path": "N/N26/N26n0008.xml",
+    "sha": "7b25f29b1b5715360faa231b1f8883f80c96aaaf",
+    "bytes": 27926,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N26",
+    "id": "N26n0009",
+    "title": "法句經",
+    "path": "N/N26/N26n0009.xml",
+    "sha": "19611077a9a37e1710bed8a7df0092d314079f19",
+    "bytes": 120741,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N26",
+    "id": "N26n0010",
+    "title": "自說經",
+    "path": "N/N26/N26n0010.xml",
+    "sha": "6dca744a3a5c4d255885ba50c0a169f55c9d63bb",
+    "bytes": 238160,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N26",
+    "id": "N26n0011",
+    "title": "如是語經",
+    "path": "N/N26/N26n0011.xml",
+    "sha": "34c1338651b2702fa49a943f4957a5f776c54f7a",
+    "bytes": 245498,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

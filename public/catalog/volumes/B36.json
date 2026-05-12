@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "B",
+    "volume": "B36",
+    "id": "B36n0197",
+    "title": "摩訶婆羅多的故事",
+    "path": "B/B36/B36n0197.xml",
+    "sha": "0f049ea6272a73f3d7efaff6fc28fff31b0bc9e3",
+    "bytes": 1058654,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B36",
+    "id": "B36n0198",
+    "title": "博伽梵歌",
+    "path": "B/B36/B36n0198.xml",
+    "sha": "58d9733b6a9529c23846642c01414cb4521f63e6",
+    "bytes": 2670311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B36",
+    "id": "B36na036",
+    "title": "大藏經補編第三十六冊．編輯說明",
+    "path": "B/B36/B36na036.xml",
+    "sha": "84975e26f6eb7e52bc1092ed2841bb29f904a06d",
+    "bytes": 7250,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

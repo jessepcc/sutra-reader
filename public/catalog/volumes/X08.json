@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0235",
+    "title": "華嚴經談玄抉擇",
+    "path": "X/X08/X08n0235.xml",
+    "sha": "511a8d9a5024ff88ea3d8fbe3e70ba87d111af67",
+    "bytes": 1032140,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0236",
+    "title": "華嚴懸談會玄記",
+    "path": "X/X08/X08n0236.xml",
+    "sha": "63a071c5fea3cb0dd8bf39313b529749a7ec64b8",
+    "bytes": 3689170,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0237",
+    "title": "華嚴經文義要決問答",
+    "path": "X/X08/X08n0237.xml",
+    "sha": "dcc5b3b05a3567607be7c9c19f9f05efeead4a7c",
+    "bytes": 441692,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0238",
+    "title": "華嚴經要解",
+    "path": "X/X08/X08n0238.xml",
+    "sha": "90336da5a5e30d0c5735ccbd97fc6afe2a38ca0f",
+    "bytes": 190888,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0239",
+    "title": "華嚴經吞海集",
+    "path": "X/X08/X08n0239.xml",
+    "sha": "5c4d859adf394a687eeb35de3b96d3f1609990e1",
+    "bytes": 154960,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X08",
+    "id": "X08n0240",
+    "title": "華嚴綱要(第1卷-第44卷)",
+    "path": "X/X08/X08n0240.xml",
+    "sha": "73585066eb915f6b0004da9e144d81a0b43ed553",
+    "bytes": 4229559,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

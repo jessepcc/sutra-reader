@@ -1,0 +1,262 @@
+[
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1519",
+    "title": "妙法蓮華經憂波提舍",
+    "path": "T/T26/T26n1519.xml",
+    "sha": "19c4501a5e96359041a60ce3f1d7ad4205ddb9be",
+    "bytes": 116751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1520",
+    "title": "妙法蓮華經論優波提舍",
+    "path": "T/T26/T26n1520.xml",
+    "sha": "0888d3548be10f4f8c4b29d279c5d7566b2e5974",
+    "bytes": 453460,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1521",
+    "title": "十住毘婆沙論",
+    "path": "T/T26/T26n1521.xml",
+    "sha": "0d35dac5fa0fff65579dfd6e45e27f3906ebea1c",
+    "bytes": 1786033,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1522",
+    "title": "十地經論",
+    "path": "T/T26/T26n1522.xml",
+    "sha": "ba3face5d8647b4af6395fd2512b57ace923d7e7",
+    "bytes": 1021359,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1523",
+    "title": "大寶積經論",
+    "path": "T/T26/T26n1523.xml",
+    "sha": "4660bd7e7d207d1f9b49a062b1e8474b90f6d513",
+    "bytes": 364467,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1524",
+    "title": "無量壽經優波提舍",
+    "path": "T/T26/T26n1524.xml",
+    "sha": "dfd7c1c07b4669ab939805a65174ce515f76db15",
+    "bytes": 42957,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1525",
+    "title": "彌勒菩薩所問經論",
+    "path": "T/T26/T26n1525.xml",
+    "sha": "7aed11244ad660f7a3a6ebfcfeda596818d20b77",
+    "bytes": 471880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1526",
+    "title": "寶髻經四法憂波提舍",
+    "path": "T/T26/T26n1526.xml",
+    "sha": "36ae8e6803f579334f93896c2e7a2822fa2e3171",
+    "bytes": 56555,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1527",
+    "title": "涅槃論",
+    "path": "T/T26/T26n1527.xml",
+    "sha": "e66c1ff655c623f04e02cde372dfe2d3f255ca23",
+    "bytes": 46055,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1528",
+    "title": "涅槃經本有今無偈論",
+    "path": "T/T26/T26n1528.xml",
+    "sha": "edcd3ea09d2b28458cd354487aa25f3ff2cd17f5",
+    "bytes": 22645,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1529",
+    "title": "遺教經論",
+    "path": "T/T26/T26n1529.xml",
+    "sha": "85f6012e59eeeb42c8c971eb43f7f47d178063bd",
+    "bytes": 115633,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1530",
+    "title": "佛地經論",
+    "path": "T/T26/T26n1530.xml",
+    "sha": "5c73ad5acb46b9e435d7eeaf6975cc94f216152a",
+    "bytes": 416550,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1531",
+    "title": "文殊師利菩薩問菩提經論",
+    "path": "T/T26/T26n1531.xml",
+    "sha": "6843d0344df5e7f2732122ef5e666a7ef986d136",
+    "bytes": 109392,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1532",
+    "title": "勝思惟梵天所問經論",
+    "path": "T/T26/T26n1532.xml",
+    "sha": "673eca13bc10314ff58a23128c8df8f22a4e45bc",
+    "bytes": 335365,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1533",
+    "title": "轉法輪經憂波提舍",
+    "path": "T/T26/T26n1533.xml",
+    "sha": "709a8437c140d6dfd8f2ae9ee29f643de900c012",
+    "bytes": 44194,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1534",
+    "title": "三具足經憂波提舍",
+    "path": "T/T26/T26n1534.xml",
+    "sha": "fccf88b413b4003066fe536dcd1619ac4cd8545d",
+    "bytes": 90557,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1535",
+    "title": "大乘四法經釋",
+    "path": "T/T26/T26n1535.xml",
+    "sha": "5bdd614f8d7546beaf0605119bb899e9d6face78",
+    "bytes": 9209,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1536",
+    "title": "阿毘達磨集異門足論",
+    "path": "T/T26/T26n1536.xml",
+    "sha": "80b4284dab06a06bb78af5e3a8bcecd1a39ac194",
+    "bytes": 934451,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1537",
+    "title": "阿毘達磨法蘊足論",
+    "path": "T/T26/T26n1537.xml",
+    "sha": "b55659f1cebdb7510cf8fe1c7fbd61678e1666a0",
+    "bytes": 735303,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1538",
+    "title": "施設論",
+    "path": "T/T26/T26n1538.xml",
+    "sha": "054b8aa204a098a7fcddf4fd8cee0cb1cb08cd29",
+    "bytes": 178902,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1539",
+    "title": "阿毘達磨識身足論",
+    "path": "T/T26/T26n1539.xml",
+    "sha": "2d717e5742ce0bae3e5ccc4fad1b005acfd3d5cb",
+    "bytes": 762894,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1540",
+    "title": "阿毘達磨界身足論",
+    "path": "T/T26/T26n1540.xml",
+    "sha": "134ffe5e05c39d4749debf7b8b484b1314bc3a4c",
+    "bytes": 139944,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1541",
+    "title": "眾事分阿毘曇論",
+    "path": "T/T26/T26n1541.xml",
+    "sha": "b3918e407654754bc33c245a23515beb00b065d4",
+    "bytes": 725342,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1542",
+    "title": "阿毘達磨品類足論",
+    "path": "T/T26/T26n1542.xml",
+    "sha": "193c6e7908e74219cfab0ddb69432cbd951160b8",
+    "bytes": 757012,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1543",
+    "title": "阿毘曇八犍度論",
+    "path": "T/T26/T26n1543.xml",
+    "sha": "3e93b5b17ca3bace95c98f395c20854014c4e91e",
+    "bytes": 2809146,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T26",
+    "id": "T26n1544",
+    "title": "阿毘達磨發智論",
+    "path": "T/T26/T26n1544.xml",
+    "sha": "2da2c2855a4a5f4f5a2c18e492db58843c495cc7",
+    "bytes": 1949302,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

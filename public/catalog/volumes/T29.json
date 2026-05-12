@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1558",
+    "title": "阿毘達磨俱舍論",
+    "path": "T/T29/T29n1558.xml",
+    "sha": "7dcd75acb7f654f6b06750d6acca33e6a1adc84f",
+    "bytes": 1870643,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1559",
+    "title": "阿毘達磨俱舍釋論",
+    "path": "T/T29/T29n1559.xml",
+    "sha": "45efc58022f1e6c904feb0c8f855289fd07af2b0",
+    "bytes": 2027259,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1560",
+    "title": "阿毘達磨俱舍論本頌",
+    "path": "T/T29/T29n1560.xml",
+    "sha": "247ef725727472b91dfb0c8d37e81f6bb4b45a97",
+    "bytes": 157348,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1561",
+    "title": "俱舍論實義疏",
+    "path": "T/T29/T29n1561.xml",
+    "sha": "8b007a1f06078e5cc9370a7c71616d37b17c2816",
+    "bytes": 35102,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1562",
+    "title": "阿毘達磨順正理論",
+    "path": "T/T29/T29n1562.xml",
+    "sha": "4d14d91c77f36f72611359268e66969e05966dbe",
+    "bytes": 4792104,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T29",
+    "id": "T29n1563",
+    "title": "阿毘達磨藏顯宗論",
+    "path": "T/T29/T29n1563.xml",
+    "sha": "4b0fe8a65fe89d43161405ba40fca9624f01a37e",
+    "bytes": 2136604,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

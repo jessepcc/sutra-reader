@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "T",
+    "volume": "T41",
+    "id": "T41n1821",
+    "title": "俱舍論記",
+    "path": "T/T41/T41n1821.xml",
+    "sha": "d4510488b1bd2450792048e11b4c93e91d76333d",
+    "bytes": 6446053,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T41",
+    "id": "T41n1822",
+    "title": "俱舍論疏",
+    "path": "T/T41/T41n1822.xml",
+    "sha": "66001c777c701476b3345c519033f75a9d585201",
+    "bytes": 7577561,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T41",
+    "id": "T41n1823",
+    "title": "俱舍論頌疏",
+    "path": "T/T41/T41n1823.xml",
+    "sha": "48a99eff8058cd7524fd25337c3f7918296779b3",
+    "bytes": 2053872,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

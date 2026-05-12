@@ -1,0 +1,272 @@
+[
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0921",
+    "title": "摩訶止觀義例纂要",
+    "path": "X/X56/X56n0921.xml",
+    "sha": "91c82aec59e2195ee1273446f1a398c1097c6afc",
+    "bytes": 1175664,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0922",
+    "title": "摩訶止觀義例科",
+    "path": "X/X56/X56n0922.xml",
+    "sha": "e1f00dfdcea9f5a0281472a0f009fb1dfd122a1b",
+    "bytes": 300032,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0923",
+    "title": "摩訶止觀義例隨釋",
+    "path": "X/X56/X56n0923.xml",
+    "sha": "a2ef25104bf4ce69693b84c976da747d144e9e7e",
+    "bytes": 924513,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0924",
+    "title": "摩訶止觀貫義科",
+    "path": "X/X56/X56n0924.xml",
+    "sha": "308ee8a31546310508d1d201330df5104d6c1557",
+    "bytes": 907509,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0925",
+    "title": "十不二門義",
+    "path": "X/X56/X56n0925.xml",
+    "sha": "38a24ff1f18b3a73d0c426edd3ff0cc740768848",
+    "bytes": 68773,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0926",
+    "title": "法華十妙不二門示珠指",
+    "path": "X/X56/X56n0926.xml",
+    "sha": "16665add2cf67f91c39910770818475345a9322f",
+    "bytes": 203459,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0927",
+    "title": "註法華本迹十不二門",
+    "path": "X/X56/X56n0927.xml",
+    "sha": "063f5b7b6a16deacbacb9c83e1768d3ed989f8c6",
+    "bytes": 211630,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0928",
+    "title": "十不二門文心解",
+    "path": "X/X56/X56n0928.xml",
+    "sha": "64251e4eba1221e64c3a5d9379c1e5a724b444ec",
+    "bytes": 187037,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0929",
+    "title": "法華玄記十不二門顯妙",
+    "path": "X/X56/X56n0929.xml",
+    "sha": "5681d764f50b87377e800c0e5531cc1af520b339",
+    "bytes": 94304,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0930",
+    "title": "十不二門樞要",
+    "path": "X/X56/X56n0930.xml",
+    "sha": "f231d6b5b6b30a43cb5bca3d3d6d4ddb4110b69c",
+    "bytes": 423341,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0931",
+    "title": "十不二門指要鈔詳解",
+    "path": "X/X56/X56n0931.xml",
+    "sha": "7a20dfc8efd5ce09af592af4b6b8f72e41d4734a",
+    "bytes": 941401,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0932",
+    "title": "金剛錍論私記",
+    "path": "X/X56/X56n0932.xml",
+    "sha": "b8f73fa9bbca8ea86d32f0cae4a558eb5f877ba1",
+    "bytes": 208270,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0933",
+    "title": "金剛錍科",
+    "path": "X/X56/X56n0933.xml",
+    "sha": "1196a0268931a45dbb42157eb7d676c0e1b596f3",
+    "bytes": 61446,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0934",
+    "title": "金剛錍科",
+    "path": "X/X56/X56n0934.xml",
+    "sha": "673ee3a2ed955194c1e5ae43554318ea279244d5",
+    "bytes": 19311,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0935",
+    "title": "金剛錍顯性錄",
+    "path": "X/X56/X56n0935.xml",
+    "sha": "328b4fe5c953a6964e0f63a41284b4d155b5408e",
+    "bytes": 466429,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0936",
+    "title": "金剛錍論義解",
+    "path": "X/X56/X56n0936.xml",
+    "sha": "95e18cb62ce6ade8ed96b1ae37207627e5969ced",
+    "bytes": 115765,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0937",
+    "title": "金剛錍論釋文",
+    "path": "X/X56/X56n0937.xml",
+    "sha": "24b9f73a1f0f6946aacb696cc1b7e469f68571c2",
+    "bytes": 323587,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0938",
+    "title": "始終心要注",
+    "path": "X/X56/X56n0938.xml",
+    "sha": "396639343d926f6175d6385aa9eb23ae84e4a82b",
+    "bytes": 16767,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0939",
+    "title": "法華五百問論",
+    "path": "X/X56/X56n0939.xml",
+    "sha": "c58661760a6a8d98c1c62edbdc606cdd536b4f28",
+    "bytes": 990361,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0940",
+    "title": "學天台宗法門大意",
+    "path": "X/X56/X56n0940.xml",
+    "sha": "302cbe379fa5cf81681d3f895a533ae6830e0c2b",
+    "bytes": 10836,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0941",
+    "title": "六即義",
+    "path": "X/X56/X56n0941.xml",
+    "sha": "6310400b36f1b39e8ffe61431fc9710ec4dfe5cd",
+    "bytes": 9951,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0942",
+    "title": "天台宗未決（附釋疑）",
+    "path": "X/X56/X56n0942.xml",
+    "sha": "8d26820076b20db91aacff17fe15844a949d64d9",
+    "bytes": 286992,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0943",
+    "title": "法華龍女成佛權實義",
+    "path": "X/X56/X56n0943.xml",
+    "sha": "b0ab866b499452fd2c2e74f238a06f391a314ef9",
+    "bytes": 34246,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0944",
+    "title": "寶雲振祖集",
+    "path": "X/X56/X56n0944.xml",
+    "sha": "71ea62ce877d3df8cfd590f532c962f29881f831",
+    "bytes": 83244,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0946",
+    "title": "螺溪振祖集",
+    "path": "X/X56/X56n0946.xml",
+    "sha": "8ff46166831c10a5a812fd58af22f881fb2287a6",
+    "bytes": 50379,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0948",
+    "title": "四明仁岳異說叢書",
+    "path": "X/X56/X56n0948.xml",
+    "sha": "fc68db15b3cadbbacdd87c1020c636df49eb3e0f",
+    "bytes": 529784,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X56",
+    "id": "X56n0949",
+    "title": "閑居編",
+    "path": "X/X56/X56n0949.xml",
+    "sha": "d46ff5b617d8aade6378d7d58da933d3a1cdec73",
+    "bytes": 909162,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

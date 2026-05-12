@@ -1,0 +1,62 @@
+[
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB271",
+    "title": "閱藏知津(第6卷-第44卷)",
+    "path": "J/J32/J32nB271.xml",
+    "sha": "48a7341d019e82816a3ce1770b806c8d944c056b",
+    "bytes": 1699363,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB272",
+    "title": "明州天童景德禪寺宏智覺禪師語錄",
+    "path": "J/J32/J32nB272.xml",
+    "sha": "695404a94bcf84dfc3cd6b3d3d2d95df9f89a64f",
+    "bytes": 226975,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB273",
+    "title": "千巖和尚語錄",
+    "path": "J/J32/J32nB273.xml",
+    "sha": "73389cbfdd7540ddc009b8d5deeff2fea197d89b",
+    "bytes": 345229,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB275",
+    "title": "興善南明廣禪師語錄",
+    "path": "J/J32/J32nB275.xml",
+    "sha": "3051f6b41c718d2ac77b1c4b9866ebb4f36b925a",
+    "bytes": 56303,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB276",
+    "title": "不會禪師語錄",
+    "path": "J/J32/J32nB276.xml",
+    "sha": "599978e44e1bab0e87d4db865bdd2acad1d65694",
+    "bytes": 407946,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J32",
+    "id": "J32nB277",
+    "title": "雲棲法彙（選錄）(第1卷-第11卷)",
+    "path": "J/J32/J32nB277.xml",
+    "sha": "0aa519b83d4d1097d7c4d2828f8ee663f374683c",
+    "bytes": 583880,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

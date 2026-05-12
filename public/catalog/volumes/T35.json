@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "T",
+    "volume": "T35",
+    "id": "T35n1731",
+    "title": "華嚴遊意",
+    "path": "T/T35/T35n1731.xml",
+    "sha": "d34d583b55a9ed168842391625166d93f3a7fefc",
+    "bytes": 319789,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T35",
+    "id": "T35n1732",
+    "title": "大方廣佛華嚴經搜玄分齊通智方軌",
+    "path": "T/T35/T35n1732.xml",
+    "sha": "7cbf7524ff6537c129edd775f72eed1b3a711dc5",
+    "bytes": 820887,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T35",
+    "id": "T35n1733",
+    "title": "華嚴經探玄記",
+    "path": "T/T35/T35n1733.xml",
+    "sha": "9e0eaed8c2cd6cf7f6cdf8e21fa26c1de6514bde",
+    "bytes": 5216018,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T35",
+    "id": "T35n1734",
+    "title": "花嚴經文義綱目",
+    "path": "T/T35/T35n1734.xml",
+    "sha": "39e1703be3bbc2a39fe4c5ab8ba9ec5c6883f6d3",
+    "bytes": 157564,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T35",
+    "id": "T35n1735",
+    "title": "大方廣佛華嚴經疏",
+    "path": "T/T35/T35n1735.xml",
+    "sha": "0781e26c559580c8a2c0718e075da248b3b17310",
+    "bytes": 4542301,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB325",
+    "title": "解惑篇",
+    "path": "J/J35/J35nB325.xml",
+    "sha": "67fbf9911aa15be29f8ba5471fcfa182ae2ad9a9",
+    "bytes": 483598,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB326",
+    "title": "木人剩稿",
+    "path": "J/J35/J35nB326.xml",
+    "sha": "faf808391e4b030b64d85828b5b099cc15d5d505",
+    "bytes": 360132,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB336",
+    "title": "南海寶象林慧弓詗禪師語錄",
+    "path": "J/J35/J35nB336.xml",
+    "sha": "bb7e3c5d439fd4265d7504780ef53ea28c4d4b38",
+    "bytes": 424753,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB337",
+    "title": "寶持總禪師語錄",
+    "path": "J/J35/J35nB337.xml",
+    "sha": "55f390cc2ce6aa32d03617a1199ae2831456574f",
+    "bytes": 91870,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB338",
+    "title": "靈瑞尼祖揆符禪師妙湛錄",
+    "path": "J/J35/J35nB338.xml",
+    "sha": "7f1796139446a6fa69264f2c6b7f2ad5a296cc6f",
+    "bytes": 291203,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB339",
+    "title": "靈瑞禪師嵒華集",
+    "path": "J/J35/J35nB339.xml",
+    "sha": "badf137f91293b170a451966355cd68d009f0749",
+    "bytes": 241040,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB340",
+    "title": "慧覺衣禪師語錄",
+    "path": "J/J35/J35nB340.xml",
+    "sha": "a59762f1830bd2abe5b9e5328b9de53b94250bfa",
+    "bytes": 175239,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB341",
+    "title": "佛語御禪師語錄",
+    "path": "J/J35/J35nB341.xml",
+    "sha": "54597f7d19cbbd687d0492a7a10c10a1416fe207",
+    "bytes": 27047,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB342",
+    "title": "華嚴聖可禪師語錄",
+    "path": "J/J35/J35nB342.xml",
+    "sha": "783ec9645c21d1211718cdd11979124012e5ed39",
+    "bytes": 262941,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "J",
+    "volume": "J35",
+    "id": "J35nB343",
+    "title": "廣福山勝覺寺密印禪師語錄",
+    "path": "J/J35/J35nB343.xml",
+    "sha": "3b4682f2bf24bfcc9ed8de18c02a53a0d1095b43",
+    "bytes": 596760,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

@@ -38,7 +38,7 @@ export function AboutPage() {
       <h2>隱私</h2>
       <p>
         無賬戶、無雲端同步、無第三方分析。
-        對外連線僅限：jsDelivr CDN（取文本）以及更新清單端點。
+        對外連線僅限：GitHub raw（取文本）、本 App 的 catalog / manifest JSON，以及 Google Fonts（字體）。
       </p>
 
       <h2>商業利用</h2>

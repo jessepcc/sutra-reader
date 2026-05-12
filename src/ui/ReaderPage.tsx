@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Link, Navigate, useNavigate, useParams } from "react-router-dom";
-import { CATALOG, GAIJI } from "../lib/catalog-context";
-import { findText, gatedCanonForTextId, isGatedCanon } from "../lib/catalog";
+import { findTextById, GAIJI } from "../lib/catalog-context";
+import { gatedCanonForTextId, isGatedCanon } from "../lib/catalog";
 import { loadText, type LoadedText } from "../lib/fetcher";
 import { searchHtml } from "../lib/tei";
 import {
@@ -11,7 +11,8 @@ import {
   toggleSaved as toggleSavedDb,
 } from "../lib/db";
 import { useSettings } from "../lib/settings-context";
-import type { PaperMode, ReadingDirection } from "../lib/types";
+import { precacheSavedText } from "../lib/sync";
+import type { PaperMode, ReadingDirection, TextEntry } from "../lib/types";
 
 const PAPER_LABELS: Record<PaperMode, string> = {
   paper: "紙",
@@ -23,12 +24,17 @@ export function ReaderPage() {
   const { textId = "" } = useParams();
   const navigate = useNavigate();
   const { settings, update } = useSettings();
-  const entry = useMemo(() => findText(CATALOG, textId), [textId]);
+  const [entry, setEntry] = useState<TextEntry | null | undefined>(undefined);
   const [loaded, setLoaded] = useState<LoadedText | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
   const [query, setQuery] = useState("");
   const contentRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    setEntry(undefined);
+    void findTextById(textId).then((text) => setEntry(text ?? null));
+  }, [textId]);
 
   useEffect(() => {
     if (!entry) return;
@@ -103,7 +109,9 @@ export function ReaderPage() {
 
   const toggleSaved = useCallback(async () => {
     if (!entry) return;
-    setSaved(await toggleSavedDb(entry.id));
+    const next = await toggleSavedDb(entry.id);
+    setSaved(next);
+    if (next) void precacheSavedText(entry.id);
   }, [entry]);
 
   const bookmarkHere = useCallback(async () => {
@@ -129,7 +137,15 @@ export function ReaderPage() {
     );
   }, [loaded, query]);
 
-  if (!entry) {
+  if (entry === undefined) {
+    return (
+      <main>
+        <p className="muted">載入中…</p>
+      </main>
+    );
+  }
+
+  if (entry === null) {
     const gated = gatedCanonForTextId(textId);
     if (gated) {
       return <Navigate to={`/gated/${gated}`} replace />;
@@ -182,14 +198,17 @@ export function ReaderPage() {
           >
             {loaded.rendered.juans.map((j) => (
               <section key={j.id} data-juan={j.id} aria-label={j.head ?? `卷 ${j.id}`}>
-                {/* eslint-disable-next-line react/no-danger */}
                 <div dangerouslySetInnerHTML={{ __html: j.html }} />
               </section>
             ))}
 
             <hr />
             <div className="muted">
-              {loaded.fromCache ? "離線快取" : "已快取此典"}　·　{loaded.rendered.issues.length} 個渲染註記
+              {loaded.stale
+                ? "離線快取（來源已有更新）"
+                : loaded.fromCache
+                  ? "離線快取"
+                  : "已快取此典"}　·　{loaded.rendered.issues.length} 個渲染註記
             </div>
           </div>
 

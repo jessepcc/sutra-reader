@@ -1,0 +1,112 @@
+[
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0321",
+    "title": "楞伽經註",
+    "path": "X/X17/X17n0321.xml",
+    "sha": "0dfc1969e2341cb490bca8c2ada06a49711220e8",
+    "bytes": 308621,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0322",
+    "title": "楞伽經疏",
+    "path": "X/X17/X17n0322.xml",
+    "sha": "4f8a044fc0ac7ee801d9426b178870648fe0847b",
+    "bytes": 219098,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0323",
+    "title": "楞伽經通義",
+    "path": "X/X17/X17n0323.xml",
+    "sha": "6bd4c76a049c5b07592499c82d0b9c09a63e2673",
+    "bytes": 972793,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0324",
+    "title": "楞伽經集註",
+    "path": "X/X17/X17n0324.xml",
+    "sha": "387e26a73dc8318f932084b088cc925e8001ae19",
+    "bytes": 736726,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0325",
+    "title": "楞伽經纂",
+    "path": "X/X17/X17n0325.xml",
+    "sha": "83ce231cabccd5b14137bfe5f91cdc6258d52e7e",
+    "bytes": 461028,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0326",
+    "title": "觀楞伽經記",
+    "path": "X/X17/X17n0326.xml",
+    "sha": "14b3676e90eb29e49c940d7d40649420a5c58c2d",
+    "bytes": 1585517,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0327",
+    "title": "楞伽補遺",
+    "path": "X/X17/X17n0327.xml",
+    "sha": "de59f31040c8401ef440f20210260dd8a693ad0f",
+    "bytes": 71791,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0328",
+    "title": "楞伽經玄義",
+    "path": "X/X17/X17n0328.xml",
+    "sha": "66717c2ac0fe91885874a56ea44462c4d9c8b45a",
+    "bytes": 85329,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0329",
+    "title": "楞伽經義疏",
+    "path": "X/X17/X17n0329.xml",
+    "sha": "ee4dbf9e8bf6dad4c70a5255bc8245cbf04e008d",
+    "bytes": 1273627,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0330",
+    "title": "楞伽經宗通",
+    "path": "X/X17/X17n0330.xml",
+    "sha": "84b5b4c39326b3e2a03204d0e51976e15e7cf9e0",
+    "bytes": 2047926,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X17",
+    "id": "X17n0331",
+    "title": "楞伽經合轍",
+    "path": "X/X17/X17n0331.xml",
+    "sha": "08c847e07647f4a73c76bc18b57c5f957ef40e21",
+    "bytes": 1304116,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

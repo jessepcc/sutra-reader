@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA015",
+    "id": "GA015n0013",
+    "title": "七塔寺志",
+    "path": "GA/GA015/GA015n0013.xml",
+    "sha": "f349053e090d3e6ac5a9efe820d235401e212f6c",
+    "bytes": 478015,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA015",
+    "id": "GA015n0014",
+    "title": "明州岳林寺志",
+    "path": "GA/GA015/GA015n0014.xml",
+    "sha": "82c81408884b240a391825ea326de3d64f712e7f",
+    "bytes": 237854,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

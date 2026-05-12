@@ -1,0 +1,72 @@
+[
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1579",
+    "title": "續指月錄",
+    "path": "X/X84/X84n1579.xml",
+    "sha": "b5f87828eeb7e093ee617e08b7e649a2ef2aef0d",
+    "bytes": 1793328,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1580",
+    "title": "教外別傳",
+    "path": "X/X84/X84n1580.xml",
+    "sha": "9d56e8a9c168c8c342d571f47bbfb5dde5ababb0",
+    "bytes": 2327365,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1581",
+    "title": "皇明名僧輯略",
+    "path": "X/X84/X84n1581.xml",
+    "sha": "7011abe69268fb30de85cd2347f6011860e82869",
+    "bytes": 206441,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1582",
+    "title": "續燈正統目錄",
+    "path": "X/X84/X84n1582.xml",
+    "sha": "f196398a542bba3564f1a779fbeb5845402d2ddb",
+    "bytes": 239713,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1583",
+    "title": "續燈正統",
+    "path": "X/X84/X84n1583.xml",
+    "sha": "6fe953cee73266157f72869db16be1dcb3f96804",
+    "bytes": 2739857,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1584",
+    "title": "續燈存稿目錄",
+    "path": "X/X84/X84n1584.xml",
+    "sha": "8a07e4dac24dc9cf06adbd6289bbe2c8c34bed4b",
+    "bytes": 73153,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X84",
+    "id": "X84n1585",
+    "title": "續燈存稿",
+    "path": "X/X84/X84n1585.xml",
+    "sha": "3138d208bb373be8aafdd0126d7c9a33857e1bf2",
+    "bytes": 1459222,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

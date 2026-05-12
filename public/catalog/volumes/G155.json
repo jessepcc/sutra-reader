@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "G",
+    "volume": "G155",
+    "id": "G155n2589",
+    "title": "法寶壇經解義",
+    "path": "G/G155/G155n2589.xml",
+    "sha": "438ba62ee6d612935919e69176a4bba13be7ffdd",
+    "bytes": 290673,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "G",
+    "volume": "G155",
+    "id": "G155n2590",
+    "title": "六祖大師法寶壇經箋註",
+    "path": "G/G155/G155n2590.xml",
+    "sha": "d66f6e389c5d949c6166a5b42d0abd08b64c562b",
+    "bytes": 1089913,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

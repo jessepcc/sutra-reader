@@ -25,7 +25,7 @@ function spaFallback(): Plugin {
 }
 
 export default defineConfig(({ command }) => ({
-  base: command === "build" ? "/sutra-reader/" : "/",
+  base: command === "build" ? (process.env.VITE_BASE_PATH ?? "/sutra-reader/") : "/",
   plugins: [
     react(),
     spaFallback(),
@@ -55,14 +55,30 @@ export default defineConfig(({ command }) => ({
         ],
       },
       workbox: {
-        globPatterns: ["**/*.{js,css,html,svg,woff2,json}"],
+        globPatterns: ["**/*.{js,css,html,svg,woff2}"],
         runtimeCaching: [
           {
-            urlPattern: /^https:\/\/cdn\.jsdelivr\.net\/gh\/cbeta-org\/xml-p5@.*/,
+            urlPattern: /^https:\/\/raw\.githubusercontent\.com\/cbeta-org\/xml-p5\/.*/,
             handler: "CacheFirst",
             options: {
               cacheName: "cbeta-xml",
               expiration: { maxEntries: 500, maxAgeSeconds: 60 * 60 * 24 * 90 },
+            },
+          },
+          {
+            urlPattern: /\/(?:sutra-reader\/)?catalog\/.*\.json$/,
+            handler: "StaleWhileRevalidate",
+            options: {
+              cacheName: "catalog-shards",
+              expiration: { maxEntries: 600, maxAgeSeconds: 60 * 60 * 24 * 7 },
+            },
+          },
+          {
+            urlPattern: /\/(?:sutra-reader\/)?manifest\.json$/,
+            handler: "StaleWhileRevalidate",
+            options: {
+              cacheName: "source-manifest",
+              expiration: { maxEntries: 4, maxAgeSeconds: 60 * 60 * 24 },
             },
           },
         ],

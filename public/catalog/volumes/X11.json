@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X11",
+    "id": "X11n0267",
+    "title": "楞嚴經義疏釋要鈔",
+    "path": "X/X11/X11n0267.xml",
+    "sha": "7b13587a6c40107cce698170cb40f4048a5e28d8",
+    "bytes": 1055651,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X11",
+    "id": "X11n0268",
+    "title": "楞嚴經集註",
+    "path": "X/X11/X11n0268.xml",
+    "sha": "75c60f6e4c780637f155b10e380ef97de16f862a",
+    "bytes": 2260981,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X11",
+    "id": "X11n0269",
+    "title": "楞嚴經熏聞記",
+    "path": "X/X11/X11n0269.xml",
+    "sha": "a5921ccae6a9780f8979fab28b63a8f4e2ccd9b2",
+    "bytes": 1049559,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X11",
+    "id": "X11n0270",
+    "title": "楞嚴經要解",
+    "path": "X/X11/X11n0270.xml",
+    "sha": "584e3563c95a3fd00e2f2bd9438d55a41dc1c906",
+    "bytes": 1331757,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X11",
+    "id": "X11n0271",
+    "title": "楞嚴經箋",
+    "path": "X/X11/X11n0271.xml",
+    "sha": "f919125bbf4cb4b0609cef7f5e2884a259310f0d",
+    "bytes": 2925591,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

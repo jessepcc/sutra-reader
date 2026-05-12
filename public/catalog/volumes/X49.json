@@ -1,0 +1,42 @@
+[
+  {
+    "canon": "X",
+    "volume": "X49",
+    "id": "X49n0810",
+    "title": "成唯識論掌中樞要記",
+    "path": "X/X49/X49n0810.xml",
+    "sha": "5f6a233babb2cb5d9db5d9fb94dc8f06f0721f3f",
+    "bytes": 96698,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X49",
+    "id": "X49n0812",
+    "title": "成唯識論了義燈記",
+    "path": "X/X49/X49n0812.xml",
+    "sha": "162077847480f023eb20d10ab85cd3c39fbdb9d9",
+    "bytes": 139592,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X49",
+    "id": "X49n0814",
+    "title": "成唯識論義蘊",
+    "path": "X/X49/X49n0814.xml",
+    "sha": "ad0962c92a5875d48230c9a945896d16a8a354fc",
+    "bytes": 1051050,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X49",
+    "id": "X49n0815",
+    "title": "成唯識論疏義演",
+    "path": "X/X49/X49n0815.xml",
+    "sha": "3c7258dd44ff7ac865bdf07d7abae965a66b027e",
+    "bytes": 4471155,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

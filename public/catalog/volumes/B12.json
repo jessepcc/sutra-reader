@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "B",
+    "volume": "B12",
+    "id": "B12n0077",
+    "title": "洛陽伽藍記校釋",
+    "path": "B/B12/B12n0077.xml",
+    "sha": "d23ddbd3de7bef1a9b76d9b4399bc761c2d16ba3",
+    "bytes": 751347,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B12",
+    "id": "B12n0078",
+    "title": "洛陽伽藍記校注",
+    "path": "B/B12/B12n0078.xml",
+    "sha": "da58ccd3976d0da146c343403ff23820c5c72e17",
+    "bytes": 1414601,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "B",
+    "volume": "B12",
+    "id": "B12na010",
+    "title": "洛陽伽藍記解題",
+    "path": "B/B12/B12na010.xml",
+    "sha": "3b90d31c6b6fa4204ffc555b49c21ed184d4845b",
+    "bytes": 11560,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

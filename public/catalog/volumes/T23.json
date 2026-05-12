@@ -1,0 +1,132 @@
+[
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1435",
+    "title": "十誦律",
+    "path": "T/T23/T23n1435.xml",
+    "sha": "a7304d08a0ecf44c6da0bce4060e7205fbaca9bd",
+    "bytes": 10501498,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1436",
+    "title": "十誦比丘波羅提木叉戒本",
+    "path": "T/T23/T23n1436.xml",
+    "sha": "16ab907c6cf0478380a6173566541cb0cb7466a7",
+    "bytes": 280939,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1437",
+    "title": "十誦比丘尼波羅提木叉戒本",
+    "path": "T/T23/T23n1437.xml",
+    "sha": "e4b457503b4bab52445211ade06ab397cd74f72b",
+    "bytes": 275247,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1438",
+    "title": "大沙門百一羯磨法",
+    "path": "T/T23/T23n1438.xml",
+    "sha": "9a2de3c42a79e65352b85832a3185d6b61c20709",
+    "bytes": 85504,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1439",
+    "title": "十誦羯磨比丘要用",
+    "path": "T/T23/T23n1439.xml",
+    "sha": "1ccf05b92c82da3a71f8ecdb3559f0a7d82c901d",
+    "bytes": 121828,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1440",
+    "title": "薩婆多毘尼毘婆沙",
+    "path": "T/T23/T23n1440.xml",
+    "sha": "bb82b845ca3bdac181bc0f7e1c3d79451588ceb7",
+    "bytes": 1017376,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1441",
+    "title": "薩婆多部毘尼摩得勒伽",
+    "path": "T/T23/T23n1441.xml",
+    "sha": "9f744f4d62ef9e16671cac9c3166000d24aee134",
+    "bytes": 966968,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1442",
+    "title": "根本說一切有部毘奈耶",
+    "path": "T/T23/T23n1442.xml",
+    "sha": "25155f0a8c56e14cc73d38a8a7be13f160692a1d",
+    "bytes": 3784524,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1443",
+    "title": "根本說一切有部苾芻尼毘奈耶",
+    "path": "T/T23/T23n1443.xml",
+    "sha": "ceb3b80e7edc35ccc934b828076ff388f9af0bd6",
+    "bytes": 1512745,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1444",
+    "title": "根本說一切有部毘奈耶出家事",
+    "path": "T/T23/T23n1444.xml",
+    "sha": "2ccd55376c722d2808ce212e164c692affdad950",
+    "bytes": 189284,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1445",
+    "title": "根本說一切有部毘奈耶安居事",
+    "path": "T/T23/T23n1445.xml",
+    "sha": "a9f0850f8910a773ee0352b18687b0e71cbfb83b",
+    "bytes": 35803,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1446",
+    "title": "根本說一切有部毘奈耶隨意事",
+    "path": "T/T23/T23n1446.xml",
+    "sha": "50a61ea162432be41826fddab3e79e62b17f75a7",
+    "bytes": 37164,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "T",
+    "volume": "T23",
+    "id": "T23n1447",
+    "title": "根本說一切有部毘奈耶皮革事",
+    "path": "T/T23/T23n1447.xml",
+    "sha": "ca5ce52b36d8526db3d5a5ce284524e9f29eb61b",
+    "bytes": 81652,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

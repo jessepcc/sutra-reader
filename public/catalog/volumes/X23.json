@@ -1,0 +1,52 @@
+[
+  {
+    "canon": "X",
+    "volume": "X23",
+    "id": "X23n0438",
+    "title": "大日經義釋",
+    "path": "X/X23/X23n0438.xml",
+    "sha": "178f3ca2d4dc6fe377baac891fc922c3947f7435",
+    "bytes": 4039054,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X23",
+    "id": "X23n0439",
+    "title": "大日經義釋演密鈔",
+    "path": "X/X23/X23n0439.xml",
+    "sha": "1e4a9e6380cfc099d3abedce3d44c685769f3650",
+    "bytes": 1519329,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X23",
+    "id": "X23n0445",
+    "title": "佛頂尊勝陀羅尼經釋",
+    "path": "X/X23/X23n0445.xml",
+    "sha": "7a9c8bd91027933dc5051594453938ea4e36e563",
+    "bytes": 127258,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X23",
+    "id": "X23n0446",
+    "title": "七俱胝佛母所說準提陀羅尼經會釋",
+    "path": "X/X23/X23n0446.xml",
+    "sha": "f040c642e2a4ad0aeab5cd6d77872ab4636c48d9",
+    "bytes": 503650,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X23",
+    "id": "X23n0447",
+    "title": "觀自在菩薩如意心陀羅尼經略疏",
+    "path": "X/X23/X23n0447.xml",
+    "sha": "ce5edf1775f579d51e2bc7973538dac748e710ca",
+    "bytes": 129751,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

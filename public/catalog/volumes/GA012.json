@@ -1,0 +1,22 @@
+[
+  {
+    "canon": "GA",
+    "volume": "GA012",
+    "id": "GA012n0010",
+    "title": "明州阿育王山志(第9卷-第10卷)",
+    "path": "GA/GA012/GA012n0010.xml",
+    "sha": "ba3e88631ba9c8f9dd2b00ee52addf0469d50c94",
+    "bytes": 341786,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "GA",
+    "volume": "GA012",
+    "id": "GA012n0011",
+    "title": "明州阿育王山續志",
+    "path": "GA/GA012/GA012n0011.xml",
+    "sha": "7eb72f0736dfe8e8f1c78f05d3a9512e5543c76b",
+    "bytes": 457786,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

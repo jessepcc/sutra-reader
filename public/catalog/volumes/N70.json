@@ -1,0 +1,32 @@
+[
+  {
+    "canon": "N",
+    "volume": "N70",
+    "id": "N70n0036",
+    "title": "一切善見律註序",
+    "path": "N/N70/N70n0036.xml",
+    "sha": "e78b324c8d390aa4747e4caa4e0e9c20020546ac",
+    "bytes": 212180,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N70",
+    "id": "N70n0037",
+    "title": "攝阿毘達磨義論",
+    "path": "N/N70/N70n0037.xml",
+    "sha": "50a3a2ea4a7d9d1e8e5af9c04f8ad2165c78dddd",
+    "bytes": 205535,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "N",
+    "volume": "N70",
+    "id": "N70n0038",
+    "title": "阿育王刻文",
+    "path": "N/N70/N70n0038.xml",
+    "sha": "a201c05d38f41298ba671bbe9460f17ada6c20db",
+    "bytes": 190316,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]

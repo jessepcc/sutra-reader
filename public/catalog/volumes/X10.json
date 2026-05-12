@@ -1,0 +1,172 @@
+[
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0249",
+    "title": "圓覺經鈔辨疑誤",
+    "path": "X/X10/X10n0249.xml",
+    "sha": "07dcb3bf8897bb612d877f0f06a7e2033e0606bc",
+    "bytes": 115331,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0250",
+    "title": "圓覺經疏鈔隨文要解",
+    "path": "X/X10/X10n0250.xml",
+    "sha": "4b43efe3de2ba0596d03c8bb3309e52cb46f16f3",
+    "bytes": 1586111,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0251",
+    "title": "御註圓覺經",
+    "path": "X/X10/X10n0251.xml",
+    "sha": "10fe6352d43d0610053c30adaf21e8bdc9bde1d4",
+    "bytes": 303925,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0252",
+    "title": "圓覺經類解",
+    "path": "X/X10/X10n0252.xml",
+    "sha": "133eac4de33c8f551052a69c26392dcabf5b4457",
+    "bytes": 769227,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0253",
+    "title": "圓覺經夾頌集解講義",
+    "path": "X/X10/X10n0253.xml",
+    "sha": "94c8ebbe58c2c7af235600943c8a8d51efb8c4d4",
+    "bytes": 1496903,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0254",
+    "title": "圓覺經心鏡",
+    "path": "X/X10/X10n0254.xml",
+    "sha": "2e157518a48c6a967b79dc7b0511c82f045b830d",
+    "bytes": 616323,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0255",
+    "title": "圓覺經序注",
+    "path": "X/X10/X10n0255.xml",
+    "sha": "9d9efb5b1669a6676ad56aad4edd89bd4b131a93",
+    "bytes": 31707,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0256",
+    "title": "圓覺經略疏序注",
+    "path": "X/X10/X10n0256.xml",
+    "sha": "b516e0d0bd310717d0e7f5e9b0e77b69f756fe75",
+    "bytes": 34874,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0257",
+    "title": "圓覺經集註",
+    "path": "X/X10/X10n0257.xml",
+    "sha": "26f3bec32610b74c66cbeec34c94579370f93ad7",
+    "bytes": 507749,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0258",
+    "title": "圓覺經直解",
+    "path": "X/X10/X10n0258.xml",
+    "sha": "a33872581a5917cf4570b7d40c0f401e000d3c1c",
+    "bytes": 326666,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0259",
+    "title": "圓覺經近釋",
+    "path": "X/X10/X10n0259.xml",
+    "sha": "d2ee7cdbad12c6739e613c44401c01e864ba62c7",
+    "bytes": 348824,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0260",
+    "title": "圓覺經要解",
+    "path": "X/X10/X10n0260.xml",
+    "sha": "a4d9fafd9df9302a478737019ab6c8d0bc7593bc",
+    "bytes": 358739,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0261",
+    "title": "圓覺經精解評林",
+    "path": "X/X10/X10n0261.xml",
+    "sha": "a7e0f5399a0c3fac2be5a7201493b41b950da707",
+    "bytes": 330676,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0262",
+    "title": "圓覺經句釋正白",
+    "path": "X/X10/X10n0262.xml",
+    "sha": "2b612346b4ddd68bd8613049bee0b878a2ae7df6",
+    "bytes": 946849,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0263",
+    "title": "圓覺經析義疏",
+    "path": "X/X10/X10n0263.xml",
+    "sha": "da7640aeb5b31eaaacfe59ce670c6e667e79fea5",
+    "bytes": 867077,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0264",
+    "title": "大寶積經述",
+    "path": "X/X10/X10n0264.xml",
+    "sha": "97602c65b90b9d5ed802233d18dcae7a18745b86",
+    "bytes": 13173,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  },
+  {
+    "canon": "X",
+    "volume": "X10",
+    "id": "X10n0265",
+    "title": "楞嚴經義疏注經科",
+    "path": "X/X10/X10n0265.xml",
+    "sha": "5abf8f70b7c5360f60ee2580d9a1611a845f9b25",
+    "bytes": 407206,
+    "sourceSha": "2b8ab8d5e4fe957a9b94f2cde01cb0d2e2dcd2b9"
+  }
+]
