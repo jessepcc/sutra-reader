@@ -14,7 +14,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "coverage": "vitest run --coverage",
-    "deploy": "npm run build && wrangler pages deploy dist --project-name sutra-reader"
+    "deploy": "wrangler pages deploy dist --project-name sutra-reader"
   },
   "dependencies": {
     "fast-xml-parser": "^4.5.0",
@@ -44,6 +44,7 @@
     "typescript-eslint": "^8.8.0",
     "vite": "^5.4.8",
     "vite-plugin-pwa": "^0.20.5",
-    "vitest": "^2.1.2"
+    "vitest": "^2.1.2",
+    "wrangler": "^4.90.1"
   }
 }
