@@ -1,34 +1,14 @@
 /// <reference types="vitest" />
-import { defineConfig, type Plugin } from "vite";
+import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
-// GitHub Pages serves the SPA from /sutra-reader/. Deep links land on the
-// server, which only knows about index.html — emit a 404.html clone so any
-// unmatched path falls back to the React Router on the client.
-function spaFallback(): Plugin {
-  return {
-    name: "spa-404-fallback",
-    apply: "build",
-    enforce: "post",
-    generateBundle(_options, bundle) {
-      const index = bundle["index.html"];
-      if (index && index.type === "asset") {
-        this.emitFile({
-          type: "asset",
-          fileName: "404.html",
-          source: index.source,
-        });
-      }
-    },
-  };
-}
+const CBETA_UPSTREAM = "https://cbdata.dila.edu.tw";
 
-export default defineConfig(({ command }) => ({
-  base: command === "build" ? (process.env.VITE_BASE_PATH ?? "/sutra-reader/") : "/",
+export default defineConfig({
+  base: "/",
   plugins: [
     react(),
-    spaFallback(),
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "icons/*.svg"],
@@ -56,35 +36,50 @@ export default defineConfig(({ command }) => ({
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,woff2}"],
+        // Don't intercept the CF Pages Function path during SW navigations.
+        navigateFallbackDenylist: [/^\/api\//],
         runtimeCaching: [
           {
-            urlPattern: /^https:\/\/raw\.githubusercontent\.com\/cbeta-org\/xml-p5\/.*/,
+            // Per-juan API responses are large and stable per CBETA release.
+            urlPattern: /\/api\/cbeta\/juans\b/,
             handler: "CacheFirst",
             options: {
-              cacheName: "cbeta-xml",
-              expiration: { maxEntries: 500, maxAgeSeconds: 60 * 60 * 24 * 90 },
+              cacheName: "cbeta-juans",
+              expiration: { maxEntries: 2000, maxAgeSeconds: 60 * 60 * 24 * 30 },
             },
           },
           {
-            urlPattern: /\/(?:sutra-reader\/)?catalog\/.*\.json$/,
+            // Other CBETA API calls (search, toc) — prefer network for freshness.
+            urlPattern: /\/api\/cbeta\//,
+            handler: "NetworkFirst",
+            options: {
+              cacheName: "cbeta-api",
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 7 },
+            },
+          },
+          {
+            urlPattern: /\/catalog\/.*\.json$/,
             handler: "StaleWhileRevalidate",
             options: {
               cacheName: "catalog-shards",
               expiration: { maxEntries: 600, maxAgeSeconds: 60 * 60 * 24 * 7 },
             },
           },
-          {
-            urlPattern: /\/(?:sutra-reader\/)?manifest\.json$/,
-            handler: "StaleWhileRevalidate",
-            options: {
-              cacheName: "source-manifest",
-              expiration: { maxEntries: 4, maxAgeSeconds: 60 * 60 * 24 },
-            },
-          },
         ],
       },
     }),
   ],
+  server: {
+    proxy: {
+      // Match what the deployed Pages Function does, so app code is identical
+      // in dev and prod. Rewrite /api/cbeta → /stable on the upstream.
+      "/api/cbeta": {
+        target: CBETA_UPSTREAM,
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api\/cbeta/, "/stable"),
+      },
+    },
+  },
   test: {
     globals: true,
     environment: "jsdom",
@@ -102,4 +97,4 @@ export default defineConfig(({ command }) => ({
       },
     },
   },
-}));
+});

@@ -38,12 +38,21 @@ npm run coverage    # v8 coverage with 70% gate on src/lib/**
 npm run build       # production bundle + PWA service worker
 ```
 
-Builds default to GitHub Pages project hosting at `/sutra-reader/`. For a root
-host such as Cloudflare Pages, build with:
+## Deploy
+
+Hosting is **Cloudflare Pages**, with a same-origin Pages Function at
+`/api/cbeta/*` proxying [the CBETA Open Data API](https://cbdata.dila.edu.tw/).
+The proxy is required because CBETA only emits `Access-Control-Allow-Origin`
+for `Origin: https://cbeta.org`.
 
 ```sh
-VITE_BASE_PATH=/ npm run build
+npm run deploy      # build + wrangler pages deploy dist
 ```
+
+First-time setup: `npm i -g wrangler && wrangler login`, then create a Pages
+project named `sutra-reader` via the Cloudflare dashboard or `wrangler pages
+project create sutra-reader`. The `functions/` directory is auto-deployed as
+edge Functions by Pages.
 
 ## Architecture
 

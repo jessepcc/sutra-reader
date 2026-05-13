@@ -1,6 +1,6 @@
-// Catalog helpers: filter gated canons, build raw GitHub URLs, derive volumes/canons.
+// Catalog helpers: filter gated canons, derive volumes/canons.
 
-import type { Canon, Catalog, CatalogIndex, ManifestFile, TextEntry, Volume } from "./types";
+import type { Canon, Catalog, CatalogIndex, TextEntry, Volume } from "./types";
 
 /**
  * Canons that v1 must exclude from browse (held by third parties under
@@ -57,12 +57,6 @@ export function filterGated<T extends Catalog | CatalogIndex>(catalog: T): T {
   return { ...catalog, canons, volumes, texts } as T;
 }
 
-/** Build the raw GitHub URL for a given text entry using a pinned commit SHA. */
-export function rawGitHubUrl(text: TextEntry): string {
-  const sourceSha = text.sourceSha ?? text.sha;
-  return `https://raw.githubusercontent.com/cbeta-org/xml-p5/${sourceSha}/${text.path}`;
-}
-
 /** Group texts by canon then volume for browse-screen rendering. */
 export function groupByCanon(catalog: Catalog): Map<Canon, Map<Volume, TextEntry[]>> {
   const out = new Map<Canon, Map<Volume, TextEntry[]>>();
@@ -100,16 +94,3 @@ export function findVolume(catalog: Catalog, volumeId: string): Volume | undefin
   return catalog.volumes.find((v) => v.id === volumeId);
 }
 
-/**
- * Diff catalog SHAs against a fresh manifest. Returns the text ids whose
- * upstream sha changed (i.e. need re-fetch).
- */
-export function diffManifest(catalog: Catalog, manifest: { files: ManifestFile[] }): string[] {
-  const shaByPath = new Map(manifest.files.map((f) => [f.path, f.sha] as const));
-  const stale: string[] = [];
-  for (const text of catalog.texts) {
-    const upstream = shaByPath.get(text.path);
-    if (upstream && upstream !== text.sha) stale.push(text.id);
-  }
-  return stale;
-}

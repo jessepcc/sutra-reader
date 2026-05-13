@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Link, Navigate, useNavigate, useParams } from "react-router-dom";
-import { findTextById, GAIJI } from "../lib/catalog-context";
+import { findTextById } from "../lib/catalog-context";
 import { gatedCanonForTextId, isGatedCanon } from "../lib/catalog";
 import { loadText, type LoadedText } from "../lib/fetcher";
-import { searchHtml } from "../lib/tei";
+import { searchHtml } from "../lib/search";
 import {
   addBookmark,
   isSaved,
@@ -46,7 +46,7 @@ export function ReaderPage() {
       return;
     }
 
-    loadText(entry, { gaiji: GAIJI })
+    loadText(entry)
       .then((r) => setLoaded(r))
       .catch((err: Error) => setError(err.message));
 
@@ -61,7 +61,10 @@ export function ReaderPage() {
     if (!hash) return;
     const el = document.getElementById(hash);
     if (el) {
-      requestAnimationFrame(() => el.scrollIntoView({ behavior: "smooth", block: "center" }));
+      // `inline:'center'` is required for vertical-rl, where scrolling happens
+      // on the inline axis. `behavior:'auto'` because smoothly scrolling across
+      // 300k+ px of inline content (e.g. 法華經 j.7) is impractical.
+      el.scrollIntoView({ behavior: "auto", block: "center", inline: "center" });
     }
   }, [loaded]);
 
@@ -197,7 +200,7 @@ export function ReaderPage() {
             ref={contentRef}
           >
             {loaded.rendered.juans.map((j) => (
-              <section key={j.id} data-juan={j.id} aria-label={j.head ?? `卷 ${j.id}`}>
+              <section key={j.id} data-juan={j.id} aria-label={`卷 ${j.id}`}>
                 <div dangerouslySetInnerHTML={{ __html: j.html }} />
               </section>
             ))}
@@ -208,7 +211,7 @@ export function ReaderPage() {
                 ? "離線快取（來源已有更新）"
                 : loaded.fromCache
                   ? "離線快取"
-                  : "已快取此典"}　·　{loaded.rendered.issues.length} 個渲染註記
+                  : "已快取此典"}
             </div>
           </div>
 

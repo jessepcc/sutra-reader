@@ -13,7 +13,8 @@
     "typecheck": "tsc -b --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
-    "coverage": "vitest run --coverage"
+    "coverage": "vitest run --coverage",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name sutra-reader"
   },
   "dependencies": {
     "fast-xml-parser": "^4.5.0",

@@ -1,11 +1,8 @@
 // Async catalog access. The app shell imports only tiny loader code; generated
 // catalog JSON lives in public/catalog/** so browse metadata downloads on demand.
 
-import gaijiJson from "../data/gaiji.json";
 import { filterGated } from "./catalog";
 import type { CatalogIndex, TextEntry } from "./types";
-
-export const GAIJI: Record<string, string> = gaijiJson as Record<string, string>;
 
 let indexPromise: Promise<CatalogIndex> | null = null;
 const volumePromises = new Map<string, Promise<TextEntry[]>>();

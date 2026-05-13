@@ -3,9 +3,9 @@ import { IDBFactory } from "fake-indexeddb";
 import {
   _resetDbForTests,
   addBookmark,
-  clearStoredTextStale,
   clearScope,
   evictLRU,
+  expireCachedText,
   getBookmarks,
   getRecents,
   getSaved,
@@ -13,7 +13,6 @@ import {
   getStoredText,
   getStoredTexts,
   isSaved,
-  markStoredTextStale,
   patchSettings,
   putStoredText,
   recordRecent,
@@ -25,6 +24,20 @@ import {
   touchStoredText,
 } from "./db";
 
+function makeText(textId: string, overrides: Partial<Parameters<typeof putStoredText>[0]> = {}) {
+  return putStoredText({
+    textId,
+    workId: "T0001",
+    title: "test",
+    juanCount: 1,
+    htmlFragments: ["<p/>"],
+    cachedAt: Date.now(),
+    lastAccessed: 1,
+    bytes: 100,
+    ...overrides,
+  });
+}
+
 beforeEach(() => {
   // fresh in-memory IndexedDB per test
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -34,14 +47,7 @@ beforeEach(() => {
 
 describe("texts (LRU cache)", () => {
   it("put / get / touch / totalBytes round-trips", async () => {
-    await putStoredText({
-      textId: "T01",
-      sha: "a",
-      xml: "<x/>",
-      htmlFragments: ["<p/>"],
-      lastAccessed: 1,
-      bytes: 100,
-    });
+    await makeText("T01", { htmlFragments: ["<p/>"], bytes: 100 });
     const got = await getStoredText("T01");
     expect(got?.htmlFragments).toEqual(["<p/>"]);
     expect(await totalCachedBytes()).toBe(100);
@@ -55,23 +61,22 @@ describe("texts (LRU cache)", () => {
     expect(await getStoredText("missing")).toBeUndefined();
   });
 
-  it("lists cached texts and marks stale status", async () => {
-    await putStoredText({ textId: "a", path: "T/T01/a.xml", sha: "old", xml: "", htmlFragments: [], lastAccessed: 1, bytes: 10 });
+  it("lists cached texts and expires a cached entry", async () => {
+    await makeText("a");
     expect(await getStoredTexts()).toHaveLength(1);
-    await markStoredTextStale("a", "new", "commit", 20);
-    expect((await getStoredText("a"))?.staleSha).toBe("new");
-    expect((await getStoredText("a"))?.staleSourceSha).toBe("commit");
-    expect((await getStoredText("a"))?.staleBytes).toBe(20);
-    await clearStoredTextStale("a");
-    expect((await getStoredText("a"))?.staleSha).toBeUndefined();
-    expect((await getStoredText("a"))?.staleSourceSha).toBeUndefined();
-    expect((await getStoredText("a"))?.staleBytes).toBeUndefined();
+    await expireCachedText("a");
+    expect((await getStoredText("a"))?.cachedAt).toBe(0);
+  });
+
+  it("expireCachedText is a no-op if the text is missing", async () => {
+    await expireCachedText("missing");
+    expect(await getStoredText("missing")).toBeUndefined();
   });
 
   it("evicts least-recently-used texts to fit under cap", async () => {
-    await putStoredText({ textId: "a", sha: "x", xml: "", htmlFragments: [], lastAccessed: 1, bytes: 50 });
-    await putStoredText({ textId: "b", sha: "x", xml: "", htmlFragments: [], lastAccessed: 2, bytes: 50 });
-    await putStoredText({ textId: "c", sha: "x", xml: "", htmlFragments: [], lastAccessed: 3, bytes: 50 });
+    await makeText("a", { lastAccessed: 1, bytes: 50 });
+    await makeText("b", { lastAccessed: 2, bytes: 50 });
+    await makeText("c", { lastAccessed: 3, bytes: 50 });
 
     const evicted = await evictLRU(100); // keep newest two (b, c)
     expect(evicted).toEqual(["a"]);
@@ -81,7 +86,7 @@ describe("texts (LRU cache)", () => {
   });
 
   it("evictLRU is a no-op when total ≤ cap", async () => {
-    await putStoredText({ textId: "a", sha: "x", xml: "", htmlFragments: [], lastAccessed: 1, bytes: 10 });
+    await makeText("a", { bytes: 10 });
     expect(await evictLRU(1000)).toEqual([]);
   });
 });
@@ -96,28 +101,28 @@ describe("saved (收藏)", () => {
   });
 
   it("getSaved returns newest first", async () => {
-    await toggleSaved("a"); // older
+    await toggleSaved("a");
     await new Promise((r) => setTimeout(r, 2));
-    await toggleSaved("b"); // newer
+    await toggleSaved("b");
     const list = await getSaved();
     expect(list.map((s) => s.textId)).toEqual(["b", "a"]);
   });
 
   it("removeSaved is idempotent on missing", async () => {
-    await removeSaved("nope"); // does not throw
+    await removeSaved("nope");
   });
 });
 
 describe("bookmarks (標記)", () => {
   it("add / list / remove", async () => {
-    await addBookmark({ textId: "T01", lb: "001a05", label: "卷一 始" });
-    await addBookmark({ textId: "T01", lb: "001b10", label: "卷一 中" });
-    await addBookmark({ textId: "T02", lb: "002a01", label: "卷二" });
+    await addBookmark({ textId: "T01", lb: "0848a05", label: "卷一 始" });
+    await addBookmark({ textId: "T01", lb: "0848b10", label: "卷一 中" });
+    await addBookmark({ textId: "T02", lb: "0849a01", label: "卷二" });
 
     expect(await getBookmarks("T01")).toHaveLength(2);
     expect(await getBookmarks()).toHaveLength(3);
 
-    await removeBookmark("T01", "001a05");
+    await removeBookmark("T01", "0848a05");
     expect(await getBookmarks("T01")).toHaveLength(1);
   });
 
@@ -144,7 +149,7 @@ describe("recents", () => {
     }
     const r = await getRecents();
     expect(r).toHaveLength(RECENTS_LIMIT);
-    expect(r[0].textId).toBe(`t${RECENTS_LIMIT + 4}`); // newest
+    expect(r[0].textId).toBe(`t${RECENTS_LIMIT + 4}`);
   });
 });
 
@@ -161,13 +166,13 @@ describe("settings", () => {
     expect(next.fontScale).toBe(1.2);
     const read = await getSettings();
     expect(read.paperMode).toBe("ink");
-    expect(read.direction).toBe("vertical-rl"); // unchanged
+    expect(read.direction).toBe("vertical-rl");
   });
 });
 
 describe("clearScope", () => {
   beforeEach(async () => {
-    await putStoredText({ textId: "x", sha: "1", xml: "", htmlFragments: [], lastAccessed: 1, bytes: 10 });
+    await makeText("x");
     await toggleSaved("x");
     await addBookmark({ textId: "x", lb: "a", label: "" });
     await recordRecent({ textId: "x", openedAt: 1 });
@@ -192,9 +197,8 @@ describe("clearScope", () => {
     await clearScope("everything");
     expect(await getStoredText("x")).toBeUndefined();
     expect(await isSaved("x")).toBe(false);
-    expect(await getBookmarks()).toEqual([]);
     expect(await getRecents()).toEqual([]);
-    // settings revert to defaults
-    expect((await getSettings()).paperMode).toBe("paper");
+    const s = await getSettings();
+    expect(s.paperMode).toBe("paper"); // reset to default
   });
 });

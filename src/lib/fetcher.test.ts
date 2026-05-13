@@ -1,17 +1,30 @@
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import { IDBFactory } from "fake-indexeddb";
 import { _resetDbForTests, getStoredText, putStoredText } from "./db";
-import { loadText } from "./fetcher";
+import { CACHE_TTL_MS, loadText } from "./fetcher";
 import type { TextEntry } from "./types";
 
-const SAMPLE_XML = `<TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><div type="juan" n="1"><head>測試</head><p>內容</p></div></body></text></TEI>`;
+// Sample HTML that the CBETA API would return for one juan.
+const SAMPLE_JUAN_HTML = `<html><head></head><body><div id='body'><span class="lb" id="T08n0251_p0848a01">T08n0251_p0848a01</span><p class="p">內容</p></div></body></html>`;
+
+const SAMPLE_RESPONSE = JSON.stringify({
+  num_found: 1,
+  results: [SAMPLE_JUAN_HTML],
+  work_info: {
+    work: "T0251",
+    title: "般若波羅蜜多心經",
+    juan: 1,
+    juan_list: "1",
+    canon: "T",
+  },
+});
 
 const entry: TextEntry = {
   canon: "T",
-  volume: "T01",
-  id: "T01n0001_001",
-  title: "長阿含經",
-  path: "T/T01/T01n0001_001.xml",
+  volume: "T08",
+  id: "T08n0251",
+  title: "般若波羅蜜多心經",
+  path: "T/T08/T08n0251.xml",
   sha: "deadbeef",
 };
 
@@ -28,118 +41,124 @@ beforeEach(() => {
 });
 
 describe("loadText", () => {
-  it("fetches from network on first load and caches the result", async () => {
-    const fetcher = mockFetch(SAMPLE_XML);
+  it("fetches from API on first load and caches the result", async () => {
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
     const result = await loadText(entry, { fetcher });
     expect(result.fromCache).toBe(false);
     expect(result.stale).toBe(false);
     expect(result.rendered.juans).toHaveLength(1);
     expect(fetcher).toHaveBeenCalledWith(
-      "https://raw.githubusercontent.com/cbeta-org/xml-p5/deadbeef/T/T01/T01n0001_001.xml",
+      expect.stringContaining("/api/cbeta/juans"),
     );
     const cached = await getStoredText(entry.id);
-    expect(cached?.xml).toBe(SAMPLE_XML);
+    expect(cached?.workId).toBe("T0251");
+    expect(cached?.htmlFragments).toHaveLength(1);
   });
 
-  it("returns the cached copy when sha matches", async () => {
-    const fetcher = mockFetch(SAMPLE_XML);
+  it("returns the cached copy when within TTL", async () => {
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
     await loadText(entry, { fetcher });
     const second = await loadText(entry, { fetcher });
     expect(second.fromCache).toBe(true);
     expect(fetcher).toHaveBeenCalledTimes(1);
   });
 
-  it("re-fetches when the cached sha doesn't match (stale)", async () => {
+  it("re-fetches when the cached entry is expired (cachedAt=0)", async () => {
     await putStoredText({
       textId: entry.id,
-      sha: "OLD-SHA",
-      xml: "<TEI/>",
-      htmlFragments: [],
+      workId: "T0251",
+      title: "舊版",
+      juanCount: 1,
+      htmlFragments: ["<p>old</p>"],
+      cachedAt: 0,
       lastAccessed: 1,
       bytes: 10,
     });
-    const fetcher = mockFetch(SAMPLE_XML);
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
+    const result = await loadText(entry, { fetcher });
+    expect(result.fromCache).toBe(false);
+    expect(fetcher).toHaveBeenCalledOnce();
+  });
+
+  it("re-fetches when the cached entry has exceeded TTL", async () => {
+    await putStoredText({
+      textId: entry.id,
+      workId: "T0251",
+      title: "舊版",
+      juanCount: 1,
+      htmlFragments: ["<p>old</p>"],
+      cachedAt: Date.now() - CACHE_TTL_MS - 1,
+      lastAccessed: 1,
+      bytes: 10,
+    });
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
     const result = await loadText(entry, { fetcher });
     expect(result.fromCache).toBe(false);
     expect(fetcher).toHaveBeenCalledOnce();
   });
 
   it("honors forceNetwork", async () => {
-    const fetcher = mockFetch(SAMPLE_XML);
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
     await loadText(entry, { fetcher });
     await loadText(entry, { fetcher, forceNetwork: true });
     expect(fetcher).toHaveBeenCalledTimes(2);
   });
 
-  it("throws a meaningful error on network failure", async () => {
+  it("throws a meaningful error on network failure with no cache", async () => {
     const fetcher = mockFetch("oops", false);
-    await expect(loadText(entry, { fetcher })).rejects.toThrow(/Failed to fetch/);
+    await expect(loadText(entry, { fetcher })).rejects.toThrow(/CBETA API error/);
   });
 
-  it("serves stale cached XML when refresh fails", async () => {
+  it("serves stale cached HTML when refresh fails", async () => {
     await putStoredText({
       textId: entry.id,
-      path: entry.path,
-      sha: "OLD-SHA",
-      xml: SAMPLE_XML,
-      htmlFragments: [],
+      workId: "T0251",
+      title: "舊版",
+      juanCount: 1,
+      htmlFragments: ["<p>cached</p>"],
+      cachedAt: 0,
       lastAccessed: 1,
       bytes: 10,
-      staleSha: entry.sha,
     });
     const fetcher = mockFetch("offline", false);
     const result = await loadText(entry, { fetcher });
     expect(result.fromCache).toBe(true);
     expect(result.stale).toBe(true);
-    expect(result.xml).toBe(SAMPLE_XML);
+    expect(result.rendered.juans[0].html).toBe("<p>cached</p>");
   });
 
-  it("refreshes stale cached XML from the manifest commit", async () => {
-    await putStoredText({
-      textId: entry.id,
-      path: entry.path,
-      sha: entry.sha,
-      sourceSha: "old-commit",
-      xml: "<TEI/>",
-      htmlFragments: [],
-      lastAccessed: 1,
-      bytes: 10,
-      staleSha: "new-blob",
-      staleSourceSha: "new-commit",
-      staleBytes: 99,
-    });
-    const fetcher = mockFetch(SAMPLE_XML);
+  it("normalizes lb spans in API HTML", async () => {
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
     const result = await loadText(entry, { fetcher });
-    expect(result.fromCache).toBe(false);
-    expect(fetcher).toHaveBeenCalledWith(
-      "https://raw.githubusercontent.com/cbeta-org/xml-p5/new-commit/T/T01/T01n0001_001.xml",
-    );
-    const cached = await getStoredText(entry.id);
-    expect(cached?.sha).toBe("new-blob");
-    expect(cached?.sourceSha).toBe("new-commit");
-    expect(cached?.staleSha).toBeUndefined();
+    const html = result.rendered.juans[0].html;
+    expect(html).toContain('class="tei-lb"');
+    expect(html).toContain('id="lb_0848a01"');
+    expect(html).toContain('data-lb="0848a01"');
   });
 
   it("evicts to honor the cache cap after writing", async () => {
-    // pre-populate with two large, older texts
     await putStoredText({
       textId: "old-a",
-      sha: "x",
-      xml: "",
-      htmlFragments: [],
+      workId: "X0001",
+      title: "old",
+      juanCount: 1,
+      htmlFragments: [""],
+      cachedAt: 1,
       lastAccessed: 1,
       bytes: 1000,
     });
     await putStoredText({
       textId: "old-b",
-      sha: "x",
-      xml: "",
-      htmlFragments: [],
+      workId: "X0002",
+      title: "old",
+      juanCount: 1,
+      htmlFragments: [""],
+      cachedAt: 2,
       lastAccessed: 2,
       bytes: 1000,
     });
-    const fetcher = mockFetch(SAMPLE_XML);
-    await loadText(entry, { fetcher, cacheCapBytes: SAMPLE_XML.length + 10 });
+    const fetcher = mockFetch(SAMPLE_RESPONSE);
+    await loadText(entry, { fetcher, cacheCapBytes: SAMPLE_RESPONSE.length + 10 });
     expect(await getStoredText("old-a")).toBeUndefined();
     expect(await getStoredText("old-b")).toBeUndefined();
     expect(await getStoredText(entry.id)).toBeDefined();

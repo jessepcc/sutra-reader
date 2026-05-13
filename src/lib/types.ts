@@ -47,37 +47,23 @@ export interface CatalogIndex {
   volumes: Volume[];
 }
 
-export interface ManifestFile {
-  path: string;
-  sha: string;
-  bytes?: number;
-}
-
-export interface Manifest {
-  generatedAt: string;
-  upstreamSha: string;
-  files: ManifestFile[];
-}
-
 export interface StoredText {
   textId: string;
-  path?: string;
-  sha: string;
-  sourceSha?: string;
-  xml: string;
-  /** Rendered HTML, possibly chunked by juan. */
+  workId: string;
+  title: string;
+  juanCount: number;
+  /** Pre-rendered HTML from the CBETA API, one entry per juan (index 0 = juan 1). */
   htmlFragments: string[];
-  /** Last accessed timestamp (for LRU eviction). */
+  /** Unix timestamp when this entry was fetched (for TTL-based staleness). */
+  cachedAt: number;
+  /** Unix timestamp of last access (for LRU eviction). */
   lastAccessed: number;
-  /** Raw byte count of the source XML. */
+  /** Total byte size of all htmlFragments (for LRU accounting). */
   bytes: number;
-  /** Latest known upstream content SHA when this cached text is stale. */
-  staleSha?: string;
-  /** Upstream commit SHA that contains staleSha. */
-  staleSourceSha?: string;
-  /** Latest known upstream source byte count. */
-  staleBytes?: number;
-  staleAt?: number;
+}
+
+export interface RenderResult {
+  juans: { id: string; html: string }[];
 }
 
 export interface SavedEntry {

@@ -4,7 +4,7 @@ import { useSettings } from "../lib/settings-context";
 import { clearScope, type ClearScope } from "../lib/db";
 import {
   applyAutoUpdateSetting,
-  checkManifestUpdates,
+  checkCachedTextUpdates,
   precacheSavedTexts,
 } from "../lib/sync";
 
@@ -26,14 +26,14 @@ export function SettingsPage() {
   async function onCheckUpdate() {
     setStatus("檢查中…");
     try {
-      const result = await checkManifestUpdates();
-      if (settings.autoUpdate && result.staleTextIds.length > 0) {
+      const result = await checkCachedTextUpdates();
+      if (settings.autoUpdate && result.expiredCount > 0) {
         await precacheSavedTexts();
       }
       setStatus(
-        result.staleTextIds.length
-          ? `${result.staleTextIds.length} 個已快取文本有更新。`
-          : `已是最新（${result.upstreamSha.slice(0, 12)}）。`,
+        result.expiredCount
+          ? `${result.expiredCount} 個已快取文本已過期，下次開啟時自動更新。`
+          : "所有快取文本均在有效期內。",
       );
     } catch (err) {
       setStatus(`檢查失敗：${(err as Error).message}`);

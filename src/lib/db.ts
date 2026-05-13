@@ -90,49 +90,32 @@ export async function touchStoredText(textId: string, ts = Date.now()): Promise<
   await db.put("texts", { ...existing, lastAccessed: ts });
 }
 
-export async function markStoredTextStale(
-  textId: string,
-  staleSha: string,
-  staleSourceSha?: string,
-  staleBytes?: number,
-  staleAt = Date.now(),
-): Promise<void> {
+/** Force re-fetch on next open by zeroing cachedAt. */
+export async function expireCachedText(textId: string): Promise<void> {
   const db = await getDb();
   const existing = await db.get("texts", textId);
   if (!existing) return;
-  await db.put("texts", { ...existing, staleSha, staleSourceSha, staleBytes, staleAt });
-}
-
-export async function clearStoredTextStale(textId: string): Promise<void> {
-  const db = await getDb();
-  const existing = await db.get("texts", textId);
-  if (!existing) return;
-  const next = { ...existing };
-  delete next.staleSha;
-  delete next.staleSourceSha;
-  delete next.staleBytes;
-  delete next.staleAt;
-  await db.put("texts", next);
+  await db.put("texts", { ...existing, cachedAt: 0 });
 }
 
 export async function totalCachedBytes(): Promise<number> {
   const db = await getDb();
   const all = await db.getAll("texts");
-  return all.reduce((sum, t) => sum + (t.bytes ?? 0), 0);
+  return all.reduce((sum, t) => sum + t.bytes, 0);
 }
 
 /** Evict least-recently-used texts until total size is ≤ cap. */
-export async function evictLRU(capBytes: number): Promise<string[] > {
+export async function evictLRU(capBytes: number): Promise<string[]> {
   const db = await getDb();
   const all = await db.getAll("texts");
-  all.sort((a, b) => a.lastAccessed - b.lastAccessed); // oldest first
-  let total = all.reduce((s, t) => s + (t.bytes ?? 0), 0);
+  all.sort((a, b) => a.lastAccessed - b.lastAccessed);
+  let total = all.reduce((s, t) => s + t.bytes, 0);
   const evicted: string[] = [];
   for (const t of all) {
     if (total <= capBytes) break;
     await db.delete("texts", t.textId);
     evicted.push(t.textId);
-    total -= t.bytes ?? 0;
+    total -= t.bytes;
   }
   return evicted;
 }
@@ -161,7 +144,6 @@ export async function toggleSaved(textId: string): Promise<boolean> {
   return true;
 }
 
-/** Direct upsert preserving the caller-supplied savedAt (for import merge). */
 export async function putSaved(entry: SavedEntry): Promise<void> {
   const db = await getDb();
   await db.put("saved", entry);
@@ -210,7 +192,6 @@ export async function getRecents(): Promise<RecentEntry[]> {
 export async function recordRecent(entry: RecentEntry): Promise<void> {
   const db = await getDb();
   await db.put("recents", entry);
-  // Cap to RECENTS_LIMIT — evict the oldest beyond the cap.
   const all = await db.getAll("recents");
   if (all.length > RECENTS_LIMIT) {
     const sorted = all.sort((a, b) => a.openedAt - b.openedAt);

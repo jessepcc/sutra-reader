@@ -1,7 +1,21 @@
-import { beforeEach, describe, expect, it, vi } from "vitest";
+import { beforeEach, describe, expect, it } from "vitest";
 import { IDBFactory } from "fake-indexeddb";
-import { _resetDbForTests, getStoredText, putStoredText } from "./db";
-import { checkManifestUpdates } from "./sync";
+import { _resetDbForTests, putStoredText } from "./db";
+import { CACHE_TTL_MS } from "./fetcher";
+import { checkCachedTextUpdates } from "./sync";
+
+function makeText(textId: string, cachedAt: number) {
+  return putStoredText({
+    textId,
+    workId: "T0001",
+    title: "test",
+    juanCount: 1,
+    htmlFragments: [],
+    cachedAt,
+    lastAccessed: Date.now(),
+    bytes: 10,
+  });
+}
 
 beforeEach(() => {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -9,33 +23,28 @@ beforeEach(() => {
   _resetDbForTests();
 });
 
-describe("checkManifestUpdates", () => {
-  it("marks cached texts stale when manifest SHA changes", async () => {
-    await putStoredText({
-      textId: "T01n0001",
-      path: "T/T01/T01n0001.xml",
-      sha: "old",
-      xml: "",
-      htmlFragments: [],
-      lastAccessed: 1,
-      bytes: 10,
-    });
+describe("checkCachedTextUpdates", () => {
+  it("reports 0 expired when all texts are fresh", async () => {
+    await makeText("fresh", Date.now());
+    const result = await checkCachedTextUpdates();
+    expect(result.expiredCount).toBe(0);
+  });
 
-    const fetcher = vi.fn().mockResolvedValue(
-      new Response(
-        JSON.stringify({
-          generatedAt: "2026-01-01T00:00:00Z",
-          upstreamSha: "commit",
-          files: [{ path: "T/T01/T01n0001.xml", sha: "new", bytes: 100 }],
-        }),
-      ),
-    ) as unknown as typeof fetch;
+  it("counts texts whose cachedAt has exceeded TTL", async () => {
+    await makeText("fresh", Date.now());
+    await makeText("stale", Date.now() - CACHE_TTL_MS - 1);
+    const result = await checkCachedTextUpdates();
+    expect(result.expiredCount).toBe(1);
+  });
 
-    const result = await checkManifestUpdates(fetcher);
-    expect(result).toEqual({ upstreamSha: "commit", staleTextIds: ["T01n0001"] });
-    const stored = await getStoredText("T01n0001");
-    expect(stored?.staleSha).toBe("new");
-    expect(stored?.staleSourceSha).toBe("commit");
-    expect(stored?.staleBytes).toBe(100);
+  it("counts texts with cachedAt=0 (force-expired)", async () => {
+    await makeText("forced", 0);
+    const result = await checkCachedTextUpdates();
+    expect(result.expiredCount).toBe(1);
+  });
+
+  it("returns 0 when no texts are cached", async () => {
+    const result = await checkCachedTextUpdates();
+    expect(result.expiredCount).toBe(0);
   });
 });

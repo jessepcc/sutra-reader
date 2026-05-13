@@ -1,6 +1,5 @@
 import { describe, expect, it } from "vitest";
 import {
-  diffManifest,
   filterGated,
   findCanon,
   findText,
@@ -8,7 +7,6 @@ import {
   groupByCanon,
   isGatedCanon,
   isGatedVolume,
-  rawGitHubUrl,
 } from "./catalog";
 import type { Catalog } from "./types";
 
@@ -107,20 +105,6 @@ describe("filterGated", () => {
   });
 });
 
-describe("rawGitHubUrl", () => {
-  it("pins to the commit sha and path", () => {
-    const text = fixture().texts[0];
-    expect(rawGitHubUrl(text)).toBe(
-      "https://raw.githubusercontent.com/cbeta-org/xml-p5/sha-001/T/T01/T01n0001_001.xml",
-    );
-  });
-
-  it("uses sourceSha for immutable fetches when present", () => {
-    expect(rawGitHubUrl({ ...fixture().texts[0], sourceSha: "commit-001" })).toBe(
-      "https://raw.githubusercontent.com/cbeta-org/xml-p5/commit-001/T/T01/T01n0001_001.xml",
-    );
-  });
-});
 
 describe("groupByCanon", () => {
   it("buckets texts by canon then volume", () => {
@@ -162,20 +146,3 @@ describe("find helpers", () => {
   });
 });
 
-describe("diffManifest", () => {
-  it("returns texts whose sha changed upstream", () => {
-    const cat = filterGated(fixture());
-    const stale = diffManifest(cat, {
-      files: [
-        { path: "T/T01/T01n0001_001.xml", sha: "sha-001-NEW" },
-        { path: "T/T02/T02n0099_001.xml", sha: "sha-099" }, // unchanged
-      ],
-    });
-    expect(stale).toEqual(["T01n0001_001"]);
-  });
-
-  it("ignores manifest entries we do not track", () => {
-    const cat = filterGated(fixture());
-    expect(diffManifest(cat, { files: [{ path: "unknown.xml", sha: "x" }] })).toEqual([]);
-  });
-});

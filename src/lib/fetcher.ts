@@ -1,31 +1,24 @@
-// Fetch + cache layer for TEI XML text bodies.
-// Cache-first against IndexedDB, falling back to raw GitHub pinned-SHA URL.
+// Fetch + cache layer. Calls the CBETA official API and stores rendered HTML
+// in IndexedDB. Cache-first with TTL-based staleness detection.
 
-import { rawGitHubUrl } from "./catalog";
-import {
-  clearStoredTextStale,
-  evictLRU,
-  getStoredText,
-  putStoredText,
-  touchStoredText,
-} from "./db";
-import { renderTei, type GaijiTable, type RenderResult } from "./tei";
-import { DEFAULT_SETTINGS, type TextEntry } from "./types";
+import { fetchAllJuans, textIdToWorkId } from "./cbeta-api";
+import { evictLRU, getStoredText, putStoredText, touchStoredText } from "./db";
+import { DEFAULT_SETTINGS, type RenderResult, type TextEntry } from "./types";
+
+// Cached content is considered fresh for 30 days.
+export const CACHE_TTL_MS = 30 * 24 * 60 * 60 * 1000;
 
 export interface FetchOptions {
   /** Override the global fetch (for tests). */
   fetcher?: typeof fetch;
   /** Force network even if cached. */
   forceNetwork?: boolean;
-  /** Gaiji table to pass to the renderer. */
-  gaiji?: GaijiTable;
   /** LRU cap; defaults to DEFAULT_SETTINGS.cacheCapBytes. */
   cacheCapBytes?: number;
 }
 
 export interface LoadedText {
   entry: TextEntry;
-  xml: string;
   rendered: RenderResult;
   fromCache: boolean;
   stale: boolean;
@@ -35,76 +28,77 @@ export async function loadText(
   entry: TextEntry,
   opts: FetchOptions = {},
 ): Promise<LoadedText> {
+  const workId = textIdToWorkId(entry.id);
+  const now = Date.now();
+
   const cached = !opts.forceNetwork ? await getStoredText(entry.id) : undefined;
-  if (cached && cached.sha === entry.sha && !cached.staleSha) {
+  const isFresh = cached && cached.cachedAt > 0 && now - cached.cachedAt < CACHE_TTL_MS;
+
+  if (cached && isFresh) {
     await touchStoredText(entry.id);
-    const rendered = renderTei(cached.xml, opts.gaiji);
     return {
       entry,
-      xml: cached.xml,
-      rendered,
+      rendered: storedToRendered(cached.htmlFragments),
       fromCache: true,
-      stale: cached.staleSha !== undefined && cached.staleSha !== cached.sha,
+      stale: false,
     };
   }
 
-  const fetchEntry =
-    cached?.staleSha && cached.staleSourceSha
-      ? {
-          ...entry,
-          sha: cached.staleSha,
-          sourceSha: cached.staleSourceSha,
-          bytes: cached.staleBytes ?? entry.bytes,
-        }
-      : entry;
-  const url = rawGitHubUrl(fetchEntry);
+  // Stale-but-cached: serve old content while marking stale.
+  // If the network call below fails, fall back to cached data.
   const f = opts.fetcher ?? fetch;
-  let res: Response;
+  let htmlFragments: string[];
+  let title: string;
+  let juanCount: number;
+  let fetchFailed = false;
+
   try {
-    res = await f(url);
+    const { htmlFragments: frags, workInfo } = await fetchAllJuans(workId, f);
+    htmlFragments = frags;
+    title = workInfo.title;
+    juanCount = frags.length;
   } catch (err) {
     if (cached) {
       await touchStoredText(entry.id);
       return {
         entry,
-        xml: cached.xml,
-        rendered: renderTei(cached.xml, opts.gaiji),
+        rendered: storedToRendered(cached.htmlFragments),
         fromCache: true,
         stale: true,
       };
     }
     throw err;
   }
-  if (!res.ok) {
-    if (cached) {
-      await touchStoredText(entry.id);
-      return {
-        entry,
-        xml: cached.xml,
-        rendered: renderTei(cached.xml, opts.gaiji),
-        fromCache: true,
-        stale: true,
-      };
-    }
-    throw new Error(`Failed to fetch ${entry.id}: ${res.status} ${res.statusText}`);
+
+  if (!fetchFailed) {
+    const bytes = htmlFragments.reduce(
+      (sum, h) => sum + new TextEncoder().encode(h).length,
+      0,
+    );
+    await putStoredText({
+      textId: entry.id,
+      workId,
+      title,
+      juanCount,
+      htmlFragments,
+      cachedAt: now,
+      lastAccessed: now,
+      bytes,
+    });
+    const cap = opts.cacheCapBytes ?? DEFAULT_SETTINGS.cacheCapBytes;
+    await evictLRU(cap);
   }
-  const xml = await res.text();
-  const rendered = renderTei(xml, opts.gaiji);
 
-  await putStoredText({
-    textId: entry.id,
-    path: fetchEntry.path,
-    sha: fetchEntry.sha,
-    sourceSha: fetchEntry.sourceSha,
-    xml,
-    htmlFragments: rendered.juans.map((j) => j.html),
-    lastAccessed: Date.now(),
-    bytes: new TextEncoder().encode(xml).length,
-  });
-  await clearStoredTextStale(entry.id);
+  return {
+    entry,
+    rendered: storedToRendered(htmlFragments),
+    fromCache: false,
+    stale: false,
+  };
+}
 
-  const cap = opts.cacheCapBytes ?? DEFAULT_SETTINGS.cacheCapBytes;
-  await evictLRU(cap);
-
-  return { entry: fetchEntry, xml, rendered, fromCache: false, stale: false };
+function storedToRendered(htmlFragments: string[]): RenderResult {
+  return {
+    juans: htmlFragments.map((html, i) => ({ id: String(i + 1), html })),
+  };
 }
