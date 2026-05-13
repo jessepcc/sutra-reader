@@ -657,9 +657,21 @@ input[type="range"] {
     display: none;
   }
 
+  /* On the home page, the H1 "經閣" already brands the screen — hide the
+     appbar wordmark to avoid duplication. The Enso stays as a tap target. */
+  .app-home .appbar .brand-text {
+    display: none;
+  }
+
+  /* Tighter top rhythm: the appbar already gives breathing room above the
+     page title, so the H1 doesn't need a full --sp-3 of its own. */
+  main > h1:first-child {
+    margin-top: var(--sp-1);
+  }
+
   /* Clearance so content isn't hidden behind the sticky nav */
   main {
-    padding-bottom: calc(56px + env(safe-area-inset-bottom));
+    padding-bottom: calc(72px + env(safe-area-inset-bottom));
   }
 
   .bottom-nav {
@@ -669,22 +681,33 @@ input[type="range"] {
     z-index: 10;
     background: var(--paper);
     border-top: 1px solid var(--rule);
-    padding-bottom: env(safe-area-inset-bottom);
+    /* Lift the bar off the bottom edge — Android 3-button nav reports
+       env(safe-area-inset-bottom) as 0, so guarantee a minimum gap. */
+    padding-bottom: max(10px, env(safe-area-inset-bottom));
+    padding-top: 6px;
   }
 
   .bottom-nav-item {
     flex: 1;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 10px 0;
-    min-height: 44px;
+    gap: 3px;
+    padding: 4px 0 2px;
+    min-height: 48px;
     font-family: var(--font-ui);
-    font-size: 0.78rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.02em;
     color: var(--mist);
     border: none;
-    padding-bottom: 1px; /* override default link padding */
+    padding-bottom: 2px; /* override default link padding */
     transition: color 120ms ease;
+  }
+
+  .bottom-nav-item svg {
+    opacity: 0.85;
+    transition: opacity 120ms ease;
   }
 
   .bottom-nav-item:hover,
@@ -696,6 +719,10 @@ input[type="range"] {
 
   .bottom-nav-item.active {
     color: var(--ink);
+  }
+
+  .bottom-nav-item.active svg {
+    opacity: 1;
   }
 
   /* Home indicator clearance for reader controls */

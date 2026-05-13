@@ -18,6 +18,7 @@ const REPO_URL = "https://github.com/jessepcc/sutra-reader";
 export function AppShell() {
   const location = useLocation();
   const isReader = location.pathname.startsWith("/read/");
+  const isHome = location.pathname === "/";
 
   useEffect(() => {
     runBackgroundPrecache();
@@ -25,11 +26,12 @@ export function AppShell() {
 
   return (
     <SettingsProvider>
-      <div className="app">
+      <div className={`app${isHome ? " app-home" : ""}`}>
         {!isReader && (
           <header className="appbar">
             <Link to="/" className="brand" aria-label="經閣 首頁">
-              <Enso size={22} /> 經閣
+              <Enso size={22} />
+              <span className="brand-text">經閣</span>
             </Link>
             <nav className="nav" aria-label="主要導覽">
               {NAV.map((n) => (
