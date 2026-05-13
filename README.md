@@ -40,19 +40,30 @@ npm run build       # production bundle + PWA service worker
 
 ## Deploy
 
-Hosting is **Cloudflare Pages**, with a same-origin Pages Function at
-`/api/cbeta/*` proxying [the CBETA Open Data API](https://cbdata.dila.edu.tw/).
+Hosting is **Cloudflare Pages** with Git integration — every push to `main`
+triggers an automatic build and deploy. No manual steps needed after initial
+setup.
+
+The `functions/api/cbeta/[[path]].ts` Pages Function proxies
+[the CBETA Open Data API](https://cbdata.dila.edu.tw/) at `/api/cbeta/*`.
 The proxy is required because CBETA only emits `Access-Control-Allow-Origin`
-for `Origin: https://cbeta.org`.
+for `Origin: https://cbeta.org`. Cloudflare Pages detects and deploys the
+`functions/` directory automatically alongside the static assets.
+
+**Cloudflare Pages project settings:**
+
+| Setting | Value |
+|---|---|
+| Build command | `npm run build` |
+| Build output directory | `dist` |
+| Deploy command | *(leave blank)* |
+
+For a one-off manual deploy (e.g. from a local branch):
 
 ```sh
-npm run deploy      # build + wrangler pages deploy dist
+npm run build
+npm run deploy      # wrangler pages deploy dist --project-name sutra-reader
 ```
-
-First-time setup: `npm i -g wrangler && wrangler login`, then create a Pages
-project named `sutra-reader` via the Cloudflare dashboard or `wrangler pages
-project create sutra-reader`. The `functions/` directory is auto-deployed as
-edge Functions by Pages.
 
 ## Architecture
 
@@ -92,10 +103,9 @@ This app does **not**:
 - Use cookies or `localStorage` for anything beyond a 1-byte theme bootstrap.
 
 The **only** outbound calls are:
-- `raw.githubusercontent.com/cbeta-org/xml-p5/<commit>/...` to fetch TEI XML once per
-  text, then served from IndexedDB.
-- The app-hosted `/manifest.json` and `/catalog/**.json` files when browsing or
-  tapping **檢查更新**.
+- `/api/cbeta/*` (same-origin Pages Function) → `cbdata.dila.edu.tw` to fetch
+  sutra text once per text, then served from IndexedDB.
+- The app-hosted `/catalog/**.json` files when browsing the canon.
 
 ## Contributing
 
