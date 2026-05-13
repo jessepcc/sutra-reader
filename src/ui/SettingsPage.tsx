@@ -134,29 +134,25 @@ export function SettingsPage() {
 
       {status && <p className="muted">{status}</p>}
 
-      {!standalone && (
-        <section className="home-section">
-          <div className="subtle">安裝</div>
-          {canInstall ? (
-            <p>
-              <button onClick={() => void install()}>安裝至主畫面</button>
-            </p>
-          ) : ios ? (
-            <p>
-              在 Safari 底部點選<strong>分享</strong>按鈕（方塊加箭頭），再選「<strong>加入主畫面</strong>」即可安裝。
-            </p>
-          ) : (
-            <p className="muted">在支援的瀏覽器（Chrome、Edge）中開啟，即可將本站安裝為應用程式。</p>
-          )}
-        </section>
-      )}
-
-      {standalone && (
-        <section className="home-section">
-          <div className="subtle">安裝</div>
+      <section className="home-section">
+        <div className="subtle">安裝</div>
+        {standalone ? (
           <p className="muted">已安裝為應用程式。</p>
-        </section>
-      )}
+        ) : canInstall ? (
+          <p>
+            <button onClick={() => void install()}>安裝至主畫面</button>
+          </p>
+        ) : ios ? (
+          <p>
+            在 Safari 底部點選<strong>分享</strong>按鈕，再選「<strong>加入主畫面</strong>」即可安裝。
+          </p>
+        ) : (
+          <>
+            <p className="muted">瀏覽器尚未提供安裝提示。</p>
+            <p>可手動安裝：點選瀏覽器右上角選單（<strong>⋮</strong>），選「<strong>安裝應用程式</strong>」或「<strong>加入主畫面</strong>」。</p>
+          </>
+        )}
+      </section>
 
       <section className="home-section">
         <div className="subtle">關於</div>
