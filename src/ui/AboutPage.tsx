@@ -5,6 +5,11 @@ export function AboutPage() {
       <p>
         經閣（Sutra Reader）是一個簡素的 CBETA 漢文佛典閱讀器，
         以 wabi-sabi 為視覺語言，遵循「無賬戶、無分析、無追蹤」的原則。
+        原始碼公開於{" "}
+        <a href="https://github.com/jessepcc/sutra-reader" target="_blank" rel="noreferrer noopener">
+          GitHub
+        </a>
+        。
       </p>
 
       <h2>授權</h2>

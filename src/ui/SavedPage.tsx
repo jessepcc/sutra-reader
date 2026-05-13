@@ -6,15 +6,20 @@ import type { SavedEntry, TextEntry } from "../lib/types";
 
 export function SavedPage() {
   const [items, setItems] = useState<(SavedEntry & { text?: TextEntry })[] | null>(null);
+  const [pendingDelete, setPendingDelete] = useState<string | null>(null);
 
   useEffect(() => {
     void loadSaved().then(setItems);
   }, []);
 
   async function remove(textId: string) {
-    if (!window.confirm("移除此收藏？")) return;
-    await removeSaved(textId);
-    setItems(await loadSaved());
+    if (pendingDelete === textId) {
+      await removeSaved(textId);
+      setPendingDelete(null);
+      setItems(await loadSaved());
+    } else {
+      setPendingDelete(textId);
+    }
   }
 
   return (
@@ -27,14 +32,22 @@ export function SavedPage() {
       ) : (
         <ul className="list">
           {items.map((s) => {
+            const isPending = pendingDelete === s.textId;
             return (
               <li key={s.textId}>
                 <Link to={`/read/${s.textId}`}>{s.text?.title ?? s.textId}</Link>
                 <div className="muted">
                   收藏於 {new Date(s.savedAt).toLocaleString("zh-Hant")}
-                  <button className="icon" onClick={() => remove(s.textId)} aria-label="移除">
-                    ✕
-                  </button>
+                  {isPending ? (
+                    <>
+                      <button className="icon" onClick={() => void remove(s.textId)} aria-label="確認移除">確認</button>
+                      <button className="icon" onClick={() => setPendingDelete(null)} aria-label="取消">取消</button>
+                    </>
+                  ) : (
+                    <button className="icon" onClick={() => void remove(s.textId)} aria-label="移除">
+                      ✕
+                    </button>
+                  )}
                 </div>
               </li>
             );

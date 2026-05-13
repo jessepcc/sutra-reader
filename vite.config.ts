@@ -11,7 +11,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.svg", "icons/*.svg"],
+      includeAssets: ["favicon.svg", "icons/*.svg", "icons/apple-touch-icon.png"],
       manifest: {
         name: "經閣 Sutra Reader",
         short_name: "經閣",
@@ -32,6 +32,12 @@ export default defineConfig({
             type: "image/svg+xml",
             purpose: "maskable",
           },
+        ],
+        shortcuts: [
+          { name: "心經", short_name: "心經", url: "./read/T08n0251", description: "般若波羅蜜多心經" },
+          { name: "金剛經", short_name: "金剛經", url: "./read/T08n0235", description: "金剛般若波羅蜜經" },
+          { name: "阿彌陀經", short_name: "阿彌陀", url: "./read/T12n0366", description: "佛說阿彌陀經" },
+          { name: "地藏經", short_name: "地藏經", url: "./read/T13n0412", description: "地藏菩薩本願經" },
         ],
       },
       workbox: {

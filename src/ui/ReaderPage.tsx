@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Link, Navigate, useNavigate, useParams } from "react-router-dom";
+import { Navigate, useLocation, useNavigate, useParams } from "react-router-dom";
 import { findTextById } from "../lib/catalog-context";
 import { gatedCanonForTextId, isGatedCanon } from "../lib/catalog";
 import { loadText, type LoadedText } from "../lib/fetcher";
@@ -23,12 +23,16 @@ const PAPER_LABELS: Record<PaperMode, string> = {
 export function ReaderPage() {
   const { textId = "" } = useParams();
   const navigate = useNavigate();
+  const location = useLocation();
   const { settings, update } = useSettings();
   const [entry, setEntry] = useState<TextEntry | null | undefined>(undefined);
   const [loaded, setLoaded] = useState<LoadedText | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [saved, setSaved] = useState(false);
   const [query, setQuery] = useState("");
+  const [pendingLb, setPendingLb] = useState<string | null>(null);
+  const [bookmarkLabel, setBookmarkLabel] = useState("");
+  const [controlsMsg, setControlsMsg] = useState<string | null>(null);
   const contentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -117,18 +121,35 @@ export function ReaderPage() {
     if (next) void precacheSavedText(entry.id);
   }, [entry]);
 
-  const bookmarkHere = useCallback(async () => {
+  useEffect(() => {
+    if (!controlsMsg) return;
+    const t = setTimeout(() => setControlsMsg(null), 2000);
+    return () => clearTimeout(t);
+  }, [controlsMsg]);
+
+  const bookmarkHere = useCallback(() => {
     if (!entry || !contentRef.current) return;
     const lb = findNearestLb(contentRef.current);
     if (!lb) {
-      window.alert("此頁未含可標記之行號。");
+      setControlsMsg("此頁未含可標記之行號。");
       return;
     }
-    const label = window.prompt("為此標記命名：", `卷 — ${lb}`) ?? "";
-    if (!label) return;
-    await addBookmark({ textId: entry.id, lb, label });
-    window.location.hash = `lb_${lb}`;
+    setPendingLb(lb);
+    setBookmarkLabel(`卷 — ${lb}`);
   }, [entry]);
+
+  const confirmBookmark = useCallback(async () => {
+    if (!entry || !pendingLb || !bookmarkLabel.trim()) return;
+    await addBookmark({ textId: entry.id, lb: pendingLb, label: bookmarkLabel.trim() });
+    window.location.hash = `lb_${pendingLb}`;
+    setPendingLb(null);
+    setBookmarkLabel("");
+  }, [entry, pendingLb, bookmarkLabel]);
+
+  const cancelBookmark = useCallback(() => {
+    setPendingLb(null);
+    setBookmarkLabel("");
+  }, []);
 
   const searchMatches = useMemo(() => {
     if (!loaded || !query) return 0;
@@ -157,7 +178,7 @@ export function ReaderPage() {
       <main>
         <p className="empty">找不到此典：{textId}</p>
         <p>
-          <Link to="/browse">← 回到藏目</Link>
+          <button className="icon" onClick={() => navigate("/browse")}>← 回到藏目</button>
         </p>
       </main>
     );
@@ -166,9 +187,15 @@ export function ReaderPage() {
   return (
     <div className="reader-shell">
       <header className="appbar">
-        <Link to={`/browse/${entry.canon}/${entry.volume}`} className="brand">
+        <button
+          className="brand"
+          onClick={() => {
+            if (location.key !== "default") navigate(-1);
+            else navigate(`/browse/${entry.canon}/${entry.volume}`);
+          }}
+        >
           ← {entry.title}
-        </Link>
+        </button>
         <button
           className="icon"
           aria-pressed={saved}
@@ -216,38 +243,60 @@ export function ReaderPage() {
           </div>
 
           <div className="controls" role="toolbar" aria-label="閱讀控制">
-            <button onClick={cyclePaper} aria-label={`紙色 ${PAPER_LABELS[settings.paperMode]}`}>
-              {PAPER_LABELS[settings.paperMode]}
-            </button>
-            <button onClick={toggleDirection} aria-label="切換閱讀方向">
-              {settings.direction === "vertical-rl" ? "縱" : "橫"}
-            </button>
-            <button
-              onClick={() =>
-                void update({ fontScale: Math.max(0.7, settings.fontScale - 0.1) })
-              }
-              aria-label="字級減小"
-            >
-              A-
-            </button>
-            <button
-              onClick={() =>
-                void update({ fontScale: Math.min(1.8, settings.fontScale + 0.1) })
-              }
-              aria-label="字級加大"
-            >
-              A+
-            </button>
-            <button onClick={bookmarkHere} aria-label="標記此處">標記</button>
-            <input
-              type="text"
-              placeholder="搜尋"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              aria-label="搜尋本卷"
-              className="controls-search"
-            />
-            {query && <span className="muted">{searchMatches}</span>}
+            {pendingLb ? (
+              <>
+                <input
+                  type="text"
+                  value={bookmarkLabel}
+                  onChange={(e) => setBookmarkLabel(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter") void confirmBookmark();
+                    if (e.key === "Escape") cancelBookmark();
+                  }}
+                  aria-label="標記名稱"
+                  className="controls-search"
+                  autoFocus
+                />
+                <button onClick={() => void confirmBookmark()} aria-label="確認標記">確認</button>
+                <button onClick={cancelBookmark} aria-label="取消標記">取消</button>
+              </>
+            ) : (
+              <>
+                <button onClick={cyclePaper} aria-label={`紙色 ${PAPER_LABELS[settings.paperMode]}`}>
+                  {PAPER_LABELS[settings.paperMode]}
+                </button>
+                <button onClick={toggleDirection} aria-label="切換閱讀方向">
+                  {settings.direction === "vertical-rl" ? "縱" : "橫"}
+                </button>
+                <button
+                  onClick={() =>
+                    void update({ fontScale: Math.max(0.7, settings.fontScale - 0.1) })
+                  }
+                  aria-label="字級減小"
+                >
+                  A-
+                </button>
+                <button
+                  onClick={() =>
+                    void update({ fontScale: Math.min(1.8, settings.fontScale + 0.1) })
+                  }
+                  aria-label="字級加大"
+                >
+                  A+
+                </button>
+                <button onClick={bookmarkHere} aria-label="標記此處">標記</button>
+                <input
+                  type="text"
+                  placeholder="搜尋"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  aria-label="搜尋本卷"
+                  className="controls-search"
+                />
+                {controlsMsg && <span className="muted">{controlsMsg}</span>}
+                {!controlsMsg && query && <span className="muted">{searchMatches}</span>}
+              </>
+            )}
           </div>
 
           <footer className="attribution" lang="zh-Hant">

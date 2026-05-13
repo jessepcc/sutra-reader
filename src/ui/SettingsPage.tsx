@@ -7,10 +7,14 @@ import {
   checkCachedTextUpdates,
   precacheSavedTexts,
 } from "../lib/sync";
+import { isIos, isInStandaloneMode, useInstallPrompt } from "../lib/pwa";
 
 export function SettingsPage() {
   const { settings, update } = useSettings();
   const [status, setStatus] = useState<string | null>(null);
+  const { canInstall, install } = useInstallPrompt();
+  const standalone = isInStandaloneMode();
+  const ios = isIos();
 
   async function onClear(scope: ClearScope) {
     const labels: Record<ClearScope, string> = {
@@ -129,6 +133,30 @@ export function SettingsPage() {
       </section>
 
       {status && <p className="muted">{status}</p>}
+
+      {!standalone && (
+        <section className="home-section">
+          <div className="subtle">安裝</div>
+          {canInstall ? (
+            <p>
+              <button onClick={() => void install()}>安裝至主畫面</button>
+            </p>
+          ) : ios ? (
+            <p>
+              在 Safari 底部點選<strong>分享</strong>按鈕（方塊加箭頭），再選「<strong>加入主畫面</strong>」即可安裝。
+            </p>
+          ) : (
+            <p className="muted">在支援的瀏覽器（Chrome、Edge）中開啟，即可將本站安裝為應用程式。</p>
+          )}
+        </section>
+      )}
+
+      {standalone && (
+        <section className="home-section">
+          <div className="subtle">安裝</div>
+          <p className="muted">已安裝為應用程式。</p>
+        </section>
+      )}
 
       <section className="home-section">
         <div className="subtle">關於</div>

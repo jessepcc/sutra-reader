@@ -67,6 +67,11 @@ body,
   padding: 0;
 }
 
+html,
+body {
+  overscroll-behavior-y: none;
+}
+
 body {
   background: var(--paper);
   color: var(--ink);
@@ -575,6 +580,7 @@ h2 {
   flex: 1;
   min-width: 6em;
   min-height: 36px;
+  font-size: 16px; /* prevent iOS auto-zoom on focus */
 }
 
 /* Home / browse */
@@ -621,5 +627,77 @@ input[type="range"] {
   * {
     animation: none !important;
     transition: none !important;
+  }
+}
+
+/* ============================================================
+   Bottom navigation — mobile only (≤ 639px)
+   ============================================================ */
+
+/* Hidden at all sizes; shown only inside the mobile breakpoint below. */
+.bottom-nav {
+  display: none;
+}
+
+@media (max-width: 639px) {
+  /* Nav already moves to bottom; avoid double safe-area padding */
+  .app {
+    padding-bottom: 0;
+  }
+
+  /* Top nav links hidden on mobile — BottomNav handles routing */
+  .appbar .nav {
+    display: none;
+  }
+
+  /* Clearance so content isn't hidden behind the sticky nav */
+  main {
+    padding-bottom: calc(56px + env(safe-area-inset-bottom));
+  }
+
+  .bottom-nav {
+    display: flex;
+    position: sticky;
+    bottom: 0;
+    z-index: 10;
+    background: var(--paper);
+    border-top: 1px solid var(--rule);
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .bottom-nav-item {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    min-height: 44px;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--mist);
+    border: none;
+    padding-bottom: 1px; /* override default link padding */
+    transition: color 120ms ease;
+  }
+
+  .bottom-nav-item:hover,
+  .bottom-nav-item:focus-visible {
+    color: var(--ink);
+    border-bottom-color: transparent;
+    outline: none;
+  }
+
+  .bottom-nav-item.active {
+    color: var(--ink);
+  }
+
+  /* Home indicator clearance for reader controls */
+  .controls {
+    padding-bottom: max(6px, env(safe-area-inset-bottom));
+  }
+
+  /* Tighter vertical rhythm with bottom nav in place */
+  .home-section {
+    margin: var(--sp-3) 0;
   }
 }

@@ -6,14 +6,21 @@ import type { Bookmark, TextEntry } from "../lib/types";
 
 export function BookmarksPage() {
   const [items, setItems] = useState<(Bookmark & { text?: TextEntry })[] | null>(null);
+  const [pendingDelete, setPendingDelete] = useState<string | null>(null);
 
   useEffect(() => {
     void loadBookmarks().then(setItems);
   }, []);
 
   async function remove(b: Bookmark) {
-    await removeBookmark(b.textId, b.lb);
-    setItems(await loadBookmarks());
+    const key = `${b.textId}#${b.lb}`;
+    if (pendingDelete === key) {
+      await removeBookmark(b.textId, b.lb);
+      setPendingDelete(null);
+      setItems(await loadBookmarks());
+    } else {
+      setPendingDelete(key);
+    }
   }
 
   return (
@@ -26,14 +33,23 @@ export function BookmarksPage() {
       ) : (
         <ul className="list">
           {items.map((b) => {
+            const key = `${b.textId}#${b.lb}`;
+            const isPending = pendingDelete === key;
             return (
-              <li key={`${b.textId}#${b.lb}`}>
+              <li key={key}>
                 <Link to={`/read/${b.textId}#lb_${b.lb}`}>{b.label}</Link>
                 <div className="muted">
                   {b.text?.title ?? b.textId}　·　{b.lb}　·　{new Date(b.createdAt).toLocaleString("zh-Hant")}
-                  <button className="icon" onClick={() => remove(b)} aria-label="移除">
-                    ✕
-                  </button>
+                  {isPending ? (
+                    <>
+                      <button className="icon" onClick={() => void remove(b)} aria-label="確認移除">確認</button>
+                      <button className="icon" onClick={() => setPendingDelete(null)} aria-label="取消">取消</button>
+                    </>
+                  ) : (
+                    <button className="icon" onClick={() => void remove(b)} aria-label="移除">
+                      ✕
+                    </button>
+                  )}
                 </div>
               </li>
             );
