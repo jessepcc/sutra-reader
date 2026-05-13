@@ -185,6 +185,21 @@ hr {
   border-bottom-color: var(--ink);
 }
 
+.nav-icon {
+  display: inline-flex;
+  align-items: center;
+  color: var(--mist);
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+  transition: color 120ms ease;
+}
+
+.nav-icon:hover,
+.nav-icon:focus-visible {
+  color: var(--ink);
+  outline: none;
+}
+
 @media (min-width: 640px) {
   .appbar {
     padding: var(--sp-3) var(--sp-3) var(--sp-2);
@@ -227,6 +242,145 @@ main {
   display: block;
   border: none;
   padding: var(--sp-1) 0;
+}
+
+/* 常誦 — daily-recitation shortcuts, 3×2 compact grid */
+.daily-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2px var(--sp-1);
+}
+
+.daily-tile {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--sp-1);
+  padding: 4px 2px;
+  border: none;
+  color: var(--ink);
+  transition: opacity 120ms ease;
+}
+
+.daily-tile:hover,
+.daily-tile:focus-visible {
+  opacity: 0.7;
+  outline: none;
+}
+
+.daily-icon {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  color: var(--ink);
+}
+
+.daily-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+.daily-tile strong {
+  font-family: var(--font-brush);
+  font-size: 1rem;
+  letter-spacing: 0.03em;
+  line-height: 1.1;
+}
+
+.daily-meta {
+  font-size: 0.68em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  line-height: 1.1;
+}
+
+/* Subtle, infinite icon animations — each motion matches the brush metaphor.
+   All values are deliberately small so the icons feel alive but never demand
+   attention; respects prefers-reduced-motion. */
+@media (prefers-reduced-motion: no-preference) {
+  .anim-heart {
+    animation: anim-pulse 3.6s ease-in-out infinite;
+    transform-origin: 50% 50%;
+    transform-box: fill-box;
+  }
+
+  .anim-lotus {
+    animation: anim-bloom 4.2s ease-in-out infinite;
+    transform-origin: 50% 60%;
+    transform-box: fill-box;
+  }
+
+  .anim-leaf {
+    animation: anim-flutter 5s ease-in-out infinite;
+    transform-origin: 50% 100%;
+    transform-box: fill-box;
+  }
+
+  .anim-willow-l {
+    animation: anim-sway-l 4.8s ease-in-out infinite;
+    transform-origin: 29px 20px;
+    transform-box: view-box;
+  }
+
+  .anim-willow-r {
+    animation: anim-sway-r 4.8s ease-in-out infinite;
+    animation-delay: -2.4s;
+    transform-origin: 33px 34px;
+    transform-box: view-box;
+  }
+
+  .anim-vajra {
+    animation: anim-glow 2.8s ease-in-out infinite;
+  }
+
+  .anim-staff-ring {
+    animation: anim-ring 3.2s ease-in-out infinite;
+    transform-origin: 32px 14px;
+    transform-box: view-box;
+  }
+}
+
+@keyframes anim-pulse {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.05); }
+}
+
+@keyframes anim-bloom {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.04); }
+}
+
+@keyframes anim-flutter {
+  0%, 100% { transform: rotate(-1.5deg); }
+  50%      { transform: rotate(1.5deg); }
+}
+
+@keyframes anim-sway-l {
+  0%, 100% { transform: rotate(0deg); }
+  50%      { transform: rotate(3deg); }
+}
+
+@keyframes anim-sway-r {
+  0%, 100% { transform: rotate(0deg); }
+  50%      { transform: rotate(-3deg); }
+}
+
+@keyframes anim-glow {
+  0%, 100% { opacity: 0.4; }
+  50%      { opacity: 0.75; }
+}
+
+@keyframes anim-ring {
+  0%, 100% { transform: scale(1); opacity: 0.55; }
+  50%      { transform: scale(1.06); opacity: 0.85; }
 }
 
 .muted {

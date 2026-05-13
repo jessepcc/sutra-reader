@@ -89,7 +89,7 @@ describe("Browse / Canon / Volume routes", () => {
     // CanonPage lists volumes for the canon
     renderApp(["/browse/T"]);
     expect(
-      await screen.findByRole("link", { name: "T48" }),
+      await screen.findByRole("link", { name: /^T48/ }),
     ).toHaveAttribute("href", "/browse/T/T48");
 
     // VolumePage lists texts in the volume

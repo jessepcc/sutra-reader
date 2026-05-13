@@ -20,7 +20,9 @@ export function BrowsePage() {
             <Link to={`/browse/${c.id}`}>
               <strong>{c.abbr}</strong>　{c.name}
             </Link>
-            {c.description && <div className="muted">{c.description}</div>}
+            {c.description && (
+              <div className="muted">{stripChineseSuffix(c.description)}</div>
+            )}
           </li>
         ))}
         {[...GATED_CANONS].map((id) => (
@@ -33,4 +35,10 @@ export function BrowsePage() {
       </ul>
     </main>
   );
+}
+
+// Catalog descriptions follow "English title — 中文名" — the Chinese tag is
+// always shown above as the canon name, so drop the trailing em-dash clause.
+function stripChineseSuffix(description: string): string {
+  return description.replace(/\s+[—–]\s+\S.*$/, "").trim();
 }

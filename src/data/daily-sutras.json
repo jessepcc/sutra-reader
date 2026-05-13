@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-05-12T18:35:38.117Z",
+  "pace": "180-chars-per-min",
+  "items": [
+    {
+      "key": "heart",
+      "title": "心經",
+      "fullTitle": "般若波羅蜜多心經",
+      "textId": "T08n0251",
+      "chars": 1097,
+      "readMinutes": 7,
+      "source": {
+        "work": "T0251",
+        "cjkCharsFromApi": true
+      }
+    },
+    {
+      "key": "guanyin",
+      "title": "普門品",
+      "fullTitle": "妙法蓮華經・觀世音菩薩普門品",
+      "textId": "T09n0262",
+      "anchor": "0056c02",
+      "chars": 2079,
+      "readMinutes": 12,
+      "source": {
+        "work": "T0262",
+        "sliceJuan": 7,
+        "fromLb": "0056c02",
+        "toLb": "0058b08"
+      }
+    },
+    {
+      "key": "amitabha",
+      "title": "阿彌陀經",
+      "fullTitle": "佛說阿彌陀經",
+      "textId": "T12n0366",
+      "chars": 2109,
+      "readMinutes": 12,
+      "source": {
+        "work": "T0366",
+        "cjkCharsFromApi": true
+      }
+    },
+    {
+      "key": "medicine",
+      "title": "藥師經",
+      "fullTitle": "藥師琉璃光如來本願功德經",
+      "textId": "T14n0450",
+      "chars": 4972,
+      "readMinutes": 28,
+      "source": {
+        "work": "T0450",
+        "cjkCharsFromApi": true
+      }
+    },
+    {
+      "key": "diamond",
+      "title": "金剛經",
+      "fullTitle": "金剛般若波羅蜜經",
+      "textId": "T08n0235",
+      "chars": 5191,
+      "readMinutes": 29,
+      "source": {
+        "work": "T0235",
+        "cjkCharsFromApi": true
+      }
+    },
+    {
+      "key": "ksitigarbha",
+      "title": "地藏經",
+      "fullTitle": "地藏菩薩本願經",
+      "textId": "T13n0412",
+      "chars": 17098,
+      "readMinutes": 95,
+      "source": {
+        "work": "T0412",
+        "cjkCharsFromApi": true
+      }
+    }
+  ]
+}
